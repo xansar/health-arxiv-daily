@@ -1,0 +1,43 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+> Updated on 2023.11.21
+> Usage instructions: [here](./docs/README.md#usage)
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#healthllm>HealthLLM</a></li>
+  </ol>
+</details>
+
+## HealthLLM
+
+- 2023-11-16, **LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks**, Mihir Parmar et.al., Paper: [http://arxiv.org/abs/2311.09564](http://arxiv.org/abs/2311.09564), Code: **[https://github.com/mihir3009/longbox](https://github.com/mihir3009/longbox)**
+- 2023-11-10, **ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences**, Yuanhe Tian et.al., Paper: [http://arxiv.org/abs/2311.06025](http://arxiv.org/abs/2311.06025), Code: **[https://github.com/synlp/chimed-gpt](https://github.com/synlp/chimed-gpt)**
+- 2023-11-09, **A Survey of Large Language Models in Medicine: Progress, Application, and Challenge**, Hongjian Zhou et.al., Paper: [http://arxiv.org/abs/2311.05112](http://arxiv.org/abs/2311.05112), Code: **[https://github.com/ai-in-health/medllmspracticalguide](https://github.com/ai-in-health/medllmspracticalguide)**
+- 2023-10-24, **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT**, Yirong Chen et.al., Paper: [http://arxiv.org/abs/2310.15896](http://arxiv.org/abs/2310.15896), Code: **[https://github.com/scutcyr/bianque](https://github.com/scutcyr/bianque)**
+- 2023-10-22, **PromptCBLUE: A Chinese Prompt Tuning Benchmark for the Medical Domain**, Wei Zhu et.al., Paper: [http://arxiv.org/abs/2310.14151](http://arxiv.org/abs/2310.14151), Code: **[https://github.com/michael-wzhu/PromptCBLUE](https://github.com/michael-wzhu/PromptCBLUE)**
+- 2023-10-16, **JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**, Issey Sukeda et.al., Paper: [http://arxiv.org/abs/2310.10083](http://arxiv.org/abs/2310.10083)
+- 2023-10-13, **Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**, Qichen Ye et.al., Paper: [http://arxiv.org/abs/2310.09089](http://arxiv.org/abs/2310.09089), Code: **[https://github.com/williamliujl/Qilin-Med](https://github.com/williamliujl/Qilin-Med)**
+- 2023-08-28, **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**, Zhijie Bao et.al., Paper: [http://arxiv.org/abs/2308.14346](http://arxiv.org/abs/2308.14346), Code: **[https://github.com/fudandisc/disc-medllm](https://github.com/fudandisc/disc-medllm)**
+- 2023-08-17, **CMB: A Comprehensive Medical Benchmark in Chinese**, Xidong Wang et.al., Paper: [http://arxiv.org/abs/2308.08833](http://arxiv.org/abs/2308.08833), Code: **[https://github.com/FreedomIntelligence/CMB](https://github.com/FreedomIntelligence/CMB)**
+- 2023-08-15, **LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation**, Xiaoming Shi et.al., Paper: [http://arxiv.org/abs/2308.07635](http://arxiv.org/abs/2308.07635)
+- 2023-07-05, **Several categories of Large Language Models (LLMs): A Short Survey**, Saurabh Pahune et.al., Paper: [http://arxiv.org/abs/2307.10188](http://arxiv.org/abs/2307.10188)
+- 2023-06-19, **Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost**, Juexiao Zhou et.al., Paper: [http://arxiv.org/abs/2306.10765](http://arxiv.org/abs/2306.10765), Code: **[https://github.com/joshuachou2018/medagi](https://github.com/joshuachou2018/medagi)**
+- 2023-08-17, **Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**, Augustin Toma et.al., Paper: [http://arxiv.org/abs/2305.12031](http://arxiv.org/abs/2305.12031), Code: **[https://github.com/bowang-lab/clinical-camel](https://github.com/bowang-lab/clinical-camel)**
+- 2023-06-24, **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**, Yunxiang Li et.al., Paper: [http://arxiv.org/abs/2303.14070](http://arxiv.org/abs/2303.14070), Code: **[https://github.com/kent0n-li/chatdoctor](https://github.com/kent0n-li/chatdoctor)**
+
+<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+

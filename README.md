@@ -27,6 +27,10 @@
 |**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|**[link](https://github.com/fudandisc/disc-medllm)**|
 |**2023-08-17**|**CMB: A Comprehensive Medical Benchmark in Chinese**|Xidong Wang et.al.|[2308.08833](http://arxiv.org/abs/2308.08833)|**[link](https://github.com/FreedomIntelligence/CMB)**|
 |**2023-08-15**|**LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation**|Xiaoming Shi et.al.|[2308.07635](http://arxiv.org/abs/2308.07635)|null|
+|**2023-07-05**|**Several categories of Large Language Models (LLMs): A Short Survey**|Saurabh Pahune et.al.|[2307.10188](http://arxiv.org/abs/2307.10188)|null|
+|**2023-06-19**|**Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost**|Juexiao Zhou et.al.|[2306.10765](http://arxiv.org/abs/2306.10765)|**[link](https://github.com/joshuachou2018/medagi)**|
+|**2023-08-17**|**Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**|Augustin Toma et.al.|[2305.12031](http://arxiv.org/abs/2305.12031)|**[link](https://github.com/bowang-lab/clinical-camel)**|
+|**2023-06-24**|**ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**|Yunxiang Li et.al.|[2303.14070](http://arxiv.org/abs/2303.14070)|**[link](https://github.com/kent0n-li/chatdoctor)**|
 
 <p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
 
