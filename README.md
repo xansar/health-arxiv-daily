@@ -19,6 +19,8 @@
   </ol>
 </details>
 
+## Page: [health LLM daily](https://xansar.github.io/health-arxiv-daily)
+
 ## HealthLLM
 
 |Publish Date|Title|Authors|PDF|Code|
