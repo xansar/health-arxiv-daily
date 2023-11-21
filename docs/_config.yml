@@ -1,10 +1,10 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+title: HealthLLM Arxiv Daily
+description: Automatically Update HealthLLM Papers Daily using Github Actions (Update Every 12th hours)
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/xansar/health-arxiv-daily
+  another_url: https://github.com/xansar/health-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
