@@ -12,6 +12,3 @@ cmake-build-debug/
 .idea/
 .vscode/
 *.pyc
-
-*.json
-*.md
