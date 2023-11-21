@@ -13,7 +13,7 @@ remote_theme: jekyll/minima@v2.5.1
 skin: dark
 social_links:
   twitter: AlphaRealcat
-  github: vincentqyw
+  github: xansar
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one

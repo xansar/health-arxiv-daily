@@ -2141,12 +2141,12 @@ layout: default
 |**2023-08-17**|**CMB: A Comprehensive Medical Benchmark in Chinese**|Xidong Wang et.al.|[2308.08833](http://arxiv.org/abs/2308.08833)|**[link](https://github.com/FreedomIntelligence/CMB)**|
 |**2023-08-15**|**LLM-Mini-CEX: Automatic Evaluation of Large Language Model for Diagnostic Conversation**|Xiaoming Shi et.al.|[2308.07635](http://arxiv.org/abs/2308.07635)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/xansar/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/xansar/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/xansar/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/xansar/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/xansar/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/xansar/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/xansar/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/xansar/cv-arxiv-daily/issues
 
