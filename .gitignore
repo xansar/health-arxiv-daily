@@ -13,3 +13,6 @@ cmake-build-debug/
 .vscode/
 *.pyc
 
+*.json
+*.md
+
