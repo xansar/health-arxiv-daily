@@ -30,16 +30,17 @@ def load_config(config_file:str) -> dict:
         AND = 'AND'
         LPAREN = '%28'
         RPAREN = '%29'
+        FIELD = 'ti+OR+abs:'
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
                     # ret += (EXCAPE + filter + EXCAPE)  
-                    joined_words = AND.join([EXCAPE + word + EXCAPE for word in filter.split()])
+                    joined_words = AND.join([EXCAPE + FIELD + word + EXCAPE for word in filter.split()])
                     ret += f'{LPAREN}{joined_words}{RPAREN}'
                 else:
-                    ret += (QUOTA + filter + QUOTA)   
+                    ret += (QUOTA + FIELD + filter + QUOTA)   
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
