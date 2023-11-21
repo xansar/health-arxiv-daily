@@ -26,23 +26,25 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        AND = 'AND'
+        OR = '%20OR%20' # TODO
+        AND = '%20AND%20'
         LPAREN = '%28'
         RPAREN = '%29'
-        FIELD = 'ti+OR+abs:'
+        TI_cat = 'ti%3A'
+        ABS_cat = 'abs%3A'
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
                     # ret += (EXCAPE + filter + EXCAPE)  
-                    joined_words = AND.join([EXCAPE + FIELD + word + EXCAPE for word in filter.split()])
-                    ret += f'{LPAREN}{joined_words}{RPAREN}'
+                    joined_words = AND.join([EXCAPE + word + EXCAPE for word in filter.split()])
+                    ret += f'{TI_cat}{LPAREN}{joined_words}{RPAREN}' + OR + f'{ABS_cat}{LPAREN}{joined_words}{RPAREN}'
                 else:
-                    ret += (QUOTA + FIELD + filter + QUOTA)   
+                    ret += (QUOTA + filter + QUOTA)   
                 if idx != len(filters) - 1:
                     ret += OR
+            
             return ret
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
