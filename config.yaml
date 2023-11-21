@@ -5,11 +5,11 @@ repo_name: "health-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/health-arxiv-daily.json'
