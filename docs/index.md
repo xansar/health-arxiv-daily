@@ -29,12 +29,12 @@ layout: default
 |**2023-08-17**|**Clinical Camel: An Open Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**|Augustin Toma et.al.|[2305.12031](http://arxiv.org/abs/2305.12031)|**[link](https://github.com/bowang-lab/clinical-camel)**|
 |**2023-06-24**|**ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge**|Yunxiang Li et.al.|[2303.14070](http://arxiv.org/abs/2303.14070)|**[link](https://github.com/kent0n-li/chatdoctor)**|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/xansar/health-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/xansar/health-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/xansar/health-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/xansar/health-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/xansar/health-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/xansar/health-arxiv-daily/issues
 
