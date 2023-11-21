@@ -23,4 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "HealthLLM": 
-        filters: ["health LLM", "medical LLM", "clinical LLM", "health large language model", "medical large language model", "clinical large language model"]
+        filters: [
+            "health LLM", 
+            "medical LLM", 
+            "clinical LLM"]
