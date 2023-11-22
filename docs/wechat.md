@@ -15,6 +15,7 @@
 
 ## HealthLLM
 
+- 2023-11-21, **ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models**, Jiankai Tang et.al., Paper: [http://arxiv.org/abs/2311.12524](http://arxiv.org/abs/2311.12524), Code: **[https://github.com/mcjacktang/llm-healthassistant](https://github.com/mcjacktang/llm-healthassistant)**
 - 2023-11-20, **Web News Timeline Generation with Extended Task Prompting**, Sha Wang et.al., Paper: [http://arxiv.org/abs/2311.11652](http://arxiv.org/abs/2311.11652)
 - 2023-11-19, **Rethinking Large Language Models in Mental Health Applications**, Shaoxiong Ji et.al., Paper: [http://arxiv.org/abs/2311.11267](http://arxiv.org/abs/2311.11267)
 - 2023-11-18, **Designing Interpretable ML System to Enhance Trustworthy AI in Healthcare: A Systematic Review of the Last Decade to A Proposed Robust Framework**, Elham Nasarian et.al., Paper: [http://arxiv.org/abs/2311.11055](http://arxiv.org/abs/2311.11055)
