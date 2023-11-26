@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.25
+## Updated on 2023.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -25,7 +25,7 @@ layout: default
 |**2023-11-17**|**Countering Misinformation via Emotional Response Generation**|Daniel Russo et.al.|[2311.10587](http://arxiv.org/abs/2311.10587)|**[link](https://github.com/marcoguerini/vermouth)**|
 |**2023-11-16**|**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**|Xiangru Tang et.al.|[2311.10537](http://arxiv.org/abs/2311.10537)|**[link](https://github.com/gersteinlab/medagents)**|
 |**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075](http://arxiv.org/abs/2311.10075)|null|
-|**2023-11-16**|**HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs**|Junying Chen et.al.|[2311.09774](http://arxiv.org/abs/2311.09774)|null|
+|**2023-11-16**|**HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs**|Junying Chen et.al.|[2311.09774](http://arxiv.org/abs/2311.09774)|**[link](https://github.com/freedomintelligence/huatuogpt-ii)**|
 |**2023-11-16**|**CARE: Extracting Experimental Findings From Clinical Literature**|Aakanksha Naik et.al.|[2311.09736](http://arxiv.org/abs/2311.09736)|null|
 |**2023-11-16**|**Do Physicians Know How to Prompt? The Need for Automatic Prompt Optimization Help in Clinical Note Generation**|Zonghai Yao et.al.|[2311.09684](http://arxiv.org/abs/2311.09684)|null|
 |**2023-11-16**|**LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks**|Mihir Parmar et.al.|[2311.09564](http://arxiv.org/abs/2311.09564)|**[link](https://github.com/mihir3009/longbox)**|
