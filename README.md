@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-23**|**Challenges of Large Language Models for Mental Health Counseling**|Neo Christopher Chung et.al.|[2311.13857](http://arxiv.org/abs/2311.13857)|null|
+|**2023-11-22**|**Surpassing GPT-4 Medical Coding with a Two-Stage Approach**|Zhichao Yang et.al.|[2311.13735](http://arxiv.org/abs/2311.13735)|null|
 |**2023-11-22**|**Enhancing Summarization Performance through Transformer-Based Prompt Engineering in Automated Medical Reporting**|Daphne van Zandvoort et.al.|[2311.13274](http://arxiv.org/abs/2311.13274)|null|
 |**2023-11-21**|**From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models**|Zachary Englhardt et.al.|[2311.13063](http://arxiv.org/abs/2311.13063)|null|
 |**2023-10-28**|**Overview of Current Applications of Large Language Models in Various Medical Specialities**|Ummara Mumtaz et.al.|[2311.12882](http://arxiv.org/abs/2311.12882)|null|
@@ -40,7 +42,7 @@
 |**2023-11-13**|**It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models**|Nishant Balepur et.al.|[2311.07532](http://arxiv.org/abs/2311.07532)|**[link](https://github.com/nbalepur/poe)**|
 |**2023-11-13**|**Applying Large Language Models for Causal Structure Learning in Non Small Cell Lung Cancer**|Narmada Naik et.al.|[2311.07191](http://arxiv.org/abs/2311.07191)|null|
 |**2023-11-12**|**Can Large Language Models Augment a Biomedical Ontology with missing Concepts and Relations?**|Antonio Zaitoun et.al.|[2311.06858](http://arxiv.org/abs/2311.06858)|**[link](https://github.com/minitour/ontology-extension-chatgpt)**|
-|**2023-11-10**|**ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences**|Yuanhe Tian et.al.|[2311.06025](http://arxiv.org/abs/2311.06025)|**[link](https://github.com/synlp/chimed-gpt)**|
+|**2023-11-23**|**ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences**|Yuanhe Tian et.al.|[2311.06025](http://arxiv.org/abs/2311.06025)|**[link](https://github.com/synlp/chimed-gpt)**|
 |**2023-11-09**|**A Survey of Large Language Models in Medicine: Progress, Application, and Challenge**|Hongjian Zhou et.al.|[2311.05112](http://arxiv.org/abs/2311.05112)|**[link](https://github.com/ai-in-health/medllmspracticalguide)**|
 |**2023-11-08**|**DEMASQ: Unmasking the ChatGPT Wordsmith**|Kavita Kumari et.al.|[2311.05019](http://arxiv.org/abs/2311.05019)|null|
 |**2023-11-07**|**Evaluating Large Language Models in Ophthalmology**|Jason Holmes et.al.|[2311.04933](http://arxiv.org/abs/2311.04933)|null|
