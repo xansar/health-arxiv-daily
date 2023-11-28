@@ -14,10 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
+|**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
+|**2023-11-27**|**RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization**|Kwanyoung Kim et.al.|[2311.15876](http://arxiv.org/abs/2311.15876)|null|
+|**2023-11-27**|**The effect of source disclosure on evaluation of AI-generated messages: A two-part study**|Sue Lim et.al.|[2311.15544](http://arxiv.org/abs/2311.15544)|null|
+|**2023-11-25**|**Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains**|Chia-Chien Hung et.al.|[2311.14966](http://arxiv.org/abs/2311.14966)|null|
+|**2023-11-20**|**MemoryCompanion: A Smart Healthcare Solution to Empower Efficient Alzheimer's Care Via Unleashing Generative AI**|Lifei Zheng et.al.|[2311.14730](http://arxiv.org/abs/2311.14730)|null|
+|**2023-11-10**|**ChatGPT Exhibits Gender and Racial Biases in Acute Coronary Syndrome Management**|Angela Zhang et.al.|[2311.14703](http://arxiv.org/abs/2311.14703)|null|
+|**2023-11-07**|**Benefits and Harms of Large Language Models in Digital Mental Health**|Munmun De Choudhury et.al.|[2311.14693](http://arxiv.org/abs/2311.14693)|null|
 |**2023-11-23**|**Challenges of Large Language Models for Mental Health Counseling**|Neo Christopher Chung et.al.|[2311.13857](http://arxiv.org/abs/2311.13857)|null|
 |**2023-11-22**|**Surpassing GPT-4 Medical Coding with a Two-Stage Approach**|Zhichao Yang et.al.|[2311.13735](http://arxiv.org/abs/2311.13735)|null|
 |**2023-11-22**|**Enhancing Summarization Performance through Transformer-Based Prompt Engineering in Automated Medical Reporting**|Daphne van Zandvoort et.al.|[2311.13274](http://arxiv.org/abs/2311.13274)|null|
-|**2023-11-21**|**From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models**|Zachary Englhardt et.al.|[2311.13063](http://arxiv.org/abs/2311.13063)|null|
+|**2023-11-25**|**From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models**|Zachary Englhardt et.al.|[2311.13063](http://arxiv.org/abs/2311.13063)|null|
 |**2023-10-28**|**Overview of Current Applications of Large Language Models in Various Medical Specialities**|Ummara Mumtaz et.al.|[2311.12882](http://arxiv.org/abs/2311.12882)|null|
 |**2023-11-21**|**ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models**|Jiankai Tang et.al.|[2311.12524](http://arxiv.org/abs/2311.12524)|**[link](https://github.com/mcjacktang/llm-healthassistant)**|
 |**2023-11-20**|**Web News Timeline Generation with Extended Task Prompting**|Sha Wang et.al.|[2311.11652](http://arxiv.org/abs/2311.11652)|null|
@@ -46,7 +54,7 @@ layout: default
 |**2023-11-07**|**Evaluating multiple large language models in pediatric ophthalmology**|Jason Holmes et.al.|[2311.04368](http://arxiv.org/abs/2311.04368)|null|
 |**2023-11-08**|**An Introduction to Natural Language Processing Techniques and Framework for Clinical Implementation in Radiation Oncology**|Reza Khanmohammadi et.al.|[2311.02205](http://arxiv.org/abs/2311.02205)|null|
 |**2023-11-03**|**Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**|Mingze Yuan et.al.|[2311.01918](http://arxiv.org/abs/2311.01918)|**[link](https://github.com/mingze-yuan/awesome-llm-healthcare)**|
-|**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
+|**2023-11-27**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
 |**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|**[link](https://github.com/ritaranx/clingen)**|
 |**2023-10-31**|**Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision**|Jiaxin Zhang et.al.|[2310.20153](http://arxiv.org/abs/2310.20153)|null|
 |**2023-11-03**|**Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2310.20033](http://arxiv.org/abs/2310.20033)|**[link](https://github.com/seasonyao/learnfromhumanedit)**|
