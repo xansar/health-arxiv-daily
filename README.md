@@ -20,7 +20,7 @@
 |**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
 |**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
 |**2023-11-27**|**RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization**|Kwanyoung Kim et.al.|[2311.15876](http://arxiv.org/abs/2311.15876)|null|
-|**2023-11-27**|**The effect of source disclosure on evaluation of AI-generated messages: A two-part study**|Sue Lim et.al.|[2311.15544](http://arxiv.org/abs/2311.15544)|null|
+|**2023-11-28**|**The effect of source disclosure on evaluation of AI-generated messages: A two-part study**|Sue Lim et.al.|[2311.15544](http://arxiv.org/abs/2311.15544)|null|
 |**2023-11-25**|**Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains**|Chia-Chien Hung et.al.|[2311.14966](http://arxiv.org/abs/2311.14966)|null|
 |**2023-11-20**|**MemoryCompanion: A Smart Healthcare Solution to Empower Efficient Alzheimer's Care Via Unleashing Generative AI**|Lifei Zheng et.al.|[2311.14730](http://arxiv.org/abs/2311.14730)|null|
 |**2023-11-10**|**ChatGPT Exhibits Gender and Racial Biases in Acute Coronary Syndrome Management**|Angela Zhang et.al.|[2311.14703](http://arxiv.org/abs/2311.14703)|null|
