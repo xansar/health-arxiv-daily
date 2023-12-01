@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681](http://arxiv.org/abs/2311.18681)|**[link](https://github.com/chantalmp/radialog)**|
 |**2023-11-29**|**Are we going MAD? Benchmarking Multi-Agent Debate between Language Models for Medical Q&A**|Andries Smit et.al.|[2311.17371](http://arxiv.org/abs/2311.17371)|null|
 |**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
 |**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
