@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
+|**2023-12-02**|**From Beginner to Expert: Modeling Medical Knowledge into General LLMs**|Qiang Li et.al.|[2312.01040](http://arxiv.org/abs/2312.01040)|null|
 |**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567](http://arxiv.org/abs/2312.00567)|null|
 |**2023-11-30**|**Towards Accurate Differential Diagnosis with Large Language Models**|Daniel McDuff et.al.|[2312.00164](http://arxiv.org/abs/2312.00164)|null|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681](http://arxiv.org/abs/2311.18681)|**[link](https://github.com/chantalmp/radialog)**|
