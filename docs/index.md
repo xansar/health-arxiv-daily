@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**MedDM:LLM-executable clinical guidance tree for clinical decision-making**|Binbin Li et.al.|[2312.02441](http://arxiv.org/abs/2312.02441)|null|
+|**2023-12-04**|**LLMs Accelerate Annotation for Medical Information Extraction**|Akshay Goel et.al.|[2312.02296](http://arxiv.org/abs/2312.02296)|null|
+|**2023-12-04**|**MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model**|Ling Yang et.al.|[2312.02233](http://arxiv.org/abs/2312.02233)|null|
 |**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
 |**2023-12-02**|**From Beginner to Expert: Modeling Medical Knowledge into General LLMs**|Qiang Li et.al.|[2312.01040](http://arxiv.org/abs/2312.01040)|null|
 |**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567](http://arxiv.org/abs/2312.00567)|null|
