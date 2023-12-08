@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**|Shusen Liu et.al.|[2312.04494](http://arxiv.org/abs/2312.04494)|null|
+|**2023-11-28**|**Methods to Estimate Large Language Model Confidence**|Maia Kotelanski et.al.|[2312.03733](http://arxiv.org/abs/2312.03733)|null|
 |**2023-12-06**|**XAIQA: Explainer-Based Data Augmentation for Extractive Question Answering**|Joel Stremmel et.al.|[2312.03567](http://arxiv.org/abs/2312.03567)|null|
 |**2023-12-05**|**Breast Ultrasound Report Generation using LangChain**|Jaeyoung Huh et.al.|[2312.03013](http://arxiv.org/abs/2312.03013)|null|
 |**2023-12-05**|**MedDM:LLM-executable clinical guidance tree for clinical decision-making**|Binbin Li et.al.|[2312.02441](http://arxiv.org/abs/2312.02441)|null|
