@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Large Language Models with Retrieval-Augmented Generation for Zero-Shot Disease Phenotyping**|Will E. Thompson et.al.|[2312.06457](http://arxiv.org/abs/2312.06457)|null|
+|**2023-12-11**|**Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need**|Cheng Peng et.al.|[2312.06099](http://arxiv.org/abs/2312.06099)|null|
+|**2023-12-09**|**Enhancing Medical Specialty Assignment to Patients using NLP Techniques**|Chris Solomou et.al.|[2312.05585](http://arxiv.org/abs/2312.05585)|null|
+|**2023-11-10**|**Holistic Evaluation of GPT-4V for Biomedical Imaging**|Zhengliang Liu et.al.|[2312.05256](http://arxiv.org/abs/2312.05256)|null|
 |**2023-12-08**|**Ophtha-LLaMA2: A Large Language Model for Ophthalmology**|Huan Zhao et.al.|[2312.04906](http://arxiv.org/abs/2312.04906)|null|
 |**2023-12-07**|**AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**|Shusen Liu et.al.|[2312.04494](http://arxiv.org/abs/2312.04494)|null|
 |**2023-12-08**|**Methods to Estimate Large Language Model Confidence**|Maia Kotelanski et.al.|[2312.03733](http://arxiv.org/abs/2312.03733)|null|
