@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
+|**2023-12-12**|**Efficient Few-Shot Clinical Task Adaptation with Large Language Models**|Kaipeng Zheng et.al.|[2312.07125](http://arxiv.org/abs/2312.07125)|null|
+|**2023-12-12**|**SM70: A Large Language Model for Medical Devices**|Anubhav Bhatti et.al.|[2312.06974](http://arxiv.org/abs/2312.06974)|null|
+|**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798](http://arxiv.org/abs/2312.06798)|null|
 |**2023-12-11**|**Large Language Models with Retrieval-Augmented Generation for Zero-Shot Disease Phenotyping**|Will E. Thompson et.al.|[2312.06457](http://arxiv.org/abs/2312.06457)|null|
 |**2023-12-11**|**Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need**|Cheng Peng et.al.|[2312.06099](http://arxiv.org/abs/2312.06099)|null|
 |**2023-12-09**|**Enhancing Medical Specialty Assignment to Patients using NLP Techniques**|Chris Solomou et.al.|[2312.05585](http://arxiv.org/abs/2312.05585)|null|
