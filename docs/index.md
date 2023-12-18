@@ -14,8 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
+|**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|null|
 |**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|null|
-|**2023-12-14**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
+|**2023-12-15**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
 |**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
 |**2023-12-12**|**Efficient Few-Shot Clinical Task Adaptation with Large Language Models**|Kaipeng Zheng et.al.|[2312.07125](http://arxiv.org/abs/2312.07125)|null|
