@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-16**|**A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers**|Feida Gu et.al.|[2312.10419](http://arxiv.org/abs/2312.10419)|null|
+|**2023-12-15**|**GPT-doctor: Customizing Large Language Models for Medical Consultation**|Wen Wang et.al.|[2312.10225](http://arxiv.org/abs/2312.10225)|null|
+|**2023-12-15**|**Low-resource classification of mobility functioning information in clinical sentences using large language models**|Tuan Dung Le et.al.|[2312.10202](http://arxiv.org/abs/2312.10202)|null|
+|**2023-12-06**|**Assessing the Usability of GutGPT: A Simulation Study of an AI Clinical Decision Support System for Gastrointestinal Bleeding Risk**|Colleen Chan et.al.|[2312.10072](http://arxiv.org/abs/2312.10072)|null|
 |**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
 |**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|null|
 |**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|null|
@@ -39,7 +43,7 @@
 |**2023-12-04**|**LLMs Accelerate Annotation for Medical Information Extraction**|Akshay Goel et.al.|[2312.02296](http://arxiv.org/abs/2312.02296)|null|
 |**2023-12-04**|**MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model**|Ling Yang et.al.|[2312.02233](http://arxiv.org/abs/2312.02233)|null|
 |**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
-|**2023-12-02**|**From Beginner to Expert: Modeling Medical Knowledge into General LLMs**|Qiang Li et.al.|[2312.01040](http://arxiv.org/abs/2312.01040)|null|
+|**2023-12-18**|**From Beginner to Expert: Modeling Medical Knowledge into General LLMs**|Qiang Li et.al.|[2312.01040](http://arxiv.org/abs/2312.01040)|null|
 |**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567](http://arxiv.org/abs/2312.00567)|null|
 |**2023-11-30**|**Towards Accurate Differential Diagnosis with Large Language Models**|Daniel McDuff et.al.|[2312.00164](http://arxiv.org/abs/2312.00164)|null|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681](http://arxiv.org/abs/2311.18681)|**[link](https://github.com/chantalmp/radialog)**|
@@ -59,7 +63,7 @@
 |**2023-10-28**|**Overview of Current Applications of Large Language Models in Various Medical Specialities**|Ummara Mumtaz et.al.|[2311.12882](http://arxiv.org/abs/2311.12882)|null|
 |**2023-11-21**|**ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models**|Jiankai Tang et.al.|[2311.12524](http://arxiv.org/abs/2311.12524)|**[link](https://github.com/mcjacktang/llm-healthassistant)**|
 |**2023-11-20**|**Web News Timeline Generation with Extended Task Prompting**|Sha Wang et.al.|[2311.11652](http://arxiv.org/abs/2311.11652)|null|
-|**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267](http://arxiv.org/abs/2311.11267)|null|
+|**2023-12-17**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267](http://arxiv.org/abs/2311.11267)|null|
 |**2023-11-18**|**Designing Interpretable ML System to Enhance Trustworthy AI in Healthcare: A Systematic Review of the Last Decade to A Proposed Robust Framework**|Elham Nasarian et.al.|[2311.11055](http://arxiv.org/abs/2311.11055)|null|
 |**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697](http://arxiv.org/abs/2311.10697)|null|
 |**2023-11-17**|**Countering Misinformation via Emotional Response Generation**|Daniel Russo et.al.|[2311.10587](http://arxiv.org/abs/2311.10587)|**[link](https://github.com/marcoguerini/vermouth)**|
