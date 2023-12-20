@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Can ChatGPT be Your Personal Medical Assistant?**|Md. Rafiul Biswas et.al.|[2312.12006](http://arxiv.org/abs/2312.12006)|null|
+|**2023-12-19**|**Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health**|Maria Antoniak et.al.|[2312.11803](http://arxiv.org/abs/2312.11803)|**[link](https://github.com/maria-antoniak/maternal-health-principles)**|
+|**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541](http://arxiv.org/abs/2312.11541)|null|
 |**2023-12-16**|**A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers**|Feida Gu et.al.|[2312.10419](http://arxiv.org/abs/2312.10419)|null|
 |**2023-12-15**|**GPT-doctor: Customizing Large Language Models for Medical Consultation**|Wen Wang et.al.|[2312.10225](http://arxiv.org/abs/2312.10225)|null|
 |**2023-12-15**|**Low-resource classification of mobility functioning information in clinical sentences using large language models**|Tuan Dung Le et.al.|[2312.10202](http://arxiv.org/abs/2312.10202)|null|
