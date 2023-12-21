@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103](http://arxiv.org/abs/2312.13103)|null|
+|**2023-12-20**|**MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**|Yan Cai et.al.|[2312.12806](http://arxiv.org/abs/2312.12806)|null|
+|**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|null|
+|**2023-12-20**|**Mini-GPTs: Efficient Large Language Models through Contextual Pruning**|Tim Valicenti et.al.|[2312.12682](http://arxiv.org/abs/2312.12682)|null|
 |**2023-12-19**|**Can ChatGPT be Your Personal Medical Assistant?**|Md. Rafiul Biswas et.al.|[2312.12006](http://arxiv.org/abs/2312.12006)|null|
 |**2023-12-19**|**Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health**|Maria Antoniak et.al.|[2312.11803](http://arxiv.org/abs/2312.11803)|**[link](https://github.com/maria-antoniak/maternal-health-principles)**|
 |**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541](http://arxiv.org/abs/2312.11541)|null|
