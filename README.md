@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**LLM Polygraph: Uncovering LLMs' Factual Discernment through Intermediate Data Analysis**|Jinwen He et.al.|[2312.16374](http://arxiv.org/abs/2312.16374)|null|
 |**2023-12-26**|**Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models**|Xinke Jiang et.al.|[2312.15883](http://arxiv.org/abs/2312.15883)|null|
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
 |**2023-12-23**|**Multimodal Machine Learning Combining Facial Images and Clinical Texts Improves Diagnosis of Rare Genetic Diseases**|Da Wu et.al.|[2312.15320](http://arxiv.org/abs/2312.15320)|null|
@@ -36,7 +37,7 @@
 |**2023-12-15**|**Low-resource classification of mobility functioning information in clinical sentences using large language models**|Tuan Dung Le et.al.|[2312.10202](http://arxiv.org/abs/2312.10202)|null|
 |**2023-12-06**|**Assessing the Usability of GutGPT: A Simulation Study of an AI Clinical Decision Support System for Gastrointestinal Bleeding Risk**|Colleen Chan et.al.|[2312.10072](http://arxiv.org/abs/2312.10072)|null|
 |**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
-|**2023-12-15**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|null|
+|**2023-12-28**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|**[link](https://github.com/alipay/rju_ant_qa)**|
 |**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|null|
 |**2023-12-15**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
