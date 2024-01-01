@@ -17,7 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-27**|**LLM Polygraph: Uncovering LLMs' Factual Discernment through Intermediate Data Analysis**|Jinwen He et.al.|[2312.16374](http://arxiv.org/abs/2312.16374)|null|
+|**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748](http://arxiv.org/abs/2312.17748)|null|
+|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|null|
+|**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
+|**2023-12-29**|**EHR Interaction Between Patients and AI: NoteAid EHR Interaction**|Xiaocheng Zhang et.al.|[2312.17475](http://arxiv.org/abs/2312.17475)|null|
+|**2023-12-29**|**LLM Factoscope: Uncovering LLMs' Factual Discernment through Inner States Analysis**|Jinwen He et.al.|[2312.16374](http://arxiv.org/abs/2312.16374)|null|
 |**2023-12-26**|**Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models**|Xinke Jiang et.al.|[2312.15883](http://arxiv.org/abs/2312.15883)|null|
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
 |**2023-12-23**|**Multimodal Machine Learning Combining Facial Images and Clinical Texts Improves Diagnosis of Rare Genetic Diseases**|Da Wu et.al.|[2312.15320](http://arxiv.org/abs/2312.15320)|null|
