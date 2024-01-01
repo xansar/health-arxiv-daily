@@ -111,7 +111,7 @@ layout: default
 |**2023-10-31**|**Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting**|Benjamin Yan et.al.|[2310.17811](http://arxiv.org/abs/2310.17811)|null|
 |**2023-10-25**|**An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives**|Young Min Cho et.al.|[2310.17017](http://arxiv.org/abs/2310.17017)|**[link](https://github.com/jeffreych0/mental_chatbot_survey)**|
 |**2023-10-24**|**Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature**|Alejandro Lozano et.al.|[2310.16146](http://arxiv.org/abs/2310.16146)|null|
-|**2023-10-24**|**NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes**|Junda Wang et.al.|[2310.15959](http://arxiv.org/abs/2310.15959)|null|
+|**2023-10-24**|**NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes**|Junda Wang et.al.|[2310.15959](http://arxiv.org/abs/2310.15959)|**[link](https://github.com/believewhat/dr.noteaid)**|
 |**2023-10-24**|**BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT**|Yirong Chen et.al.|[2310.15896](http://arxiv.org/abs/2310.15896)|**[link](https://github.com/scutcyr/bianque)**|
 |**2023-10-24**|**BLESS: Benchmarking Large Language Models on Sentence Simplification**|Tannon Kew et.al.|[2310.15773](http://arxiv.org/abs/2310.15773)|**[link](https://github.com/zurichnlp/bless)**|
 |**2023-10-23**|**AlpaCare:Instruction-tuned Large Language Models for Medical Application**|Xinlu Zhang et.al.|[2310.14558](http://arxiv.org/abs/2310.14558)|**[link](https://github.com/xzhang97666/alpacare)**|
