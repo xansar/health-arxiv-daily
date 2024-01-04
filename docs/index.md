@@ -14,7 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-03**|**MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries**|Akash Ghosh et.al.|[2401.01596](http://arxiv.org/abs/2401.01596)|**[link](https://github.com/arkadeepacharya/medsumm-ecir2024)**|
+|**2024-01-03**|**Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review**|Luoma Ke et.al.|[2401.01519](http://arxiv.org/abs/2401.01519)|null|
+|**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469](http://arxiv.org/abs/2401.01469)|null|
+|**2024-01-03**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
 |**2024-01-01**|**A Computational Framework for Behavioral Assessment of LLM Therapists**|Yu Ying Chiu et.al.|[2401.00820](http://arxiv.org/abs/2401.00820)|**[link](https://github.com/behavioral-data/bolt)**|
 |**2023-12-31**|**An Analysis of Embedding Layers and Similarity Scores using Siamese Neural Networks**|Yash Bingi et.al.|[2401.00582](http://arxiv.org/abs/2401.00582)|null|
 |**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579](http://arxiv.org/abs/2401.00579)|null|
