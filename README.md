@@ -17,14 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**Large Language Models in Mental Health Care: a Scoping Review**|Yining Hua et.al.|[2401.02984](http://arxiv.org/abs/2401.02984)|null|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
 |**2024-01-04**|**SPEER: Sentence-Level Planning of Long Clinical Summaries via Embedded Entity Retrieval**|Griffin Adams et.al.|[2401.02369](http://arxiv.org/abs/2401.02369)|null|
 |**2024-01-04**|**Text2MDT: Extracting Medical Decision Trees from Medical Texts**|Wei Zhu et.al.|[2401.02034](http://arxiv.org/abs/2401.02034)|null|
-|**2024-01-03**|**Generalist embedding models are better at short-context clinical semantic search than specialized embedding models**|Jean-Baptiste Excoffier et.al.|[2401.01943](http://arxiv.org/abs/2401.01943)|**[link](https://github.com/kaduceo/icd10cm_embedding_benchmark)**|
+|**2024-01-06**|**Generalist embedding models are better at short-context clinical semantic search than specialized embedding models**|Jean-Baptiste Excoffier et.al.|[2401.01943](http://arxiv.org/abs/2401.01943)|**[link](https://github.com/kaduceo/icd10cm_embedding_benchmark)**|
 |**2024-01-03**|**MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries**|Akash Ghosh et.al.|[2401.01596](http://arxiv.org/abs/2401.01596)|**[link](https://github.com/arkadeepacharya/medsumm-ecir2024)**|
-|**2024-01-03**|**Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review**|Luoma Ke et.al.|[2401.01519](http://arxiv.org/abs/2401.01519)|null|
+|**2024-01-06**|**Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review**|Luoma Ke et.al.|[2401.01519](http://arxiv.org/abs/2401.01519)|null|
 |**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469](http://arxiv.org/abs/2401.01469)|null|
-|**2024-01-03**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-08**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
 |**2024-01-01**|**A Computational Framework for Behavioral Assessment of LLM Therapists**|Yu Ying Chiu et.al.|[2401.00820](http://arxiv.org/abs/2401.00820)|**[link](https://github.com/behavioral-data/bolt)**|
 |**2023-12-31**|**An Analysis of Embedding Layers and Similarity Scores using Siamese Neural Networks**|Yash Bingi et.al.|[2401.00582](http://arxiv.org/abs/2401.00582)|null|
 |**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579](http://arxiv.org/abs/2401.00579)|null|
@@ -52,7 +53,7 @@
 |**2023-12-15**|**Low-resource classification of mobility functioning information in clinical sentences using large language models**|Tuan Dung Le et.al.|[2312.10202](http://arxiv.org/abs/2312.10202)|null|
 |**2023-12-06**|**Assessing the Usability of GutGPT: A Simulation Study of an AI Clinical Decision Support System for Gastrointestinal Bleeding Risk**|Colleen Chan et.al.|[2312.10072](http://arxiv.org/abs/2312.10072)|null|
 |**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
-|**2023-12-28**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|**[link](https://github.com/alipay/rju_ant_qa)**|
+|**2024-01-07**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|**[link](https://github.com/alipay/rju_ant_qa)**|
 |**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|null|
 |**2023-12-15**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
