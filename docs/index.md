@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.12
+## Updated on 2024.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
+|**2024-01-11**|**EpilepsyLLM: Domain-Specific Large Language Model Fine-tuned with Epilepsy Medical Knowledge**|Xuyang Zhao et.al.|[2401.05908](http://arxiv.org/abs/2401.05908)|null|
+|**2024-01-11**|**Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback**|Chengfeng Dou et.al.|[2401.05695](http://arxiv.org/abs/2401.05695)|null|
+|**2024-01-11**|**Towards Conversational Diagnostic AI**|Tao Tu et.al.|[2401.05654](http://arxiv.org/abs/2401.05654)|null|
 |**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163](http://arxiv.org/abs/2401.05163)|null|
 |**2024-01-01**|**Large Language Models in Mental Health Care: a Scoping Review**|Yining Hua et.al.|[2401.02984](http://arxiv.org/abs/2401.02984)|null|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
