@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310](http://arxiv.org/abs/2401.07310)|null|
+|**2024-01-13**|**EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records**|Wenqi Shi et.al.|[2401.07128](http://arxiv.org/abs/2401.07128)|**[link](https://github.com/wshi83/ehragent)**|
+|**2024-01-13**|**NHANES-GCP: Leveraging the Google Cloud Platform and BigQuery ML for reproducible machine learning with data from the National Health and Nutrition Examination Survey**|B. Ross Katz et.al.|[2401.06967](http://arxiv.org/abs/2401.06967)|**[link](https://github.com/in-vivo-group/nhanes-gcp)**|
+|**2024-01-12**|**Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data**|Yubin Kim et.al.|[2401.06866](http://arxiv.org/abs/2401.06866)|null|
+|**2023-12-12**|**Large language models in healthcare and medical domain: A review**|Zabir Al Nazi et.al.|[2401.06775](http://arxiv.org/abs/2401.06775)|null|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
 |**2024-01-11**|**EpilepsyLLM: Domain-Specific Large Language Model Fine-tuned with Epilepsy Medical Knowledge**|Xuyang Zhao et.al.|[2401.05908](http://arxiv.org/abs/2401.05908)|null|
 |**2024-01-11**|**Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback**|Chengfeng Dou et.al.|[2401.05695](http://arxiv.org/abs/2401.05695)|null|
