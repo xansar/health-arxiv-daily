@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Dynamic Q&A of Clinical Documents with Large Language Models**|Ran Elgedawy et.al.|[2401.10733](http://arxiv.org/abs/2401.10733)|null|
 |**2024-01-17**|**Impact of Large Language Model Assistance on Patients Reading Clinical Notes: A Mixed-Methods Study**|Niklas Mannhardt et.al.|[2401.09637](http://arxiv.org/abs/2401.09637)|null|
 |**2024-01-16**|**Gene-associated Disease Discovery Powered by Large Language Models**|Jiayu Chang et.al.|[2401.09490](http://arxiv.org/abs/2401.09490)|null|
 |**2024-01-17**|**Understanding the concerns and choices of public when using large language models for healthcare**|Yunpeng Xiao et.al.|[2401.09090](http://arxiv.org/abs/2401.09090)|null|
