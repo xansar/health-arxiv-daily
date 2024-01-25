@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,10 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Evaluation of General Large Language Models in Contextually Assessing Semantic Concepts Extracted from Adult Critical Care Electronic Health Record Notes**|Darren Liu et.al.|[2401.13588](http://arxiv.org/abs/2401.13588)|null|
+|**2024-01-20**|**Evaluating and Enhancing Large Language Models Performance in Domain-specific Medicine: Osteoarthritis Management with DocOA**|Xi Chen et.al.|[2401.12998](http://arxiv.org/abs/2401.12998)|null|
+|**2024-01-10**|**A General-purpose AI Avatar in Healthcare**|Nicholas Yan et.al.|[2401.12981](http://arxiv.org/abs/2401.12981)|null|
 |**2024-01-22**|**CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation**|Zhihong Chen et.al.|[2401.12208](http://arxiv.org/abs/2401.12208)|null|
 |**2024-01-22**|**CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**|Ge Zhang et.al.|[2401.11944](http://arxiv.org/abs/2401.11944)|null|
 |**2024-01-21**|**MedLM: Exploring Language Models for Medical Question Answering Systems**|Niraj Yagnik et.al.|[2401.11389](http://arxiv.org/abs/2401.11389)|null|
-|**2024-01-20**|**Enhancing Large Language Models for Clinical Decision Support by Incorporating Clinical Practice Guidelines**|David Oniani et.al.|[2401.11120](http://arxiv.org/abs/2401.11120)|null|
+|**2024-01-23**|**Enhancing Large Language Models for Clinical Decision Support by Incorporating Clinical Practice Guidelines**|David Oniani et.al.|[2401.11120](http://arxiv.org/abs/2401.11120)|null|
 |**2024-01-19**|**BioFinBERT: Finetuning Large Language Models (LLMs) to Analyze Sentiment of Press Releases and Financial Text Around Inflection Points of Biotech Stocks**|Valentina Aparicio et.al.|[2401.11011](http://arxiv.org/abs/2401.11011)|null|
 |**2024-01-19**|**Dynamic Q&A of Clinical Documents with Large Language Models**|Ran Elgedawy et.al.|[2401.10733](http://arxiv.org/abs/2401.10733)|null|
 |**2024-01-17**|**Impact of Large Language Model Assistance on Patients Reading Clinical Notes: A Mixed-Methods Study**|Niklas Mannhardt et.al.|[2401.09637](http://arxiv.org/abs/2401.09637)|null|
@@ -164,7 +167,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
