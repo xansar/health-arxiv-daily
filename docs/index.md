@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support**|Inhwa Song et.al.|[2401.14362](http://arxiv.org/abs/2401.14362)|null|
+|**2024-01-25**|**A comparative study of zero-shot inference with large language models and supervised modeling in breast cancer pathology classification**|Madhumita Sushil et.al.|[2401.13887](http://arxiv.org/abs/2401.13887)|null|
 |**2024-01-24**|**Evaluation of General Large Language Models in Contextually Assessing Semantic Concepts Extracted from Adult Critical Care Electronic Health Record Notes**|Darren Liu et.al.|[2401.13588](http://arxiv.org/abs/2401.13588)|null|
 |**2024-01-20**|**Evaluating and Enhancing Large Language Models Performance in Domain-specific Medicine: Osteoarthritis Management with DocOA**|Xi Chen et.al.|[2401.12998](http://arxiv.org/abs/2401.12998)|null|
 |**2024-01-10**|**A General-purpose AI Avatar in Healthcare**|Nicholas Yan et.al.|[2401.12981](http://arxiv.org/abs/2401.12981)|null|
@@ -50,7 +52,7 @@ layout: default
 |**2023-12-31**|**An Analysis of Embedding Layers and Similarity Scores using Siamese Neural Networks**|Yash Bingi et.al.|[2401.00582](http://arxiv.org/abs/2401.00582)|null|
 |**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579](http://arxiv.org/abs/2401.00579)|null|
 |**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748](http://arxiv.org/abs/2312.17748)|null|
-|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|null|
+|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|**[link](https://github.com/michael-wzhu/PromptCBLUE)**|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
 |**2023-12-29**|**EHR Interaction Between Patients and AI: NoteAid EHR Interaction**|Xiaocheng Zhang et.al.|[2312.17475](http://arxiv.org/abs/2312.17475)|null|
 |**2023-12-29**|**LLM Factoscope: Uncovering LLMs' Factual Discernment through Inner States Analysis**|Jinwen He et.al.|[2312.16374](http://arxiv.org/abs/2312.16374)|null|
