@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Clinically meaningful timeline summarisation in social media for mental health monitoring**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
+|**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167](http://arxiv.org/abs/2401.16167)|null|
+|**2024-01-29**|**Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis**|Haochun Wang et.al.|[2401.16107](http://arxiv.org/abs/2401.16107)|null|
+|**2024-01-29**|**Response Generation for Cognitive Behavioral Therapy with Large Language Models: Comparative Study with Socratic Questioning**|Kenta Izumi et.al.|[2401.15966](http://arxiv.org/abs/2401.15966)|null|
+|**2024-01-28**|**AI as a Medical Ally: Evaluating ChatGPT's Usage and Impact in Indian Healthcare**|Aryaman Raina et.al.|[2401.15605](http://arxiv.org/abs/2401.15605)|null|
+|**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269](http://arxiv.org/abs/2401.15269)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
 |**2024-01-26**|**Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias**|Yu He Ke et.al.|[2401.14589](http://arxiv.org/abs/2401.14589)|null|
 |**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|null|
