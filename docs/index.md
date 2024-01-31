@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
+|**2024-01-29**|**InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification**|Jan Trienes et.al.|[2401.16475](http://arxiv.org/abs/2401.16475)|null|
 |**2024-01-29**|**Clinically meaningful timeline summarisation in social media for mental health monitoring**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
 |**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167](http://arxiv.org/abs/2401.16167)|null|
 |**2024-01-29**|**Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis**|Haochun Wang et.al.|[2401.16107](http://arxiv.org/abs/2401.16107)|null|
