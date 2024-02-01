@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -21,7 +21,7 @@ layout: default
 |**2024-01-29**|**Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis**|Haochun Wang et.al.|[2401.16107](http://arxiv.org/abs/2401.16107)|null|
 |**2024-01-29**|**Response Generation for Cognitive Behavioral Therapy with Large Language Models: Comparative Study with Socratic Questioning**|Kenta Izumi et.al.|[2401.15966](http://arxiv.org/abs/2401.15966)|null|
 |**2024-01-28**|**AI as a Medical Ally: Evaluating ChatGPT's Usage and Impact in Indian Healthcare**|Aryaman Raina et.al.|[2401.15605](http://arxiv.org/abs/2401.15605)|null|
-|**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269](http://arxiv.org/abs/2401.15269)|null|
+|**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269](http://arxiv.org/abs/2401.15269)|**[link](https://github.com/dmis-lab/self-biorag)**|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
 |**2024-01-26**|**Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias**|Yu He Ke et.al.|[2401.14589](http://arxiv.org/abs/2401.14589)|null|
 |**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|**[link](https://github.com/itaymanes/k-qa)**|
