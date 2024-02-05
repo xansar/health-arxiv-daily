@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**HR-MultiWOZ: A Task Oriented Dialogue (TOD) Dataset for HR LLM Agent**|Weijie Xu et.al.|[2402.01018](http://arxiv.org/abs/2402.01018)|null|
 |**2024-02-01**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|null|
 |**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474](http://arxiv.org/abs/2402.00474)|null|
 |**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
@@ -21,7 +22,7 @@ layout: default
 |**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
 |**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
 |**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|null|
-|**2024-01-29**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
+|**2024-02-02**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
 |**2024-01-29**|**InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification**|Jan Trienes et.al.|[2401.16475](http://arxiv.org/abs/2401.16475)|**[link](https://github.com/jantrienes/InfoLossQA)**|
 |**2024-01-29**|**Clinically meaningful timeline summarisation in social media for mental health monitoring**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
 |**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167](http://arxiv.org/abs/2401.16167)|null|
