@@ -14,12 +14,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models**|Zhiyuan Hu et.al.|[2402.03271](http://arxiv.org/abs/2402.03271)|**[link](https://github.com/zhiyuanhubj/uot)**|
+|**2024-02-05**|**Large Language Model Distilling Medication Recommendation Model**|Qidong Liu et.al.|[2402.02803](http://arxiv.org/abs/2402.02803)|**[link](https://github.com/liuqidong07/leader-pytorch)**|
+|**2024-02-05**|**RACER: An LLM-powered Methodology for Scalable Analysis of Semi-structured Mental Health Interviews**|Satpreet Harcharan Singh et.al.|[2402.02656](http://arxiv.org/abs/2402.02656)|**[link](https://github.com/satpreetsingh/racer)**|
+|**2024-02-03**|**How well do LLMs cite relevant medical references? An evaluation framework and analyses**|Kevin Wu et.al.|[2402.02008](http://arxiv.org/abs/2402.02008)|null|
+|**2024-02-02**|**Leveraging Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature**|Yuting Guo et.al.|[2402.01826](http://arxiv.org/abs/2402.01826)|null|
+|**2024-02-01**|**Hierarchical Multi-Label Classification of Online Vaccine Concerns**|Chloe Qinyu Zhu et.al.|[2402.01783](http://arxiv.org/abs/2402.01783)|null|
+|**2024-01-30**|**Performance Assessment of ChatGPT vs Bard in Detecting Alzheimer's Dementia**|Balamurali B T et.al.|[2402.01751](http://arxiv.org/abs/2402.01751)|null|
+|**2024-01-29**|**Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties**|Jasmine Chiat Ling Ong et.al.|[2402.01741](http://arxiv.org/abs/2402.01741)|null|
+|**2024-01-29**|**Development and Testing of Retrieval Augmented Generation in Large Language Models -- A Case Study Report**|YuHe Ke et.al.|[2402.01733](http://arxiv.org/abs/2402.01733)|null|
+|**2024-01-28**|**Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis**|Dimitrios P. Panagoulias et.al.|[2402.01730](http://arxiv.org/abs/2402.01730)|null|
+|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|null|
+|**2024-01-25**|**LLM on FHIR -- Demystifying Health Records**|Paul Schmiedmayer et.al.|[2402.01711](http://arxiv.org/abs/2402.01711)|null|
+|**2024-01-23**|**Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study**|Zhe He et.al.|[2402.01693](http://arxiv.org/abs/2402.01693)|null|
 |**2024-02-01**|**HR-MultiWOZ: A Task Oriented Dialogue (TOD) Dataset for HR LLM Agent**|Weijie Xu et.al.|[2402.01018](http://arxiv.org/abs/2402.01018)|null|
 |**2024-02-01**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|null|
 |**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474](http://arxiv.org/abs/2402.00474)|null|
 |**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
 |**2024-01-30**|**GPT4Battery: An LLM-driven Framework for Adaptive State of Health Estimation of Raw Li-ion Batteries**|Yuyuan Feng et.al.|[2402.00068](http://arxiv.org/abs/2402.00068)|null|
-|**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
+|**2024-02-03**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
 |**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
 |**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|null|
 |**2024-02-02**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
