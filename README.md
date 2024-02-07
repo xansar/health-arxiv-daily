@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Measuring Implicit Bias in Explicitly Unbiased Large Language Models**|Xuechunzi Bai et.al.|[2402.04105](http://arxiv.org/abs/2402.04105)|null|
+|**2024-02-06**|**The Use of a Large Language Model for Cyberbullying Detection**|Bayode Ogunleye et.al.|[2402.04088](http://arxiv.org/abs/2402.04088)|null|
+|**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
+|**2024-02-05**|**Psychological Assessments with Large Language Models: A Privacy-Focused and Cost-Effective Approach**|Sergi Blanco-Cuaresma et.al.|[2402.03435](http://arxiv.org/abs/2402.03435)|null|
 |**2024-02-05**|**Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models**|Zhiyuan Hu et.al.|[2402.03271](http://arxiv.org/abs/2402.03271)|**[link](https://github.com/zhiyuanhubj/uot)**|
 |**2024-02-05**|**Large Language Model Distilling Medication Recommendation Model**|Qidong Liu et.al.|[2402.02803](http://arxiv.org/abs/2402.02803)|**[link](https://github.com/liuqidong07/leader-pytorch)**|
 |**2024-02-05**|**RACER: An LLM-powered Methodology for Scalable Analysis of Semi-structured Mental Health Interviews**|Satpreet Harcharan Singh et.al.|[2402.02656](http://arxiv.org/abs/2402.02656)|**[link](https://github.com/satpreetsingh/racer)**|
