@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -32,7 +32,7 @@ layout: default
 |**2024-01-29**|**Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties**|Jasmine Chiat Ling Ong et.al.|[2402.01741](http://arxiv.org/abs/2402.01741)|null|
 |**2024-01-29**|**Development and Testing of Retrieval Augmented Generation in Large Language Models -- A Case Study Report**|YuHe Ke et.al.|[2402.01733](http://arxiv.org/abs/2402.01733)|null|
 |**2024-01-28**|**Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis**|Dimitrios P. Panagoulias et.al.|[2402.01730](http://arxiv.org/abs/2402.01730)|null|
-|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|null|
+|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|**[link](https://github.com/yhzhu99/llm4healthcare)**|
 |**2024-01-25**|**LLM on FHIR -- Demystifying Health Records**|Paul Schmiedmayer et.al.|[2402.01711](http://arxiv.org/abs/2402.01711)|null|
 |**2024-01-23**|**Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study**|Zhe He et.al.|[2402.01693](http://arxiv.org/abs/2402.01693)|null|
 |**2024-02-01**|**HR-MultiWOZ: A Task Oriented Dialogue (TOD) Dataset for HR LLM Agent**|Weijie Xu et.al.|[2402.01018](http://arxiv.org/abs/2402.01018)|null|
@@ -42,7 +42,7 @@ layout: default
 |**2024-01-30**|**GPT4Battery: An LLM-driven Framework for Adaptive State of Health Estimation of Raw Li-ion Batteries**|Yuyuan Feng et.al.|[2402.00068](http://arxiv.org/abs/2402.00068)|null|
 |**2024-02-03**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
 |**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
-|**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|null|
+|**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|**[link](https://github.com/scalabunical/bert-xdd)**|
 |**2024-02-02**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
 |**2024-01-29**|**InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification**|Jan Trienes et.al.|[2401.16475](http://arxiv.org/abs/2401.16475)|**[link](https://github.com/jantrienes/InfoLossQA)**|
 |**2024-01-29**|**Clinically meaningful timeline summarisation in social media for mental health monitoring**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
