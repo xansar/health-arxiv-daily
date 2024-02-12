@@ -95,7 +95,7 @@
 |**2024-01-01**|**A Computational Framework for Behavioral Assessment of LLM Therapists**|Yu Ying Chiu et.al.|[2401.00820](http://arxiv.org/abs/2401.00820)|**[link](https://github.com/behavioral-data/bolt)**|
 |**2023-12-31**|**An Analysis of Embedding Layers and Similarity Scores using Siamese Neural Networks**|Yash Bingi et.al.|[2401.00582](http://arxiv.org/abs/2401.00582)|null|
 |**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579](http://arxiv.org/abs/2401.00579)|null|
-|**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748](http://arxiv.org/abs/2312.17748)|null|
+|**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748](http://arxiv.org/abs/2312.17748)|**[link](https://github.com/kanak8278/dialogkperm)**|
 |**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|**[link](https://github.com/michael-wzhu/PromptCBLUE)**|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
 |**2023-12-29**|**EHR Interaction Between Patients and AI: NoteAid EHR Interaction**|Xiaocheng Zhang et.al.|[2312.17475](http://arxiv.org/abs/2312.17475)|null|
@@ -104,8 +104,8 @@
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
 |**2023-12-23**|**Multimodal Machine Learning Combining Facial Images and Clinical Texts Improves Diagnosis of Rare Genetic Diseases**|Da Wu et.al.|[2312.15320](http://arxiv.org/abs/2312.15320)|null|
 |**2023-12-06**|**Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management**|Huan Wang et.al.|[2312.14945](http://arxiv.org/abs/2312.14945)|null|
-|**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|null|
-|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|null|
+|**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|**[link](https://github.com/boschresearch/robustllm)**|
+|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|**[link](https://github.com/idsia-papers/causal-llms)**|
 |**2023-12-19**|**Large Language Models in Medical Term Classification and Unexpected Misalignment Between Response and Reasoning**|Xiaodan Zhang et.al.|[2312.14184](http://arxiv.org/abs/2312.14184)|null|
 |**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103](http://arxiv.org/abs/2312.13103)|null|
 |**2023-12-20**|**MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models**|Yan Cai et.al.|[2312.12806](http://arxiv.org/abs/2312.12806)|null|
@@ -120,7 +120,7 @@
 |**2023-12-06**|**Assessing the Usability of GutGPT: A Simulation Study of an AI Clinical Decision Support System for Gastrointestinal Bleeding Risk**|Colleen Chan et.al.|[2312.10072](http://arxiv.org/abs/2312.10072)|null|
 |**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
 |**2024-01-07**|**RJUA-QA: A Comprehensive QA Dataset for Urology**|Shiwei Lyu et.al.|[2312.09785](http://arxiv.org/abs/2312.09785)|**[link](https://github.com/alipay/rju_ant_qa)**|
-|**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|null|
+|**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|**[link](https://github.com/navreeetkaur/uphill)**|
 |**2023-12-15**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
 |**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
