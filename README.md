@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity**|Norbert Tihanyi et.al.|[2402.07688](http://arxiv.org/abs/2402.07688)|null|
+|**2024-02-12**|**The Sound of Healthcare: Improving Medical Transcription ASR Accuracy with Large Language Models**|Ayo Adedeji et.al.|[2402.07658](http://arxiv.org/abs/2402.07658)|null|
+|**2024-02-12**|**Detecting the Clinical Features of Difficult-to-Treat Depression using Synthetic Data from Large Language Models**|Isabelle Lorge et.al.|[2402.07645](http://arxiv.org/abs/2402.07645)|**[link](https://github.com/isabellelorge/dtd)**|
+|**2024-02-10**|**Gemini Goes to Med School: Exploring the Capabilities of Multimodal Large Language Models on Medical Challenge Problems & Hallucinations**|Ankit Pal et.al.|[2402.07023](http://arxiv.org/abs/2402.07023)|**[link](https://github.com/promptslab/rosettaeval)**|
+|**2024-02-10**|**REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models**|Yinghao Zhu et.al.|[2402.07016](http://arxiv.org/abs/2402.07016)|null|
 |**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
 |**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|null|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127](http://arxiv.org/abs/2402.05127)|null|
@@ -36,11 +41,11 @@
 |**2024-01-29**|**Development and Testing of a Novel Large Language Model-Based Clinical Decision Support Systems for Medication Safety in 12 Clinical Specialties**|Jasmine Chiat Ling Ong et.al.|[2402.01741](http://arxiv.org/abs/2402.01741)|null|
 |**2024-01-29**|**Development and Testing of Retrieval Augmented Generation in Large Language Models -- A Case Study Report**|YuHe Ke et.al.|[2402.01733](http://arxiv.org/abs/2402.01733)|null|
 |**2024-01-28**|**Evaluating LLM -- Generated Multimodal Diagnosis from Medical Images and Symptom Analysis**|Dimitrios P. Panagoulias et.al.|[2402.01730](http://arxiv.org/abs/2402.01730)|null|
-|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|**[link](https://github.com/yhzhu99/llm4healthcare)**|
+|**2024-02-10**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|**[link](https://github.com/yhzhu99/llm4healthcare)**|
 |**2024-01-25**|**LLM on FHIR -- Demystifying Health Records**|Paul Schmiedmayer et.al.|[2402.01711](http://arxiv.org/abs/2402.01711)|null|
 |**2024-01-23**|**Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study**|Zhe He et.al.|[2402.01693](http://arxiv.org/abs/2402.01693)|null|
 |**2024-02-01**|**HR-MultiWOZ: A Task Oriented Dialogue (TOD) Dataset for HR LLM Agent**|Weijie Xu et.al.|[2402.01018](http://arxiv.org/abs/2402.01018)|null|
-|**2024-02-08**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|**[link](https://github.com/jmyissb/healthllm)**|
+|**2024-02-12**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|**[link](https://github.com/jmyissb/healthllm)**|
 |**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474](http://arxiv.org/abs/2402.00474)|null|
 |**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
 |**2024-01-30**|**GPT4Battery: An LLM-driven Framework for Adaptive State of Health Estimation of Raw Li-ion Batteries**|Yuyuan Feng et.al.|[2402.00068](http://arxiv.org/abs/2402.00068)|null|
