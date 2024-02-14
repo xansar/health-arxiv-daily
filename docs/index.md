@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
+|**2024-02-12**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|null|
+|**2024-02-02**|**Exploring patient trust in clinical advice from AI-driven LLMs like ChatGPT for self-diagnosis**|Delong Du et.al.|[2402.07920](http://arxiv.org/abs/2402.07920)|null|
 |**2024-02-12**|**CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity**|Norbert Tihanyi et.al.|[2402.07688](http://arxiv.org/abs/2402.07688)|null|
 |**2024-02-12**|**The Sound of Healthcare: Improving Medical Transcription ASR Accuracy with Large Language Models**|Ayo Adedeji et.al.|[2402.07658](http://arxiv.org/abs/2402.07658)|null|
 |**2024-02-12**|**Detecting the Clinical Features of Difficult-to-Treat Depression using Synthetic Data from Large Language Models**|Isabelle Lorge et.al.|[2402.07645](http://arxiv.org/abs/2402.07645)|**[link](https://github.com/isabellelorge/dtd)**|
@@ -42,7 +45,7 @@ layout: default
 |**2024-01-25**|**LLM on FHIR -- Demystifying Health Records**|Paul Schmiedmayer et.al.|[2402.01711](http://arxiv.org/abs/2402.01711)|null|
 |**2024-01-23**|**Quality of Answers of Generative Large Language Models vs Peer Patients for Interpreting Lab Test Results for Lay Patients: Evaluation Study**|Zhe He et.al.|[2402.01693](http://arxiv.org/abs/2402.01693)|null|
 |**2024-02-01**|**HR-MultiWOZ: A Task Oriented Dialogue (TOD) Dataset for HR LLM Agent**|Weijie Xu et.al.|[2402.01018](http://arxiv.org/abs/2402.01018)|null|
-|**2024-02-12**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|**[link](https://github.com/jmyissb/healthllm)**|
+|**2024-02-13**|**Health-LLM: Personalized Retrieval-Augmented Disease Prediction Model**|Mingyu Jin et.al.|[2402.00746](http://arxiv.org/abs/2402.00746)|**[link](https://github.com/jmyissb/healthllm)**|
 |**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474](http://arxiv.org/abs/2402.00474)|null|
 |**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
 |**2024-01-30**|**GPT4Battery: An LLM-driven Framework for Adaptive State of Health Estimation of Raw Li-ion Batteries**|Yuyuan Feng et.al.|[2402.00068](http://arxiv.org/abs/2402.00068)|null|
