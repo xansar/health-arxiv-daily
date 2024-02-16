@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
+|**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
+|**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
+|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|null|
+|**2024-02-15**|**GPT-4's assessment of its performance in a USMLE-based case study**|Uttam Dhakal et.al.|[2402.09654](http://arxiv.org/abs/2402.09654)|null|
+|**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|null|
+|**2024-02-14**|**Emerging Opportunities of Using Large Language Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
 |**2024-02-14**|**Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support**|Zilin Ma et.al.|[2402.09260](http://arxiv.org/abs/2402.09260)|null|
 |**2024-02-13**|**Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy**|Gioele Barabucci et.al.|[2402.08806](http://arxiv.org/abs/2402.08806)|null|
 |**2024-02-13**|**JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models**|Jillian Fisher et.al.|[2402.08761](http://arxiv.org/abs/2402.08761)|**[link](https://github.com/jfisher52/jamdecoding)**|
