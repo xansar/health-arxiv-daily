@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
+|**2024-02-15**|**BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**|Yanis Labrak et.al.|[2402.10373](http://arxiv.org/abs/2402.10373)|null|
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
@@ -67,7 +69,7 @@
 |**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|**[link](https://github.com/scalabunical/bert-xdd)**|
 |**2024-02-02**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
 |**2024-01-29**|**InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification**|Jan Trienes et.al.|[2401.16475](http://arxiv.org/abs/2401.16475)|**[link](https://github.com/jantrienes/InfoLossQA)**|
-|**2024-01-29**|**Clinically meaningful timeline summarisation in social media for mental health monitoring**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
+|**2024-02-16**|**Combining Hierachical VAEs with LLMs for clinically meaningful timeline summarisation in social media**|Jiayu Song et.al.|[2401.16240](http://arxiv.org/abs/2401.16240)|null|
 |**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167](http://arxiv.org/abs/2401.16167)|null|
 |**2024-01-29**|**Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis**|Haochun Wang et.al.|[2401.16107](http://arxiv.org/abs/2401.16107)|null|
 |**2024-01-29**|**Response Generation for Cognitive Behavioral Therapy with Large Language Models: Comparative Study with Socratic Questioning**|Kenta Izumi et.al.|[2401.15966](http://arxiv.org/abs/2401.15966)|null|
