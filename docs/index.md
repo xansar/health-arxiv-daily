@@ -14,6 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**LLM Agents for Psychology: A Study on Gamified Assessments**|Qisen Yang et.al.|[2402.12326](http://arxiv.org/abs/2402.12326)|null|
+|**2024-02-19**|**Automatic Evaluation for Mental Health Counseling using LLMs**|Anqi Li et.al.|[2402.11958](http://arxiv.org/abs/2402.11958)|null|
+|**2024-02-19**|**The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth**|Shir Lissak et.al.|[2402.11886](http://arxiv.org/abs/2402.11886)|null|
+|**2024-02-19**|**NOTE: Notable generation Of patient Text summaries through Efficient approach based on direct preference optimization**|Imjin Ahn et.al.|[2402.11882](http://arxiv.org/abs/2402.11882)|null|
+|**2024-02-19**|**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs**|Yavuz Faruk Bakman et.al.|[2402.11756](http://arxiv.org/abs/2402.11756)|null|
+|**2024-02-18**|**DictLLM: Harnessing Key-Value Data Structures with Large Language Models for Enhanced Medical Diagnostics**|YiQiu Guo et.al.|[2402.11481](http://arxiv.org/abs/2402.11481)|null|
+|**2024-02-18**|**FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence**|Sebastian Antony Joseph et.al.|[2402.11456](http://arxiv.org/abs/2402.11456)|**[link](https://github.com/lilywchen/factpico)**|
+|**2024-02-17**|**Reasoning before Comparison: LLM-Enhanced Semantic Similarity Metrics for Domain Specialized Text Analysis**|Shaochen Xu et.al.|[2402.11398](http://arxiv.org/abs/2402.11398)|null|
+|**2024-02-17**|**Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention**|Eunkyung Jo et.al.|[2402.11353](http://arxiv.org/abs/2402.11353)|null|
+|**2024-02-17**|**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**|Yougang Lyu et.al.|[2402.11176](http://arxiv.org/abs/2402.11176)|null|
+|**2024-02-14**|**Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model**|Salman Rahman et.al.|[2402.10965](http://arxiv.org/abs/2402.10965)|null|
+|**2024-02-10**|**DAEDRA: A language model for predicting outcomes in passive pharmacovigilance reporting**|Chris von Csefalvay et.al.|[2402.10951](http://arxiv.org/abs/2402.10951)|null|
+|**2024-02-09**|**Zero-shot Explainable Mental Health Analysis on Social Media by incorporating Mental Scales**|Wenyu Li et.al.|[2402.10948](http://arxiv.org/abs/2402.10948)|null|
 |**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
 |**2024-02-15**|**BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**|Yanis Labrak et.al.|[2402.10373](http://arxiv.org/abs/2402.10373)|null|
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
@@ -22,7 +35,7 @@ layout: default
 |**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|null|
 |**2024-02-15**|**GPT-4's assessment of its performance in a USMLE-based case study**|Uttam Dhakal et.al.|[2402.09654](http://arxiv.org/abs/2402.09654)|null|
 |**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|null|
-|**2024-02-14**|**Emerging Opportunities of Using Large Language Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
+|**2024-02-16**|**Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
 |**2024-02-14**|**Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support**|Zilin Ma et.al.|[2402.09260](http://arxiv.org/abs/2402.09260)|null|
 |**2024-02-13**|**Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy**|Gioele Barabucci et.al.|[2402.08806](http://arxiv.org/abs/2402.08806)|null|
 |**2024-02-13**|**JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models**|Jillian Fisher et.al.|[2402.08761](http://arxiv.org/abs/2402.08761)|**[link](https://github.com/jfisher52/jamdecoding)**|
