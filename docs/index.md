@@ -14,11 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253](http://arxiv.org/abs/2402.13253)|**[link](https://github.com/mbzuai-oryx/bimedix)**|
+|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|null|
+|**2024-02-20**|**Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting**|Marco Naguib et.al.|[2402.12801](http://arxiv.org/abs/2402.12801)|null|
+|**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749](http://arxiv.org/abs/2402.12749)|null|
 |**2024-02-19**|**LLM Agents for Psychology: A Study on Gamified Assessments**|Qisen Yang et.al.|[2402.12326](http://arxiv.org/abs/2402.12326)|null|
 |**2024-02-19**|**Automatic Evaluation for Mental Health Counseling using LLMs**|Anqi Li et.al.|[2402.11958](http://arxiv.org/abs/2402.11958)|null|
 |**2024-02-19**|**The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth**|Shir Lissak et.al.|[2402.11886](http://arxiv.org/abs/2402.11886)|null|
 |**2024-02-19**|**NOTE: Notable generation Of patient Text summaries through Efficient approach based on direct preference optimization**|Imjin Ahn et.al.|[2402.11882](http://arxiv.org/abs/2402.11882)|null|
-|**2024-02-19**|**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs**|Yavuz Faruk Bakman et.al.|[2402.11756](http://arxiv.org/abs/2402.11756)|null|
+|**2024-02-20**|**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs**|Yavuz Faruk Bakman et.al.|[2402.11756](http://arxiv.org/abs/2402.11756)|**[link](https://github.com/ybakman/llm_uncertainity)**|
 |**2024-02-18**|**DictLLM: Harnessing Key-Value Data Structures with Large Language Models for Enhanced Medical Diagnostics**|YiQiu Guo et.al.|[2402.11481](http://arxiv.org/abs/2402.11481)|null|
 |**2024-02-18**|**FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence**|Sebastian Antony Joseph et.al.|[2402.11456](http://arxiv.org/abs/2402.11456)|**[link](https://github.com/lilywchen/factpico)**|
 |**2024-02-17**|**Reasoning before Comparison: LLM-Enhanced Semantic Similarity Metrics for Domain Specialized Text Analysis**|Shaochen Xu et.al.|[2402.11398](http://arxiv.org/abs/2402.11398)|null|
@@ -32,7 +36,7 @@ layout: default
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
-|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|null|
+|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|**[link](https://github.com/LibertFan/AI_Hospital)**|
 |**2024-02-15**|**GPT-4's assessment of its performance in a USMLE-based case study**|Uttam Dhakal et.al.|[2402.09654](http://arxiv.org/abs/2402.09654)|null|
 |**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|null|
 |**2024-02-16**|**Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
