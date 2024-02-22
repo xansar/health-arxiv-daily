@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
+|**2024-02-21**|**Factual Consistency Evaluation of Summarisation in the Era of Large Language Models**|Zheheng Luo et.al.|[2402.13758](http://arxiv.org/abs/2402.13758)|null|
+|**2024-02-20**|**Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**|Zhiyao Ren et.al.|[2402.13408](http://arxiv.org/abs/2402.13408)|null|
+|**2024-02-17**|**When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection**|Xiangyu Zhang et.al.|[2402.13276](http://arxiv.org/abs/2402.13276)|null|
 |**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253](http://arxiv.org/abs/2402.13253)|null|
 |**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|null|
 |**2024-02-20**|**Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting**|Marco Naguib et.al.|[2402.12801](http://arxiv.org/abs/2402.12801)|null|
@@ -28,7 +33,7 @@
 |**2024-02-20**|**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs**|Yavuz Faruk Bakman et.al.|[2402.11756](http://arxiv.org/abs/2402.11756)|**[link](https://github.com/ybakman/llm_uncertainity)**|
 |**2024-02-18**|**DictLLM: Harnessing Key-Value Data Structures with Large Language Models for Enhanced Medical Diagnostics**|YiQiu Guo et.al.|[2402.11481](http://arxiv.org/abs/2402.11481)|null|
 |**2024-02-18**|**FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence**|Sebastian Antony Joseph et.al.|[2402.11456](http://arxiv.org/abs/2402.11456)|**[link](https://github.com/lilywchen/factpico)**|
-|**2024-02-17**|**Reasoning before Comparison: LLM-Enhanced Semantic Similarity Metrics for Domain Specialized Text Analysis**|Shaochen Xu et.al.|[2402.11398](http://arxiv.org/abs/2402.11398)|null|
+|**2024-02-20**|**Reasoning before Comparison: LLM-Enhanced Semantic Similarity Metrics for Domain Specialized Text Analysis**|Shaochen Xu et.al.|[2402.11398](http://arxiv.org/abs/2402.11398)|null|
 |**2024-02-17**|**Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention**|Eunkyung Jo et.al.|[2402.11353](http://arxiv.org/abs/2402.11353)|null|
 |**2024-02-17**|**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**|Yougang Lyu et.al.|[2402.11176](http://arxiv.org/abs/2402.11176)|null|
 |**2024-02-14**|**Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model**|Salman Rahman et.al.|[2402.10965](http://arxiv.org/abs/2402.10965)|null|
@@ -39,7 +44,7 @@
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
-|**2024-02-15**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|**[link](https://github.com/LibertFan/AI_Hospital)**|
+|**2024-02-21**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|**[link](https://github.com/LibertFan/AI_Hospital)**|
 |**2024-02-15**|**GPT-4's assessment of its performance in a USMLE-based case study**|Uttam Dhakal et.al.|[2402.09654](http://arxiv.org/abs/2402.09654)|null|
 |**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|null|
 |**2024-02-16**|**Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
@@ -47,7 +52,7 @@
 |**2024-02-13**|**Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy**|Gioele Barabucci et.al.|[2402.08806](http://arxiv.org/abs/2402.08806)|null|
 |**2024-02-13**|**JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models**|Jillian Fisher et.al.|[2402.08761](http://arxiv.org/abs/2402.08761)|**[link](https://github.com/jfisher52/jamdecoding)**|
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
-|**2024-02-14**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|null|
+|**2024-02-20**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|null|
 |**2024-02-02**|**Exploring patient trust in clinical advice from AI-driven LLMs like ChatGPT for self-diagnosis**|Delong Du et.al.|[2402.07920](http://arxiv.org/abs/2402.07920)|null|
 |**2024-02-12**|**CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity**|Norbert Tihanyi et.al.|[2402.07688](http://arxiv.org/abs/2402.07688)|null|
 |**2024-02-12**|**The Sound of Healthcare: Improving Medical Transcription ASR Accuracy with Large Language Models**|Ayo Adedeji et.al.|[2402.07658](http://arxiv.org/abs/2402.07658)|null|
