@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.22
+## Updated on 2024.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -49,7 +49,7 @@ layout: default
 |**2024-02-13**|**Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy**|Gioele Barabucci et.al.|[2402.08806](http://arxiv.org/abs/2402.08806)|null|
 |**2024-02-13**|**JAMDEC: Unsupervised Authorship Obfuscation using Constrained Decoding over Small Language Models**|Jillian Fisher et.al.|[2402.08761](http://arxiv.org/abs/2402.08761)|**[link](https://github.com/jfisher52/jamdecoding)**|
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
-|**2024-02-20**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|null|
+|**2024-02-20**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|**[link](https://github.com/carlwharris/cog-bias-med-llms)**|
 |**2024-02-02**|**Exploring patient trust in clinical advice from AI-driven LLMs like ChatGPT for self-diagnosis**|Delong Du et.al.|[2402.07920](http://arxiv.org/abs/2402.07920)|null|
 |**2024-02-12**|**CyberMetric: A Benchmark Dataset for Evaluating Large Language Models Knowledge in Cybersecurity**|Norbert Tihanyi et.al.|[2402.07688](http://arxiv.org/abs/2402.07688)|null|
 |**2024-02-12**|**The Sound of Healthcare: Improving Medical Transcription ASR Accuracy with Large Language Models**|Ayo Adedeji et.al.|[2402.07658](http://arxiv.org/abs/2402.07658)|null|
