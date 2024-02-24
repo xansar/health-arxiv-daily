@@ -25,7 +25,7 @@ layout: default
 |**2024-02-20**|**Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**|Zhiyao Ren et.al.|[2402.13408](http://arxiv.org/abs/2402.13408)|null|
 |**2024-02-17**|**When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection**|Xiangyu Zhang et.al.|[2402.13276](http://arxiv.org/abs/2402.13276)|null|
 |**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253](http://arxiv.org/abs/2402.13253)|**[link](https://github.com/mbzuai-oryx/bimedix)**|
-|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|**[link](https://github.com/teddy-xionggz/mirage)**|
+|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|**[link](https://github.com/teddy-xionggz/medrag)**|
 |**2024-02-20**|**Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting**|Marco Naguib et.al.|[2402.12801](http://arxiv.org/abs/2402.12801)|null|
 |**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749](http://arxiv.org/abs/2402.12749)|null|
 |**2024-02-19**|**LLM Agents for Psychology: A Study on Gamified Assessments**|Qisen Yang et.al.|[2402.12326](http://arxiv.org/abs/2402.12326)|null|
