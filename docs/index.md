@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.24
+## Updated on 2024.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -27,7 +27,7 @@ layout: default
 |**2024-02-20**|**BiMediX: Bilingual Medical Mixture of Experts LLM**|Sara Pieri et.al.|[2402.13253](http://arxiv.org/abs/2402.13253)|**[link](https://github.com/mbzuai-oryx/bimedix)**|
 |**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|**[link](https://github.com/teddy-xionggz/medrag)**|
 |**2024-02-20**|**Few shot clinical entity recognition in three languages: Masked language models outperform LLM prompting**|Marco Naguib et.al.|[2402.12801](http://arxiv.org/abs/2402.12801)|null|
-|**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749](http://arxiv.org/abs/2402.12749)|null|
+|**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749](http://arxiv.org/abs/2402.12749)|**[link](https://github.com/bids-xu-lab/me-llama)**|
 |**2024-02-19**|**LLM Agents for Psychology: A Study on Gamified Assessments**|Qisen Yang et.al.|[2402.12326](http://arxiv.org/abs/2402.12326)|null|
 |**2024-02-19**|**Automatic Evaluation for Mental Health Counseling using LLMs**|Anqi Li et.al.|[2402.11958](http://arxiv.org/abs/2402.11958)|null|
 |**2024-02-19**|**The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth**|Shir Lissak et.al.|[2402.11886](http://arxiv.org/abs/2402.11886)|null|
