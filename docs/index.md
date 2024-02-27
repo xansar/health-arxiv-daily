@@ -14,16 +14,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
+|**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|null|
+|**2024-02-25**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040](http://arxiv.org/abs/2402.16040)|null|
+|**2024-02-24**|**Predicting Outcomes in Video Games with Long Short Term Memory Networks**|Kittimate Chulajata et.al.|[2402.15923](http://arxiv.org/abs/2402.15923)|**[link](https://github.com/kittimatechulajata/predicting-outcomes-in-two-player-games-with-lstm)**|
+|**2024-02-24**|**Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study**|Zhaoyue Sun et.al.|[2402.15663](http://arxiv.org/abs/2402.15663)|**[link](https://github.com/zhaoyuesun/phee-with-chatgpt)**|
 |**2024-02-23**|**Enhancing ICU Patient Recovery: Using LLMs to Assist Nurses in Diary Writing**|Samuel Kernan Freire et.al.|[2402.15205](http://arxiv.org/abs/2402.15205)|null|
 |**2024-02-21**|**Automatic Histograms: Leveraging Language Models for Text Dataset Exploration**|Emily Reif et.al.|[2402.14880](http://arxiv.org/abs/2402.14880)|null|
 |**2024-02-20**|**A Dual-Prompting for Interpretable Mental Health Language Models**|Hyolim Jeon et.al.|[2402.14854](http://arxiv.org/abs/2402.14854)|null|
 |**2024-02-19**|**RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning**|Congyun Jin et.al.|[2402.14840](http://arxiv.org/abs/2402.14840)|null|
-|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-23**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
 |**2024-02-22**|**Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications and Beyond**|Zhiyuan Wang et.al.|[2402.14259](http://arxiv.org/abs/2402.14259)|null|
 |**2024-02-22**|**Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology**|Nur Yildirim et.al.|[2402.14252](http://arxiv.org/abs/2402.14252)|null|
 |**2024-02-21**|**On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study**|Minh-Hao Van et.al.|[2402.14162](http://arxiv.org/abs/2402.14162)|null|
 |**2024-02-21**|**EXACT-Net:EHR-guided lung tumor auto-segmentation for non-small cell lung cancer radiotherapy**|Hamed Hooshangnejad et.al.|[2402.14099](http://arxiv.org/abs/2402.14099)|null|
-|**2024-02-21**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
+|**2024-02-26**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
 |**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
 |**2024-02-21**|**Factual Consistency Evaluation of Summarisation in the Era of Large Language Models**|Zheheng Luo et.al.|[2402.13758](http://arxiv.org/abs/2402.13758)|null|
 |**2024-02-20**|**Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**|Zhiyao Ren et.al.|[2402.13408](http://arxiv.org/abs/2402.13408)|null|
@@ -42,7 +47,7 @@ layout: default
 |**2024-02-20**|**Reasoning before Comparison: LLM-Enhanced Semantic Similarity Metrics for Domain Specialized Text Analysis**|Shaochen Xu et.al.|[2402.11398](http://arxiv.org/abs/2402.11398)|null|
 |**2024-02-17**|**Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention**|Eunkyung Jo et.al.|[2402.11353](http://arxiv.org/abs/2402.11353)|null|
 |**2024-02-17**|**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**|Yougang Lyu et.al.|[2402.11176](http://arxiv.org/abs/2402.11176)|**[link](https://github.com/hiyouga/llama-factory)**|
-|**2024-02-14**|**Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model**|Salman Rahman et.al.|[2402.10965](http://arxiv.org/abs/2402.10965)|null|
+|**2024-02-24**|**Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model**|Salman Rahman et.al.|[2402.10965](http://arxiv.org/abs/2402.10965)|null|
 |**2024-02-10**|**DAEDRA: A language model for predicting outcomes in passive pharmacovigilance reporting**|Chris von Csefalvay et.al.|[2402.10951](http://arxiv.org/abs/2402.10951)|null|
 |**2024-02-09**|**Zero-shot Explainable Mental Health Analysis on Social Media by incorporating Mental Scales**|Wenyu Li et.al.|[2402.10948](http://arxiv.org/abs/2402.10948)|null|
 |**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
