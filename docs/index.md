@@ -14,9 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Prescribing Large Language Models for Perioperative Care: What's The Right Dose for Pre-trained Models?**|Bing Xue et.al.|[2402.17493](http://arxiv.org/abs/2402.17493)|**[link](https://github.com/cja5553/LLMs_in_perioperative_care)**|
+|**2024-02-27**|**A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education**|Michael A. Hedderich et.al.|[2402.17456](http://arxiv.org/abs/2402.17456)|null|
+|**2024-02-27**|**Deep Learning Based Named Entity Recognition Models for Recipes**|Mansi Goel et.al.|[2402.17447](http://arxiv.org/abs/2402.17447)|null|
+|**2024-02-26**|**OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**|Fujian Jia et.al.|[2402.16810](http://arxiv.org/abs/2402.16810)|null|
+|**2024-02-26**|**LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery**|Kexin Chen et.al.|[2402.16664](http://arxiv.org/abs/2402.16664)|null|
+|**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
 |**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|null|
-|**2024-02-25**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040](http://arxiv.org/abs/2402.16040)|null|
+|**2024-02-27**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040](http://arxiv.org/abs/2402.16040)|**[link](https://github.com/ji-youn-kim/ehrnoteqa)**|
 |**2024-02-24**|**Predicting Outcomes in Video Games with Long Short Term Memory Networks**|Kittimate Chulajata et.al.|[2402.15923](http://arxiv.org/abs/2402.15923)|**[link](https://github.com/kittimatechulajata/predicting-outcomes-in-two-player-games-with-lstm)**|
 |**2024-02-24**|**Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study**|Zhaoyue Sun et.al.|[2402.15663](http://arxiv.org/abs/2402.15663)|**[link](https://github.com/zhaoyuesun/phee-with-chatgpt)**|
 |**2024-02-23**|**Enhancing ICU Patient Recovery: Using LLMs to Assist Nurses in Diary Writing**|Samuel Kernan Freire et.al.|[2402.15205](http://arxiv.org/abs/2402.15205)|null|
