@@ -14,8 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models**|Jenish Maharjan et.al.|[2402.19371](http://arxiv.org/abs/2402.19371)|null|
+|**2024-02-29**|**Exploring the Efficacy of Large Language Models in Summarizing Mental Health Counseling Sessions: A Benchmark Study**|Prottay Kumar Adhikary et.al.|[2402.19052](http://arxiv.org/abs/2402.19052)|null|
 |**2024-02-28**|**Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**|Derong Xu et.al.|[2402.18099](http://arxiv.org/abs/2402.18099)|**[link](https://github.com/quqxui/medlasa)**|
-|**2024-02-28**|**Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions**|Hanjie Chen et.al.|[2402.18060](http://arxiv.org/abs/2402.18060)|null|
+|**2024-02-29**|**Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions**|Hanjie Chen et.al.|[2402.18060](http://arxiv.org/abs/2402.18060)|null|
 |**2024-02-27**|**JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability**|Junda Wang et.al.|[2402.17887](http://arxiv.org/abs/2402.17887)|null|
 |**2024-02-28**|**Prescribing Large Language Models for Perioperative Care: What's The Right Dose for Pre-trained Models?**|Bing Xue et.al.|[2402.17493](http://arxiv.org/abs/2402.17493)|**[link](https://github.com/cja5553/LLMs_in_perioperative_care)**|
 |**2024-02-27**|**A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education**|Michael A. Hedderich et.al.|[2402.17456](http://arxiv.org/abs/2402.17456)|null|
@@ -61,7 +63,7 @@ layout: default
 |**2024-02-09**|**Zero-shot Explainable Mental Health Analysis on Social Media by incorporating Mental Scales**|Wenyu Li et.al.|[2402.10948](http://arxiv.org/abs/2402.10948)|null|
 |**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
 |**2024-02-15**|**BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**|Yanis Labrak et.al.|[2402.10373](http://arxiv.org/abs/2402.10373)|null|
-|**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
+|**2024-02-28**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
 |**2024-02-21**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|**[link](https://github.com/LibertFan/AI_Hospital)**|
