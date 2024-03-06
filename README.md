@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
+|**2024-03-05**|**Towards Training A Chinese Large Language Model for Anesthesiology**|Zhonghai Wang et.al.|[2403.02742](http://arxiv.org/abs/2403.02742)|null|
+|**2024-03-05**|**Updating the Minimum Information about CLinical Artificial Intelligence (MI-CLAIM) checklist for generative modeling research**|Brenda Y. Miao et.al.|[2403.02558](http://arxiv.org/abs/2403.02558)|**[link](https://github.com/bmiao10/mi-claim-2024)**|
+|**2024-03-03**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|null|
 |**2024-03-01**|**Attribute Structuring Improves LLM-Based Evaluation of Clinical Text Summaries**|Zelalem Gero et.al.|[2403.01002](http://arxiv.org/abs/2403.01002)|**[link](https://github.com/microsoft/attribute-structuring)**|
 |**2024-03-01**|**Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language**|Xiaohan Ding et.al.|[2403.00994](http://arxiv.org/abs/2403.00994)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
@@ -36,7 +40,7 @@
 |**2024-02-26**|**LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery**|Kexin Chen et.al.|[2402.16664](http://arxiv.org/abs/2402.16664)|null|
 |**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
-|**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|null|
+|**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|**[link](https://github.com/cemuluoglakci/hypotermqa)**|
 |**2024-02-27**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040](http://arxiv.org/abs/2402.16040)|**[link](https://github.com/ji-youn-kim/ehrnoteqa)**|
 |**2024-02-24**|**Predicting Outcomes in Video Games with Long Short Term Memory Networks**|Kittimate Chulajata et.al.|[2402.15923](http://arxiv.org/abs/2402.15923)|**[link](https://github.com/kittimatechulajata/predicting-outcomes-in-two-player-games-with-lstm)**|
 |**2024-02-24**|**Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study**|Zhaoyue Sun et.al.|[2402.15663](http://arxiv.org/abs/2402.15663)|**[link](https://github.com/zhaoyuesun/phee-with-chatgpt)**|
