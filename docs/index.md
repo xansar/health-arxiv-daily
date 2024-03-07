@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|null|
+|**2024-03-06**|**Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People**|Xidong Wang et.al.|[2403.03640](http://arxiv.org/abs/2403.03640)|**[link](https://github.com/freedomintelligence/apollo)**|
+|**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336](http://arxiv.org/abs/2403.03336)|null|
 |**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
 |**2024-03-05**|**Towards Training A Chinese Large Language Model for Anesthesiology**|Zhonghai Wang et.al.|[2403.02742](http://arxiv.org/abs/2403.02742)|null|
 |**2024-03-05**|**Updating the Minimum Information about CLinical Artificial Intelligence (MI-CLAIM) checklist for generative modeling research**|Brenda Y. Miao et.al.|[2403.02558](http://arxiv.org/abs/2403.02558)|**[link](https://github.com/bmiao10/mi-claim-2024)**|
