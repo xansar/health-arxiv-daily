@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification**|Ricardo Bigolin Lanfredi et.al.|[2403.04024](http://arxiv.org/abs/2403.04024)|**[link](https://github.com/rsummers11/CADLab)**|
 |**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|null|
 |**2024-03-06**|**Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People**|Xidong Wang et.al.|[2403.03640](http://arxiv.org/abs/2403.03640)|**[link](https://github.com/freedomintelligence/apollo)**|
 |**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336](http://arxiv.org/abs/2403.03336)|null|
