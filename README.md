@@ -99,7 +99,7 @@
 |**2024-02-12**|**Detecting the Clinical Features of Difficult-to-Treat Depression using Synthetic Data from Large Language Models**|Isabelle Lorge et.al.|[2402.07645](http://arxiv.org/abs/2402.07645)|**[link](https://github.com/isabellelorge/dtd)**|
 |**2024-02-10**|**Gemini Goes to Med School: Exploring the Capabilities of Multimodal Large Language Models on Medical Challenge Problems & Hallucinations**|Ankit Pal et.al.|[2402.07023](http://arxiv.org/abs/2402.07023)|**[link](https://github.com/promptslab/rosettaeval)**|
 |**2024-02-10**|**REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models**|Yinghao Zhu et.al.|[2402.07016](http://arxiv.org/abs/2402.07016)|null|
-|**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
+|**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|**[link](https://github.com/chenxz1111/RareBench)**|
 |**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127](http://arxiv.org/abs/2402.05127)|null|
 |**2024-02-05**|**Zero-Shot Clinical Trial Patient Matching with LLMs**|Michael Wornow et.al.|[2402.05125](http://arxiv.org/abs/2402.05125)|null|
