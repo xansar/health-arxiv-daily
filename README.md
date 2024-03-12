@@ -17,12 +17,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
+|**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659](http://arxiv.org/abs/2403.06659)|null|
+|**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
+|**2024-03-11**|**Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds**|Jiageng WU et.al.|[2403.06609](http://arxiv.org/abs/2403.06609)|null|
+|**2024-03-11**|**Can LLMs' Tuning Methods Work in Medical Multimodal Domain?**|Jiawei Chen et.al.|[2403.06407](http://arxiv.org/abs/2403.06407)|null|
+|**2024-03-10**|**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**|Shengxin Hong et.al.|[2403.06294](http://arxiv.org/abs/2403.06294)|null|
+|**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131](http://arxiv.org/abs/2403.06131)|null|
+|**2024-03-09**|**KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques**|Rui Yang et.al.|[2403.05881](http://arxiv.org/abs/2403.05881)|null|
+|**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|null|
+|**2024-03-08**|**Decomposing Vision-based LLM Predictions for Auto-Evaluation with GPT-4**|Qingqing Zhu et.al.|[2403.05680](http://arxiv.org/abs/2403.05680)|null|
 |**2024-03-08**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
 |**2024-03-07**|**Electrocardiogram Instruction Tuning for Report Generation**|Zhongwei Wan et.al.|[2403.04945](http://arxiv.org/abs/2403.04945)|null|
 |**2024-03-07**|**Few shot chain-of-thought driven reasoning to prompt LLMs for open ended medical question answering**|Ojas Gramopadhye et.al.|[2403.04890](http://arxiv.org/abs/2403.04890)|null|
 |**2024-03-06**|**Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification**|Ricardo Bigolin Lanfredi et.al.|[2403.04024](http://arxiv.org/abs/2403.04024)|**[link](https://github.com/rsummers11/CADLab)**|
 |**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|null|
-|**2024-03-06**|**Apollo: Lightweight Multilingual Medical LLMs towards Democratizing Medical AI to 6B People**|Xidong Wang et.al.|[2403.03640](http://arxiv.org/abs/2403.03640)|**[link](https://github.com/freedomintelligence/apollo)**|
+|**2024-03-09**|**Apollo: An Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People**|Xidong Wang et.al.|[2403.03640](http://arxiv.org/abs/2403.03640)|**[link](https://github.com/freedomintelligence/apollo)**|
 |**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336](http://arxiv.org/abs/2403.03336)|null|
 |**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
 |**2024-03-05**|**Towards Training A Chinese Large Language Model for Anesthesiology**|Zhonghai Wang et.al.|[2403.02742](http://arxiv.org/abs/2403.02742)|null|
