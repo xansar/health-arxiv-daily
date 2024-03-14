@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664](http://arxiv.org/abs/2403.08664)|null|
+|**2024-03-13**|**MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models**|Subash Neupane et.al.|[2403.08607](http://arxiv.org/abs/2403.08607)|null|
+|**2024-03-13**|**Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**|Yusheng Liao et.al.|[2403.08495](http://arxiv.org/abs/2403.08495)|null|
 |**2024-03-12**|**SmallToLarge (S2L): Scalable Data Selection for Fine-tuning Large Language Models by Summarizing Training Trajectories of Small Models**|Yu Yang et.al.|[2403.07384](http://arxiv.org/abs/2403.07384)|null|
 |**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
 |**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659](http://arxiv.org/abs/2403.06659)|null|
@@ -26,7 +29,7 @@ layout: default
 |**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|null|
 |**2024-03-08**|**Decomposing Vision-based LLM Predictions for Auto-Evaluation with GPT-4**|Qingqing Zhu et.al.|[2403.05680](http://arxiv.org/abs/2403.05680)|null|
 |**2024-03-11**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
-|**2024-03-07**|**Electrocardiogram Instruction Tuning for Report Generation**|Zhongwei Wan et.al.|[2403.04945](http://arxiv.org/abs/2403.04945)|null|
+|**2024-03-13**|**Electrocardiogram Instruction Tuning for Report Generation**|Zhongwei Wan et.al.|[2403.04945](http://arxiv.org/abs/2403.04945)|null|
 |**2024-03-07**|**Few shot chain-of-thought driven reasoning to prompt LLMs for open ended medical question answering**|Ojas Gramopadhye et.al.|[2403.04890](http://arxiv.org/abs/2403.04890)|null|
 |**2024-03-06**|**Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification**|Ricardo Bigolin Lanfredi et.al.|[2403.04024](http://arxiv.org/abs/2403.04024)|**[link](https://github.com/rsummers11/CADLab)**|
 |**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|null|
@@ -46,7 +49,7 @@ layout: default
 |**2024-02-29**|**OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models**|Jenish Maharjan et.al.|[2402.19371](http://arxiv.org/abs/2402.19371)|null|
 |**2024-02-29**|**Exploring the Efficacy of Large Language Models in Summarizing Mental Health Counseling Sessions: A Benchmark Study**|Prottay Kumar Adhikary et.al.|[2402.19052](http://arxiv.org/abs/2402.19052)|null|
 |**2024-02-28**|**Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**|Derong Xu et.al.|[2402.18099](http://arxiv.org/abs/2402.18099)|**[link](https://github.com/quqxui/medlasa)**|
-|**2024-02-29**|**Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions**|Hanjie Chen et.al.|[2402.18060](http://arxiv.org/abs/2402.18060)|null|
+|**2024-03-13**|**Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions**|Hanjie Chen et.al.|[2402.18060](http://arxiv.org/abs/2402.18060)|**[link](https://github.com/hanjiechen/challengeclinicalqa)**|
 |**2024-03-02**|**JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability**|Junda Wang et.al.|[2402.17887](http://arxiv.org/abs/2402.17887)|null|
 |**2024-02-28**|**Prescribing Large Language Models for Perioperative Care: What's The Right Dose for Pre-trained Models?**|Bing Xue et.al.|[2402.17493](http://arxiv.org/abs/2402.17493)|**[link](https://github.com/cja5553/LLMs_in_perioperative_care)**|
 |**2024-02-27**|**A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education**|Michael A. Hedderich et.al.|[2402.17456](http://arxiv.org/abs/2402.17456)|null|
