@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT**|Xin Sun et.al.|[2403.09987](http://arxiv.org/abs/2403.09987)|null|
+|**2024-03-08**|**A Novel Nuanced Conversation Evaluation Framework for Large Language Models in Mental Health**|Alexander Marrapese et.al.|[2403.09705](http://arxiv.org/abs/2403.09705)|null|
 |**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164](http://arxiv.org/abs/2403.09164)|null|
 |**2024-03-14**|**A Continued Pretrained LLM Approach for Automatic Medical Note Generation**|Dong Yuan et.al.|[2403.09057](http://arxiv.org/abs/2403.09057)|null|
 |**2024-03-14**|**AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic**|Emad A. Alghamdi et.al.|[2403.09017](http://arxiv.org/abs/2403.09017)|null|
