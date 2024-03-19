@@ -14,11 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
+|**2024-03-17**|**Cheap Ways of Extracting Clinical Markers from Texts**|Anastasia Sandu et.al.|[2403.11227](http://arxiv.org/abs/2403.11227)|**[link](https://github.com/nlp-unibuc/clpsych24-task)**|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
+|**2024-03-16**|**Do Large Language Models understand Medical Codes?**|Simon A. Lee et.al.|[2403.10822](http://arxiv.org/abs/2403.10822)|null|
+|**2024-03-16**|**LLM-based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices**|Jingping Nie et.al.|[2403.10779](http://arxiv.org/abs/2403.10779)|null|
+|**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750](http://arxiv.org/abs/2403.10750)|null|
+|**2024-03-15**|**Neural Erosion: Emulating Controlled Neurodegeneration and Aging in AI Systems**|Antonios Alexos et.al.|[2403.10596](http://arxiv.org/abs/2403.10596)|null|
+|**2024-03-15**|**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**|Chen Chen et.al.|[2403.10581](http://arxiv.org/abs/2403.10581)|null|
 |**2024-03-15**|**Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT**|Xin Sun et.al.|[2403.09987](http://arxiv.org/abs/2403.09987)|null|
 |**2024-03-08**|**A Novel Nuanced Conversation Evaluation Framework for Large Language Models in Mental Health**|Alexander Marrapese et.al.|[2403.09705](http://arxiv.org/abs/2403.09705)|null|
 |**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164](http://arxiv.org/abs/2403.09164)|null|
 |**2024-03-14**|**A Continued Pretrained LLM Approach for Automatic Medical Note Generation**|Dong Yuan et.al.|[2403.09057](http://arxiv.org/abs/2403.09057)|null|
-|**2024-03-14**|**AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic**|Emad A. Alghamdi et.al.|[2403.09017](http://arxiv.org/abs/2403.09017)|null|
+|**2024-03-15**|**AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic**|Emad A. Alghamdi et.al.|[2403.09017](http://arxiv.org/abs/2403.09017)|null|
 |**2024-03-14**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664](http://arxiv.org/abs/2403.08664)|null|
 |**2024-03-13**|**MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models**|Subash Neupane et.al.|[2403.08607](http://arxiv.org/abs/2403.08607)|null|
 |**2024-03-14**|**Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**|Yusheng Liao et.al.|[2403.08495](http://arxiv.org/abs/2403.08495)|null|
@@ -43,7 +51,7 @@ layout: default
 |**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
 |**2024-03-05**|**Towards Training A Chinese Large Language Model for Anesthesiology**|Zhonghai Wang et.al.|[2403.02742](http://arxiv.org/abs/2403.02742)|null|
 |**2024-03-05**|**Updating the Minimum Information about CLinical Artificial Intelligence (MI-CLAIM) checklist for generative modeling research**|Brenda Y. Miao et.al.|[2403.02558](http://arxiv.org/abs/2403.02558)|**[link](https://github.com/bmiao10/mi-claim-2024)**|
-|**2024-03-03**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|null|
+|**2024-03-16**|**SERVAL: Synergy Learning between Vertical Models and LLMs towards Oracle-Level Zero-shot Medical Prediction**|Jiahuan Yan et.al.|[2403.01570](http://arxiv.org/abs/2403.01570)|null|
 |**2024-03-01**|**Attribute Structuring Improves LLM-Based Evaluation of Clinical Text Summaries**|Zelalem Gero et.al.|[2403.01002](http://arxiv.org/abs/2403.01002)|**[link](https://github.com/microsoft/attribute-structuring)**|
 |**2024-03-01**|**Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language**|Xiaohan Ding et.al.|[2403.00994](http://arxiv.org/abs/2403.00994)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
