@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313](http://arxiv.org/abs/2403.13313)|null|
+|**2024-03-19**|**Automatic Summarization of Doctor-Patient Encounter Dialogues Using Large Language Model through Prompt Tuning**|Mengxian Lyu et.al.|[2403.13089](http://arxiv.org/abs/2403.13089)|null|
 |**2024-03-19**|**Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning**|Cheng Peng et.al.|[2403.12374](http://arxiv.org/abs/2403.12374)|null|
 |**2024-03-18**|**Leveraging Large Language Models to Extract Information on Substance Use Disorder Severity from Clinical Notes: A Zero-shot Learning Approach**|Maria Mahbub et.al.|[2403.12297](http://arxiv.org/abs/2403.12297)|null|
 |**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025](http://arxiv.org/abs/2403.12025)|null|
