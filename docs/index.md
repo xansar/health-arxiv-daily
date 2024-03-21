@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -17,7 +17,7 @@ layout: default
 |**2024-03-19**|**Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning**|Cheng Peng et.al.|[2403.12374](http://arxiv.org/abs/2403.12374)|null|
 |**2024-03-18**|**Leveraging Large Language Models to Extract Information on Substance Use Disorder Severity from Clinical Notes: A Zero-shot Learning Approach**|Maria Mahbub et.al.|[2403.12297](http://arxiv.org/abs/2403.12297)|null|
 |**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025](http://arxiv.org/abs/2403.12025)|null|
-|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|null|
+|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
 |**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
 |**2024-03-17**|**Cheap Ways of Extracting Clinical Markers from Texts**|Anastasia Sandu et.al.|[2403.11227](http://arxiv.org/abs/2403.11227)|**[link](https://github.com/nlp-unibuc/clpsych24-task)**|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
