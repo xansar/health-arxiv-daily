@@ -302,7 +302,7 @@ layout: default
 |**2023-11-07**|**Evaluating multiple large language models in pediatric ophthalmology**|Jason Holmes et.al.|[2311.04368](http://arxiv.org/abs/2311.04368)|null|
 |**2023-11-08**|**An Introduction to Natural Language Processing Techniques and Framework for Clinical Implementation in Radiation Oncology**|Reza Khanmohammadi et.al.|[2311.02205](http://arxiv.org/abs/2311.02205)|null|
 |**2023-11-03**|**Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**|Mingze Yuan et.al.|[2311.01918](http://arxiv.org/abs/2311.01918)|**[link](https://github.com/mingze-yuan/awesome-llm-healthcare)**|
-|**2023-11-27**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
+|**2023-11-27**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|**[link](https://github.com/tvseg/mm-llm-ro)**|
 |**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|**[link](https://github.com/ritaranx/clingen)**|
 |**2023-10-31**|**Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision**|Jiaxin Zhang et.al.|[2310.20153](http://arxiv.org/abs/2310.20153)|null|
 |**2023-11-03**|**Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2310.20033](http://arxiv.org/abs/2310.20033)|**[link](https://github.com/seasonyao/learnfromhumanedit)**|
