@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|null|
+|**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
+|**2024-03-20**|**Automated Extraction and Maturity Analysis of Open Source Clinical Informatics Repositories from Scientific Literature**|Jeremy R. Harper et.al.|[2403.14721](http://arxiv.org/abs/2403.14721)|null|
 |**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313](http://arxiv.org/abs/2403.13313)|null|
 |**2024-03-19**|**Automatic Summarization of Doctor-Patient Encounter Dialogues Using Large Language Model through Prompt Tuning**|Mengxian Lyu et.al.|[2403.13089](http://arxiv.org/abs/2403.13089)|null|
@@ -31,7 +34,7 @@
 |**2024-03-16**|**LLM-based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices**|Jingping Nie et.al.|[2403.10779](http://arxiv.org/abs/2403.10779)|null|
 |**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750](http://arxiv.org/abs/2403.10750)|null|
 |**2024-03-15**|**Neural Erosion: Emulating Controlled Neurodegeneration and Aging in AI Systems**|Antonios Alexos et.al.|[2403.10596](http://arxiv.org/abs/2403.10596)|null|
-|**2024-03-15**|**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**|Chen Chen et.al.|[2403.10581](http://arxiv.org/abs/2403.10581)|null|
+|**2024-03-22**|**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**|Chen Chen et.al.|[2403.10581](http://arxiv.org/abs/2403.10581)|null|
 |**2024-03-15**|**Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT**|Xin Sun et.al.|[2403.09987](http://arxiv.org/abs/2403.09987)|null|
 |**2024-03-08**|**A Novel Nuanced Conversation Evaluation Framework for Large Language Models in Mental Health**|Alexander Marrapese et.al.|[2403.09705](http://arxiv.org/abs/2403.09705)|null|
 |**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164](http://arxiv.org/abs/2403.09164)|null|
