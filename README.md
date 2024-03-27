@@ -17,9 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873](http://arxiv.org/abs/2403.17873)|null|
+|**2024-03-26**|**Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization**|Jae-hee So et.al.|[2403.17428](http://arxiv.org/abs/2403.17428)|null|
+|**2024-03-25**|**SeSaMe: A Framework to Simulate Self-Reported Ground Truth for Mental Health Sensing Studies**|Akshat Choube et.al.|[2403.17219](http://arxiv.org/abs/2403.17219)|null|
+|**2024-03-25**|**Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language Model**|Braja Gopal Patra et.al.|[2403.17199](http://arxiv.org/abs/2403.17199)|null|
+|**2024-03-25**|**Towards Algorithmic Fidelity: Mental Health Representation across Demographics in Synthetic vs. Human-generated Data**|Shinka Mori et.al.|[2403.16909](http://arxiv.org/abs/2403.16909)|null|
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
 |**2024-03-25**|**Dia-LLaMA: Towards Large Language Model-driven CT Report Generation**|Zhixuan Chen et.al.|[2403.16386](http://arxiv.org/abs/2403.16386)|null|
-|**2024-03-24**|**Large Language Models in Biomedical and Health Informatics: A Bibliometric Review**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|null|
+|**2024-03-26**|**Large Language Models in Biomedical and Health Informatics: A Bibliometric Review**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|null|
 |**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008](http://arxiv.org/abs/2403.16008)|null|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
 |**2024-03-20**|**Large language models can help boost food production, but be mindful of their risks**|Djavan De Clercq et.al.|[2403.15475](http://arxiv.org/abs/2403.15475)|null|
