@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -18,7 +18,7 @@ layout: default
 |**2024-03-26**|**Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization**|Jae-hee So et.al.|[2403.17428](http://arxiv.org/abs/2403.17428)|null|
 |**2024-03-25**|**SeSaMe: A Framework to Simulate Self-Reported Ground Truth for Mental Health Sensing Studies**|Akshat Choube et.al.|[2403.17219](http://arxiv.org/abs/2403.17219)|null|
 |**2024-03-25**|**Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language Model**|Braja Gopal Patra et.al.|[2403.17199](http://arxiv.org/abs/2403.17199)|null|
-|**2024-03-25**|**Towards Algorithmic Fidelity: Mental Health Representation across Demographics in Synthetic vs. Human-generated Data**|Shinka Mori et.al.|[2403.16909](http://arxiv.org/abs/2403.16909)|null|
+|**2024-03-25**|**Towards Algorithmic Fidelity: Mental Health Representation across Demographics in Synthetic vs. Human-generated Data**|Shinka Mori et.al.|[2403.16909](http://arxiv.org/abs/2403.16909)|**[link](https://github.com/michigannlp/depression_synthetic_data)**|
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
 |**2024-03-25**|**Dia-LLaMA: Towards Large Language Model-driven CT Report Generation**|Zhixuan Chen et.al.|[2403.16386](http://arxiv.org/abs/2403.16386)|null|
 |**2024-03-26**|**Large Language Models in Biomedical and Health Informatics: A Bibliometric Review**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2024-03-20**|**Large language models can help boost food production, but be mindful of their risks**|Djavan De Clercq et.al.|[2403.15475](http://arxiv.org/abs/2403.15475)|null|
 |**2024-03-19**|**LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction**|Hejie Cui et.al.|[2403.15464](http://arxiv.org/abs/2403.15464)|null|
 |**2024-03-19**|**WoLF: Large Language Model Framework for CXR Understanding**|Seil Kang et.al.|[2403.15456](http://arxiv.org/abs/2403.15456)|null|
-|**2024-03-21**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|null|
+|**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|null|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
 |**2024-03-20**|**Automated Extraction and Maturity Analysis of Open Source Clinical Informatics Repositories from Scientific Literature**|Jeremy R. Harper et.al.|[2403.14721](http://arxiv.org/abs/2403.14721)|null|
 |**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
