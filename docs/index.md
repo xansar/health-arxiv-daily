@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models**|Haitao Li et.al.|[2403.18365](http://arxiv.org/abs/2403.18365)|null|
 |**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873](http://arxiv.org/abs/2403.17873)|null|
 |**2024-03-26**|**Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization**|Jae-hee So et.al.|[2403.17428](http://arxiv.org/abs/2403.17428)|null|
-|**2024-03-25**|**SeSaMe: A Framework to Simulate Self-Reported Ground Truth for Mental Health Sensing Studies**|Akshat Choube et.al.|[2403.17219](http://arxiv.org/abs/2403.17219)|null|
+|**2024-03-27**|**SeSaMe: A Framework to Simulate Self-Reported Ground Truth for Mental Health Sensing Studies**|Akshat Choube et.al.|[2403.17219](http://arxiv.org/abs/2403.17219)|null|
 |**2024-03-25**|**Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language Model**|Braja Gopal Patra et.al.|[2403.17199](http://arxiv.org/abs/2403.17199)|null|
 |**2024-03-25**|**Towards Algorithmic Fidelity: Mental Health Representation across Demographics in Synthetic vs. Human-generated Data**|Shinka Mori et.al.|[2403.16909](http://arxiv.org/abs/2403.16909)|**[link](https://github.com/michigannlp/depression_synthetic_data)**|
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
@@ -29,7 +30,7 @@ layout: default
 |**2024-03-19**|**WoLF: Large Language Model Framework for CXR Understanding**|Seil Kang et.al.|[2403.15456](http://arxiv.org/abs/2403.15456)|null|
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|null|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
-|**2024-03-20**|**Automated Extraction and Maturity Analysis of Open Source Clinical Informatics Repositories from Scientific Literature**|Jeremy R. Harper et.al.|[2403.14721](http://arxiv.org/abs/2403.14721)|null|
+|**2024-03-27**|**Automated Extraction and Maturity Analysis of Open Source Clinical Informatics Repositories from Scientific Literature**|Jeremy R. Harper et.al.|[2403.14721](http://arxiv.org/abs/2403.14721)|null|
 |**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313](http://arxiv.org/abs/2403.13313)|null|
 |**2024-03-19**|**Automatic Summarization of Doctor-Patient Encounter Dialogues Using Large Language Model through Prompt Tuning**|Mengxian Lyu et.al.|[2403.13089](http://arxiv.org/abs/2403.13089)|null|
