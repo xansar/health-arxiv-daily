@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-03-27**|**BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models**|Haitao Li et.al.|[2403.18365](http://arxiv.org/abs/2403.18365)|null|
 |**2024-03-26**|**Addressing Social Misattributions of Large Language Models: An HCXAI-based Approach**|Andrea Ferrario et.al.|[2403.17873](http://arxiv.org/abs/2403.17873)|null|
-|**2024-03-26**|**Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization**|Jae-hee So et.al.|[2403.17428](http://arxiv.org/abs/2403.17428)|null|
+|**2024-03-26**|**Aligning Large Language Models for Enhancing Psychiatric Interviews through Symptom Delineation and Summarization**|Jae-hee So et.al.|[2403.17428](http://arxiv.org/abs/2403.17428)|**[link](https://github.com/junho328/cptsd)**|
 |**2024-03-27**|**SeSaMe: A Framework to Simulate Self-Reported Ground Truth for Mental Health Sensing Studies**|Akshat Choube et.al.|[2403.17219](http://arxiv.org/abs/2403.17219)|null|
 |**2024-03-25**|**Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language Model**|Braja Gopal Patra et.al.|[2403.17199](http://arxiv.org/abs/2403.17199)|null|
 |**2024-03-25**|**Towards Algorithmic Fidelity: Mental Health Representation across Demographics in Synthetic vs. Human-generated Data**|Shinka Mori et.al.|[2403.16909](http://arxiv.org/abs/2403.16909)|**[link](https://github.com/michigannlp/depression_synthetic_data)**|
@@ -347,7 +347,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
