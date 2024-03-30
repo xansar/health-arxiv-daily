@@ -29,7 +29,7 @@
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
 |**2024-03-25**|**Dia-LLaMA: Towards Large Language Model-driven CT Report Generation**|Zhixuan Chen et.al.|[2403.16386](http://arxiv.org/abs/2403.16386)|null|
 |**2024-03-26**|**Large Language Models in Biomedical and Health Informatics: A Bibliometric Review**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|null|
-|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008](http://arxiv.org/abs/2403.16008)|null|
+|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008](http://arxiv.org/abs/2403.16008)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
 |**2024-03-20**|**Large language models can help boost food production, but be mindful of their risks**|Djavan De Clercq et.al.|[2403.15475](http://arxiv.org/abs/2403.15475)|null|
 |**2024-03-19**|**LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction**|Hejie Cui et.al.|[2403.15464](http://arxiv.org/abs/2403.15464)|null|
