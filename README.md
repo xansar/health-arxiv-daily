@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
+|**2024-03-29**|**Fine-tuning Large Language Models for Automated Diagnostic Screening Summaries**|Manjeet Yadav et.al.|[2403.20145](http://arxiv.org/abs/2403.20145)|null|
+|**2024-03-28**|**Developing Healthcare Language Model Embedding Spaces**|Niall Taylor et.al.|[2403.19802](http://arxiv.org/abs/2403.19802)|null|
+|**2024-03-28**|**Bespoke Large Language Models for Digital Triage Assistance in Mental Health Care**|Niall Taylor et.al.|[2403.19790](http://arxiv.org/abs/2403.19790)|null|
+|**2024-03-28**|**A Benchmark Evaluation of Clinical Named Entity Recognition in French**|Nesrine Bannour et.al.|[2403.19726](http://arxiv.org/abs/2403.19726)|null|
 |**2024-03-28**|**BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation**|Yuhong He et.al.|[2403.19414](http://arxiv.org/abs/2403.19414)|null|
 |**2024-03-27**|**Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data**|Yuting Guo et.al.|[2403.19031](http://arxiv.org/abs/2403.19031)|null|
 |**2024-03-27**|**Reshaping Free-Text Radiology Notes Into Structured Reports With Generative Transformers**|Laura Bergomi et.al.|[2403.18938](http://arxiv.org/abs/2403.18938)|**[link](https://github.com/bmi-labmedinfo/nlp-radiology-paper)**|
@@ -33,7 +38,7 @@
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
 |**2024-03-20**|**Large language models can help boost food production, but be mindful of their risks**|Djavan De Clercq et.al.|[2403.15475](http://arxiv.org/abs/2403.15475)|null|
 |**2024-03-19**|**LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction**|Hejie Cui et.al.|[2403.15464](http://arxiv.org/abs/2403.15464)|null|
-|**2024-03-28**|**WoLF: Large Language Model Framework for CXR Understanding**|Seil Kang et.al.|[2403.15456](http://arxiv.org/abs/2403.15456)|null|
+|**2024-03-29**|**WoLF: Wide-scope Large Language Model Framework for CXR Understanding**|Seil Kang et.al.|[2403.15456](http://arxiv.org/abs/2403.15456)|null|
 |**2024-03-26**|**The opportunities and risks of large language models in mental health**|Hannah R. Lawrence et.al.|[2403.14814](http://arxiv.org/abs/2403.14814)|null|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
 |**2024-03-27**|**Automated Extraction and Maturity Analysis of Open Source Clinical Informatics Repositories from Scientific Literature**|Jeremy R. Harper et.al.|[2403.14721](http://arxiv.org/abs/2403.14721)|null|
