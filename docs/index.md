@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Classifying Cancer Stage with Open-Source Clinical Large Language Models**|Chia-Hsuan Chang et.al.|[2404.01589](http://arxiv.org/abs/2404.01589)|null|
+|**2024-04-01**|**Towards a potential paradigm shift in health data collection and analysis**|David Josef Herzog et.al.|[2404.01403](http://arxiv.org/abs/2404.01403)|null|
+|**2024-04-01**|**Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models**|Yi-Lin Tuan et.al.|[2404.01295](http://arxiv.org/abs/2404.01295)|null|
+|**2024-04-01**|**Large Language Models are Capable of Offering Cognitive Reappraisal, if Guided**|Hongli Zhan et.al.|[2404.01288](http://arxiv.org/abs/2404.01288)|**[link](https://github.com/honglizhan/resort_cognitive_reappraisal)**|
+|**2024-04-01**|**Generating Faithful and Complete Hospital-Course Summaries from the Electronic Health Record**|Griffin Adams et.al.|[2404.01189](http://arxiv.org/abs/2404.01189)|null|
+|**2024-04-01**|**LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation**|Zilong Wang et.al.|[2404.00998](http://arxiv.org/abs/2404.00998)|null|
+|**2024-04-01**|**How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey**|Zhonghao Shi et.al.|[2404.00938](http://arxiv.org/abs/2404.00938)|null|
+|**2024-03-31**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|null|
+|**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
 |**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
 |**2024-03-29**|**Fine-tuning Large Language Models for Automated Diagnostic Screening Summaries**|Manjeet Yadav et.al.|[2403.20145](http://arxiv.org/abs/2403.20145)|null|
 |**2024-03-28**|**Developing Healthcare Language Model Embedding Spaces**|Niall Taylor et.al.|[2403.19802](http://arxiv.org/abs/2403.19802)|null|
@@ -31,7 +40,7 @@ layout: default
 |**2024-03-25**|**Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm**|Lei Liu et.al.|[2403.16446](http://arxiv.org/abs/2403.16446)|null|
 |**2024-03-25**|**Dia-LLaMA: Towards Large Language Model-driven CT Report Generation**|Zhixuan Chen et.al.|[2403.16386](http://arxiv.org/abs/2403.16386)|null|
 |**2024-03-26**|**Large Language Models in Biomedical and Health Informatics: A Bibliometric Review**|Huizi Yu et.al.|[2403.16303](http://arxiv.org/abs/2403.16303)|null|
-|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008](http://arxiv.org/abs/2403.16008)|**[link](https://github.com/hiyouga/llama-factory)**|
+|**2024-03-24**|**CBT-LLM: A Chinese Large Language Model for Cognitive Behavioral Therapy-based Mental Health Question Answering**|Hongbin Na et.al.|[2403.16008](http://arxiv.org/abs/2403.16008)|null|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
 |**2024-03-20**|**Large language models can help boost food production, but be mindful of their risks**|Djavan De Clercq et.al.|[2403.15475](http://arxiv.org/abs/2403.15475)|null|
 |**2024-03-19**|**LLMs-based Few-Shot Disease Predictions using EHR: A Novel Approach Combining Predictive Agent Reasoning and Critical Agent Instruction**|Hejie Cui et.al.|[2403.15464](http://arxiv.org/abs/2403.15464)|null|
@@ -45,7 +54,7 @@ layout: default
 |**2024-03-19**|**Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning**|Cheng Peng et.al.|[2403.12374](http://arxiv.org/abs/2403.12374)|null|
 |**2024-03-18**|**Leveraging Large Language Models to Extract Information on Substance Use Disorder Severity from Clinical Notes: A Zero-shot Learning Approach**|Maria Mahbub et.al.|[2403.12297](http://arxiv.org/abs/2403.12297)|null|
 |**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025](http://arxiv.org/abs/2403.12025)|null|
-|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
+|**2024-04-02**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
 |**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
 |**2024-03-17**|**Cheap Ways of Extracting Clinical Markers from Texts**|Anastasia Sandu et.al.|[2403.11227](http://arxiv.org/abs/2403.11227)|**[link](https://github.com/nlp-unibuc/clpsych24-task)**|
 |**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
