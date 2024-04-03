@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -60,7 +60,7 @@
 |**2024-03-15**|**Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT**|Xin Sun et.al.|[2403.09987](http://arxiv.org/abs/2403.09987)|null|
 |**2024-03-08**|**A Novel Nuanced Conversation Evaluation Framework for Large Language Models in Mental Health**|Alexander Marrapese et.al.|[2403.09705](http://arxiv.org/abs/2403.09705)|null|
 |**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164](http://arxiv.org/abs/2403.09164)|null|
-|**2024-03-14**|**A Continued Pretrained LLM Approach for Automatic Medical Note Generation**|Dong Yuan et.al.|[2403.09057](http://arxiv.org/abs/2403.09057)|null|
+|**2024-04-01**|**A Continued Pretrained LLM Approach for Automatic Medical Note Generation**|Dong Yuan et.al.|[2403.09057](http://arxiv.org/abs/2403.09057)|null|
 |**2024-03-15**|**AraTrust: An Evaluation of Trustworthiness for LLMs in Arabic**|Emad A. Alghamdi et.al.|[2403.09017](http://arxiv.org/abs/2403.09017)|null|
 |**2024-03-14**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664](http://arxiv.org/abs/2403.08664)|null|
 |**2024-03-13**|**MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models**|Subash Neupane et.al.|[2403.08607](http://arxiv.org/abs/2403.08607)|null|
@@ -355,7 +355,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
