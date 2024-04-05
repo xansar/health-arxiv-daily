@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -21,7 +21,7 @@ layout: default
 |**2024-04-01**|**Generating Faithful and Complete Hospital-Course Summaries from the Electronic Health Record**|Griffin Adams et.al.|[2404.01189](http://arxiv.org/abs/2404.01189)|null|
 |**2024-04-01**|**LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation**|Zilong Wang et.al.|[2404.00998](http://arxiv.org/abs/2404.00998)|null|
 |**2024-04-01**|**How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey**|Zhonghao Shi et.al.|[2404.00938](http://arxiv.org/abs/2404.00938)|null|
-|**2024-03-31**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|null|
+|**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|null|
 |**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
 |**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
 |**2024-03-29**|**Fine-tuning Large Language Models for Automated Diagnostic Screening Summaries**|Manjeet Yadav et.al.|[2403.20145](http://arxiv.org/abs/2403.20145)|null|
