@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|null|
 |**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|null|
 |**2024-04-02**|**Classifying Cancer Stage with Open-Source Clinical Large Language Models**|Chia-Hsuan Chang et.al.|[2404.01589](http://arxiv.org/abs/2404.01589)|null|
 |**2024-04-01**|**Towards a potential paradigm shift in health data collection and analysis**|David Josef Herzog et.al.|[2404.01403](http://arxiv.org/abs/2404.01403)|null|
