@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-04-01**|**Large Language Models are Capable of Offering Cognitive Reappraisal, if Guided**|Hongli Zhan et.al.|[2404.01288](http://arxiv.org/abs/2404.01288)|**[link](https://github.com/honglizhan/resort_cognitive_reappraisal)**|
 |**2024-04-01**|**Generating Faithful and Complete Hospital-Course Summaries from the Electronic Health Record**|Griffin Adams et.al.|[2404.01189](http://arxiv.org/abs/2404.01189)|null|
 |**2024-04-01**|**LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation**|Zilong Wang et.al.|[2404.00998](http://arxiv.org/abs/2404.00998)|null|
-|**2024-04-01**|**How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey**|Zhonghao Shi et.al.|[2404.00938](http://arxiv.org/abs/2404.00938)|null|
+|**2024-04-05**|**How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey**|Zhonghao Shi et.al.|[2404.00938](http://arxiv.org/abs/2404.00938)|null|
 |**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|**[link](https://github.com/uw-bionlp/pedshac)**|
 |**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
 |**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
@@ -366,7 +366,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
