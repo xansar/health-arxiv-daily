@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
+|**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415](http://arxiv.org/abs/2404.05415)|null|
+|**2024-04-08**|**Enhancing Clinical Efficiency through LLM: Discharge Note Generation for Cardiac Patients**|HyoJe Jung et.al.|[2404.05144](http://arxiv.org/abs/2404.05144)|null|
+|**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044](http://arxiv.org/abs/2404.05044)|null|
+|**2024-04-07**|**SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials**|Mael Jullien et.al.|[2404.04963](http://arxiv.org/abs/2404.04963)|null|
+|**2024-04-07**|**PairAug: What Can Augmented Image-Text Pairs Do for Radiology?**|Yutong Xie et.al.|[2404.04960](http://arxiv.org/abs/2404.04960)|**[link](https://github.com/ytongxie/pairaug)**|
+|**2024-04-06**|**Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology**|Dyke Ferber et.al.|[2404.04667](http://arxiv.org/abs/2404.04667)|null|
+|**2024-04-06**|**IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials**|Shreyasi Mandal et.al.|[2404.04510](http://arxiv.org/abs/2404.04510)|**[link](https://github.com/exploration-lab/iitk-semeval-2024-task-2-clinical-nli)**|
+|**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|null|
 |**2024-04-05**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|null|
 |**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|null|
 |**2024-04-02**|**Classifying Cancer Stage with Open-Source Clinical Large Language Models**|Chia-Hsuan Chang et.al.|[2404.01589](http://arxiv.org/abs/2404.01589)|null|
