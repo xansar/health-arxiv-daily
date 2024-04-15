@@ -90,7 +90,7 @@ layout: default
 |**2024-03-13**|**MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models**|Subash Neupane et.al.|[2403.08607](http://arxiv.org/abs/2403.08607)|null|
 |**2024-03-14**|**Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**|Yusheng Liao et.al.|[2403.08495](http://arxiv.org/abs/2403.08495)|null|
 |**2024-03-12**|**SmallToLarge (S2L): Scalable Data Selection for Fine-tuning Large Language Models by Summarizing Training Trajectories of Small Models**|Yu Yang et.al.|[2403.07384](http://arxiv.org/abs/2403.07384)|null|
-|**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
+|**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|**[link](https://github.com/uva-dsa/ems-pipeline)**|
 |**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659](http://arxiv.org/abs/2403.06659)|null|
 |**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
 |**2024-03-11**|**Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds**|Jiageng WU et.al.|[2403.06609](http://arxiv.org/abs/2403.06609)|null|
