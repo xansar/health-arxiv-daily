@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-14**|**Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms**|Diandian Guo et.al.|[2404.09231](http://arxiv.org/abs/2404.09231)|null|
+|**2024-04-13**|**Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**|Zita Lifelo et.al.|[2404.09045](http://arxiv.org/abs/2404.09045)|null|
+|**2024-04-11**|**Introducing L2M3, A Multilingual Medical Large Language Model to Advance Health Equity in Low-Resource Regions**|Agasthya Gangavarapu et.al.|[2404.08705](http://arxiv.org/abs/2404.08705)|null|
 |**2024-04-11**|**Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain**|Iker García-Ferrero et.al.|[2404.07613](http://arxiv.org/abs/2404.07613)|null|
 |**2024-04-11**|**CopilotCAD: Empowering Radiologists with Report Completion Models and Quantitative Evidence from Medical Image Foundation Models**|Sheng Wang et.al.|[2404.07424](http://arxiv.org/abs/2404.07424)|null|
 |**2024-04-10**|**LLMs in Biomedicine: A study on clinical Named Entity Recognition**|Masoud Monajatipoor et.al.|[2404.07376](http://arxiv.org/abs/2404.07376)|null|
@@ -25,7 +28,7 @@
 |**2024-04-10**|**Onco-Retriever: Generative Classifier for Retrieval of EHR Records in Oncology**|Shashi Kant Gupta et.al.|[2404.06680](http://arxiv.org/abs/2404.06680)|null|
 |**2024-04-09**|**Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?**|Nathan Brake et.al.|[2404.06503](http://arxiv.org/abs/2404.06503)|null|
 |**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
-|**2024-04-08**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415](http://arxiv.org/abs/2404.05415)|null|
+|**2024-04-15**|**Relation Extraction Using Large Language Models: A Case Study on Acupuncture Point Locations**|Yiming Li et.al.|[2404.05415](http://arxiv.org/abs/2404.05415)|null|
 |**2024-04-08**|**Enhancing Clinical Efficiency through LLM: Discharge Note Generation for Cardiac Patients**|HyoJe Jung et.al.|[2404.05144](http://arxiv.org/abs/2404.05144)|null|
 |**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044](http://arxiv.org/abs/2404.05044)|null|
 |**2024-04-07**|**SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials**|Mael Jullien et.al.|[2404.04963](http://arxiv.org/abs/2404.04963)|null|
