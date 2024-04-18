@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**|Hongzhao Li et.al.|[2404.11209](http://arxiv.org/abs/2404.11209)|null|
 |**2024-04-15**|**Numerical Attributes Learning for Cardiac Failure Diagnostic from Clinical Narratives - A LESA-CamemBERT-bio Approach**|Boammani Aser Lompo et.al.|[2404.10171](http://arxiv.org/abs/2404.10171)|null|
 |**2024-04-14**|**Tri-modal Confluence with Temporal Dynamics for Scene Graph Generation in Operating Rooms**|Diandian Guo et.al.|[2404.09231](http://arxiv.org/abs/2404.09231)|null|
 |**2024-04-13**|**Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**|Zita Lifelo et.al.|[2404.09045](http://arxiv.org/abs/2404.09045)|null|
