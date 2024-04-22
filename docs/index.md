@@ -149,7 +149,7 @@ layout: default
 |**2024-02-21**|**On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study**|Minh-Hao Van et.al.|[2402.14162](http://arxiv.org/abs/2402.14162)|null|
 |**2024-02-21**|**EXACT-Net:EHR-guided lung tumor auto-segmentation for non-small cell lung cancer radiotherapy**|Hamed Hooshangnejad et.al.|[2402.14099](http://arxiv.org/abs/2402.14099)|null|
 |**2024-02-26**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
-|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|**[link](https://github.com/seasonyao/learnfromhumanedit)**|
 |**2024-02-21**|**Factual Consistency Evaluation of Summarisation in the Era of Large Language Models**|Zheheng Luo et.al.|[2402.13758](http://arxiv.org/abs/2402.13758)|null|
 |**2024-02-20**|**Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**|Zhiyao Ren et.al.|[2402.13408](http://arxiv.org/abs/2402.13408)|null|
 |**2024-02-17**|**When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection**|Xiangyu Zhang et.al.|[2402.13276](http://arxiv.org/abs/2402.13276)|null|
@@ -177,7 +177,7 @@ layout: default
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
 |**2024-02-21**|**AI Hospital: Interactive Evaluation and Collaboration of LLMs as Intern Doctors for Clinical Diagnosis**|Zhihao Fan et.al.|[2402.09742](http://arxiv.org/abs/2402.09742)|**[link](https://github.com/LibertFan/AI_Hospital)**|
 |**2024-02-15**|**GPT-4's assessment of its performance in a USMLE-based case study**|Uttam Dhakal et.al.|[2402.09654](http://arxiv.org/abs/2402.09654)|null|
-|**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|null|
+|**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614](http://arxiv.org/abs/2402.09614)|**[link](https://github.com/hlr/blind)**|
 |**2024-02-16**|**Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications**|David Oniani et.al.|[2402.09588](http://arxiv.org/abs/2402.09588)|null|
 |**2024-02-14**|**Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support**|Zilin Ma et.al.|[2402.09260](http://arxiv.org/abs/2402.09260)|null|
 |**2024-02-13**|**Combining Insights From Multiple Large Language Models Improves Diagnostic Accuracy**|Gioele Barabucci et.al.|[2402.08806](http://arxiv.org/abs/2402.08806)|null|
