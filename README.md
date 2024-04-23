@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**No General Code of Ethics for All: Ethical Considerations in Human-bot Psycho-counseling**|Lizhi Ma et.al.|[2404.14070](http://arxiv.org/abs/2404.14070)|null|
+|**2024-04-20**|**"I Wish There Were an AI": Challenges and AI Potential in Cancer Patient-Provider Communication**|Ziqi Yang et.al.|[2404.13409](http://arxiv.org/abs/2404.13409)|null|
+|**2024-04-20**|**UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions**|Ana-Cristina Rogoz et.al.|[2404.13343](http://arxiv.org/abs/2404.13343)|**[link](https://github.com/ana-rogoz/bea-2024)**|
+|**2024-04-20**|**Beyond Accuracy: Investigating Error Types in GPT-4 Responses to USMLE Questions**|Soumyadeep Roy et.al.|[2404.13307](http://arxiv.org/abs/2404.13307)|**[link](https://github.com/roysoumya/usmle-gpt4-error-taxonomy)**|
+|**2024-04-20**|**LLMChain: Blockchain-based Reputation System for Sharing and Evaluating Large Language Models**|Mouhamed Amine Bouchiha et.al.|[2404.13236](http://arxiv.org/abs/2404.13236)|null|
+|**2024-04-19**|**Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging**|Chia-Hsuan Chang et.al.|[2404.13149](http://arxiv.org/abs/2404.13149)|null|
+|**2024-04-13**|**Leveraging Large Language Model as Simulated Patients for Clinical Education**|Yaneng Li et.al.|[2404.13066](http://arxiv.org/abs/2404.13066)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
 |**2024-04-19**|**Unlocking Multi-View Insights in Knowledge-Dense Retrieval-Augmented Generation**|Guanhua Chen et.al.|[2404.12879](http://arxiv.org/abs/2404.12879)|null|
 |**2024-04-17**|**Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**|Hongzhao Li et.al.|[2404.11209](http://arxiv.org/abs/2404.11209)|null|
