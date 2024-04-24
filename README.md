@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Adaptive Collaboration Strategy for LLMs in Medical Decision Making**|Yubin Kim et.al.|[2404.15155](http://arxiv.org/abs/2404.15155)|null|
+|**2024-04-23**|**Bias patterns in the application of LLMs for clinical decision support: A comprehensive study**|Raphael Poulain et.al.|[2404.15149](http://arxiv.org/abs/2404.15149)|null|
+|**2024-04-23**|**Med42 -- Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches**|Clément Christophe et.al.|[2404.14779](http://arxiv.org/abs/2404.14779)|null|
+|**2024-04-23**|**CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning**|Ling Yue et.al.|[2404.14777](http://arxiv.org/abs/2404.14777)|null|
+|**2024-04-22**|**WangLab at MEDIQA-M3G 2024: Multimodal Medical Answer Generation using Large Language Models**|Ronald Xie et.al.|[2404.14567](http://arxiv.org/abs/2404.14567)|null|
+|**2024-04-22**|**WangLab at MEDIQA-CORR 2024: Optimized LLM-based Programs for Medical Error Detection and Correction**|Augustin Toma et.al.|[2404.14544](http://arxiv.org/abs/2404.14544)|null|
 |**2024-04-22**|**No General Code of Ethics for All: Ethical Considerations in Human-bot Psycho-counseling**|Lizhi Ma et.al.|[2404.14070](http://arxiv.org/abs/2404.14070)|null|
 |**2024-04-20**|**"I Wish There Were an AI": Challenges and AI Potential in Cancer Patient-Provider Communication**|Ziqi Yang et.al.|[2404.13409](http://arxiv.org/abs/2404.13409)|null|
 |**2024-04-20**|**UnibucLLM: Harnessing LLMs for Automated Prediction of Item Difficulty and Response Time for Multiple-Choice Questions**|Ana-Cristina Rogoz et.al.|[2404.13343](http://arxiv.org/abs/2404.13343)|**[link](https://github.com/ana-rogoz/bea-2024)**|
