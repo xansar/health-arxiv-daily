@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2024-04-20**|**Beyond Accuracy: Investigating Error Types in GPT-4 Responses to USMLE Questions**|Soumyadeep Roy et.al.|[2404.13307](http://arxiv.org/abs/2404.13307)|**[link](https://github.com/roysoumya/usmle-gpt4-error-taxonomy)**|
 |**2024-04-20**|**LLMChain: Blockchain-based Reputation System for Sharing and Evaluating Large Language Models**|Mouhamed Amine Bouchiha et.al.|[2404.13236](http://arxiv.org/abs/2404.13236)|**[link](https://github.com/mohaminemed/llmgooaq)**|
 |**2024-04-19**|**Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging**|Chia-Hsuan Chang et.al.|[2404.13149](http://arxiv.org/abs/2404.13149)|null|
-|**2024-04-13**|**Leveraging Large Language Model as Simulated Patients for Clinical Education**|Yaneng Li et.al.|[2404.13066](http://arxiv.org/abs/2404.13066)|null|
+|**2024-04-25**|**Leveraging Large Language Model as Simulated Patients for Clinical Education**|Yanzeng Li et.al.|[2404.13066](http://arxiv.org/abs/2404.13066)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
 |**2024-04-19**|**Unlocking Multi-View Insights in Knowledge-Dense Retrieval-Augmented Generation**|Guanhua Chen et.al.|[2404.12879](http://arxiv.org/abs/2404.12879)|null|
 |**2024-04-17**|**Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM**|Hongzhao Li et.al.|[2404.11209](http://arxiv.org/abs/2404.11209)|null|
@@ -404,7 +404,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
