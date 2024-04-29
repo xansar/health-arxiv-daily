@@ -149,7 +149,7 @@ layout: default
 |**2024-02-29**|**Exploring the Efficacy of Large Language Models in Summarizing Mental Health Counseling Sessions: A Benchmark Study**|Prottay Kumar Adhikary et.al.|[2402.19052](http://arxiv.org/abs/2402.19052)|null|
 |**2024-02-28**|**Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**|Derong Xu et.al.|[2402.18099](http://arxiv.org/abs/2402.18099)|**[link](https://github.com/quqxui/medlasa)**|
 |**2024-03-13**|**Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions**|Hanjie Chen et.al.|[2402.18060](http://arxiv.org/abs/2402.18060)|**[link](https://github.com/hanjiechen/challengeclinicalqa)**|
-|**2024-03-02**|**JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability**|Junda Wang et.al.|[2402.17887](http://arxiv.org/abs/2402.17887)|null|
+|**2024-03-02**|**JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability**|Junda Wang et.al.|[2402.17887](http://arxiv.org/abs/2402.17887)|**[link](https://github.com/believewhat/JMLR-Joint-Medical-LLM-and-Retrieval-Training)**|
 |**2024-02-28**|**Prescribing Large Language Models for Perioperative Care: What's The Right Dose for Pre-trained Models?**|Bing Xue et.al.|[2402.17493](http://arxiv.org/abs/2402.17493)|**[link](https://github.com/cja5553/LLMs_in_perioperative_care)**|
 |**2024-02-27**|**A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education**|Michael A. Hedderich et.al.|[2402.17456](http://arxiv.org/abs/2402.17456)|null|
 |**2024-02-27**|**Deep Learning Based Named Entity Recognition Models for Recipes**|Mansi Goel et.al.|[2402.17447](http://arxiv.org/abs/2402.17447)|null|
@@ -240,7 +240,7 @@ layout: default
 |**2024-01-31**|**Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)**|Simon A. Lee et.al.|[2402.00160](http://arxiv.org/abs/2402.00160)|**[link](https://github.com/Simonlee711/MEME)**|
 |**2024-01-30**|**GPT4Battery: An LLM-driven Framework for Adaptive State of Health Estimation of Raw Li-ion Batteries**|Yuyuan Feng et.al.|[2402.00068](http://arxiv.org/abs/2402.00068)|null|
 |**2024-02-03**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
-|**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|null|
+|**2024-01-31**|**Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning**|Yuelyu Ji et.al.|[2401.17602](http://arxiv.org/abs/2401.17602)|**[link](https://github.com/joydajunspacecraft/assertion_llm)**|
 |**2024-01-30**|**Detecting mental disorder on social media: a ChatGPT-augmented explainable approach**|Loris Belcastro et.al.|[2401.17477](http://arxiv.org/abs/2401.17477)|**[link](https://github.com/scalabunical/bert-xdd)**|
 |**2024-02-02**|**Leveraging Professional Radiologists' Expertise to Enhance LLMs' Evaluation for Radiology Reports**|Qingqing Zhu et.al.|[2401.16578](http://arxiv.org/abs/2401.16578)|null|
 |**2024-01-29**|**InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification**|Jan Trienes et.al.|[2401.16475](http://arxiv.org/abs/2401.16475)|**[link](https://github.com/jantrienes/InfoLossQA)**|
