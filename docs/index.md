@@ -14,10 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Automated Generation of High-Quality Medical Simulation Scenarios Through Integration of Semi-Structured Data and Large Language Models**|Scott Sumpter et.al.|[2404.19713](http://arxiv.org/abs/2404.19713)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
 |**2024-04-29**|**6G comprehensive intelligence: network operations and optimization based on Large Language Models**|Sifan Long et.al.|[2404.18373](http://arxiv.org/abs/2404.18373)|null|
-|**2024-04-27**|**MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch**|Nadia Saeed et.al.|[2404.17999](http://arxiv.org/abs/2404.17999)|null|
+|**2024-04-27**|**MediFact at MEDIQA-CORR 2024: Why AI Needs a Human Touch**|Nadia Saeed et.al.|[2404.17999](http://arxiv.org/abs/2404.17999)|**[link](https://github.com/nadiasaeed/medifact-mediqa-corr-2024)**|
 |**2024-04-27**|**Advancing Healthcare Automation: Multi-Agent Systems for Medical Necessity Justification**|Himanshu Pandey et.al.|[2404.17977](http://arxiv.org/abs/2404.17977)|null|
 |**2024-04-27**|**Tool Calling: Enhancing Medication Consultation via Retrieval-Augmented Large Language Models**|Zhongzhen Huang et.al.|[2404.17897](http://arxiv.org/abs/2404.17897)|null|
 |**2024-04-27**|**VANER: Leveraging Large Language Model for Versatile and Adaptive Biomedical Named Entity Recognition**|Junyi Biana et.al.|[2404.17835](http://arxiv.org/abs/2404.17835)|null|
