@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
+|**2024-04-27**|**Evaluating the Application of ChatGPT in Outpatient Triage Guidance: A Comparative Study**|Dou Liu et.al.|[2405.00728](http://arxiv.org/abs/2405.00728)|null|
+|**2024-04-25**|**Large Language Models in Healthcare: A Comprehensive Benchmark**|Andrew Liu et.al.|[2405.00716](http://arxiv.org/abs/2405.00716)|null|
+|**2024-04-25**|**Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation**|Hanyin Wang et.al.|[2405.00715](http://arxiv.org/abs/2405.00715)|null|
+|**2024-04-23**|**Interactive Analysis of LLMs using Meaningful Counterfactuals**|Furui Cheng et.al.|[2405.00708](http://arxiv.org/abs/2405.00708)|null|
 |**2024-05-01**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623](http://arxiv.org/abs/2405.00623)|null|
 |**2024-05-01**|**Enhancing Surgical Robots with Embodied Intelligence for Autonomous Ultrasound Scanning**|Huan Xu et.al.|[2405.00461](http://arxiv.org/abs/2405.00461)|null|
 |**2024-05-01**|**DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training**|Bhuvanesh Verma et.al.|[2405.00321](http://arxiv.org/abs/2405.00321)|null|
