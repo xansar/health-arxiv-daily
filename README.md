@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain**|Chao Jiang et.al.|[2405.02144](http://arxiv.org/abs/2405.02144)|null|
+|**2024-05-03**|**CRCL at SemEval-2024 Task 2: Simple prompt optimizations**|Clément Brutti-Mairesse et.al.|[2405.01942](http://arxiv.org/abs/2405.01942)|null|
+|**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
+|**2024-05-02**|**Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models**|Hye Sun Yun et.al.|[2405.01686](http://arxiv.org/abs/2405.01686)|null|
+|**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
+|**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591](http://arxiv.org/abs/2405.01591)|null|
+|**2024-04-29**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589](http://arxiv.org/abs/2405.01589)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-04-27**|**Evaluating the Application of ChatGPT in Outpatient Triage Guidance: A Comparative Study**|Dou Liu et.al.|[2405.00728](http://arxiv.org/abs/2405.00728)|null|
 |**2024-04-25**|**Large Language Models in Healthcare: A Comprehensive Benchmark**|Andrew Liu et.al.|[2405.00716](http://arxiv.org/abs/2405.00716)|null|
