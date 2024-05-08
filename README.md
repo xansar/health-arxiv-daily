@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|null|
+|**2024-05-07**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963](http://arxiv.org/abs/2405.03963)|null|
 |**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline**|Mohamed Yaseen Jabarulla et.al.|[2405.03359](http://arxiv.org/abs/2405.03359)|**[link](https://github.com/yaseen28/meddoc-bot)**|
 |**2024-05-06**|**Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**|Md Main Uddin Rony et.al.|[2405.03153](http://arxiv.org/abs/2405.03153)|null|
