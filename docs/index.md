@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -18,9 +18,9 @@ layout: default
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
 |**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777](http://arxiv.org/abs/2405.04777)|null|
 |**2024-05-07**|**AffirmativeAI: Towards LGBTQ+ Friendly Audit Frameworks for Large Language Models**|Yinru Long et.al.|[2405.04652](http://arxiv.org/abs/2405.04652)|null|
-|**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|null|
+|**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|**[link](https://github.com/duygua/semeval2024_nli4ct)**|
 |**2024-05-07**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963](http://arxiv.org/abs/2405.03963)|null|
-|**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
+|**2024-05-08**|**How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline**|Mohamed Yaseen Jabarulla et.al.|[2405.03359](http://arxiv.org/abs/2405.03359)|**[link](https://github.com/yaseen28/meddoc-bot)**|
 |**2024-05-06**|**Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**|Md Main Uddin Rony et.al.|[2405.03153](http://arxiv.org/abs/2405.03153)|null|
 |**2024-05-05**|**A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)**|Lingyao Li et.al.|[2405.03066](http://arxiv.org/abs/2405.03066)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2024-05-02**|**Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models**|Hye Sun Yun et.al.|[2405.01686](http://arxiv.org/abs/2405.01686)|**[link](https://github.com/hyesunyun/llm-meta-analysis)**|
 |**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
 |**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591](http://arxiv.org/abs/2405.01591)|null|
-|**2024-04-29**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589](http://arxiv.org/abs/2405.01589)|null|
+|**2024-05-09**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589](http://arxiv.org/abs/2405.01589)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-04-27**|**Evaluating the Application of ChatGPT in Outpatient Triage Guidance: A Comparative Study**|Dou Liu et.al.|[2405.00728](http://arxiv.org/abs/2405.00728)|null|
 |**2024-04-25**|**Large Language Models in Healthcare: A Comprehensive Benchmark**|Andrew Liu et.al.|[2405.00716](http://arxiv.org/abs/2405.00716)|null|
