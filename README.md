@@ -98,7 +98,7 @@
 |**2024-04-06**|**Autonomous Artificial Intelligence Agents for Clinical Decision Making in Oncology**|Dyke Ferber et.al.|[2404.04667](http://arxiv.org/abs/2404.04667)|null|
 |**2024-04-06**|**IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials**|Shreyasi Mandal et.al.|[2404.04510](http://arxiv.org/abs/2404.04510)|**[link](https://github.com/exploration-lab/iitk-semeval-2024-task-2-clinical-nli)**|
 |**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|**[link](https://github.com/danielsun94/conversational_diagnosis)**|
-|**2024-04-11**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|null|
+|**2024-04-11**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|**[link](https://github.com/tio-ikim/clue)**|
 |**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|null|
 |**2024-04-02**|**Classifying Cancer Stage with Open-Source Clinical Large Language Models**|Chia-Hsuan Chang et.al.|[2404.01589](http://arxiv.org/abs/2404.01589)|null|
 |**2024-04-01**|**Towards a potential paradigm shift in health data collection and analysis**|David Josef Herzog et.al.|[2404.01403](http://arxiv.org/abs/2404.01403)|null|
@@ -109,7 +109,7 @@
 |**2024-04-05**|**How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey**|Zhonghao Shi et.al.|[2404.00938](http://arxiv.org/abs/2404.00938)|null|
 |**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|**[link](https://github.com/uw-bionlp/pedshac)**|
 |**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
-|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
+|**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|**[link](https://github.com/unitn-sml/physician-medLLM-interaction)**|
 |**2024-04-04**|**Fine-tuning Large Language Models for Automated Diagnostic Screening Summaries**|Manjeet Yadav et.al.|[2403.20145](http://arxiv.org/abs/2403.20145)|null|
 |**2024-03-28**|**Developing Healthcare Language Model Embedding Spaces**|Niall Taylor et.al.|[2403.19802](http://arxiv.org/abs/2403.19802)|null|
 |**2024-03-28**|**Bespoke Large Language Models for Digital Triage Assistance in Mental Health Care**|Niall Taylor et.al.|[2403.19790](http://arxiv.org/abs/2403.19790)|null|
@@ -339,7 +339,7 @@
 |**2023-12-29**|**LLM Factoscope: Uncovering LLMs' Factual Discernment through Inner States Analysis**|Jinwen He et.al.|[2312.16374](http://arxiv.org/abs/2312.16374)|null|
 |**2023-12-26**|**Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models**|Xinke Jiang et.al.|[2312.15883](http://arxiv.org/abs/2312.15883)|null|
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663](http://arxiv.org/abs/2312.15663)|null|
-|**2023-12-23**|**Multimodal Machine Learning Combining Facial Images and Clinical Texts Improves Diagnosis of Rare Genetic Diseases**|Da Wu et.al.|[2312.15320](http://arxiv.org/abs/2312.15320)|null|
+|**2023-12-23**|**Multimodal Machine Learning Combining Facial Images and Clinical Texts Improves Diagnosis of Rare Genetic Diseases**|Da Wu et.al.|[2312.15320](http://arxiv.org/abs/2312.15320)|**[link](https://github.com/wglab/gestaltmml-gestaltgpt)**|
 |**2023-12-06**|**Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management**|Huan Wang et.al.|[2312.14945](http://arxiv.org/abs/2312.14945)|null|
 |**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|**[link](https://github.com/boschresearch/robustllm)**|
 |**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670](http://arxiv.org/abs/2312.14670)|**[link](https://github.com/idsia-papers/causal-llms)**|
@@ -360,7 +360,7 @@
 |**2023-12-14**|**Evaluating Large Language Models for Health-related Queries with Presuppositions**|Navreet Kaur et.al.|[2312.08800](http://arxiv.org/abs/2312.08800)|**[link](https://github.com/navreeetkaur/uphill)**|
 |**2023-12-15**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
-|**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
+|**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|**[link](https://github.com/ktio89/clinicalcot)**|
 |**2023-12-12**|**Efficient Few-Shot Clinical Task Adaptation with Large Language Models**|Kaipeng Zheng et.al.|[2312.07125](http://arxiv.org/abs/2312.07125)|null|
 |**2023-12-12**|**SM70: A Large Language Model for Medical Devices**|Anubhav Bhatti et.al.|[2312.06974](http://arxiv.org/abs/2312.06974)|null|
 |**2023-12-05**|**Building Trustworthy NeuroSymbolic AI Systems: Consistency, Reliability, Explainability, and Safety**|Manas Gaur et.al.|[2312.06798](http://arxiv.org/abs/2312.06798)|null|
