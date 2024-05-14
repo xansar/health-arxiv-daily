@@ -17,13 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
+|**2024-05-13**|**Evaluating large language models in medical applications: a survey**|Xiaolan Chen et.al.|[2405.07468](http://arxiv.org/abs/2405.07468)|null|
+|**2024-05-10**|**A Global Data-Driven Model for The Hippocampus and Nucleus Accumbens of Rat From The Local Field Potential Recordings (LFP)**|Maedeh Sadeghi et.al.|[2405.06732](http://arxiv.org/abs/2405.06732)|null|
+|**2024-05-09**|**Digital Diagnostics: The Potential Of Large Language Models In Recognizing Symptoms Of Common Illnesses**|Gaurav Kumar Gupta et.al.|[2405.06712](http://arxiv.org/abs/2405.06712)|null|
+|**2024-05-08**|**Interpretable Cross-Examination Technique (ICE-T): Using highly informative features to boost LLM performance**|Goran Muric et.al.|[2405.06703](http://arxiv.org/abs/2405.06703)|null|
+|**2024-05-08**|**Utilizing Large Language Models to Generate Synthetic Data to Increase the Performance of BERT-Based Neural Networks**|Chancellor R. Woolsey et.al.|[2405.06695](http://arxiv.org/abs/2405.06695)|null|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
 |**2024-05-09**|**Selective Fine-tuning on LLM-labeled Data May Reduce Reliance on Human Annotation: A Case Study Using Schedule-of-Event Table Detection**|Bhawesh Kumar et.al.|[2405.06093](http://arxiv.org/abs/2405.06093)|null|
 |**2024-05-09**|**Supporting Physical Activity Behavior Change with LLM-Based Conversational Agents**|Matthew Jörke et.al.|[2405.06061](http://arxiv.org/abs/2405.06061)|null|
 |**2024-05-09**|**Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias**|Shan Chen et.al.|[2405.05506](http://arxiv.org/abs/2405.05506)|**[link](https://github.com/shan23chen/cross-care)**|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
-|**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
+|**2024-05-12**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
 |**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777](http://arxiv.org/abs/2405.04777)|null|
 |**2024-05-07**|**AffirmativeAI: Towards LGBTQ+ Friendly Audit Frameworks for Large Language Models**|Yinru Long et.al.|[2405.04652](http://arxiv.org/abs/2405.04652)|null|
 |**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|**[link](https://github.com/duygua/semeval2024_nli4ct)**|
