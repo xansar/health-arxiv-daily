@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
+|**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373](http://arxiv.org/abs/2405.08373)|null|
 |**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
 |**2024-05-13**|**Evaluating large language models in medical applications: a survey**|Xiaolan Chen et.al.|[2405.07468](http://arxiv.org/abs/2405.07468)|null|
 |**2024-05-10**|**A Global Data-Driven Model for The Hippocampus and Nucleus Accumbens of Rat From The Local Field Potential Recordings (LFP)**|Maedeh Sadeghi et.al.|[2405.06732](http://arxiv.org/abs/2405.06732)|null|
@@ -33,7 +35,7 @@
 |**2024-05-08**|**Empathy Through Multimodality in Conversational Interfaces**|Mahyar Abbasian et.al.|[2405.04777](http://arxiv.org/abs/2405.04777)|null|
 |**2024-05-07**|**AffirmativeAI: Towards LGBTQ+ Friendly Audit Frameworks for Large Language Models**|Yinru Long et.al.|[2405.04652](http://arxiv.org/abs/2405.04652)|null|
 |**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|**[link](https://github.com/duygua/semeval2024_nli4ct)**|
-|**2024-05-07**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963](http://arxiv.org/abs/2405.03963)|null|
+|**2024-05-14**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963](http://arxiv.org/abs/2405.03963)|null|
 |**2024-05-08**|**How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline**|Mohamed Yaseen Jabarulla et.al.|[2405.03359](http://arxiv.org/abs/2405.03359)|**[link](https://github.com/yaseen28/meddoc-bot)**|
 |**2024-05-06**|**Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**|Md Main Uddin Rony et.al.|[2405.03153](http://arxiv.org/abs/2405.03153)|null|
