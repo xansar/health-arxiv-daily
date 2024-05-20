@@ -235,7 +235,7 @@
 |**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749](http://arxiv.org/abs/2402.12749)|**[link](https://github.com/bids-xu-lab/me-llama)**|
 |**2024-02-19**|**LLM Agents for Psychology: A Study on Gamified Assessments**|Qisen Yang et.al.|[2402.12326](http://arxiv.org/abs/2402.12326)|null|
 |**2024-02-19**|**Automatic Evaluation for Mental Health Counseling using LLMs**|Anqi Li et.al.|[2402.11958](http://arxiv.org/abs/2402.11958)|null|
-|**2024-02-19**|**The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth**|Shir Lissak et.al.|[2402.11886](http://arxiv.org/abs/2402.11886)|null|
+|**2024-02-19**|**The Colorful Future of LLMs: Evaluating and Improving LLMs as Emotional Supporters for Queer Youth**|Shir Lissak et.al.|[2402.11886](http://arxiv.org/abs/2402.11886)|**[link](https://github.com/nitaytech/lgbteendataset)**|
 |**2024-02-19**|**NOTE: Notable generation Of patient Text summaries through Efficient approach based on direct preference optimization**|Imjin Ahn et.al.|[2402.11882](http://arxiv.org/abs/2402.11882)|null|
 |**2024-02-20**|**MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs**|Yavuz Faruk Bakman et.al.|[2402.11756](http://arxiv.org/abs/2402.11756)|**[link](https://github.com/ybakman/llm_uncertainity)**|
 |**2024-02-18**|**DictLLM: Harnessing Key-Value Data Structures with Large Language Models for Enhanced Medical Diagnostics**|YiQiu Guo et.al.|[2402.11481](http://arxiv.org/abs/2402.11481)|null|
