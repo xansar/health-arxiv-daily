@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Can AI Relate: Testing Large Language Model Response for Mental Health Support**|Saadia Gabriel et.al.|[2405.12021](http://arxiv.org/abs/2405.12021)|null|
+|**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640](http://arxiv.org/abs/2405.11640)|null|
+|**2024-05-18**|**Can Public LLMs be used for Self-Diagnosis of Medical Conditions ?**|Nikil Sharan Prabahar Balasubramanian et.al.|[2405.11407](http://arxiv.org/abs/2405.11407)|null|
+|**2024-05-18**|**Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments**|Sichang Tu et.al.|[2405.11178](http://arxiv.org/abs/2405.11178)|null|
+|**2024-05-17**|**From Generalist to Specialist: Improving Large Language Models for Medical Physics Using ARCoT**|Jace Grandinetti et.al.|[2405.11040](http://arxiv.org/abs/2405.11040)|null|
 |**2024-05-17**|**COGNET-MD, an evaluation framework and dataset for Large Language Model benchmarks in the medical domain**|Dimitrios P. Panagoulias et.al.|[2405.10893](http://arxiv.org/abs/2405.10893)|null|
 |**2024-05-16**|**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification**|Jinge Wu et.al.|[2405.10440](http://arxiv.org/abs/2405.10440)|null|
 |**2024-05-14**|**PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**|Satya K Gundabathula et.al.|[2405.08839](http://arxiv.org/abs/2405.08839)|null|
