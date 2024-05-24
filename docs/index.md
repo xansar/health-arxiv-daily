@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -27,7 +27,7 @@ layout: default
 |**2024-05-14**|**PromptMind Team at EHRSQL-2024: Improving Reliability of SQL Generation using Ensemble LLMs**|Satya K Gundabathula et.al.|[2405.08839](http://arxiv.org/abs/2405.08839)|null|
 |**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
 |**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373](http://arxiv.org/abs/2405.08373)|null|
-|**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
+|**2024-05-22**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
 |**2024-05-13**|**Evaluating large language models in medical applications: a survey**|Xiaolan Chen et.al.|[2405.07468](http://arxiv.org/abs/2405.07468)|null|
 |**2024-05-10**|**A Global Data-Driven Model for The Hippocampus and Nucleus Accumbens of Rat From The Local Field Potential Recordings (LFP)**|Maedeh Sadeghi et.al.|[2405.06732](http://arxiv.org/abs/2405.06732)|null|
 |**2024-05-09**|**Digital Diagnostics: The Potential Of Large Language Models In Recognizing Symptoms Of Common Illnesses**|Gaurav Kumar Gupta et.al.|[2405.06712](http://arxiv.org/abs/2405.06712)|null|
