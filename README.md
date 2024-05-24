@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
+|**2024-05-23**|**Exploring the use of a Large Language Model for data extraction in systematic reviews: a rapid feasibility study**|Lena Schmidt et.al.|[2405.14445](http://arxiv.org/abs/2405.14445)|null|
+|**2024-05-23**|**Multi-modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation**|Zhusi Zhong et.al.|[2405.14113](http://arxiv.org/abs/2405.14113)|null|
+|**2024-05-22**|**Sunnie: An Anthropomorphic LLM-Based Conversational Agent for Mental Well-Being Activity Recommendation**|Siyi Wu et.al.|[2405.13803](http://arxiv.org/abs/2405.13803)|null|
+|**2024-05-21**|**How Reliable AI Chatbots are for Disease Prediction from Patient Complaints?**|Ayesha Siddika Nipu et.al.|[2405.13219](http://arxiv.org/abs/2405.13219)|null|
+|**2024-05-20**|**Large language models for sentiment analysis of newspaper articles during COVID-19: The Guardian**|Rohitash Chandra et.al.|[2405.13056](http://arxiv.org/abs/2405.13056)|null|
+|**2024-05-20**|**Large Language Models for Medicine: A Survey**|Yanxin Zheng et.al.|[2405.13055](http://arxiv.org/abs/2405.13055)|null|
+|**2024-05-12**|**Understanding the Rare Inflammatory Disease Using Large Language Models and Social Media Data**|Nan Miles Xi et.al.|[2405.13005](http://arxiv.org/abs/2405.13005)|null|
 |**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701](http://arxiv.org/abs/2405.12701)|**[link](https://github.com/dmis-lab/olaph)**|
 |**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630](http://arxiv.org/abs/2405.12630)|null|
 |**2024-05-21**|**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**|Bufang Yang et.al.|[2405.12541](http://arxiv.org/abs/2405.12541)|null|
@@ -50,7 +58,7 @@
 |**2024-05-08**|**How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**MedDoc-Bot: A Chat Tool for Comparative Analysis of Large Language Models in the Context of the Pediatric Hypertension Guideline**|Mohamed Yaseen Jabarulla et.al.|[2405.03359](http://arxiv.org/abs/2405.03359)|**[link](https://github.com/yaseen28/meddoc-bot)**|
 |**2024-05-06**|**Exploring the Potential of the Large Language Models (LLMs) in Identifying Misleading News Headlines**|Md Main Uddin Rony et.al.|[2405.03153](http://arxiv.org/abs/2405.03153)|null|
-|**2024-05-05**|**A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)**|Lingyao Li et.al.|[2405.03066](http://arxiv.org/abs/2405.03066)|null|
+|**2024-05-22**|**A scoping review of using Large Language Models (LLMs) to investigate Electronic Health Records (EHRs)**|Lingyao Li et.al.|[2405.03066](http://arxiv.org/abs/2405.03066)|null|
 |**2024-05-05**|**Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**|Junkai Li et.al.|[2405.02957](http://arxiv.org/abs/2405.02957)|null|
 |**2024-05-05**|**Confidential and Protected Disease Classifier using Fully Homomorphic Encryption**|Aditya Malik et.al.|[2405.02790](http://arxiv.org/abs/2405.02790)|null|
 |**2024-05-04**|**A Literature Review and Framework for Human Evaluation of Generative Large Language Models in Healthcare**|Thomas Yu Chow Tam et.al.|[2405.02559](http://arxiv.org/abs/2405.02559)|null|
@@ -58,7 +66,7 @@
 |**2024-05-03**|**CRCL at SemEval-2024 Task 2: Simple prompt optimizations**|Clément Brutti-Mairesse et.al.|[2405.01942](http://arxiv.org/abs/2405.01942)|**[link](https://github.com/clementbm-clb/semeval-2024)**|
 |**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
 |**2024-05-02**|**Automatically Extracting Numerical Results from Randomized Controlled Trials with Large Language Models**|Hye Sun Yun et.al.|[2405.01686](http://arxiv.org/abs/2405.01686)|**[link](https://github.com/hyesunyun/llm-meta-analysis)**|
-|**2024-05-02**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
+|**2024-05-22**|**Leveraging Prompt-Learning for Structured Information Extraction from Crohn's Disease Radiology Reports in a Low-Resource Language**|Liam Hazan et.al.|[2405.01682](http://arxiv.org/abs/2405.01682)|null|
 |**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591](http://arxiv.org/abs/2405.01591)|null|
 |**2024-05-09**|**GPT-4 passes most of the 297 written Polish Board Certification Examinations**|Jakub Pokrywka et.al.|[2405.01589](http://arxiv.org/abs/2405.01589)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
