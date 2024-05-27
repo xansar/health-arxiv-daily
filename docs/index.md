@@ -286,7 +286,7 @@ layout: default
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127](http://arxiv.org/abs/2402.05127)|null|
 |**2024-02-05**|**Zero-Shot Clinical Trial Patient Matching with LLMs**|Michael Wornow et.al.|[2402.05125](http://arxiv.org/abs/2402.05125)|null|
 |**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
-|**2024-02-06**|**Measuring Implicit Bias in Explicitly Unbiased Large Language Models**|Xuechunzi Bai et.al.|[2402.04105](http://arxiv.org/abs/2402.04105)|null|
+|**2024-02-06**|**Measuring Implicit Bias in Explicitly Unbiased Large Language Models**|Xuechunzi Bai et.al.|[2402.04105](http://arxiv.org/abs/2402.04105)|**[link](https://github.com/baixuechunzi/llm-implicit-bias)**|
 |**2024-02-06**|**The Use of a Large Language Model for Cyberbullying Detection**|Bayode Ogunleye et.al.|[2402.04088](http://arxiv.org/abs/2402.04088)|null|
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
 |**2024-02-05**|**Psychological Assessments with Large Language Models: A Privacy-Focused and Cost-Effective Approach**|Sergi Blanco-Cuaresma et.al.|[2402.03435](http://arxiv.org/abs/2402.03435)|null|
@@ -460,7 +460,7 @@ layout: default
 |**2023-11-01**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956](http://arxiv.org/abs/2310.17956)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-31**|**Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting**|Benjamin Yan et.al.|[2310.17811](http://arxiv.org/abs/2310.17811)|null|
 |**2023-10-25**|**An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives**|Young Min Cho et.al.|[2310.17017](http://arxiv.org/abs/2310.17017)|**[link](https://github.com/jeffreych0/mental_chatbot_survey)**|
-|**2023-10-24**|**Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature**|Alejandro Lozano et.al.|[2310.16146](http://arxiv.org/abs/2310.16146)|null|
+|**2023-10-24**|**Clinfo.ai: An Open-Source Retrieval-Augmented Large Language Model System for Answering Medical Questions using Scientific Literature**|Alejandro Lozano et.al.|[2310.16146](http://arxiv.org/abs/2310.16146)|**[link](https://github.com/som-shahlab/clinfo.ai)**|
 |**2023-10-24**|**NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes**|Junda Wang et.al.|[2310.15959](http://arxiv.org/abs/2310.15959)|**[link](https://github.com/believewhat/dr.noteaid)**|
 |**2023-10-24**|**BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT**|Yirong Chen et.al.|[2310.15896](http://arxiv.org/abs/2310.15896)|**[link](https://github.com/scutcyr/bianque)**|
 |**2023-10-24**|**BLESS: Benchmarking Large Language Models on Sentence Simplification**|Tannon Kew et.al.|[2310.15773](http://arxiv.org/abs/2310.15773)|**[link](https://github.com/zurichnlp/bless)**|
