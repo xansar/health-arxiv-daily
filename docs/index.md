@@ -14,7 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766](http://arxiv.org/abs/2405.15766)|**[link](https://github.com/singhayush27/mmade)**|
+|**2024-05-26**|**Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models**|Jiankun Wang et.al.|[2405.16413](http://arxiv.org/abs/2405.16413)|null|
+|**2024-05-26**|**Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions**|Man Luo et.al.|[2405.16402](http://arxiv.org/abs/2405.16402)|null|
+|**2024-05-25**|**Comparative Analysis of Open-Source Language Models in Summarizing Medical Text Data**|Yuhao Chen et.al.|[2405.16295](http://arxiv.org/abs/2405.16295)|null|
+|**2024-05-20**|**Ensuring Ground Truth Accuracy in Healthcare with the EVINCE framework**|Edward Y. Chang et.al.|[2405.15808](http://arxiv.org/abs/2405.15808)|null|
+|**2024-05-27**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766](http://arxiv.org/abs/2405.15766)|**[link](https://github.com/singhayush27/mmade)**|
 |**2024-05-24**|**Efficient Reinforcement Learning via Large Language Model-based Search**|Siddhant Bhambri et.al.|[2405.15194](http://arxiv.org/abs/2405.15194)|null|
 |**2024-05-24**|**Generalizable and Scalable Multistage Biomedical Concept Normalization Leveraging Large Language Models**|Nicholas J Dobbins et.al.|[2405.15122](http://arxiv.org/abs/2405.15122)|null|
 |**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
