@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**|Anjanava Biswas et.al.|[2405.18346](http://arxiv.org/abs/2405.18346)|null|
+|**2024-05-28**|**Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**|Aryo Pradipta Gema et.al.|[2405.18028](http://arxiv.org/abs/2405.18028)|null|
+|**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004](http://arxiv.org/abs/2405.18004)|null|
 |**2024-05-26**|**Augmented Risk Prediction for the Onset of Alzheimer's Disease from Electronic Health Records with Large Language Models**|Jiankun Wang et.al.|[2405.16413](http://arxiv.org/abs/2405.16413)|null|
 |**2024-05-26**|**Assessing Empathy in Large Language Models with Real-World Physician-Patient Interactions**|Man Luo et.al.|[2405.16402](http://arxiv.org/abs/2405.16402)|null|
 |**2024-05-28**|**Comparative Analysis of Open-Source Language Models in Summarizing Medical Text Data**|Yuhao Chen et.al.|[2405.16295](http://arxiv.org/abs/2405.16295)|null|
