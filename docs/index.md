@@ -246,7 +246,7 @@ layout: default
 |**2024-02-24**|**Predicting Outcomes in Video Games with Long Short Term Memory Networks**|Kittimate Chulajata et.al.|[2402.15923](http://arxiv.org/abs/2402.15923)|**[link](https://github.com/kittimatechulajata/predicting-outcomes-in-two-player-games-with-lstm)**|
 |**2024-02-24**|**Leveraging ChatGPT in Pharmacovigilance Event Extraction: An Empirical Study**|Zhaoyue Sun et.al.|[2402.15663](http://arxiv.org/abs/2402.15663)|**[link](https://github.com/zhaoyuesun/phee-with-chatgpt)**|
 |**2024-02-23**|**Enhancing ICU Patient Recovery: Using LLMs to Assist Nurses in Diary Writing**|Samuel Kernan Freire et.al.|[2402.15205](http://arxiv.org/abs/2402.15205)|null|
-|**2024-02-21**|**Automatic Histograms: Leveraging Language Models for Text Dataset Exploration**|Emily Reif et.al.|[2402.14880](http://arxiv.org/abs/2402.14880)|null|
+|**2024-02-21**|**Automatic Histograms: Leveraging Language Models for Text Dataset Exploration**|Emily Reif et.al.|[2402.14880](http://arxiv.org/abs/2402.14880)|**[link](https://github.com/pair-code/auto-histograms)**|
 |**2024-02-20**|**A Dual-Prompting for Interpretable Mental Health Language Models**|Hyolim Jeon et.al.|[2402.14854](http://arxiv.org/abs/2402.14854)|null|
 |**2024-02-19**|**RJUA-MedDQA: A Multimodal Benchmark for Medical Document Question Answering and Clinical Reasoning**|Congyun Jin et.al.|[2402.14840](http://arxiv.org/abs/2402.14840)|null|
 |**2024-02-23**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
@@ -356,7 +356,7 @@ layout: default
 |**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310](http://arxiv.org/abs/2401.07310)|null|
 |**2024-01-13**|**EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records**|Wenqi Shi et.al.|[2401.07128](http://arxiv.org/abs/2401.07128)|**[link](https://github.com/wshi83/ehragent)**|
 |**2024-01-13**|**NHANES-GCP: Leveraging the Google Cloud Platform and BigQuery ML for reproducible machine learning with data from the National Health and Nutrition Examination Survey**|B. Ross Katz et.al.|[2401.06967](http://arxiv.org/abs/2401.06967)|**[link](https://github.com/in-vivo-group/nhanes-gcp)**|
-|**2024-01-12**|**Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data**|Yubin Kim et.al.|[2401.06866](http://arxiv.org/abs/2401.06866)|null|
+|**2024-01-12**|**Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data**|Yubin Kim et.al.|[2401.06866](http://arxiv.org/abs/2401.06866)|**[link](https://github.com/mitmedialab/health-llm)**|
 |**2023-12-12**|**Large language models in healthcare and medical domain: A review**|Zabir Al Nazi et.al.|[2401.06775](http://arxiv.org/abs/2401.06775)|null|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
 |**2024-01-11**|**EpilepsyLLM: Domain-Specific Large Language Model Fine-tuned with Epilepsy Medical Knowledge**|Xuyang Zhao et.al.|[2401.05908](http://arxiv.org/abs/2401.05908)|null|
