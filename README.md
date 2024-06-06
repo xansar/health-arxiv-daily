@@ -17,8 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Missci: Reconstructing Fallacies in Misrepresented Science**|Max Glockner et.al.|[2406.03181](http://arxiv.org/abs/2406.03181)|null|
+|**2024-06-05**|**MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge**|Yuxuan Zhou et.al.|[2406.02919](http://arxiv.org/abs/2406.02919)|**[link](https://github.com/thumlp/multifaceteval)**|
 |**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394](http://arxiv.org/abs/2406.02394)|**[link](https://github.com/maximegmd/glianorex-gen)**|
-|**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350](http://arxiv.org/abs/2406.02350)|**[link](https://github.com/stephen-smj/llamacare)**|
+|**2024-06-05**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350](http://arxiv.org/abs/2406.02350)|**[link](https://github.com/stephen-smj/llamacare)**|
 |**2024-06-04**|**Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study**|Martin J. Hetz et.al.|[2406.01428](http://arxiv.org/abs/2406.01428)|null|
 |**2024-06-03**|**TCMBench: A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine**|Wenjing Yue et.al.|[2406.01126](http://arxiv.org/abs/2406.01126)|null|
 |**2024-06-04**|**MEDIQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning**|Shuyue Stella Li et.al.|[2406.00922](http://arxiv.org/abs/2406.00922)|**[link](https://github.com/stellali7/mediq)**|
