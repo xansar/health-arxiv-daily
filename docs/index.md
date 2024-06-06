@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394](http://arxiv.org/abs/2406.02394)|null|
+|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394](http://arxiv.org/abs/2406.02394)|**[link](https://github.com/maximegmd/glianorex-gen)**|
 |**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350](http://arxiv.org/abs/2406.02350)|**[link](https://github.com/stephen-smj/llamacare)**|
 |**2024-06-04**|**Superhuman performance in urology board questions by an explainable large language model enabled for context integration of the European Association of Urology guidelines: the UroBot study**|Martin J. Hetz et.al.|[2406.01428](http://arxiv.org/abs/2406.01428)|null|
 |**2024-06-03**|**TCMBench: A Comprehensive Benchmark for Evaluating Large Language Models in Traditional Chinese Medicine**|Wenjing Yue et.al.|[2406.01126](http://arxiv.org/abs/2406.01126)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2024-05-29**|**Unlocking the Potential of Large Language Models for Clinical Text Anonymization: A Comparative Study**|David Pissarra et.al.|[2406.00062](http://arxiv.org/abs/2406.00062)|null|
 |**2024-05-27**|**EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling**|Yinghao Zhu et.al.|[2406.00036](http://arxiv.org/abs/2406.00036)|null|
 |**2024-05-22**|**KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization in EHR**|Hajung Kim et.al.|[2406.00014](http://arxiv.org/abs/2406.00014)|null|
-|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775](http://arxiv.org/abs/2405.20775)|null|
+|**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775](http://arxiv.org/abs/2405.20775)|**[link](https://github.com/dirtycomputer/o2m_attack)**|
 |**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585](http://arxiv.org/abs/2405.20585)|null|
 |**2024-05-30**|**PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals**|Ruiyi Wang et.al.|[2405.19660](http://arxiv.org/abs/2405.19660)|null|
 |**2024-05-30**|**Leveraging Open-Source Large Language Models for encoding Social Determinants of Health using an Intelligent Router**|Akul Goel et.al.|[2405.19631](http://arxiv.org/abs/2405.19631)|null|
