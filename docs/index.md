@@ -18,7 +18,7 @@ layout: default
 |**2024-06-06**|**UltraMedical: Building Specialized Generalists in Biomedicine**|Kaiyan Zhang et.al.|[2406.03949](http://arxiv.org/abs/2406.03949)|**[link](https://github.com/tsinghuac3i/ultramedical)**|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
 |**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|null|
-|**2024-06-06**|**M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering**|Anand Subramanian et.al.|[2406.03699](http://arxiv.org/abs/2406.03699)|null|
+|**2024-06-06**|**M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering**|Anand Subramanian et.al.|[2406.03699](http://arxiv.org/abs/2406.03699)|**[link](https://github.com/anand-subu/m-qalm)**|
 |**2024-06-05**|**Missci: Reconstructing Fallacies in Misrepresented Science**|Max Glockner et.al.|[2406.03181](http://arxiv.org/abs/2406.03181)|**[link](https://github.com/UKPLab/acl2024-missci)**|
 |**2024-06-05**|**MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge**|Yuxuan Zhou et.al.|[2406.02919](http://arxiv.org/abs/2406.02919)|**[link](https://github.com/thumlp/multifaceteval)**|
 |**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394](http://arxiv.org/abs/2406.02394)|**[link](https://github.com/maximegmd/glianorex-gen)**|
@@ -101,7 +101,7 @@ layout: default
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-04-27**|**Evaluating the Application of ChatGPT in Outpatient Triage Guidance: A Comparative Study**|Dou Liu et.al.|[2405.00728](http://arxiv.org/abs/2405.00728)|null|
 |**2024-04-25**|**Large Language Models in Healthcare: A Comprehensive Benchmark**|Andrew Liu et.al.|[2405.00716](http://arxiv.org/abs/2405.00716)|null|
-|**2024-04-25**|**Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation**|Hanyin Wang et.al.|[2405.00715](http://arxiv.org/abs/2405.00715)|null|
+|**2024-04-25**|**Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation**|Hanyin Wang et.al.|[2405.00715](http://arxiv.org/abs/2405.00715)|**[link](https://github.com/hanyin88/llama-clinic)**|
 |**2024-04-23**|**Interactive Analysis of LLMs using Meaningful Counterfactuals**|Furui Cheng et.al.|[2405.00708](http://arxiv.org/abs/2405.00708)|null|
 |**2024-05-15**|**"I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust**|Sunnie S. Y. Kim et.al.|[2405.00623](http://arxiv.org/abs/2405.00623)|null|
 |**2024-05-01**|**Enhancing Surgical Robots with Embodied Intelligence for Autonomous Ultrasound Scanning**|Huan Xu et.al.|[2405.00461](http://arxiv.org/abs/2405.00461)|null|
@@ -468,7 +468,7 @@ layout: default
 |**2023-11-16**|**Do Physicians Know How to Prompt? The Need for Automatic Prompt Optimization Help in Clinical Note Generation**|Zonghai Yao et.al.|[2311.09684](http://arxiv.org/abs/2311.09684)|null|
 |**2023-11-16**|**LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks**|Mihir Parmar et.al.|[2311.09564](http://arxiv.org/abs/2311.09564)|**[link](https://github.com/mihir3009/longbox)**|
 |**2023-11-12**|**Evaluating the Efficacy of Interactive Language Therapy Based on LLM for High-Functioning Autistic Adolescent Psychological Counseling**|Yujin Cho et.al.|[2311.09243](http://arxiv.org/abs/2311.09243)|null|
-|**2023-11-15**|**PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health**|Haoan Jin et.al.|[2311.09189](http://arxiv.org/abs/2311.09189)|null|
+|**2023-11-15**|**PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health**|Haoan Jin et.al.|[2311.09189](http://arxiv.org/abs/2311.09189)|**[link](https://github.com/kaguraruri/psy-eval)**|
 |**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
 |**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
