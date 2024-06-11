@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
+|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
+|**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435](http://arxiv.org/abs/2406.06435)|**[link](https://github.com/itm-kitware/llm-alignable-dm)**|
+|**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331](http://arxiv.org/abs/2406.06331)|null|
+|**2024-06-10**|**Synth-SBDH: A Synthetic Dataset of Social and Behavioral Determinants of Health for Clinical Text**|Avijit Mitra et.al.|[2406.06056](http://arxiv.org/abs/2406.06056)|**[link](https://github.com/avipartho/synth-sbdh)**|
+|**2024-06-10**|**Enhancing Food Safety in Supply Chains: The Potential Role of Large Language Models in Preventing Campylobacter Contamination**|Asaf Tzachor et.al.|[2406.06049](http://arxiv.org/abs/2406.06049)|null|
+|**2024-06-09**|**Zero-Shot End-To-End Spoken Question Answering In Medical Domain**|Yanis Labrak et.al.|[2406.05876](http://arxiv.org/abs/2406.05876)|null|
+|**2024-06-09**|**MedREQAL: Examining Medical Knowledge Recall of Large Language Models via Question Answering**|Juraj Vladika et.al.|[2406.05845](http://arxiv.org/abs/2406.05845)|null|
+|**2024-06-08**|**Aligning Human Knowledge with Visual Concepts Towards Explainable Medical Image Classification**|Yunhe Gao et.al.|[2406.05596](http://arxiv.org/abs/2406.05596)|null|
 |**2024-06-07**|**TCMD: A Traditional Chinese Medicine QA Dataset for Evaluating Large Language Models**|Ping Yu et.al.|[2406.04941](http://arxiv.org/abs/2406.04941)|null|
 |**2024-06-06**|**On The Persona-based Summarization of Domain-Specific Documents**|Ankan Mullick et.al.|[2406.03986](http://arxiv.org/abs/2406.03986)|**[link](https://github.com/ankan2/persona-healthcare)**|
 |**2024-06-06**|**UltraMedical: Building Specialized Generalists in Biomedicine**|Kaiyan Zhang et.al.|[2406.03949](http://arxiv.org/abs/2406.03949)|**[link](https://github.com/tsinghuac3i/ultramedical)**|
