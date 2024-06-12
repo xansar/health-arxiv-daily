@@ -14,8 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146](http://arxiv.org/abs/2406.07146)|null|
+|**2024-06-10**|**Large language models for generating rules, yay or nay?**|Shangeetha Sivasothy et.al.|[2406.06835](http://arxiv.org/abs/2406.06835)|null|
+|**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
+|**2024-06-09**|**LLM Questionnaire Completion for Automatic Psychiatric Assessment**|Gony Rosenman et.al.|[2406.06636](http://arxiv.org/abs/2406.06636)|null|
+|**2024-06-07**|**Transforming Dental Diagnostics with Artificial Intelligence: Advanced Integration of ChatGPT and Large Language Models for Patient Care**|Masoumeh Farhadi Nia et.al.|[2406.06616](http://arxiv.org/abs/2406.06616)|null|
+|**2024-06-03**|**MedFuzz: Exploring the Robustness of Large Language Models in Medical Question Answering**|Robert Osazuwa Ness et.al.|[2406.06573](http://arxiv.org/abs/2406.06573)|null|
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
-|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-11**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
 |**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
 |**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435](http://arxiv.org/abs/2406.06435)|**[link](https://github.com/itm-kitware/llm-alignable-dm)**|
 |**2024-06-10**|**MedExQA: Medical Question Answering Benchmark with Multiple Explanations**|Yunsoo Kim et.al.|[2406.06331](http://arxiv.org/abs/2406.06331)|null|
