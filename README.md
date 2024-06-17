@@ -245,7 +245,7 @@
 |**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|**[link](https://github.com/uva-dsa/ems-pipeline)**|
 |**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659](http://arxiv.org/abs/2403.06659)|null|
 |**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
-|**2024-03-11**|**Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds**|Jiageng WU et.al.|[2403.06609](http://arxiv.org/abs/2403.06609)|null|
+|**2024-03-11**|**Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds**|Jiageng WU et.al.|[2403.06609](http://arxiv.org/abs/2403.06609)|**[link](https://github.com/dragon-wu/icp-for-clinical-reasoning)**|
 |**2024-03-11**|**Can LLMs' Tuning Methods Work in Medical Multimodal Domain?**|Jiawei Chen et.al.|[2403.06407](http://arxiv.org/abs/2403.06407)|null|
 |**2024-03-10**|**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**|Shengxin Hong et.al.|[2403.06294](http://arxiv.org/abs/2403.06294)|null|
 |**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131](http://arxiv.org/abs/2403.06131)|null|
