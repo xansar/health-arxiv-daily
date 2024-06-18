@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|null|
+|**2024-06-17**|**Enhancing Biomedical Knowledge Retrieval-Augmented Generation with Self-Rewarding Tree Search and Proximal Policy Optimization**|Minda Hu et.al.|[2406.11258](http://arxiv.org/abs/2406.11258)|null|
+|**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
+|**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710](http://arxiv.org/abs/2406.10710)|null|
+|**2024-06-15**|**We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation**|Palash Moon et.al.|[2406.10561](http://arxiv.org/abs/2406.10561)|null|
+|**2024-06-15**|**CancerLLM: A Large Language Model in Cancer Domain**|Mingchen Li et.al.|[2406.10459](http://arxiv.org/abs/2406.10459)|null|
+|**2024-06-14**|**Improving the Validity and Practical Usefulness of AI/ML Evaluations Using an Estimands Framework**|Olivier Binette et.al.|[2406.10366](http://arxiv.org/abs/2406.10366)|null|
+|**2024-06-14**|**A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations**|Jinqiang Wang et.al.|[2406.10303](http://arxiv.org/abs/2406.10303)|null|
+|**2024-06-13**|**Automatically Labeling $200B Life-Saving Datasets: A Large Clinical Trial Outcome Benchmark**|Chufan Gao et.al.|[2406.10292](http://arxiv.org/abs/2406.10292)|null|
+|**2024-06-11**|**Beyond Words: On Large Language Models Actionability in Mission-Critical Risk Analysis**|Matteo Esposito et.al.|[2406.10273](http://arxiv.org/abs/2406.10273)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
 |**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923](http://arxiv.org/abs/2406.09923)|**[link](https://github.com/clibench/clibench)**|
 |**2024-06-13**|**Chain-of-Though (CoT) prompting strategies for medical error detection and correction**|Zhaolong Wu et.al.|[2406.09103](http://arxiv.org/abs/2406.09103)|null|
