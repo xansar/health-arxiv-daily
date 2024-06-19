@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|null|
+|**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|**[link](https://github.com/zhehengluoK/eval_empec)**|
 |**2024-06-17**|**Enhancing Biomedical Knowledge Retrieval-Augmented Generation with Self-Rewarding Tree Search and Proximal Policy Optimization**|Minda Hu et.al.|[2406.11258](http://arxiv.org/abs/2406.11258)|null|
 |**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
 |**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710](http://arxiv.org/abs/2406.10710)|null|
