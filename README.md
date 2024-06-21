@@ -17,15 +17,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
+|**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
+|**2024-06-19**|**The Efficacy of Conversational Artificial Intelligence in Rectifying the Theory of Mind and Autonomy Biases: Comparative Analysis**|Marcin Rządeczka et.al.|[2406.13813](http://arxiv.org/abs/2406.13813)|null|
+|**2024-06-19**|**Leveraging Large Language Models for Patient Engagement: The Power of Conversational AI in Digital Health**|Bo Wen et.al.|[2406.13659](http://arxiv.org/abs/2406.13659)|null|
+|**2024-06-19**|**Optimizing Psychological Counseling with Instruction-Tuned Large Language Models**|Wenjie Li et.al.|[2406.13617](http://arxiv.org/abs/2406.13617)|null|
+|**2024-06-19**|**Analyzing Diversity in Healthcare LLM Research: A Scientometric Perspective**|David Restrepo et.al.|[2406.13152](http://arxiv.org/abs/2406.13152)|null|
 |**2024-06-18**|**Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia**|Ankit Aich et.al.|[2406.12687](http://arxiv.org/abs/2406.12687)|null|
 |**2024-06-18**|**Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics**|Huan Xu et.al.|[2406.12651](http://arxiv.org/abs/2406.12651)|null|
 |**2024-06-18**|**Towards a Client-Centered Assessment of LLM Therapists by Client Simulation**|Jiashuo Wang et.al.|[2406.12266](http://arxiv.org/abs/2406.12266)|null|
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259](http://arxiv.org/abs/2406.12259)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
-|**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|null|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|**[link](https://github.com/bittermanlab/rabbits)**|
+|**2024-06-19**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
 |**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
-|**2024-06-17**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|null|
+|**2024-06-19**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|**[link](https://github.com/eternityyw/biaseval-llm-mentalhealth)**|
 |**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|**[link](https://github.com/zhehengluoK/eval_empec)**|
 |**2024-06-17**|**Enhancing Biomedical Knowledge Retrieval-Augmented Generation with Self-Rewarding Tree Search and Proximal Policy Optimization**|Minda Hu et.al.|[2406.11258](http://arxiv.org/abs/2406.11258)|null|
 |**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
