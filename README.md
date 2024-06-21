@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-06-18**|**Towards a Client-Centered Assessment of LLM Therapists by Client Simulation**|Jiashuo Wang et.al.|[2406.12266](http://arxiv.org/abs/2406.12266)|null|
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259](http://arxiv.org/abs/2406.12259)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
-|**2024-06-17**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|null|
+|**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|null|
 |**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
 |**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
 |**2024-06-17**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|null|
@@ -552,7 +552,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
