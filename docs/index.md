@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -22,7 +22,7 @@ layout: default
 |**2024-06-19**|**Analyzing Diversity in Healthcare LLM Research: A Scientometric Perspective**|David Restrepo et.al.|[2406.13152](http://arxiv.org/abs/2406.13152)|null|
 |**2024-06-18**|**Using LLMs to Aid Annotation and Collection of Clinically-Enriched Data in Bipolar Disorder and Schizophrenia**|Ankit Aich et.al.|[2406.12687](http://arxiv.org/abs/2406.12687)|null|
 |**2024-06-18**|**Transforming Surgical Interventions with Embodied Intelligence for Ultrasound Robotics**|Huan Xu et.al.|[2406.12651](http://arxiv.org/abs/2406.12651)|null|
-|**2024-06-18**|**Towards a Client-Centered Assessment of LLM Therapists by Client Simulation**|Jiashuo Wang et.al.|[2406.12266](http://arxiv.org/abs/2406.12266)|null|
+|**2024-06-20**|**Towards a Client-Centered Assessment of LLM Therapists by Client Simulation**|Jiashuo Wang et.al.|[2406.12266](http://arxiv.org/abs/2406.12266)|null|
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259](http://arxiv.org/abs/2406.12259)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
 |**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|**[link](https://github.com/bittermanlab/rabbits)**|
