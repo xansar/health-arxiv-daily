@@ -79,7 +79,7 @@ layout: default
 |**2024-05-22**|**KU-DMIS at EHRSQL 2024:Generating SQL query via question templatization in EHR**|Hajung Kim et.al.|[2406.00014](http://arxiv.org/abs/2406.00014)|null|
 |**2024-05-26**|**Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775](http://arxiv.org/abs/2405.20775)|**[link](https://github.com/dirtycomputer/o2m_attack)**|
 |**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585](http://arxiv.org/abs/2405.20585)|null|
-|**2024-05-30**|**PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals**|Ruiyi Wang et.al.|[2405.19660](http://arxiv.org/abs/2405.19660)|null|
+|**2024-05-30**|**PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals**|Ruiyi Wang et.al.|[2405.19660](http://arxiv.org/abs/2405.19660)|**[link](https://github.com/ruiyiw/patient-psi)**|
 |**2024-05-30**|**Leveraging Open-Source Large Language Models for encoding Social Determinants of Health using an Intelligent Router**|Akul Goel et.al.|[2405.19631](http://arxiv.org/abs/2405.19631)|null|
 |**2024-05-26**|**ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text**|Han Yu et.al.|[2405.19366](http://arxiv.org/abs/2405.19366)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
@@ -342,7 +342,7 @@ layout: default
 |**2024-02-10**|**DAEDRA: A language model for predicting outcomes in passive pharmacovigilance reporting**|Chris von Csefalvay et.al.|[2402.10951](http://arxiv.org/abs/2402.10951)|null|
 |**2024-02-09**|**Zero-shot Explainable Mental Health Analysis on Social Media by incorporating Mental Scales**|Wenyu Li et.al.|[2402.10948](http://arxiv.org/abs/2402.10948)|null|
 |**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
-|**2024-02-15**|**BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**|Yanis Labrak et.al.|[2402.10373](http://arxiv.org/abs/2402.10373)|null|
+|**2024-02-15**|**BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**|Yanis Labrak et.al.|[2402.10373](http://arxiv.org/abs/2402.10373)|**[link](https://github.com/biomistral/biomistral)**|
 |**2024-02-28**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153](http://arxiv.org/abs/2402.10153)|null|
 |**2024-02-15**|**Towards Reducing Diagnostic Errors with Interpretable Risk Prediction**|Denis Jered McInerney et.al.|[2402.10109](http://arxiv.org/abs/2402.10109)|null|
 |**2024-02-15**|**Fine-tuning Large Language Model (LLM) Artificial Intelligence Chatbots in Ophthalmology and LLM-based evaluation using GPT-4**|Ting Fang Tan et.al.|[2402.10083](http://arxiv.org/abs/2402.10083)|null|
@@ -427,7 +427,7 @@ layout: default
 |**2024-01-11**|**EpilepsyLLM: Domain-Specific Large Language Model Fine-tuned with Epilepsy Medical Knowledge**|Xuyang Zhao et.al.|[2401.05908](http://arxiv.org/abs/2401.05908)|null|
 |**2024-01-11**|**Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback**|Chengfeng Dou et.al.|[2401.05695](http://arxiv.org/abs/2401.05695)|null|
 |**2024-01-11**|**Towards Conversational Diagnostic AI**|Tao Tu et.al.|[2401.05654](http://arxiv.org/abs/2401.05654)|null|
-|**2024-01-18**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163](http://arxiv.org/abs/2401.05163)|null|
+|**2024-01-18**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163](http://arxiv.org/abs/2401.05163)|**[link](https://github.com/timmy-chan/miss)**|
 |**2024-01-01**|**Large Language Models in Mental Health Care: a Scoping Review**|Yining Hua et.al.|[2401.02984](http://arxiv.org/abs/2401.02984)|null|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
 |**2024-01-04**|**SPEER: Sentence-Level Planning of Long Clinical Summaries via Embedded Entity Retrieval**|Griffin Adams et.al.|[2401.02369](http://arxiv.org/abs/2401.02369)|null|
