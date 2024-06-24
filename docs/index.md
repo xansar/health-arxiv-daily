@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Exploring the Efficacy of Robotic Assistants with ChatGPT and Claude in Enhancing ADHD Therapy: Innovating Treatment Paradigms**|Santiago Berrezueta-Guzman et.al.|[2406.15198](http://arxiv.org/abs/2406.15198)|null|
+|**2024-06-21**|**Harnessing Knowledge Retrieval with Large Language Models for Clinical Report Error Correction**|Jinge Wu et.al.|[2406.15045](http://arxiv.org/abs/2406.15045)|null|
+|**2024-06-21**|**MedOdyssey: A Medical Domain Benchmark for Long Context Evaluation Up to 200K Tokens**|Yongqi Fan et.al.|[2406.15019](http://arxiv.org/abs/2406.15019)|**[link](https://github.com/johnny-fans/medodyssey)**|
+|**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981](http://arxiv.org/abs/2406.14981)|null|
+|**2024-06-21**|**70B-parameter large language models in Japanese medical question-answering**|Issey Sukeda et.al.|[2406.14882](http://arxiv.org/abs/2406.14882)|null|
+|**2024-06-21**|**Efficient Continual Pre-training by Mitigating the Stability Gap**|Yiduo Guo et.al.|[2406.14833](http://arxiv.org/abs/2406.14833)|null|
+|**2024-06-20**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780](http://arxiv.org/abs/2406.14780)|null|
+|**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757](http://arxiv.org/abs/2406.14757)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
 |**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 |**2024-06-19**|**The Efficacy of Conversational Artificial Intelligence in Rectifying the Theory of Mind and Autonomy Biases: Comparative Analysis**|Marcin Rządeczka et.al.|[2406.13813](http://arxiv.org/abs/2406.13813)|null|
@@ -44,7 +52,7 @@ layout: default
 |**2024-06-13**|**Chain-of-Though (CoT) prompting strategies for medical error detection and correction**|Zhaolong Wu et.al.|[2406.09103](http://arxiv.org/abs/2406.09103)|null|
 |**2024-06-13**|**Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations**|Jun-Woo Kim et.al.|[2406.08718](http://arxiv.org/abs/2406.08718)|null|
 |**2024-06-12**|**Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization**|Fengxiao Tang et.al.|[2406.08305](http://arxiv.org/abs/2406.08305)|null|
-|**2024-06-10**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
+|**2024-06-18**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
 |**2024-06-12**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146](http://arxiv.org/abs/2406.07146)|null|
 |**2024-06-10**|**Large language models for generating rules, yay or nay?**|Shangeetha Sivasothy et.al.|[2406.06835](http://arxiv.org/abs/2406.06835)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
