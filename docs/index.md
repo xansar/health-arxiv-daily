@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
+|**2024-06-23**|**Effectiveness of ChatGPT in explaining complex medical reports to patients**|Mengxuan Sun et.al.|[2406.15963](http://arxiv.org/abs/2406.15963)|null|
+|**2024-06-22**|**Real-time Speech Summarization for Medical Conversations**|Khai Le-Duc et.al.|[2406.15888](http://arxiv.org/abs/2406.15888)|**[link](https://github.com/leduckhai/multimed)**|
+|**2024-06-16**|**WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist**|Chenyu Ren et.al.|[2406.15474](http://arxiv.org/abs/2406.15474)|null|
+|**2024-06-15**|**Mental Disorder Classification via Temporal Representation of Text**|Raja Kumar et.al.|[2406.15470](http://arxiv.org/abs/2406.15470)|null|
 |**2024-06-21**|**Exploring the Efficacy of Robotic Assistants with ChatGPT and Claude in Enhancing ADHD Therapy: Innovating Treatment Paradigms**|Santiago Berrezueta-Guzman et.al.|[2406.15198](http://arxiv.org/abs/2406.15198)|null|
 |**2024-06-21**|**Harnessing Knowledge Retrieval with Large Language Models for Clinical Report Error Correction**|Jinge Wu et.al.|[2406.15045](http://arxiv.org/abs/2406.15045)|null|
 |**2024-06-21**|**MedOdyssey: A Medical Domain Benchmark for Long Context Evaluation Up to 200K Tokens**|Yongqi Fan et.al.|[2406.15019](http://arxiv.org/abs/2406.15019)|**[link](https://github.com/johnny-fans/medodyssey)**|
@@ -24,7 +29,7 @@ layout: default
 |**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757](http://arxiv.org/abs/2406.14757)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
 |**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
-|**2024-06-19**|**The Efficacy of Conversational Artificial Intelligence in Rectifying the Theory of Mind and Autonomy Biases: Comparative Analysis**|Marcin Rządeczka et.al.|[2406.13813](http://arxiv.org/abs/2406.13813)|null|
+|**2024-06-24**|**The Efficacy of Conversational Artificial Intelligence in Rectifying the Theory of Mind and Autonomy Biases: Comparative Analysis**|Marcin Rządeczka et.al.|[2406.13813](http://arxiv.org/abs/2406.13813)|null|
 |**2024-06-19**|**Leveraging Large Language Models for Patient Engagement: The Power of Conversational AI in Digital Health**|Bo Wen et.al.|[2406.13659](http://arxiv.org/abs/2406.13659)|null|
 |**2024-06-19**|**Optimizing Psychological Counseling with Instruction-Tuned Large Language Models**|Wenjie Li et.al.|[2406.13617](http://arxiv.org/abs/2406.13617)|null|
 |**2024-06-19**|**Analyzing Diversity in Healthcare LLM Research: A Scientometric Perspective**|David Restrepo et.al.|[2406.13152](http://arxiv.org/abs/2406.13152)|null|
