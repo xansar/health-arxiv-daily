@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-24**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
+|**2024-06-25**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
 |**2024-06-23**|**Effectiveness of ChatGPT in explaining complex medical reports to patients**|Mengxuan Sun et.al.|[2406.15963](http://arxiv.org/abs/2406.15963)|null|
 |**2024-06-22**|**Real-time Speech Summarization for Medical Conversations**|Khai Le-Duc et.al.|[2406.15888](http://arxiv.org/abs/2406.15888)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-06-16**|**WundtGPT: Shaping Large Language Models To Be An Empathetic, Proactive Psychologist**|Chenyu Ren et.al.|[2406.15474](http://arxiv.org/abs/2406.15474)|null|
