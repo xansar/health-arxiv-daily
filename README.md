@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
+|**2024-06-25**|**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**|Yusheng Liao et.al.|[2406.17484](http://arxiv.org/abs/2406.17484)|null|
 |**2024-06-25**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
 |**2024-06-23**|**Effectiveness of ChatGPT in explaining complex medical reports to patients**|Mengxuan Sun et.al.|[2406.15963](http://arxiv.org/abs/2406.15963)|null|
 |**2024-06-22**|**Real-time Speech Summarization for Medical Conversations**|Khai Le-Duc et.al.|[2406.15888](http://arxiv.org/abs/2406.15888)|**[link](https://github.com/leduckhai/multimed)**|
@@ -43,7 +45,7 @@
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
 |**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|**[link](https://github.com/bittermanlab/rabbits)**|
 |**2024-06-19**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
-|**2024-06-17**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
+|**2024-06-25**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
 |**2024-06-19**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|**[link](https://github.com/eternityyw/biaseval-llm-mentalhealth)**|
 |**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|**[link](https://github.com/zhehengluoK/eval_empec)**|
 |**2024-06-17**|**Enhancing Biomedical Knowledge Retrieval-Augmented Generation with Self-Rewarding Tree Search and Proximal Policy Optimization**|Minda Hu et.al.|[2406.11258](http://arxiv.org/abs/2406.11258)|null|
