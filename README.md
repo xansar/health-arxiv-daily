@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049](http://arxiv.org/abs/2406.18049)|null|
+|**2024-06-26**|**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**|Wenya Xie et.al.|[2406.18034](http://arxiv.org/abs/2406.18034)|null|
+|**2024-06-26**|**Automated Clinical Data Extraction with Knowledge Conditioned LLMs**|Diya Li et.al.|[2406.18027](http://arxiv.org/abs/2406.18027)|null|
+|**2024-06-26**|**Multi-step Knowledge Retrieval and Inference over Unstructured Data**|Aditya Kalyanpur et.al.|[2406.17987](http://arxiv.org/abs/2406.17987)|null|
 |**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
 |**2024-06-25**|**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**|Yusheng Liao et.al.|[2406.17484](http://arxiv.org/abs/2406.17484)|null|
 |**2024-06-25**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
