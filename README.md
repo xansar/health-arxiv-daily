@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-27**|**PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models**|Cathy Mengying Fang et.al.|[2406.19283](http://arxiv.org/abs/2406.19283)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-26**|**Improving Entity Recognition Using Ensembles of Deep Learning and Fine-tuned Large Language Models: A Case Study on Adverse Event Extraction from Multiple Sources**|Yiming Li et.al.|[2406.18049](http://arxiv.org/abs/2406.18049)|null|
 |**2024-06-26**|**LLMs for Doctors: Leveraging Medical LLMs to Assist Doctors, Not Replace Them**|Wenya Xie et.al.|[2406.18034](http://arxiv.org/abs/2406.18034)|null|
 |**2024-06-26**|**Automated Clinical Data Extraction with Knowledge Conditioned LLMs**|Diya Li et.al.|[2406.18027](http://arxiv.org/abs/2406.18027)|null|
@@ -50,7 +50,7 @@
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259](http://arxiv.org/abs/2406.12259)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
 |**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|**[link](https://github.com/bittermanlab/rabbits)**|
-|**2024-06-19**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-28**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
 |**2024-06-27**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
 |**2024-06-19**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|**[link](https://github.com/eternityyw/biaseval-llm-mentalhealth)**|
 |**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|**[link](https://github.com/zhehengluoK/eval_empec)**|
@@ -579,7 +579,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
