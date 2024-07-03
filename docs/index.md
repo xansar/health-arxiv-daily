@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -34,7 +34,7 @@ layout: default
 |**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981](http://arxiv.org/abs/2406.14981)|**[link](https://github.com/nikozoe/human_ai_collectives)**|
 |**2024-06-21**|**70B-parameter large language models in Japanese medical question-answering**|Issey Sukeda et.al.|[2406.14882](http://arxiv.org/abs/2406.14882)|null|
 |**2024-06-27**|**Efficient Continual Pre-training by Mitigating the Stability Gap**|Yiduo Guo et.al.|[2406.14833](http://arxiv.org/abs/2406.14833)|null|
-|**2024-06-20**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780](http://arxiv.org/abs/2406.14780)|null|
+|**2024-07-01**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780](http://arxiv.org/abs/2406.14780)|null|
 |**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757](http://arxiv.org/abs/2406.14757)|null|
 |**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
 |**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
