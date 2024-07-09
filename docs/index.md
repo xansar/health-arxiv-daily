@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -37,7 +37,7 @@ layout: default
 |**2024-06-26**|**Automated Clinical Data Extraction with Knowledge Conditioned LLMs**|Diya Li et.al.|[2406.18027](http://arxiv.org/abs/2406.18027)|null|
 |**2024-06-26**|**Multi-step Knowledge Retrieval and Inference over Unstructured Data**|Aditya Kalyanpur et.al.|[2406.17987](http://arxiv.org/abs/2406.17987)|null|
 |**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
-|**2024-06-25**|**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**|Yusheng Liao et.al.|[2406.17484](http://arxiv.org/abs/2406.17484)|null|
+|**2024-07-06**|**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**|Yusheng Liao et.al.|[2406.17484](http://arxiv.org/abs/2406.17484)|null|
 |**2024-06-25**|**Graph-Augmented LLMs for Personalized Health Insights: A Case Study in Sleep Analysis**|Ajan Subramanian et.al.|[2406.16252](http://arxiv.org/abs/2406.16252)|null|
 |**2024-06-23**|**Effectiveness of ChatGPT in explaining complex medical reports to patients**|Mengxuan Sun et.al.|[2406.15963](http://arxiv.org/abs/2406.15963)|null|
 |**2024-06-22**|**Real-time Speech Summarization for Medical Conversations**|Khai Le-Duc et.al.|[2406.15888](http://arxiv.org/abs/2406.15888)|**[link](https://github.com/leduckhai/multimed)**|
