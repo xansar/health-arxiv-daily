@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## HealthLLM
@@ -17,10 +17,10 @@ layout: default
 |**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125](http://arxiv.org/abs/2407.06125)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
 |**2024-07-08**|**PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation**|Jinpeng Hu et.al.|[2407.05721](http://arxiv.org/abs/2407.05721)|null|
-|**2024-07-07**|**CLIMB: A Benchmark of Clinical Bias in Large Language Models**|Yubo Zhang et.al.|[2407.05250](http://arxiv.org/abs/2407.05250)|null|
+|**2024-07-07**|**CLIMB: A Benchmark of Clinical Bias in Large Language Models**|Yubo Zhang et.al.|[2407.05250](http://arxiv.org/abs/2407.05250)|**[link](https://github.com/uscnlp-lime/climb)**|
 |**2024-07-06**|**Leveraging Task-Specific Knowledge from LLM for Semi-Supervised 3D Medical Image Segmentation**|Suruchi Kumari et.al.|[2407.05088](http://arxiv.org/abs/2407.05088)|null|
 |**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
-|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466](http://arxiv.org/abs/2407.04466)|null|
+|**2024-07-05**|**Using LLMs to label medical papers according to the CIViC evidence model**|Markus Hisch et.al.|[2407.04466](http://arxiv.org/abs/2407.04466)|**[link](https://github.com/GMahlerTheTragic/civic)**|
 |**2024-07-04**|**Query-Guided Self-Supervised Summarization of Nursing Notes**|Ya Gao et.al.|[2407.04125](http://arxiv.org/abs/2407.04125)|null|
 |**2024-07-04**|**Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval**|Kazuaki Furumai et.al.|[2407.03585](http://arxiv.org/abs/2407.03585)|null|
 |**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|**[link](https://github.com/coding-groot/cactus)**|
