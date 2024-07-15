@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|null|
+|**2024-07-12**|**STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs**|Yiheng Huang et.al.|[2407.09096](http://arxiv.org/abs/2407.09096)|null|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
 |**2024-07-11**|**Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**|Tianyi Zhang et.al.|[2407.08240](http://arxiv.org/abs/2407.08240)|null|
 |**2024-07-11**|**DALL-M: Context-Aware Clinical Data Augmentation with LLMs**|Chihcheng Hsieh et.al.|[2407.08227](http://arxiv.org/abs/2407.08227)|**[link](https://github.com/chihchenghsieh/dall-m)**|
