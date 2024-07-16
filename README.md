@@ -17,7 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|null|
+|**2024-07-15**|**Interpretability analysis on a pathology foundation model reveals biologically relevant embeddings across modalities**|Nhat Le et.al.|[2407.10785](http://arxiv.org/abs/2407.10785)|null|
+|**2024-07-15**|**TCM-FTP: Fine-Tuning Large Language Models for Herbal Prescription Prediction**|Xingzhi Zhou et.al.|[2407.10510](http://arxiv.org/abs/2407.10510)|null|
+|**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
+|**2024-07-13**|**Causality extraction from medical text using Large Language Models (LLMs)**|Seethalakshmi Gopalakrishnan et.al.|[2407.10020](http://arxiv.org/abs/2407.10020)|null|
+|**2024-07-13**|**PFPs: Prompt-guided Flexible Pathological Segmentation for Diverse Potential Outcomes Using Large Vision and Language Models**|Can Cui et.al.|[2407.09979](http://arxiv.org/abs/2407.09979)|null|
+|**2024-07-12**|**Large Language Models for Integrating Social Determinant of Health Data: A Case Study on Heart Failure 30-Day Readmission Prediction**|Chase Fensore et.al.|[2407.09688](http://arxiv.org/abs/2407.09688)|null|
+|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|**[link](https://github.com/alceballosa/clin-robust)**|
 |**2024-07-12**|**STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs**|Yiheng Huang et.al.|[2407.09096](http://arxiv.org/abs/2407.09096)|null|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
 |**2024-07-11**|**Leveraging LLMs to Predict Affective States via Smartphone Sensor Features**|Tianyi Zhang et.al.|[2407.08240](http://arxiv.org/abs/2407.08240)|null|
@@ -43,7 +49,7 @@
 |**2024-07-02**|**Supporters and Skeptics: LLM-based Analysis of Engagement with Mental Health (Mis)Information Content on Video-sharing Platforms**|Viet Cuong Nguyen et.al.|[2407.02662](http://arxiv.org/abs/2407.02662)|null|
 |**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|null|
 |**2024-06-29**|**Potential Renovation of Information Search Process with the Power of Large Language Model for Healthcare**|Forhan Bin Emdad et.al.|[2407.01627](http://arxiv.org/abs/2407.01627)|null|
-|**2024-07-01**|**Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles**|Ryan Louie et.al.|[2407.00870](http://arxiv.org/abs/2407.00870)|null|
+|**2024-07-14**|**Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles**|Ryan Louie et.al.|[2407.00870](http://arxiv.org/abs/2407.00870)|null|
 |**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731](http://arxiv.org/abs/2407.00731)|null|
 |**2024-06-29**|**Answering real-world clinical questions using large language model based systems**|Yen Sia Low et.al.|[2407.00541](http://arxiv.org/abs/2407.00541)|null|
 |**2024-06-29**|**ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees**|Zhiyuan Wang et.al.|[2407.00499](http://arxiv.org/abs/2407.00499)|null|
