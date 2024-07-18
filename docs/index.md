@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Fernández-Pichel Marcos et.al.|[2407.12468](http://arxiv.org/abs/2407.12468)|null|
+|**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
+|**2024-07-17**|**A foundation model approach to guide antimicrobial peptide design in the era of artificial intelligence driven scientific discovery**|Jike Wang et.al.|[2407.12296](http://arxiv.org/abs/2407.12296)|null|
+|**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
+|**2024-06-30**|**Evaluation of Bias Towards Medical Professionals in Large Language Models**|Xi Chen et.al.|[2407.12031](http://arxiv.org/abs/2407.12031)|null|
 |**2024-07-16**|**Schema Matching with Large Language Models: an Experimental Study**|Marcel Parciak et.al.|[2407.11852](http://arxiv.org/abs/2407.11852)|**[link](https://github.com/uhasselt-dsi-data-systems-lab/code-schema-matching-llms-artefacs)**|
 |**2024-07-17**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686](http://arxiv.org/abs/2407.11686)|null|
 |**2024-07-16**|**Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise**|Qimin Yang et.al.|[2407.11536](http://arxiv.org/abs/2407.11536)|null|
