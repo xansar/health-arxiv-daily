@@ -14,7 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-17**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Fernández-Pichel Marcos et.al.|[2407.12468](http://arxiv.org/abs/2407.12468)|null|
+|**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
+|**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|null|
+|**2024-07-18**|**End-To-End Clinical Trial Matching with Large Language Models**|Dyke Ferber et.al.|[2407.13463](http://arxiv.org/abs/2407.13463)|null|
+|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|null|
+|**2024-07-18**|**TrialEnroll: Predicting Clinical Trial Enrollment Success with Deep & Cross Network and Large Language Models**|Ling Yue et.al.|[2407.13115](http://arxiv.org/abs/2407.13115)|null|
+|**2024-07-03**|**Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness**|Harsh Kumar et.al.|[2407.13067](http://arxiv.org/abs/2407.13067)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|null|
+|**2024-07-06**|**Large language models are good medical coders, if provided with tools**|Keith Kwan et.al.|[2407.12849](http://arxiv.org/abs/2407.12849)|**[link](https://github.com/ainativehealth/goodmedicalcoder)**|
+|**2024-07-04**|**NutriBench: A Dataset for Evaluating Large Language Models in Carbohydrate Estimation from Meal Descriptions**|Andong Hua et.al.|[2407.12843](http://arxiv.org/abs/2407.12843)|null|
+|**2024-07-02**|**Lightweight Large Language Model for Medication Enquiry: Med-Pal**|Kabilan Elangovan et.al.|[2407.12822](http://arxiv.org/abs/2407.12822)|null|
+|**2024-07-18**|**Search Engines, LLMs or Both? Evaluating Information Seeking Strategies for Answering Health Questions**|Marcos Fernández-Pichel et.al.|[2407.12468](http://arxiv.org/abs/2407.12468)|null|
 |**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
 |**2024-07-17**|**A foundation model approach to guide antimicrobial peptide design in the era of artificial intelligence driven scientific discovery**|Jike Wang et.al.|[2407.12296](http://arxiv.org/abs/2407.12296)|null|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
