@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Automatic Classification of News Subjects in Broadcast News: Application to a Gender Bias Representation Analysis**|Valentin Pelloin et.al.|[2407.14180](http://arxiv.org/abs/2407.14180)|**[link](https://github.com/ina-foss/is24_news_topic)**|
+|**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076](http://arxiv.org/abs/2407.14076)|null|
+|**2024-07-19**|**Clinical Reading Comprehension with Encoder-Decoder Models Enhanced by Direct Preference Optimization**|Md Sultan Al Nahian et.al.|[2407.14000](http://arxiv.org/abs/2407.14000)|null|
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|**[link](https://github.com/samyateia/bioasq2024)**|
 |**2024-07-18**|**End-To-End Clinical Trial Matching with Large Language Models**|Dyke Ferber et.al.|[2407.13463](http://arxiv.org/abs/2407.13463)|null|
