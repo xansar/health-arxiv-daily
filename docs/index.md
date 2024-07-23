@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-21**|**A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech**|Gaurav Verma et.al.|[2407.15227](http://arxiv.org/abs/2407.15227)|null|
+|**2024-07-19**|**CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models**|Rikhiya Ghosh et.al.|[2407.14640](http://arxiv.org/abs/2407.14640)|null|
+|**2024-07-19**|**Adversarial Databases Improve Success in Retrieval-based Large Language Models**|Sean Wu et.al.|[2407.14609](http://arxiv.org/abs/2407.14609)|null|
 |**2024-07-19**|**Automatic Classification of News Subjects in Broadcast News: Application to a Gender Bias Representation Analysis**|Valentin Pelloin et.al.|[2407.14180](http://arxiv.org/abs/2407.14180)|**[link](https://github.com/ina-foss/is24_news_topic)**|
 |**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076](http://arxiv.org/abs/2407.14076)|null|
 |**2024-07-19**|**Clinical Reading Comprehension with Encoder-Decoder Models Enhanced by Direct Preference Optimization**|Md Sultan Al Nahian et.al.|[2407.14000](http://arxiv.org/abs/2407.14000)|null|
