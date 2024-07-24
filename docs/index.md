@@ -10,12 +10,12 @@ layout: default
 ## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
-[toc]
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#healthllm>HealthLLM</a></li>
-    <li><a href=#uncertaintyllm>UncertaintyLLM</a></li>
+    <li><a href="#healthllm">HealthLLM</a></li>
+    <li><a href="#uncertaintyllm">UncertaintyLLM</a></li>
   </ol>
 </details>
 
