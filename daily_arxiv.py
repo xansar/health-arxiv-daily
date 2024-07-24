@@ -321,7 +321,7 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                f.write(f"    <li><a href=\"#{kw.lower()}\">{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
