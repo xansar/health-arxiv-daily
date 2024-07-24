@@ -10,6 +10,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#healthllm>HealthLLM</a></li>
+    <li><a href=#uncertaintyllm>UncertaintyLLM</a></li>
   </ol>
 </details>
 
@@ -643,6 +644,63 @@
 |**2023-10-16**|**JMedLoRA:Medical Domain Adaptation on Japanese Large Language Models using Instruction-tuning**|Issey Sukeda et.al.|[2310.10083](http://arxiv.org/abs/2310.10083)|null|
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
+
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+
+## UncertaintyLLM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|null|
+|**2024-07-22**|**MAVEN-Fact: A Large-scale Event Factuality Detection Dataset**|Chunyang Li et.al.|[2407.15352](http://arxiv.org/abs/2407.15352)|**[link](https://github.com/lcy2723/maven-fact)**|
+|**2024-07-20**|**Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models**|Ze Yu Zhang et.al.|[2407.14845](http://arxiv.org/abs/2407.14845)|null|
+|**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
+|**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
+|**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|**[link](https://gitlab.com/anonymousdot/codefeater)**|
+|**2024-07-18**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
+|**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
+|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|null|
+|**2024-07-19**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
+|**2024-07-19**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193](http://arxiv.org/abs/2407.13193)|null|
+|**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
+|**2024-07-17**|**Halu-J: Critique-Based Hallucination Judge**|Binjie Wang et.al.|[2407.12943](http://arxiv.org/abs/2407.12943)|**[link](https://github.com/gair-nlp/factool)**|
+|**2024-07-17**|**Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**|Nicolas Richet et.al.|[2407.12927](http://arxiv.org/abs/2407.12927)|**[link](https://github.com/nicolas-richet/feature-vs-text-compound-emotion)**|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|null|
+|**2024-07-17**|**LLM-based query paraphrasing for video search**|Jiaxin Wu et.al.|[2407.12341](http://arxiv.org/abs/2407.12341)|null|
+|**2024-07-17**|**Optimizing Query Generation for Enhanced Document Retrieval in RAG**|Hamin Koo et.al.|[2407.12325](http://arxiv.org/abs/2407.12325)|null|
+|**2024-07-11**|**NinjaLLM: Fast, Scalable and Cost-effective RAG using Amazon SageMaker and AWS Trainium and Inferentia2**|Tengfei Xue et.al.|[2407.12057](http://arxiv.org/abs/2407.12057)|null|
+|**2024-07-16**|**What's Wrong? Refining Meeting Summaries with LLM Feedback**|Frederic Kirstein et.al.|[2407.11919](http://arxiv.org/abs/2407.11919)|null|
+|**2024-07-16**|**LoFTI: Localization and Factuality Transfer to Indian Locales**|Sona Elza Simon et.al.|[2407.11833](http://arxiv.org/abs/2407.11833)|**[link](https://github.com/csalt-research/lofti)**|
+|**2024-07-16**|**A Framework for Evaluating Appropriateness, Trustworthiness, and Safety in Mental Wellness AI Chatbots**|Lucia Chen et.al.|[2407.11387](http://arxiv.org/abs/2407.11387)|null|
+|**2024-07-19**|**Uncertainty is Fragile: Manipulating Uncertainty in Large Language Models**|Qingcheng Zeng et.al.|[2407.11282](http://arxiv.org/abs/2407.11282)|**[link](https://github.com/qcznlp/uncertainty_attack)**|
+|**2024-07-15**|**AstroMLab 1: Who Wins Astronomy Jeopardy!?**|Yuan-Sen Ting et.al.|[2407.11194](http://arxiv.org/abs/2407.11194)|null|
+|**2024-07-15**|**Inertial Confinement Fusion Forecasting via LLMs**|Mingkai Chen et.al.|[2407.11098](http://arxiv.org/abs/2407.11098)|null|
+|**2024-07-15**|**Leveraging LLM-Respondents for Item Evaluation: a Psychometric Analysis**|Yunting Liu et.al.|[2407.10899](http://arxiv.org/abs/2407.10899)|null|
+|**2024-07-15**|**MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs**|Quang H. Nguyen et.al.|[2407.10834](http://arxiv.org/abs/2407.10834)|null|
+|**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805](http://arxiv.org/abs/2407.10805)|null|
+|**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|null|
+|**2024-07-15**|**CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses**|Jing Yao et.al.|[2407.10725](http://arxiv.org/abs/2407.10725)|null|
+|**2024-07-15**|**Cutting Through the Clutter: The Potential of LLMs for Efficient Filtration in Systematic Literature Reviews**|Lucas Joos et.al.|[2407.10652](http://arxiv.org/abs/2407.10652)|null|
+|**2024-07-14**|**GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?**|Barah Fazili et.al.|[2407.10245](http://arxiv.org/abs/2407.10245)|null|
+|**2024-07-14**|**Look Within, Why LLMs Hallucinate: A Causal Perspective**|He Li et.al.|[2407.10153](http://arxiv.org/abs/2407.10153)|null|
+|**2024-07-13**|**Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated Dialogues**|KuanChao Chu et.al.|[2407.09897](http://arxiv.org/abs/2407.09897)|null|
+|**2024-07-13**|**Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks**|Shengbin Yue et.al.|[2407.09893](http://arxiv.org/abs/2407.09893)|**[link](https://github.com/yueshengbin/SMART)**|
+|**2024-07-13**|**On Mitigating Code LLM Hallucinations with API Documentation**|Nihal Jain et.al.|[2407.09726](http://arxiv.org/abs/2407.09726)|null|
+|**2024-07-22**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417](http://arxiv.org/abs/2407.09417)|**[link](https://github.com/oneal2000/entityhallucination)**|
+|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394](http://arxiv.org/abs/2407.09394)|**[link](https://github.com/padas-lab-de/PersonaRAG)**|
+|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283](http://arxiv.org/abs/2407.09283)|null|
+|**2024-07-12**|**The Two Sides of the Coin: Hallucination Generation and Detection with LLMs as Evaluators for LLMs**|Anh Thu Maria Bui et.al.|[2407.09152](http://arxiv.org/abs/2407.09152)|null|
+|**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
+|**2024-07-12**|**Towards More Trustworthy and Interpretable LLMs for Code through Syntax-Grounded Explanations**|David N. Palacio et.al.|[2407.08983](http://arxiv.org/abs/2407.08983)|null|
+|**2024-07-15**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940](http://arxiv.org/abs/2407.08940)|**[link](https://github.com/tsinghuac3i/llm4biohypogen)**|
+|**2024-07-12**|**Leveraging large language models for nano synthesis mechanism explanation: solid foundations or mere conjectures?**|Yingming Pu et.al.|[2407.08922](http://arxiv.org/abs/2407.08922)|**[link](https://github.com/Dandelionym/llm_for_mechanisms)**|
+|**2024-07-11**|**Evaluating Nuanced Bias in Large Language Model Free Response Answers**|Jennifer Healey et.al.|[2407.08842](http://arxiv.org/abs/2407.08842)|null|
+|**2024-07-11**|**Proving that Cryptic Crossword Clue Answers are Correct**|Martin Andrews et.al.|[2407.08824](http://arxiv.org/abs/2407.08824)|**[link](https://github.com/mdda/cryptic-wordplay)**|
+|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
+|**2024-07-11**|**$β$-DPO: Direct Preference Optimization with Dynamic $β$**|Junkang Wu et.al.|[2407.08639](http://arxiv.org/abs/2407.08639)|**[link](https://github.com/junkangwu/beta-dpo)**|
+|**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
+|**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
+|**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
 <p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
