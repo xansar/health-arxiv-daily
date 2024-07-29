@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -675,7 +675,7 @@ layout: default
 |**2024-07-23**|**LawLuo: A Chinese Law Firm Co-run by LLM Agents**|Jingyun Sun et.al.|[2407.16252](http://arxiv.org/abs/2407.16252)|**[link](https://github.com/nefujing/lawluo)**|
 |**2024-07-23**|**Do LLMs Know When to NOT Answer? Investigating Abstention Abilities of Large Language Models**|Nishanth Madhusudhan et.al.|[2407.16221](http://arxiv.org/abs/2407.16221)|null|
 |**2024-07-22**|**Developing a Reliable, General-Purpose Hallucination Detection and Mitigation Service: Insights and Lessons Learned**|Song Wang et.al.|[2407.15441](http://arxiv.org/abs/2407.15441)|null|
-|**2024-07-22**|**MAVEN-Fact: A Large-scale Event Factuality Detection Dataset**|Chunyang Li et.al.|[2407.15352](http://arxiv.org/abs/2407.15352)|**[link](https://github.com/lcy2723/maven-fact)**|
+|**2024-07-22**|**MAVEN-Fact: A Large-scale Event Factuality Detection Dataset**|Chunyang Li et.al.|[2407.15352](http://arxiv.org/abs/2407.15352)|**[link](https://github.com/THU-KEG/MAVEN-FACT)**|
 |**2024-07-20**|**Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models**|Ze Yu Zhang et.al.|[2407.14845](http://arxiv.org/abs/2407.14845)|null|
 |**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
 |**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
