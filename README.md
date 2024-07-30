@@ -18,10 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Exploring Large Language Models to generate Easy to Read content**|Paloma Martínez et.al.|[2407.20046](http://arxiv.org/abs/2407.20046)|null|
+|**2024-07-29**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705](http://arxiv.org/abs/2407.19705)|null|
+|**2024-07-28**|**A Generic Review of Integrating Artificial Intelligence in Cognitive Behavioral Therapy**|Meng Jiang et.al.|[2407.19422](http://arxiv.org/abs/2407.19422)|null|
+|**2024-07-27**|**The Impact of LoRA Adapters for LLMs on Clinical NLP Classification Under Data Limitations**|Thanh-Dung Le et.al.|[2407.19299](http://arxiv.org/abs/2407.19299)|null|
+|**2024-07-27**|**Multi-Modal CLIP-Informed Protein Editing**|Mingze Yin et.al.|[2407.19296](http://arxiv.org/abs/2407.19296)|null|
+|**2024-07-27**|**Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review**|Tongyue Shi et.al.|[2407.19256](http://arxiv.org/abs/2407.19256)|null|
+|**2024-07-26**|**Large Language Models as Co-Pilots for Causal Inference in Medical Studies**|Ahmed Alaa et.al.|[2407.19118](http://arxiv.org/abs/2407.19118)|null|
+|**2024-07-26**|**Towards Automated Solution Recipe Generation for Industrial Asset Management with LLM**|Nianjun Zhou et.al.|[2407.18992](http://arxiv.org/abs/2407.18992)|null|
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525](http://arxiv.org/abs/2407.18525)|**[link](https://github.com/yhzhu99/ehr-llm-benchmark)**|
 |**2024-07-24**|**Online Social Network Data-Driven Early Detection on Short-Form Video Addiction**|Fang-Yu Kuo et.al.|[2407.18277](http://arxiv.org/abs/2407.18277)|null|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|null|
-|**2024-07-25**|**The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer**|Danqing Hu et.al.|[2407.17900](http://arxiv.org/abs/2407.17900)|null|
+|**2024-07-29**|**The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer**|Danqing Hu et.al.|[2407.17900](http://arxiv.org/abs/2407.17900)|null|
 |**2024-07-25**|**Are Large Language Models Possible to Conduct Cognitive Behavioral Therapy?**|Hao Shen et.al.|[2407.17730](http://arxiv.org/abs/2407.17730)|null|
 |**2024-07-24**|**IgnitionInnovators at "Discharge Me!": Chain-of-Thought Instruction Finetuning Large Language Models for Discharge Summaries**|An Quang Tang et.al.|[2407.17636](http://arxiv.org/abs/2407.17636)|**[link](https://github.com/antangrocket1312/discharge_llm)**|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126](http://arxiv.org/abs/2407.17126)|null|
@@ -33,7 +41,7 @@
 |**2024-07-19**|**CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models**|Rikhiya Ghosh et.al.|[2407.14640](http://arxiv.org/abs/2407.14640)|null|
 |**2024-07-19**|**Adversarial Databases Improve Success in Retrieval-based Large Language Models**|Sean Wu et.al.|[2407.14609](http://arxiv.org/abs/2407.14609)|null|
 |**2024-07-19**|**Automatic Classification of News Subjects in Broadcast News: Application to a Gender Bias Representation Analysis**|Valentin Pelloin et.al.|[2407.14180](http://arxiv.org/abs/2407.14180)|**[link](https://github.com/ina-foss/is24_news_topic)**|
-|**2024-07-19**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076](http://arxiv.org/abs/2407.14076)|null|
+|**2024-07-28**|**Domain-Specific Pretraining of Language Models: A Comparative Study in the Medical Field**|Tobias Kerner et.al.|[2407.14076](http://arxiv.org/abs/2407.14076)|null|
 |**2024-07-19**|**Clinical Reading Comprehension with Encoder-Decoder Models Enhanced by Direct Preference Optimization**|Md Sultan Al Nahian et.al.|[2407.14000](http://arxiv.org/abs/2407.14000)|null|
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|**[link](https://github.com/samyateia/bioasq2024)**|
@@ -662,6 +670,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Improving Retrieval Augmented Language Model with Self-Reasoning**|Yuan Xia et.al.|[2407.19813](http://arxiv.org/abs/2407.19813)|null|
+|**2024-07-29**|**SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**|Wenxuan Zhang et.al.|[2407.19672](http://arxiv.org/abs/2407.19672)|null|
+|**2024-07-27**|**Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review**|Tongyue Shi et.al.|[2407.19256](http://arxiv.org/abs/2407.19256)|null|
+|**2024-07-26**|**OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation**|Zilong Wang et.al.|[2407.19056](http://arxiv.org/abs/2407.19056)|null|
 |**2024-07-25**|**The Art of Refusal: A Survey of Abstention in Large Language Models**|Bingbing Wen et.al.|[2407.18418](http://arxiv.org/abs/2407.18418)|null|
 |**2024-07-25**|**Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement**|Jaehun Jung et.al.|[2407.18370](http://arxiv.org/abs/2407.18370)|null|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|null|
