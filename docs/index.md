@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications**|Cui Long et.al.|[2407.21055](http://arxiv.org/abs/2407.21055)|null|
+|**2024-07-23**|**An Active Inference Strategy for Prompting Reliable Responses from Large Language Models in Medical Practice**|Roma Shusterman et.al.|[2407.21051](http://arxiv.org/abs/2407.21051)|null|
+|**2024-07-23**|**Artificial Intelligence in Extracting Diagnostic Data from Dental Records**|Yao-Shun Chuang et.al.|[2407.21050](http://arxiv.org/abs/2407.21050)|null|
 |**2024-07-30**|**Can LLMs be Fooled? Investigating Vulnerabilities in LLMs**|Sara Abdali et.al.|[2407.20529](http://arxiv.org/abs/2407.20529)|null|
 |**2024-07-29**|**Exploring Large Language Models to generate Easy to Read content**|Paloma Martínez et.al.|[2407.20046](http://arxiv.org/abs/2407.20046)|null|
 |**2024-07-30**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705](http://arxiv.org/abs/2407.19705)|**[link](https://github.com/cas-siat-xinhai/collectivesft)**|
@@ -673,6 +676,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
+|**2024-07-31**|**Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency**|Taiji Li et.al.|[2407.21443](http://arxiv.org/abs/2407.21443)|null|
+|**2024-07-31**|**Cost-Effective Hallucination Detection for LLMs**|Simon Valentin et.al.|[2407.21424](http://arxiv.org/abs/2407.21424)|null|
+|**2024-07-31**|**Towards interfacing large language models with ASR systems using confidence measures and prompting**|Maryam Naderi et.al.|[2407.21414](http://arxiv.org/abs/2407.21414)|null|
+|**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|null|
+|**2024-07-30**|**Accelerating Large Language Model Inference with Self-Supervised Early Exits**|Florian Valade et.al.|[2407.21082](http://arxiv.org/abs/2407.21082)|null|
+|**2024-07-25**|**Multi-group Uncertainty Quantification for Long-form Text Generation**|Terrance Liu et.al.|[2407.21057](http://arxiv.org/abs/2407.21057)|null|
+|**2024-07-24**|**Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications**|Cui Long et.al.|[2407.21055](http://arxiv.org/abs/2407.21055)|null|
 |**2024-07-30**|**Automated Review Generation Method Based on Large Language Models**|Shican Wu et.al.|[2407.20906](http://arxiv.org/abs/2407.20906)|**[link](https://github.com/tju-ecat-ai/automaticreviewgeneration)**|
 |**2024-07-30**|**How to Measure the Intelligence of Large Language Models?**|Nils Körber et.al.|[2407.20828](http://arxiv.org/abs/2407.20828)|null|
 |**2024-07-30**|**Prompting Encoder Models for Zero-Shot Classification: A Cross-Domain Study in Italian**|Serena Auriemma et.al.|[2407.20654](http://arxiv.org/abs/2407.20654)|null|
