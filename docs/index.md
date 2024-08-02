@@ -713,14 +713,14 @@ layout: default
 |**2024-07-19**|**Internal Consistency and Self-Feedback in Large Language Models: A Survey**|Xun Liang et.al.|[2407.14507](http://arxiv.org/abs/2407.14507)|**[link](https://github.com/iaar-shanghai/icsfsurvey)**|
 |**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
 |**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|**[link](https://gitlab.com/anonymousdot/codefeater)**|
-|**2024-07-18**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
+|**2024-08-01**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
 |**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|null|
 |**2024-07-19**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
 |**2024-07-19**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193](http://arxiv.org/abs/2407.13193)|null|
 |**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
 |**2024-07-17**|**Halu-J: Critique-Based Hallucination Judge**|Binjie Wang et.al.|[2407.12943](http://arxiv.org/abs/2407.12943)|**[link](https://github.com/gair-nlp/factool)**|
-|**2024-07-17**|**Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**|Nicolas Richet et.al.|[2407.12927](http://arxiv.org/abs/2407.12927)|**[link](https://github.com/nicolas-richet/feature-vs-text-compound-emotion)**|
+|**2024-08-01**|**Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**|Nicolas Richet et.al.|[2407.12927](http://arxiv.org/abs/2407.12927)|**[link](https://github.com/nicolas-richet/feature-vs-text-compound-emotion)**|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|**[link](https://github.com/pinglab-utils/rugged)**|
 |**2024-07-17**|**LLM-based query paraphrasing for video search**|Jiaxin Wu et.al.|[2407.12341](http://arxiv.org/abs/2407.12341)|null|
 |**2024-07-17**|**Optimizing Query Generation for Enhanced Document Retrieval in RAG**|Hamin Koo et.al.|[2407.12325](http://arxiv.org/abs/2407.12325)|null|
