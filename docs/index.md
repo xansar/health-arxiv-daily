@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
+|**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
+|**2024-07-31**|**A Taxonomy of Stereotype Content in Large Language Models**|Gandalf Nicolas et.al.|[2408.00162](http://arxiv.org/abs/2408.00162)|null|
+|**2024-07-31**|**A Course Shared Task on Evaluating LLM Output for Clinical Questions**|Yufang Hou et.al.|[2408.00122](http://arxiv.org/abs/2408.00122)|null|
 |**2024-07-24**|**Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications**|Cui Long et.al.|[2407.21055](http://arxiv.org/abs/2407.21055)|null|
 |**2024-07-23**|**An Active Inference Strategy for Prompting Reliable Responses from Large Language Models in Medical Practice**|Roma Shusterman et.al.|[2407.21051](http://arxiv.org/abs/2407.21051)|null|
 |**2024-07-23**|**Artificial Intelligence in Extracting Diagnostic Data from Dental Records**|Yao-Shun Chuang et.al.|[2407.21050](http://arxiv.org/abs/2407.21050)|null|
@@ -676,6 +680,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
+|**2024-08-01**|**Future of Artificial Intelligence in Agile Software Development**|Mariyam Mahboob et.al.|[2408.00703](http://arxiv.org/abs/2408.00703)|null|
+|**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
+|**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555](http://arxiv.org/abs/2408.00555)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie et.al.|[2408.00357](http://arxiv.org/abs/2408.00357)|null|
+|**2024-07-31**|**Deceptive AI systems that give explanations are more convincing than honest AI systems and can amplify belief in misinformation**|Valdemar Danry et.al.|[2408.00024](http://arxiv.org/abs/2408.00024)|null|
+|**2024-07-30**|**WebApp1K: A Practical Code-Generation Benchmark for Web App Development**|Yi Cui et.al.|[2408.00019](http://arxiv.org/abs/2408.00019)|null|
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
 |**2024-07-31**|**Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency**|Taiji Li et.al.|[2407.21443](http://arxiv.org/abs/2407.21443)|null|
 |**2024-07-31**|**Cost-Effective Hallucination Detection for LLMs**|Simon Valentin et.al.|[2407.21424](http://arxiv.org/abs/2407.21424)|null|
