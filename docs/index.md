@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285](http://arxiv.org/abs/2408.01285)|null|
+|**2024-08-02**|**Agentic LLM Workflows for Generating Patient-Friendly Medical Reports**|Malavikha Sudarshan et.al.|[2408.01112](http://arxiv.org/abs/2408.01112)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
 |**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
 |**2024-07-31**|**A Taxonomy of Stereotype Content in Large Language Models**|Gandalf Nicolas et.al.|[2408.00162](http://arxiv.org/abs/2408.00162)|null|
@@ -680,6 +682,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262](http://arxiv.org/abs/2408.01262)|null|
+|**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168](http://arxiv.org/abs/2408.01168)|null|
+|**2024-08-01**|**Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection**|Steven Fincke et.al.|[2408.00914](http://arxiv.org/abs/2408.00914)|null|
+|**2024-07-26**|**ChipExpert: The Open-Source Integrated-Circuit-Design-Specific Large Language Model**|Ning Xu et.al.|[2408.00804](http://arxiv.org/abs/2408.00804)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
 |**2024-08-01**|**Future of Artificial Intelligence in Agile Software Development**|Mariyam Mahboob et.al.|[2408.00703](http://arxiv.org/abs/2408.00703)|null|
 |**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
@@ -701,7 +707,7 @@ layout: default
 |**2024-07-30**|**Prompting Encoder Models for Zero-Shot Classification: A Cross-Domain Study in Italian**|Serena Auriemma et.al.|[2407.20654](http://arxiv.org/abs/2407.20654)|null|
 |**2024-07-25**|**An Efficient Inference Framework for Early-exit Large Language Models**|Ruijie Miao et.al.|[2407.20272](http://arxiv.org/abs/2407.20272)|null|
 |**2024-07-17**|**Steamroller Problems: An Evaluation of LLM Reasoning Capability with Automated Theorem Prover Strategies**|Lachlan McGinness et.al.|[2407.20244](http://arxiv.org/abs/2407.20244)|null|
-|**2024-07-29**|**Improving Retrieval Augmented Language Model with Self-Reasoning**|Yuan Xia et.al.|[2407.19813](http://arxiv.org/abs/2407.19813)|null|
+|**2024-08-02**|**Improving Retrieval Augmented Language Model with Self-Reasoning**|Yuan Xia et.al.|[2407.19813](http://arxiv.org/abs/2407.19813)|null|
 |**2024-07-29**|**SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**|Wenxuan Zhang et.al.|[2407.19672](http://arxiv.org/abs/2407.19672)|null|
 |**2024-07-27**|**Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review**|Tongyue Shi et.al.|[2407.19256](http://arxiv.org/abs/2407.19256)|null|
 |**2024-07-26**|**OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation**|Zilong Wang et.al.|[2407.19056](http://arxiv.org/abs/2407.19056)|null|
