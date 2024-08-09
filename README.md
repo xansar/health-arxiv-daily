@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-08-06**|**Lisbon Computational Linguists at SemEval-2024 Task 2: Using A Mistral 7B Model and Data Augmentation**|Artur Guimarães et.al.|[2408.03127](http://arxiv.org/abs/2408.03127)|null|
 |**2024-08-06**|**Targeted Visual Prompting for Medical Visual Question Answering**|Sergio Tascon-Morales et.al.|[2408.03043](http://arxiv.org/abs/2408.03043)|null|
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010](http://arxiv.org/abs/2408.03010)|null|
-|**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
+|**2024-08-07**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056](http://arxiv.org/abs/2408.02056)|null|
 |**2024-08-06**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933](http://arxiv.org/abs/2408.01933)|null|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869](http://arxiv.org/abs/2408.01869)|**[link](https://github.com/jihyechoi77/malade)**|
@@ -683,7 +683,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240809>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -795,7 +795,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240809>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
