@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2024-07-31**|**A Course Shared Task on Evaluating LLM Output for Clinical Questions**|Yufang Hou et.al.|[2408.00122](http://arxiv.org/abs/2408.00122)|null|
 |**2024-07-24**|**Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications**|Cui Long et.al.|[2407.21055](http://arxiv.org/abs/2407.21055)|null|
 |**2024-07-23**|**An Active Inference Strategy for Prompting Reliable Responses from Large Language Models in Medical Practice**|Roma Shusterman et.al.|[2407.21051](http://arxiv.org/abs/2407.21051)|null|
-|**2024-07-23**|**Artificial Intelligence in Extracting Diagnostic Data from Dental Records**|Yao-Shun Chuang et.al.|[2407.21050](http://arxiv.org/abs/2407.21050)|null|
+|**2024-08-12**|**Artificial Intelligence in Extracting Diagnostic Data from Dental Records**|Yao-Shun Chuang et.al.|[2407.21050](http://arxiv.org/abs/2407.21050)|null|
 |**2024-07-30**|**Can LLMs be Fooled? Investigating Vulnerabilities in LLMs**|Sara Abdali et.al.|[2407.20529](http://arxiv.org/abs/2407.20529)|null|
 |**2024-07-29**|**Exploring Large Language Models to generate Easy to Read content**|Paloma Martínez et.al.|[2407.20046](http://arxiv.org/abs/2407.20046)|null|
 |**2024-07-30**|**CollectiveSFT: Scaling Large Language Models for Chinese Medical Benchmark with Collective Instructions in Healthcare**|Jingwei Zhu et.al.|[2407.19705](http://arxiv.org/abs/2407.19705)|**[link](https://github.com/cas-siat-xinhai/collectivesft)**|
@@ -694,7 +694,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -820,7 +820,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
