@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531](http://arxiv.org/abs/2408.07531)|null|
+|**2024-08-14**|**Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health**|Yongquan Hu et.al.|[2408.07313](http://arxiv.org/abs/2408.07313)|null|
 |**2024-07-24**|**Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition**|Michele Fiori et.al.|[2408.06352](http://arxiv.org/abs/2408.06352)|null|
 |**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285](http://arxiv.org/abs/2408.06285)|null|
 |**2024-08-12**|**Med42-v2: A Suite of Clinical LLMs**|Clément Christophe et.al.|[2408.06142](http://arxiv.org/abs/2408.06142)|null|
@@ -703,6 +705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**|Yuxin Jiang et.al.|[2408.07471](http://arxiv.org/abs/2408.07471)|null|
 |**2024-08-13**|**MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty**|Yongjin Yang et.al.|[2408.06816](http://arxiv.org/abs/2408.06816)|null|
 |**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
 |**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|null|
