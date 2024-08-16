@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
+|**2024-08-15**|**The doctor will polygraph you now: ethical concerns with AI for fact-checking patients**|James Anibal et.al.|[2408.07896](http://arxiv.org/abs/2408.07896)|null|
+|**2024-08-15**|**Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering**|Yushi Yang et.al.|[2408.07888](http://arxiv.org/abs/2408.07888)|null|
+|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|null|
 |**2024-08-14**|**Development of a Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments**|Seungjun Han et.al.|[2408.07531](http://arxiv.org/abs/2408.07531)|null|
 |**2024-08-14**|**Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health**|Yongquan Hu et.al.|[2408.07313](http://arxiv.org/abs/2408.07313)|null|
 |**2024-07-24**|**Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition**|Michele Fiori et.al.|[2408.06352](http://arxiv.org/abs/2408.06352)|null|
@@ -703,6 +707,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212](http://arxiv.org/abs/2408.08212)|null|
+|**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
+|**2024-08-15**|**Scaling Up Natural Language Understanding for Multi-Robots Through the Lens of Hierarchy**|Shaojun Xu et.al.|[2408.08188](http://arxiv.org/abs/2408.08188)|null|
+|**2024-08-15**|**Confidence-weighted integration of human and machine judgments for superior decision-making**|Felipe Yáñez et.al.|[2408.08083](http://arxiv.org/abs/2408.08083)|null|
+|**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
 |**2024-08-14**|**Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**|Yuxin Jiang et.al.|[2408.07471](http://arxiv.org/abs/2408.07471)|null|
 |**2024-08-13**|**MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty**|Yongjin Yang et.al.|[2408.06816](http://arxiv.org/abs/2408.06816)|null|
 |**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
