@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -62,7 +62,7 @@
 |**2024-07-26**|**Is larger always better? Evaluating and prompting large language models for non-generative medical tasks**|Yinghao Zhu et.al.|[2407.18525](http://arxiv.org/abs/2407.18525)|**[link](https://github.com/yhzhu99/ehr-llm-benchmark)**|
 |**2024-07-24**|**Online Social Network Data-Driven Early Detection on Short-Form Video Addiction**|Fang-Yu Kuo et.al.|[2407.18277](http://arxiv.org/abs/2407.18277)|null|
 |**2024-07-25**|**The Geometry of Queries: Query-Based Innovations in Retrieval-Augmented Generation**|Eric Yang et.al.|[2407.18044](http://arxiv.org/abs/2407.18044)|null|
-|**2024-08-05**|**The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer**|Danqing Hu et.al.|[2407.17900](http://arxiv.org/abs/2407.17900)|null|
+|**2024-08-15**|**The Power of Combining Data and Knowledge: GPT-4o is an Effective Interpreter of Machine Learning Models in Predicting Lymph Node Metastasis of Lung Cancer**|Danqing Hu et.al.|[2407.17900](http://arxiv.org/abs/2407.17900)|null|
 |**2024-07-25**|**Are Large Language Models Possible to Conduct Cognitive Behavioral Therapy?**|Hao Shen et.al.|[2407.17730](http://arxiv.org/abs/2407.17730)|null|
 |**2024-07-24**|**IgnitionInnovators at "Discharge Me!": Chain-of-Thought Instruction Finetuning Large Language Models for Discharge Summaries**|An Quang Tang et.al.|[2407.17636](http://arxiv.org/abs/2407.17636)|**[link](https://github.com/antangrocket1312/discharge_llm)**|
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126](http://arxiv.org/abs/2407.17126)|null|
@@ -697,7 +697,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -825,7 +825,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
