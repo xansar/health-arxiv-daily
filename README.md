@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory**|Haoran Li et.al.|[2408.10053](http://arxiv.org/abs/2408.10053)|null|
+|**2024-08-19**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039](http://arxiv.org/abs/2408.10039)|null|
+|**2024-08-19**|**Ranking Generated Answers: On the Agreement of Retrieval Models with Humans on Consumer Health Questions**|Sebastian Heineking et.al.|[2408.09831](http://arxiv.org/abs/2408.09831)|null|
+|**2024-08-19**|**R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**|Xiao Wang et.al.|[2408.09743](http://arxiv.org/abs/2408.09743)|**[link](https://github.com/event-ahu/medical_image_analysis)**|
+|**2024-08-18**|**Improving and Assessing the Fidelity of Large Language Models Alignment to Online Communities**|Minh Duc Chu et.al.|[2408.09366](http://arxiv.org/abs/2408.09366)|null|
+|**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|null|
+|**2024-08-17**|**AI Managed Emergency Documentation with a Pretrained Model**|David Menzies et.al.|[2408.09193](http://arxiv.org/abs/2408.09193)|null|
+|**2024-08-16**|**Improving VTE Identification through Language Models from Radiology Reports: A Comparative Study of Mamba, Phi-3 Mini, and BERT**|Jamie Deng et.al.|[2408.09043](http://arxiv.org/abs/2408.09043)|null|
 |**2024-08-16**|**HSDreport: Heart Sound Diagnosis with Echocardiography Reports**|Zihan Zhao et.al.|[2408.08669](http://arxiv.org/abs/2408.08669)|null|
 |**2024-08-16**|**RealMedQA: A pilot biomedical question answering dataset containing realistic clinical questions**|Gregory Kell et.al.|[2408.08624](http://arxiv.org/abs/2408.08624)|null|
 |**2024-08-15**|**Assessing and Enhancing Large Language Models in Rare Disease Question-answering**|Guanchu Wang et.al.|[2408.08422](http://arxiv.org/abs/2408.08422)|null|
@@ -710,6 +718,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
+|**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
+|**2024-08-19**|**Are Large Language Models More Honest in Their Probabilistic or Verbalized Confidence?**|Shiyu Ni et.al.|[2408.09773](http://arxiv.org/abs/2408.09773)|null|
+|**2024-08-19**|**A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification**|Claudio M. V. de Andrade et.al.|[2408.09629](http://arxiv.org/abs/2408.09629)|null|
+|**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|null|
+|**2024-08-17**|**Chinese Metaphor Recognition Using a Multi-stage Prompting Large Language Model**|Jie Wang et.al.|[2408.09177](http://arxiv.org/abs/2408.09177)|null|
+|**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
+|**2024-08-17**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
+|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921](http://arxiv.org/abs/2408.08921)|null|
+|**2024-08-12**|**Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection**|Chengyu Song et.al.|[2408.08902](http://arxiv.org/abs/2408.08902)|null|
 |**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769](http://arxiv.org/abs/2408.08769)|null|
 |**2024-08-16**|**MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector**|Wenjie Fu et.al.|[2408.08661](http://arxiv.org/abs/2408.08661)|null|
@@ -728,7 +746,7 @@
 |**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|null|
 |**2024-08-11**|**Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models**|Wenbo Zhang et.al.|[2408.05873](http://arxiv.org/abs/2408.05873)|**[link](https://github.com/zihang-xu-2002/infeasible-benchmark)**|
 |**2024-08-10**|**Can LLMs Replace Manual Annotation of Software Engineering Artifacts?**|Toufique Ahmed et.al.|[2408.05534](http://arxiv.org/abs/2408.05534)|null|
-|**2024-08-13**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-19**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
 |**2024-08-09**|**FiST-Financial Style Transfer with Hallucination and Creativity Control Framework**|Sohini Roychowdhury et.al.|[2408.05365](http://arxiv.org/abs/2408.05365)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
 |**2024-08-16**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
@@ -739,7 +757,7 @@
 |**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
 |**2024-08-07**|**Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology**|Panagiotis Fytas et.al.|[2408.04121](http://arxiv.org/abs/2408.04121)|null|
 |**2024-08-07**|**Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**|Zizhang Chen et.al.|[2408.03732](http://arxiv.org/abs/2408.03732)|null|
-|**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
+|**2024-08-19**|**KnowPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
 |**2024-08-05**|**An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs**|Dongming Jin et.al.|[2408.02450](http://arxiv.org/abs/2408.02450)|null|
 |**2024-08-05**|**SNFinLLM: Systematic and Nuanced Financial Domain Adaptation of Chinese Large Language Models**|Shujuan Zhao et.al.|[2408.02302](http://arxiv.org/abs/2408.02302)|null|
 |**2024-08-07**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
@@ -750,7 +768,7 @@
 |**2024-08-03**|**WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization**|Liwenhan Xie et.al.|[2408.01703](http://arxiv.org/abs/2408.01703)|null|
 |**2024-08-02**|**Analyzing LLMs' Capabilities to Establish Implicit User Sentiment of Software Desirability**|Sherri Weitl-Harms et.al.|[2408.01527](http://arxiv.org/abs/2408.01527)|null|
 |**2024-07-28**|**Faculty Perspectives on the Potential of RAG in Computer Science Higher Education**|Sagnik Dakshit et.al.|[2408.01462](http://arxiv.org/abs/2408.01462)|null|
-|**2024-08-02**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262](http://arxiv.org/abs/2408.01262)|null|
+|**2024-08-18**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262](http://arxiv.org/abs/2408.01262)|null|
 |**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168](http://arxiv.org/abs/2408.01168)|null|
 |**2024-08-01**|**Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection**|Steven Fincke et.al.|[2408.00914](http://arxiv.org/abs/2408.00914)|null|
 |**2024-07-26**|**ChipExpert: The Open-Source Integrated-Circuit-Design-Specific Large Language Model**|Ning Xu et.al.|[2408.00804](http://arxiv.org/abs/2408.00804)|null|
