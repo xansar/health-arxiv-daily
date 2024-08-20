@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2024-08-08**|**Dynamic Fog Computing for Enhanced LLM Execution in Medical Applications**|Philipp Zagar et.al.|[2408.04680](http://arxiv.org/abs/2408.04680)|null|
 |**2024-08-03**|**Building Trust in Mental Health Chatbots: Safety Metrics and LLM-Based Evaluation Tools**|Jung In Park et.al.|[2408.04650](http://arxiv.org/abs/2408.04650)|null|
 |**2024-08-08**|**Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation**|Junde Wu et.al.|[2408.04187](http://arxiv.org/abs/2408.04187)|**[link](https://github.com/medicinetoken/medical-graph-rag)**|
-|**2024-08-08**|**Academic collaboration on large language model studies increases overall but varies across disciplines**|Lingyao Li et.al.|[2408.04163](http://arxiv.org/abs/2408.04163)|null|
+|**2024-08-08**|**Academic collaboration on large language model studies increases overall but varies across disciplines**|Lingyao Li et.al.|[2408.04163](http://arxiv.org/abs/2408.04163)|**[link](https://github.com/Lingyao1219/llm-science)**|
 |**2024-08-08**|**Enhancing Healthcare through Large Language Models: A Study on Medical Question Answering**|Haoran Yu et.al.|[2408.04138](http://arxiv.org/abs/2408.04138)|null|
 |**2024-08-07**|**Can Rule-Based Insights Enhance LLMs for Radiology Report Classification? Introducing the RadPrompt Methodology**|Panagiotis Fytas et.al.|[2408.04121](http://arxiv.org/abs/2408.04121)|null|
 |**2024-08-07**|**Towards Multimodal Emotional Support Conversation Systems**|Yuqi Chu et.al.|[2408.03650](http://arxiv.org/abs/2408.03650)|**[link](https://github.com/chuyq/MESC)**|
@@ -704,7 +704,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -731,7 +731,7 @@
 |**2024-08-13**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
 |**2024-08-09**|**FiST-Financial Style Transfer with Hallucination and Creativity Control Framework**|Sohini Roychowdhury et.al.|[2408.05365](http://arxiv.org/abs/2408.05365)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
-|**2024-08-09**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
+|**2024-08-16**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
 |**2024-08-08**|**Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews**|Samantha Chan et.al.|[2408.04681](http://arxiv.org/abs/2408.04681)|**[link](https://github.com/mitmedialab/ai-false-memories)**|
 |**2024-08-06**|**Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)**|Avshalom Manevich et.al.|[2408.04664](http://arxiv.org/abs/2408.04664)|null|
 |**2024-08-08**|**Arctic-TILT. Business Document Understanding at Sub-Billion Scale**|Łukasz Borchmann et.al.|[2408.04632](http://arxiv.org/abs/2408.04632)|null|
@@ -844,7 +844,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
