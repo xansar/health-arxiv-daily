@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -750,7 +750,7 @@ layout: default
 |**2024-08-20**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
 |**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921](http://arxiv.org/abs/2408.08921)|null|
 |**2024-08-12**|**Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection**|Chengyu Song et.al.|[2408.08902](http://arxiv.org/abs/2408.08902)|null|
-|**2024-08-20**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-22**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769](http://arxiv.org/abs/2408.08769)|null|
 |**2024-08-16**|**MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector**|Wenjie Fu et.al.|[2408.08661](http://arxiv.org/abs/2408.08661)|null|
 |**2024-08-16**|**PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code**|Ziyou Jiang et.al.|[2408.08619](http://arxiv.org/abs/2408.08619)|null|
