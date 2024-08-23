@@ -22,6 +22,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
+|**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
+|**2024-08-22**|**Large Language Models Are Self-Taught Reasoners: Enhancing LLM Applications via Tailored Problem-Solving Demonstrations**|Kai Tzu-iunn Ong et.al.|[2408.12315](http://arxiv.org/abs/2408.12315)|null|
+|**2024-08-22**|**LLMs are not Zero-Shot Reasoners for Biomedical Information Extraction**|Aishik Nagar et.al.|[2408.12249](http://arxiv.org/abs/2408.12249)|null|
+|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236](http://arxiv.org/abs/2408.12236)|null|
+|**2024-08-22**|**Balancing Act: Prioritization Strategies for LLM-Designed Restless Bandit Rewards**|Shresth Verma et.al.|[2408.12112](http://arxiv.org/abs/2408.12112)|null|
+|**2024-08-22**|**Aligning (Medical) LLMs for (Counterfactual) Fairness**|Raphael Poulain et.al.|[2408.12055](http://arxiv.org/abs/2408.12055)|**[link](https://github.com/healthylaife/fairalignmentllm)**|
+|**2024-08-21**|**Exploring Large Language Models for Feature Selection: A Data-centric Perspective**|Dawei Li et.al.|[2408.12025](http://arxiv.org/abs/2408.12025)|null|
+|**2024-08-16**|**Speaking the Same Language: Leveraging LLMs in Standardizing Clinical Data for AI**|Arindam Sett et.al.|[2408.11861](http://arxiv.org/abs/2408.11861)|null|
+|**2024-08-15**|**When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?**|Yanjun Gao et.al.|[2408.11854](http://arxiv.org/abs/2408.11854)|null|
+|**2024-08-13**|**MGH Radiology Llama: A Llama 3 70B Model for Radiology**|Yucheng Shi et.al.|[2408.11848](http://arxiv.org/abs/2408.11848)|null|
 |**2024-08-21**|**Clinical Insights: A Comprehensive Review of Language Models in Medicine**|Nikita Neveditsin et.al.|[2408.11735](http://arxiv.org/abs/2408.11735)|null|
 |**2024-08-21**|**BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports**|Yuxuan Chen et.al.|[2408.11334](http://arxiv.org/abs/2408.11334)|null|
 |**2024-08-21**|**Probabilistic Medical Predictions of Large Language Models**|Bowen Gu et.al.|[2408.11316](http://arxiv.org/abs/2408.11316)|null|
@@ -40,7 +52,7 @@ layout: default
 |**2024-08-17**|**AI Managed Emergency Documentation with a Pretrained Model**|David Menzies et.al.|[2408.09193](http://arxiv.org/abs/2408.09193)|null|
 |**2024-08-16**|**Improving VTE Identification through Language Models from Radiology Reports: A Comparative Study of Mamba, Phi-3 Mini, and BERT**|Jamie Deng et.al.|[2408.09043](http://arxiv.org/abs/2408.09043)|null|
 |**2024-08-16**|**HSDreport: Heart Sound Diagnosis with Echocardiography Reports**|Zihan Zhao et.al.|[2408.08669](http://arxiv.org/abs/2408.08669)|null|
-|**2024-08-16**|**RealMedQA: A pilot biomedical question answering dataset containing realistic clinical questions**|Gregory Kell et.al.|[2408.08624](http://arxiv.org/abs/2408.08624)|null|
+|**2024-08-16**|**RealMedQA: A pilot biomedical question answering dataset containing realistic clinical questions**|Gregory Kell et.al.|[2408.08624](http://arxiv.org/abs/2408.08624)|**[link](https://github.com/gck25/realmedqa)**|
 |**2024-08-15**|**Assessing and Enhancing Large Language Models in Rare Disease Question-answering**|Guanchu Wang et.al.|[2408.08422](http://arxiv.org/abs/2408.08422)|null|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
 |**2024-08-15**|**The doctor will polygraph you now: ethical concerns with AI for fact-checking patients**|James Anibal et.al.|[2408.07896](http://arxiv.org/abs/2408.07896)|null|
@@ -729,6 +741,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning**|Mushui Liu et.al.|[2408.12469](http://arxiv.org/abs/2408.12469)|null|
+|**2024-08-22**|**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**|Weijia Zhang et.al.|[2408.12398](http://arxiv.org/abs/2408.12398)|null|
+|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
+|**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
+|**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|null|
+|**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236](http://arxiv.org/abs/2408.12236)|null|
+|**2024-08-22**|**FIRST: Teach A Reliable Large Language Model Through Efficient Trustworthy Distillation**|KaShun Shum et.al.|[2408.12168](http://arxiv.org/abs/2408.12168)|null|
+|**2024-08-22**|**ConflictBank: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLM**|Zhaochen Su et.al.|[2408.12076](http://arxiv.org/abs/2408.12076)|null|
+|**2024-08-21**|**Understanding Epistemic Language with a Bayesian Theory of Mind**|Lance Ying et.al.|[2408.12022](http://arxiv.org/abs/2408.12022)|null|
+|**2024-08-21**|**RAG-Optimized Tibetan Tourism LLMs: Enhancing Accuracy and Personalization**|Jinhu Qi et.al.|[2408.12003](http://arxiv.org/abs/2408.12003)|null|
+|**2024-08-21**|**Automatic knowledge-graph creation from historical documents: The Chilean dictatorship as a case study**|Camila Díaz et.al.|[2408.11975](http://arxiv.org/abs/2408.11975)|null|
+|**2024-08-21**|**Ancient Wisdom, Modern Tools: Exploring Retrieval-Augmented LLMs for Ancient Indian Philosophy**|Priyanka Mandikal et.al.|[2408.11903](http://arxiv.org/abs/2408.11903)|**[link](https://github.com/priyankamandikal/vedantany-10m)**|
+|**2024-08-17**|**How Susceptible are LLMs to Influence in Prompts?**|Sotiris Anagnostidis et.al.|[2408.11865](http://arxiv.org/abs/2408.11865)|null|
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
 |**2024-08-21**|**EAGLE: Elevating Geometric Reasoning through LLM-empowered Visual Instruction Tuning**|Zhihao Li et.al.|[2408.11397](http://arxiv.org/abs/2408.11397)|null|
 |**2024-08-21**|**First Activations Matter: Training-Free Methods for Dynamic Activation in Large Language Models**|Chi Ma et.al.|[2408.11393](http://arxiv.org/abs/2408.11393)|null|
@@ -752,7 +777,7 @@ layout: default
 |**2024-08-12**|**Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection**|Chengyu Song et.al.|[2408.08902](http://arxiv.org/abs/2408.08902)|null|
 |**2024-08-22**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769](http://arxiv.org/abs/2408.08769)|null|
-|**2024-08-16**|**MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector**|Wenjie Fu et.al.|[2408.08661](http://arxiv.org/abs/2408.08661)|null|
+|**2024-08-16**|**MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector**|Wenjie Fu et.al.|[2408.08661](http://arxiv.org/abs/2408.08661)|**[link](https://github.com/wjfu99/mia-tuner)**|
 |**2024-08-16**|**PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code**|Ziyou Jiang et.al.|[2408.08619](http://arxiv.org/abs/2408.08619)|null|
 |**2024-08-16**|**SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models**|Kaushal Kumar Maurya et.al.|[2408.08545](http://arxiv.org/abs/2408.08545)|null|
 |**2024-08-15**|**Plan with Code: Comparing approaches for robust NL to DSL generation**|Nastaran Bassamzadeh et.al.|[2408.08335](http://arxiv.org/abs/2408.08335)|null|
