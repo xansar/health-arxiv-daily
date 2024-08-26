@@ -169,7 +169,7 @@ layout: default
 |**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|null|
 |**2024-06-29**|**Potential Renovation of Information Search Process with the Power of Large Language Model for Healthcare**|Forhan Bin Emdad et.al.|[2407.01627](http://arxiv.org/abs/2407.01627)|null|
 |**2024-07-14**|**Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles**|Ryan Louie et.al.|[2407.00870](http://arxiv.org/abs/2407.00870)|null|
-|**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731](http://arxiv.org/abs/2407.00731)|null|
+|**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731](http://arxiv.org/abs/2407.00731)|**[link](https://github.com/qiuhaolu/tner)**|
 |**2024-06-29**|**Answering real-world clinical questions using large language model based systems**|Yen Sia Low et.al.|[2407.00541](http://arxiv.org/abs/2407.00541)|null|
 |**2024-06-29**|**ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees**|Zhiyuan Wang et.al.|[2407.00499](http://arxiv.org/abs/2407.00499)|null|
 |**2024-06-28**|**EHRmonize: A Framework for Medical Concept Abstraction from Electronic Health Records using Large Language Models**|João Matos et.al.|[2407.00242](http://arxiv.org/abs/2407.00242)|**[link](https://github.com/aiwonglab/ehrmonize)**|
@@ -226,7 +226,7 @@ layout: default
 |**2024-06-13**|**Chain-of-Though (CoT) prompting strategies for medical error detection and correction**|Zhaolong Wu et.al.|[2406.09103](http://arxiv.org/abs/2406.09103)|null|
 |**2024-06-13**|**Enhancing Psychotherapy Counseling: A Data Augmentation Pipeline Leveraging Large Language Models for Counseling Conversations**|Jun-Woo Kim et.al.|[2406.08718](http://arxiv.org/abs/2406.08718)|null|
 |**2024-06-12**|**Large Language Model(LLM) assisted End-to-End Network Health Management based on Multi-Scale Semanticization**|Fengxiao Tang et.al.|[2406.08305](http://arxiv.org/abs/2406.08305)|null|
-|**2024-06-18**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|null|
+|**2024-06-18**|**SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature**|David Wadden et.al.|[2406.07835](http://arxiv.org/abs/2406.07835)|**[link](https://github.com/allenai/sciriff)**|
 |**2024-06-12**|**Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images**|Che Liu et.al.|[2406.07146](http://arxiv.org/abs/2406.07146)|null|
 |**2024-06-10**|**Large language models for generating rules, yay or nay?**|Shangeetha Sivasothy et.al.|[2406.06835](http://arxiv.org/abs/2406.06835)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
@@ -472,7 +472,7 @@ layout: default
 |**2024-03-01**|**Attribute Structuring Improves LLM-Based Evaluation of Clinical Text Summaries**|Zelalem Gero et.al.|[2403.01002](http://arxiv.org/abs/2403.01002)|**[link](https://github.com/microsoft/attribute-structuring)**|
 |**2024-03-01**|**Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language**|Xiaohan Ding et.al.|[2403.00994](http://arxiv.org/abs/2403.00994)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
-|**2024-03-01**|**SoftTiger: A Clinical Foundation Model for Healthcare Workflows**|Ye Chen et.al.|[2403.00868](http://arxiv.org/abs/2403.00868)|null|
+|**2024-03-01**|**SoftTiger: A Clinical Foundation Model for Healthcare Workflows**|Ye Chen et.al.|[2403.00868](http://arxiv.org/abs/2403.00868)|**[link](https://github.com/tigerresearch/tigerbot)**|
 |**2024-02-29**|**EyeGPT: Ophthalmic Assistant with Large Language Models**|Xiaolan Chen et.al.|[2403.00840](http://arxiv.org/abs/2403.00840)|null|
 |**2024-02-28**|**MedAide: Leveraging Large Language Models for On-Premise Medical Assistance on Edge Devices**|Abdul Basit et.al.|[2403.00830](http://arxiv.org/abs/2403.00830)|null|
 |**2024-02-18**|**ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender Chatbots through an LLM-Augmented Framework**|Zhongqi Yang et.al.|[2403.00781](http://arxiv.org/abs/2403.00781)|null|
@@ -640,7 +640,7 @@ layout: default
 |**2023-12-20**|**Mini-GPTs: Efficient Large Language Models through Contextual Pruning**|Tim Valicenti et.al.|[2312.12682](http://arxiv.org/abs/2312.12682)|null|
 |**2023-12-19**|**Can ChatGPT be Your Personal Medical Assistant?**|Md. Rafiul Biswas et.al.|[2312.12006](http://arxiv.org/abs/2312.12006)|null|
 |**2023-12-19**|**Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health**|Maria Antoniak et.al.|[2312.11803](http://arxiv.org/abs/2312.11803)|**[link](https://github.com/maria-antoniak/maternal-health-principles)**|
-|**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541](http://arxiv.org/abs/2312.11541)|null|
+|**2023-12-16**|**CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare**|Akash Ghosh et.al.|[2312.11541](http://arxiv.org/abs/2312.11541)|**[link](https://github.com/akashghosh/clipsyntel-aaai2024)**|
 |**2023-12-16**|**A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers**|Feida Gu et.al.|[2312.10419](http://arxiv.org/abs/2312.10419)|null|
 |**2023-12-15**|**GPT-doctor: Customizing Large Language Models for Medical Consultation**|Wen Wang et.al.|[2312.10225](http://arxiv.org/abs/2312.10225)|null|
 |**2023-12-15**|**Low-resource classification of mobility functioning information in clinical sentences using large language models**|Tuan Dung Le et.al.|[2312.10202](http://arxiv.org/abs/2312.10202)|null|
