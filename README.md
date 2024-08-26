@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**IntelliCare: Improving Healthcare Analysis with Variance-Controlled Patient-Level Knowledge from Large Language Models**|Zhihao Yu et.al.|[2408.13073](http://arxiv.org/abs/2408.13073)|null|
+|**2024-08-23**|**Guiding IoT-Based Healthcare Alert Systems with Large Language Models**|Yulan Gao et.al.|[2408.13071](http://arxiv.org/abs/2408.13071)|null|
+|**2024-08-23**|**Grounding Fallacies Misrepresenting Scientific Publications in Evidence**|Max Glockner et.al.|[2408.12812](http://arxiv.org/abs/2408.12812)|null|
 |**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
 |**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
 |**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
@@ -739,6 +742,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184](http://arxiv.org/abs/2408.13184)|null|
+|**2024-08-23**|**IntelliCare: Improving Healthcare Analysis with Variance-Controlled Patient-Level Knowledge from Large Language Models**|Zhihao Yu et.al.|[2408.13073](http://arxiv.org/abs/2408.13073)|null|
+|**2024-08-23**|**Internal and External Knowledge Interactive Refinement Framework for Knowledge-Intensive Question Answering**|Haowei Du et.al.|[2408.12979](http://arxiv.org/abs/2408.12979)|null|
+|**2024-08-22**|**SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection**|Mengya Hu et.al.|[2408.12748](http://arxiv.org/abs/2408.12748)|**[link](https://github.com/microsoft/constrainedreasoner)**|
 |**2024-08-22**|**Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning**|Mushui Liu et.al.|[2408.12469](http://arxiv.org/abs/2408.12469)|null|
 |**2024-08-22**|**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**|Weijia Zhang et.al.|[2408.12398](http://arxiv.org/abs/2408.12398)|null|
 |**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
@@ -750,7 +757,7 @@
 |**2024-08-21**|**Understanding Epistemic Language with a Bayesian Theory of Mind**|Lance Ying et.al.|[2408.12022](http://arxiv.org/abs/2408.12022)|null|
 |**2024-08-21**|**RAG-Optimized Tibetan Tourism LLMs: Enhancing Accuracy and Personalization**|Jinhu Qi et.al.|[2408.12003](http://arxiv.org/abs/2408.12003)|null|
 |**2024-08-21**|**Automatic knowledge-graph creation from historical documents: The Chilean dictatorship as a case study**|Camila Díaz et.al.|[2408.11975](http://arxiv.org/abs/2408.11975)|null|
-|**2024-08-21**|**Ancient Wisdom, Modern Tools: Exploring Retrieval-Augmented LLMs for Ancient Indian Philosophy**|Priyanka Mandikal et.al.|[2408.11903](http://arxiv.org/abs/2408.11903)|**[link](https://github.com/priyankamandikal/vedantany-10m)**|
+|**2024-08-23**|**Ancient Wisdom, Modern Tools: Exploring Retrieval-Augmented LLMs for Ancient Indian Philosophy**|Priyanka Mandikal et.al.|[2408.11903](http://arxiv.org/abs/2408.11903)|**[link](https://github.com/priyankamandikal/vedantany-10m)**|
 |**2024-08-17**|**How Susceptible are LLMs to Influence in Prompts?**|Sotiris Anagnostidis et.al.|[2408.11865](http://arxiv.org/abs/2408.11865)|null|
 |**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
 |**2024-08-21**|**EAGLE: Elevating Geometric Reasoning through LLM-empowered Visual Instruction Tuning**|Zhihao Li et.al.|[2408.11397](http://arxiv.org/abs/2408.11397)|null|
