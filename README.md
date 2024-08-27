@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -736,7 +736,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -777,7 +777,7 @@
 |**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|null|
 |**2024-08-17**|**Chinese Metaphor Recognition Using a Multi-stage Prompting Large Language Model**|Jie Wang et.al.|[2408.09177](http://arxiv.org/abs/2408.09177)|null|
 |**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
-|**2024-08-20**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
+|**2024-08-24**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
 |**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921](http://arxiv.org/abs/2408.08921)|null|
 |**2024-08-12**|**Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection**|Chengyu Song et.al.|[2408.08902](http://arxiv.org/abs/2408.08902)|null|
 |**2024-08-22**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
@@ -914,7 +914,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
