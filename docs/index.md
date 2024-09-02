@@ -696,7 +696,7 @@ layout: default
 |**2023-11-23**|**Challenges of Large Language Models for Mental Health Counseling**|Neo Christopher Chung et.al.|[2311.13857](http://arxiv.org/abs/2311.13857)|null|
 |**2023-11-22**|**Surpassing GPT-4 Medical Coding with a Two-Stage Approach**|Zhichao Yang et.al.|[2311.13735](http://arxiv.org/abs/2311.13735)|null|
 |**2023-11-22**|**Enhancing Summarization Performance through Transformer-Based Prompt Engineering in Automated Medical Reporting**|Daphne van Zandvoort et.al.|[2311.13274](http://arxiv.org/abs/2311.13274)|null|
-|**2023-11-25**|**From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models**|Zachary Englhardt et.al.|[2311.13063](http://arxiv.org/abs/2311.13063)|null|
+|**2023-11-25**|**From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models**|Zachary Englhardt et.al.|[2311.13063](http://arxiv.org/abs/2311.13063)|**[link](https://github.com/ubicomplab/classification-to-clinical)**|
 |**2023-10-28**|**Overview of Current Applications of Large Language Models in Various Medical Specialities**|Ummara Mumtaz et.al.|[2311.12882](http://arxiv.org/abs/2311.12882)|null|
 |**2023-11-21**|**ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models**|Jiankai Tang et.al.|[2311.12524](http://arxiv.org/abs/2311.12524)|**[link](https://github.com/mcjacktang/llm-healthassistant)**|
 |**2023-11-20**|**Web News Timeline Generation with Extended Task Prompting**|Sha Wang et.al.|[2311.11652](http://arxiv.org/abs/2311.11652)|null|
@@ -765,7 +765,7 @@ layout: default
 |**2024-08-29**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533](http://arxiv.org/abs/2408.15533)|**[link](https://github.com/tomsawyerhu/lrp4rag)**|
 |**2024-08-28**|**Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression**|Haowen Hou et.al.|[2408.15491](http://arxiv.org/abs/2408.15491)|**[link](https://github.com/howard-hou/instruction-aware-contextual-compressor)**|
 |**2024-08-27**|**The Uniqueness of LLaMA3-70B with Per-Channel Quantization: An Empirical Study**|Minghai Qin et.al.|[2408.15301](http://arxiv.org/abs/2408.15301)|null|
-|**2024-08-27**|**Can Unconfident LLM Annotations Be Used for Confident Conclusions?**|Kristina Gligorić et.al.|[2408.15204](http://arxiv.org/abs/2408.15204)|null|
+|**2024-08-27**|**Can Unconfident LLM Annotations Be Used for Confident Conclusions?**|Kristina Gligorić et.al.|[2408.15204](http://arxiv.org/abs/2408.15204)|**[link](https://github.com/kristinagligoric/confidence-driven-inference)**|
 |**2024-08-27**|**Measuring text summarization factuality using atomic facts entailment metrics in the context of retrieval augmented generation**|N. E. Kriman et.al.|[2408.15171](http://arxiv.org/abs/2408.15171)|null|
 |**2024-08-27**|**Evidence-Enhanced Triplet Generation Framework for Hallucination Alleviation in Generative Question Answering**|Haowei Du et.al.|[2408.15037](http://arxiv.org/abs/2408.15037)|null|
 |**2024-08-28**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
@@ -807,7 +807,7 @@ layout: default
 |**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
 |**2024-08-19**|**Are Large Language Models More Honest in Their Probabilistic or Verbalized Confidence?**|Shiyu Ni et.al.|[2408.09773](http://arxiv.org/abs/2408.09773)|null|
 |**2024-08-19**|**A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification**|Claudio M. V. de Andrade et.al.|[2408.09629](http://arxiv.org/abs/2408.09629)|null|
-|**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|null|
+|**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|**[link](https://github.com/artessay/sama)**|
 |**2024-08-17**|**Chinese Metaphor Recognition Using a Multi-stage Prompting Large Language Model**|Jie Wang et.al.|[2408.09177](http://arxiv.org/abs/2408.09177)|null|
 |**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
 |**2024-08-24**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
@@ -853,7 +853,7 @@ layout: default
 |**2024-08-03**|**WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization**|Liwenhan Xie et.al.|[2408.01703](http://arxiv.org/abs/2408.01703)|null|
 |**2024-08-02**|**Analyzing LLMs' Capabilities to Establish Implicit User Sentiment of Software Desirability**|Sherri Weitl-Harms et.al.|[2408.01527](http://arxiv.org/abs/2408.01527)|null|
 |**2024-07-28**|**Faculty Perspectives on the Potential of RAG in Computer Science Higher Education**|Sagnik Dakshit et.al.|[2408.01462](http://arxiv.org/abs/2408.01462)|null|
-|**2024-08-18**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262](http://arxiv.org/abs/2408.01262)|null|
+|**2024-08-18**|**RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework**|Kunlun Zhu et.al.|[2408.01262](http://arxiv.org/abs/2408.01262)|**[link](https://github.com/openbmb/rageval)**|
 |**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168](http://arxiv.org/abs/2408.01168)|null|
 |**2024-08-01**|**Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection**|Steven Fincke et.al.|[2408.00914](http://arxiv.org/abs/2408.00914)|null|
 |**2024-07-26**|**ChipExpert: The Open-Source Integrated-Circuit-Design-Specific Large Language Model**|Ning Xu et.al.|[2408.00804](http://arxiv.org/abs/2408.00804)|null|
