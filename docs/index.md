@@ -22,6 +22,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530](http://arxiv.org/abs/2409.02530)|null|
+|**2024-09-03**|**Therapy as an NLP Task: Psychologists' Comparison of LLMs and Human Peers in CBT**|Zainab Iftikhar et.al.|[2409.02244](http://arxiv.org/abs/2409.02244)|null|
+|**2024-09-03**|**Towards Leveraging Large Language Models for Automated Medical Q&A Evaluation**|Jack Krolik et.al.|[2409.01941](http://arxiv.org/abs/2409.01941)|null|
+|**2024-09-03**|**Training on the Benchmark Is Not All You Need**|Shiwen Ni et.al.|[2409.01790](http://arxiv.org/abs/2409.01790)|null|
+|**2024-09-03**|**It is Time to Develop an Auditing Framework to Promote Value Aware Chatbots**|Yanchen Wang et.al.|[2409.01539](http://arxiv.org/abs/2409.01539)|null|
+|**2024-09-02**|**DiversityMedQA: Assessing Demographic Biases in Medical Diagnosis using Large Language Models**|Rajat Rawat et.al.|[2409.01497](http://arxiv.org/abs/2409.01497)|null|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
+|**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
+|**2024-08-31**|**Large Language Models-Enabled Digital Twins for Precision Medicine in Rare Gynecological Tumors**|Jacqueline Lammert et.al.|[2409.00544](http://arxiv.org/abs/2409.00544)|null|
+|**2024-08-31**|**Chatting Up Attachment: Using LLMs to Predict Adult Bonds**|Paulo Soares et.al.|[2409.00347](http://arxiv.org/abs/2409.00347)|null|
+|**2024-08-29**|**A Survey for Large Language Models in Biomedicine**|Chong Wang et.al.|[2409.00133](http://arxiv.org/abs/2409.00133)|null|
+|**2024-08-27**|**Toward Large Language Models as a Therapeutic Tool: Comparing Prompting Techniques to Improve GPT-Delivered Problem-Solving Therapy**|Daniil Filienko et.al.|[2409.00112](http://arxiv.org/abs/2409.00112)|null|
+|**2024-08-27**|**Large Language Models for Disease Diagnosis: A Scoping Review**|Shuang Zhou et.al.|[2409.00097](http://arxiv.org/abs/2409.00097)|null|
+|**2024-09-04**|**Vision-Language and Large Language Model Performance in Gastroenterology: GPT, Claude, Llama, Phi, Mistral, Gemma, and Quantized Models**|Seyed Amir Ahmad Safavi-Naini et.al.|[2409.00084](http://arxiv.org/abs/2409.00084)|**[link](https://github.com/sdamirsa/llm-vlm-in-gastroenterology)**|
 |**2024-08-30**|**NDP: Next Distribution Prediction as a More Broad Target**|Junhao Ruan et.al.|[2408.17377](http://arxiv.org/abs/2408.17377)|null|
 |**2024-08-29**|**Instruction-tuned Large Language Models for Machine Translation in the Medical Domain**|Miguel Rios et.al.|[2408.16440](http://arxiv.org/abs/2408.16440)|null|
 |**2024-08-29**|**Enhancing AI-Driven Psychological Consultation: Layered Prompts with Large Language Models**|Rafael Souza et.al.|[2408.16276](http://arxiv.org/abs/2408.16276)|null|
@@ -755,6 +769,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
+|**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
+|**2024-09-03**|**Physical Rule-Guided Convolutional Neural Network**|Kishor Datta Gupta et.al.|[2409.02081](http://arxiv.org/abs/2409.02081)|null|
+|**2024-09-03**|**RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer**|Jiangyi Deng et.al.|[2409.02074](http://arxiv.org/abs/2409.02074)|null|
+|**2024-08-25**|**Path-Consistency: Prefix Enhancement for Efficient Inference in LLM**|Jiace Zhu et.al.|[2409.01281](http://arxiv.org/abs/2409.01281)|null|
+|**2024-09-02**|**Statically Contextualizing Large Language Models with Typed Holes**|Andrew Blinn et.al.|[2409.00921](http://arxiv.org/abs/2409.00921)|null|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
+|**2024-08-31**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557](http://arxiv.org/abs/2409.00557)|null|
+|**2024-08-31**|**Does Alignment Tuning Really Break LLMs' Internal Confidence?**|Hongseok Oh et.al.|[2409.00352](http://arxiv.org/abs/2409.00352)|null|
+|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|null|
+|**2024-08-30**|**LLMs hallucinate graphs too: a structural perspective**|Erwan Le Merrer et.al.|[2409.00159](http://arxiv.org/abs/2409.00159)|null|
+|**2024-08-29**|**HoneyComb: A Flexible LLM-Based Agent System for Materials Science**|Huan Zhang et.al.|[2409.00135](http://arxiv.org/abs/2409.00135)|null|
+|**2024-09-04**|**Can AI Replace Human Subjects? A Large-Scale Replication of Psychological Experiments with LLMs**|Ziyan Cui et.al.|[2409.00128](http://arxiv.org/abs/2409.00128)|null|
+|**2024-08-28**|**Leveraging Large Language Models for Wireless Symbol Detection via In-Context Learning**|Momin Abbas et.al.|[2409.00124](http://arxiv.org/abs/2409.00124)|null|
+|**2024-09-04**|**Negation Blindness in Large Language Models: Unveiling the NO Syndrome in Image Generation**|Mohammad Nadeem et.al.|[2409.00105](http://arxiv.org/abs/2409.00105)|null|
+|**2024-08-26**|**Evaluating ChatGPT on Nuclear Domain-Specific Data**|Muhammad Anwar et.al.|[2409.00090](http://arxiv.org/abs/2409.00090)|null|
+|**2024-08-26**|**Watermarking Techniques for Large Language Models: A Survey**|Yuqing Liang et.al.|[2409.00089](http://arxiv.org/abs/2409.00089)|null|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
 |**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
@@ -785,7 +817,7 @@ layout: default
 |**2024-08-22**|**SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection**|Mengya Hu et.al.|[2408.12748](http://arxiv.org/abs/2408.12748)|**[link](https://github.com/microsoft/constrainedreasoner)**|
 |**2024-08-22**|**Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning**|Mushui Liu et.al.|[2408.12469](http://arxiv.org/abs/2408.12469)|null|
 |**2024-08-22**|**A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation**|Weijia Zhang et.al.|[2408.12398](http://arxiv.org/abs/2408.12398)|null|
-|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
+|**2024-09-04**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Improving Factuality in Large Language Models via Decoding-Time Hallucinatory and Truthful Comparators**|Dingkang Yang et.al.|[2408.12325](http://arxiv.org/abs/2408.12325)|null|
 |**2024-08-22**|**MedDiT: A Knowledge-Controlled Diffusion Transformer Framework for Dynamic Medical Image Generation in Virtual Simulated Patient**|Yanzeng Li et.al.|[2408.12236](http://arxiv.org/abs/2408.12236)|null|
