@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -769,7 +769,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
 |**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
 |**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
 |**2024-09-03**|**Physical Rule-Guided Convolutional Neural Network**|Kishor Datta Gupta et.al.|[2409.02081](http://arxiv.org/abs/2409.02081)|null|
@@ -777,7 +777,7 @@ layout: default
 |**2024-08-25**|**Path-Consistency: Prefix Enhancement for Efficient Inference in LLM**|Jiace Zhu et.al.|[2409.01281](http://arxiv.org/abs/2409.01281)|null|
 |**2024-09-02**|**Statically Contextualizing Large Language Models with Typed Holes**|Andrew Blinn et.al.|[2409.00921](http://arxiv.org/abs/2409.00921)|null|
 |**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
-|**2024-08-31**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557](http://arxiv.org/abs/2409.00557)|null|
+|**2024-09-04**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557](http://arxiv.org/abs/2409.00557)|null|
 |**2024-08-31**|**Does Alignment Tuning Really Break LLMs' Internal Confidence?**|Hongseok Oh et.al.|[2409.00352](http://arxiv.org/abs/2409.00352)|null|
 |**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|null|
 |**2024-08-30**|**LLMs hallucinate graphs too: a structural perspective**|Erwan Le Merrer et.al.|[2409.00159](http://arxiv.org/abs/2409.00159)|null|
