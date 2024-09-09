@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2024-08-28**|**Interactive Agents: Simulating Counselor-Client Psychological Counseling via Role-Playing LLM-to-LLM Interactions**|Huachuan Qiu et.al.|[2408.15787](http://arxiv.org/abs/2408.15787)|**[link](https://github.com/qiuhuachuan/interactive-agents)**|
 |**2024-08-28**|**A Survey on Evaluation of Multimodal Large Language Models**|Jiaxing Huang et.al.|[2408.15769](http://arxiv.org/abs/2408.15769)|null|
 |**2024-08-26**|**Improving Clinical Note Generation from Complex Doctor-Patient Conversation**|Yizhan Li et.al.|[2408.14568](http://arxiv.org/abs/2408.14568)|null|
-|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-09-06**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-09-03**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-25**|**Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data**|Felix J. Dorfner et.al.|[2408.13833](http://arxiv.org/abs/2408.13833)|null|
 |**2024-08-25**|**Towards Reliable Medical Question Answering: Techniques and Challenges in Mitigating Hallucinations in Language Models**|Duy Khoa Pham et.al.|[2408.13808](http://arxiv.org/abs/2408.13808)|null|
@@ -765,7 +765,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -796,7 +796,7 @@
 |**2024-08-26**|**Watermarking Techniques for Large Language Models: A Survey**|Yuqing Liang et.al.|[2409.00089](http://arxiv.org/abs/2409.00089)|null|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
-|**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
+|**2024-09-05**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
 |**2024-09-04**|**Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies**|Zhiyang Qi et.al.|[2408.16586](http://arxiv.org/abs/2408.16586)|null|
 |**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
 |**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
@@ -990,7 +990,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
