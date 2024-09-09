@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Towards Safer Online Spaces: Simulating and Assessing Intervention Strategies for Eating Disorder Discussions**|Louis Penafiel et.al.|[2409.04043](http://arxiv.org/abs/2409.04043)|null|
+|**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905](http://arxiv.org/abs/2409.03905)|null|
 |**2024-09-05**|**LLM-based event abstraction and integration for IoT-sourced logs**|Mohsen Shirali et.al.|[2409.03478](http://arxiv.org/abs/2409.03478)|null|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
 |**2024-09-05**|**Leveraging Large Language Models through Natural Language Processing to provide interpretable Machine Learning predictions of mental deterioration in real time**|Francisco de Arriba-Pérez et.al.|[2409.03375](http://arxiv.org/abs/2409.03375)|null|
@@ -771,7 +773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
+|**2024-09-03**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
+|**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
 |**2024-09-05**|**Enhancing Healthcare LLM Trust with Atypical Presentations Recalibration**|Jeremy Qin et.al.|[2409.03225](http://arxiv.org/abs/2409.03225)|**[link](https://github.com/jeremy-qin/medical_confidence_elicitation)**|
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
 |**2024-09-04**|**CLUE: Concept-Level Uncertainty Estimation for Large Language Models**|Yu-Hsiang Wang et.al.|[2409.03021](http://arxiv.org/abs/2409.03021)|null|
