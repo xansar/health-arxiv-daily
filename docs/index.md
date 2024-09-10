@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Towards Democratizing Multilingual Large Language Models For Medicine Through A Two-Stage Instruction Fine-tuning Approach**|Meng Zhou et.al.|[2409.05732](http://arxiv.org/abs/2409.05732)|null|
+|**2024-09-09**|**The Influence of Task and Group Disparities over Users' Attitudes Toward Using Large Language Models for Psychotherapy**|Qihang He et.al.|[2409.05703](http://arxiv.org/abs/2409.05703)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
+|**2024-09-06**|**Toward LLM-Powered Social Robots for Supporting Sensitive Disclosures of Stigmatized Health Conditions**|Alemitu Bezabih et.al.|[2409.04508](http://arxiv.org/abs/2409.04508)|null|
+|**2024-09-06**|**Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials**|Yizhen Zheng et.al.|[2409.04481](http://arxiv.org/abs/2409.04481)|null|
 |**2024-09-06**|**Towards Safer Online Spaces: Simulating and Assessing Intervention Strategies for Eating Disorder Discussions**|Louis Penafiel et.al.|[2409.04043](http://arxiv.org/abs/2409.04043)|null|
 |**2024-09-05**|**CACER: Clinical Concept Annotations for Cancer Events and Relations**|Yujuan Fu et.al.|[2409.03905](http://arxiv.org/abs/2409.03905)|null|
 |**2024-09-05**|**LLM-based event abstraction and integration for IoT-sourced logs**|Mohsen Shirali et.al.|[2409.03478](http://arxiv.org/abs/2409.03478)|null|
@@ -775,6 +780,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806](http://arxiv.org/abs/2409.05806)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-09-09**|**LLMs Will Always Hallucinate, and We Need to Live With This**|Sourav Banerjee et.al.|[2409.05746](http://arxiv.org/abs/2409.05746)|null|
+|**2024-09-07**|**LMGT: Optimizing Exploration-Exploitation Balance in Reinforcement Learning through Language Model Guided Trade-offs**|Yongxin Deng et.al.|[2409.04744](http://arxiv.org/abs/2409.04744)|null|
+|**2024-09-03**|**Here's Charlie! Realising the Semantic Web vision of Agents in the age of LLMs**|Jesse Wright et.al.|[2409.04465](http://arxiv.org/abs/2409.04465)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
 |**2024-09-03**|**Safeguarding AI Agents: Developing and Analyzing Safety Architectures**|Ishaan Domkundwar et.al.|[2409.03793](http://arxiv.org/abs/2409.03793)|null|
 |**2024-09-06**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
@@ -792,11 +801,11 @@ layout: default
 |**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
 |**2024-09-04**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557](http://arxiv.org/abs/2409.00557)|null|
 |**2024-08-31**|**Does Alignment Tuning Really Break LLMs' Internal Confidence?**|Hongseok Oh et.al.|[2409.00352](http://arxiv.org/abs/2409.00352)|null|
-|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
+|**2024-09-08**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
 |**2024-08-30**|**LLMs hallucinate graphs too: a structural perspective**|Erwan Le Merrer et.al.|[2409.00159](http://arxiv.org/abs/2409.00159)|null|
 |**2024-08-29**|**HoneyComb: A Flexible LLM-Based Agent System for Materials Science**|Huan Zhang et.al.|[2409.00135](http://arxiv.org/abs/2409.00135)|null|
 |**2024-09-04**|**Can AI Replace Human Subjects? A Large-Scale Replication of Psychological Experiments with LLMs**|Ziyan Cui et.al.|[2409.00128](http://arxiv.org/abs/2409.00128)|null|
-|**2024-08-28**|**Leveraging Large Language Models for Wireless Symbol Detection via In-Context Learning**|Momin Abbas et.al.|[2409.00124](http://arxiv.org/abs/2409.00124)|null|
+|**2024-09-08**|**Leveraging Large Language Models for Wireless Symbol Detection via In-Context Learning**|Momin Abbas et.al.|[2409.00124](http://arxiv.org/abs/2409.00124)|null|
 |**2024-09-04**|**Negation Blindness in Large Language Models: Unveiling the NO Syndrome in Image Generation**|Mohammad Nadeem et.al.|[2409.00105](http://arxiv.org/abs/2409.00105)|null|
 |**2024-08-26**|**Evaluating ChatGPT on Nuclear Domain-Specific Data**|Muhammad Anwar et.al.|[2409.00090](http://arxiv.org/abs/2409.00090)|null|
 |**2024-08-26**|**Watermarking Techniques for Large Language Models: A Survey**|Yuqing Liang et.al.|[2409.00089](http://arxiv.org/abs/2409.00089)|null|
