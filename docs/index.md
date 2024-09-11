@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -791,7 +791,7 @@ layout: default
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
 |**2024-09-04**|**CLUE: Concept-Level Uncertainty Estimation for Large Language Models**|Yu-Hsiang Wang et.al.|[2409.03021](http://arxiv.org/abs/2409.03021)|null|
 |**2024-09-04**|**Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models**|Gabriel Y. Arteaga et.al.|[2409.02976](http://arxiv.org/abs/2409.02976)|null|
-|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
+|**2024-09-10**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
 |**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
 |**2024-09-03**|**Physical Rule-Guided Convolutional Neural Network**|Kishor Datta Gupta et.al.|[2409.02081](http://arxiv.org/abs/2409.02081)|null|

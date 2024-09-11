@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -772,7 +772,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -789,7 +789,7 @@
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
 |**2024-09-04**|**CLUE: Concept-Level Uncertainty Estimation for Large Language Models**|Yu-Hsiang Wang et.al.|[2409.03021](http://arxiv.org/abs/2409.03021)|null|
 |**2024-09-04**|**Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models**|Gabriel Y. Arteaga et.al.|[2409.02976](http://arxiv.org/abs/2409.02976)|null|
-|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
+|**2024-09-10**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
 |**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
 |**2024-09-03**|**Physical Rule-Guided Convolutional Neural Network**|Kishor Datta Gupta et.al.|[2409.02081](http://arxiv.org/abs/2409.02081)|null|
@@ -1003,7 +1003,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
