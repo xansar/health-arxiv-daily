@@ -832,7 +832,7 @@
 |**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
 |**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
 |**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
-|**2024-09-07**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
+|**2024-09-07**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|**[link](https://github.com/yaphabates/rocket)**|
 |**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
 |**2024-08-28**|**An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation**|Thai Tang Quoc et.al.|[2408.15658](http://arxiv.org/abs/2408.15658)|null|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
@@ -885,7 +885,7 @@
 |**2024-08-17**|**Chinese Metaphor Recognition Using a Multi-stage Prompting Large Language Model**|Jie Wang et.al.|[2408.09177](http://arxiv.org/abs/2408.09177)|null|
 |**2024-08-17**|**Cognitive LLMs: Towards Integrating Cognitive Architectures and Large Language Models for Manufacturing Decision-making**|Siyu Wu et.al.|[2408.09176](http://arxiv.org/abs/2408.09176)|null|
 |**2024-08-24**|**Unc-TTP: A Method for Classifying LLM Uncertainty to Improve In-Context Example Selection**|Hsiu-Yuan Huang et.al.|[2408.09172](http://arxiv.org/abs/2408.09172)|null|
-|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921](http://arxiv.org/abs/2408.08921)|null|
+|**2024-08-15**|**Graph Retrieval-Augmented Generation: A Survey**|Boci Peng et.al.|[2408.08921](http://arxiv.org/abs/2408.08921)|**[link](https://github.com/pengboci/graphrag-survey)**|
 |**2024-08-12**|**Audit-LLM: Multi-Agent Collaboration for Log-based Insider Threat Detection**|Chengyu Song et.al.|[2408.08902](http://arxiv.org/abs/2408.08902)|null|
 |**2024-08-22**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**Lower Layer Matters: Alleviating Hallucination via Multi-Layer Fusion Contrastive Decoding with Truthfulness Refocused**|Dingwei Chen et.al.|[2408.08769](http://arxiv.org/abs/2408.08769)|null|
