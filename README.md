@@ -18,6 +18,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
+|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-16**|**LLMs for clinical risk prediction**|Mohamed Rezk et.al.|[2409.10191](http://arxiv.org/abs/2409.10191)|null|
+|**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064](http://arxiv.org/abs/2409.10064)|null|
+|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
+|**2024-09-15**|**GP-GPT: Large Language Model for Gene-Phenotype Mapping**|Yanjun Lyu et.al.|[2409.09825](http://arxiv.org/abs/2409.09825)|null|
+|**2024-09-15**|**AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs**|Madhusudan Ghosh et.al.|[2409.09704](http://arxiv.org/abs/2409.09704)|**[link](https://github.com/shrimonmuke0202/alpapico)**|
+|**2024-09-15**|**ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models**|Inhwa Song et.al.|[2409.09662](http://arxiv.org/abs/2409.09662)|null|
+|**2024-09-15**|**MindScape Study: Integrating LLM and Behavioral Sensing for Personalized AI-Driven Journaling Experiences**|Subigya Nepal et.al.|[2409.09570](http://arxiv.org/abs/2409.09570)|null|
+|**2024-09-14**|**Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation**|Hui Yi Leong et.al.|[2409.09324](http://arxiv.org/abs/2409.09324)|null|
+|**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201](http://arxiv.org/abs/2409.09201)|null|
+|**2024-09-13**|**Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation**|Cheng Charles Ma et.al.|[2409.09135](http://arxiv.org/abs/2409.09135)|null|
+|**2024-08-30**|**OrthoDoc: Multimodal Large Language Model for Assisting Diagnosis in Computed Tomography**|Youzhu Jin et.al.|[2409.09052](http://arxiv.org/abs/2409.09052)|null|
 |**2024-09-13**|**Optimizing Ingredient Substitution Using Large Language Models to Enhance Phytochemical Content in Recipes**|Luis Rita et.al.|[2409.08792](http://arxiv.org/abs/2409.08792)|null|
 |**2024-09-13**|**Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling**|Jialu Tang et.al.|[2409.08788](http://arxiv.org/abs/2409.08788)|null|
 |**2024-09-13**|**Eir: Thai Medical Large Language Models**|Yutthakorn Thiprak et.al.|[2409.08523](http://arxiv.org/abs/2409.08523)|null|
@@ -787,6 +800,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-16**|**Trustworthiness in Retrieval-Augmented Generation Systems: A Survey**|Yujia Zhou et.al.|[2409.10102](http://arxiv.org/abs/2409.10102)|**[link](https://github.com/smallporridge/trustworthyrag)**|
+|**2024-09-16**|**Benchmarking Large Language Model Uncertainty for Prompt Optimization**|Pei-Fu Guo et.al.|[2409.10044](http://arxiv.org/abs/2409.10044)|**[link](https://github.com/0frett/po-uncertainty-benchmarking)**|
+|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
+|**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou et.al.|[2409.09947](http://arxiv.org/abs/2409.09947)|null|
+|**2024-09-16**|**Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges**|Vinay Samuel et.al.|[2409.09927](http://arxiv.org/abs/2409.09927)|null|
+|**2024-09-16**|**SFR-RAG: Towards Contextually Faithful LLMs**|Xuan-Phi Nguyen et.al.|[2409.09916](http://arxiv.org/abs/2409.09916)|null|
+|**2024-09-15**|**ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing**|Suhyeon Yoo et.al.|[2409.09760](http://arxiv.org/abs/2409.09760)|null|
+|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|null|
+|**2024-09-15**|**Confidence Estimation for LLM-Based Dialogue State Tracking**|Yi-Jyun Sun et.al.|[2409.09629](http://arxiv.org/abs/2409.09629)|null|
+|**2024-09-14**|**VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications**|Teun van de Laar et.al.|[2409.09536](http://arxiv.org/abs/2409.09536)|null|
+|**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
+|**2024-09-14**|**The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection**|Yi Yang et.al.|[2409.09380](http://arxiv.org/abs/2409.09380)|null|
 |**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
 |**2024-09-13**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435](http://arxiv.org/abs/2409.08435)|**[link](https://github.com/PortNLP/WikiAtomic)**|
 |**2024-09-12**|**Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT**|Irene Weber et.al.|[2409.07732](http://arxiv.org/abs/2409.07732)|**[link](https://github.com/weberi/2024_akwi_structured_gpt_experiments)**|
@@ -799,7 +825,7 @@
 |**2024-09-10**|**Alleviating Hallucinations in Large Language Models with Scepticism Modeling**|Yetao Wu et.al.|[2409.06601](http://arxiv.org/abs/2409.06601)|null|
 |**2024-09-10**|**GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering**|Sacha Muller et.al.|[2409.06595](http://arxiv.org/abs/2409.06595)|**[link](https://github.com/illuin-tech/grouse)**|
 |**2024-09-10**|**Automate Strategy Finding with LLM in Quant investment**|Zhizhuo Kou et.al.|[2409.06289](http://arxiv.org/abs/2409.06289)|null|
-|**2024-09-09**|**ClarQ-LLM: A Benchmark for Models Clarifying and Requesting Information in Task-Oriented Dialog**|Yujian Gan et.al.|[2409.06097](http://arxiv.org/abs/2409.06097)|null|
+|**2024-09-14**|**ClarQ-LLM: A Benchmark for Models Clarifying and Requesting Information in Task-Oriented Dialog**|Yujian Gan et.al.|[2409.06097](http://arxiv.org/abs/2409.06097)|**[link](https://github.com/ygan/clarq-llm)**|
 |**2024-09-09**|**$\mathbb{USCD}$ : Improving Code Generation of LLMs by Uncertainty-Aware Selective Contrastive Decoding**|Shuai Wang et.al.|[2409.05923](http://arxiv.org/abs/2409.05923)|null|
 |**2024-09-09**|**Benchmarking Chinese Knowledge Rectification in Large Language Models**|Tianhe Lu et.al.|[2409.05806](http://arxiv.org/abs/2409.05806)|**[link](https://github.com/zjunlp/easyedit)**|
 |**2024-09-09**|**LLMs Will Always Hallucinate, and We Need to Live With This**|Sourav Banerjee et.al.|[2409.05746](http://arxiv.org/abs/2409.05746)|null|
