@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
 |**2024-09-18**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783](http://arxiv.org/abs/2409.11783)|null|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
 |**2024-09-17**|**ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers**|Pragnya Ramjee et.al.|[2409.10913](http://arxiv.org/abs/2409.10913)|null|
@@ -34,7 +34,7 @@ layout: default
 |**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-16**|**LLMs for clinical risk prediction**|Mohamed Rezk et.al.|[2409.10191](http://arxiv.org/abs/2409.10191)|null|
 |**2024-09-16**|**MindGuard: Towards Accessible and Sitgma-free Mental Health First Aid via Edge LLM**|Sijie Ji et.al.|[2409.10064](http://arxiv.org/abs/2409.10064)|null|
-|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
+|**2024-09-18**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
 |**2024-09-15**|**GP-GPT: Large Language Model for Gene-Phenotype Mapping**|Yanjun Lyu et.al.|[2409.09825](http://arxiv.org/abs/2409.09825)|null|
 |**2024-09-15**|**AlpaPICO: Extraction of PICO Frames from Clinical Trial Documents Using LLMs**|Madhusudan Ghosh et.al.|[2409.09704](http://arxiv.org/abs/2409.09704)|**[link](https://github.com/shrimonmuke0202/alpapico)**|
 |**2024-09-17**|**ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models**|Inhwa Song et.al.|[2409.09662](http://arxiv.org/abs/2409.09662)|null|
@@ -826,7 +826,7 @@ layout: default
 |**2024-09-17**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
 |**2024-09-16**|**Trustworthiness in Retrieval-Augmented Generation Systems: A Survey**|Yujia Zhou et.al.|[2409.10102](http://arxiv.org/abs/2409.10102)|**[link](https://github.com/smallporridge/trustworthyrag)**|
 |**2024-09-16**|**Benchmarking Large Language Model Uncertainty for Prompt Optimization**|Pei-Fu Guo et.al.|[2409.10044](http://arxiv.org/abs/2409.10044)|**[link](https://github.com/0frett/po-uncertainty-benchmarking)**|
-|**2024-09-16**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
+|**2024-09-18**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|null|
 |**2024-09-16**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou et.al.|[2409.09947](http://arxiv.org/abs/2409.09947)|null|
 |**2024-09-16**|**Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges**|Vinay Samuel et.al.|[2409.09927](http://arxiv.org/abs/2409.09927)|null|
 |**2024-09-16**|**SFR-RAG: Towards Contextually Faithful LLMs**|Xuan-Phi Nguyen et.al.|[2409.09916](http://arxiv.org/abs/2409.09916)|null|
@@ -835,7 +835,7 @@ layout: default
 |**2024-09-15**|**Confidence Estimation for LLM-Based Dialogue State Tracking**|Yi-Jyun Sun et.al.|[2409.09629](http://arxiv.org/abs/2409.09629)|null|
 |**2024-09-14**|**VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications**|Teun van de Laar et.al.|[2409.09536](http://arxiv.org/abs/2409.09536)|null|
 |**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
-|**2024-09-14**|**The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection**|Yi Yang et.al.|[2409.09380](http://arxiv.org/abs/2409.09380)|null|
+|**2024-09-19**|**The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection**|Yi Yang et.al.|[2409.09380](http://arxiv.org/abs/2409.09380)|null|
 |**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
 |**2024-09-13**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435](http://arxiv.org/abs/2409.08435)|**[link](https://github.com/PortNLP/WikiAtomic)**|
 |**2024-09-12**|**Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT**|Irene Weber et.al.|[2409.07732](http://arxiv.org/abs/2409.07732)|**[link](https://github.com/weberi/2024_akwi_structured_gpt_experiments)**|
