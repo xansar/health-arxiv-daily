@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
-|**2024-09-20**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783](http://arxiv.org/abs/2409.11783)|null|
+|**2024-09-20**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783](http://arxiv.org/abs/2409.11783)|**[link](https://github.com/stardust-coder/japanese-lm-med-harness)**|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
 |**2024-09-17**|**ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers**|Pragnya Ramjee et.al.|[2409.10913](http://arxiv.org/abs/2409.10913)|null|
 |**2024-09-16**|**GPT takes the SAT: Tracing changes in Test Difficulty and Math Performance of Students**|Vikram Krishnaveti et.al.|[2409.10750](http://arxiv.org/abs/2409.10750)|null|
@@ -173,7 +173,7 @@
 |**2024-07-24**|**SDoH-GPT: Using Large Language Models to Extract Social Determinants of Health (SDoH)**|Bernardo Consoli et.al.|[2407.17126](http://arxiv.org/abs/2407.17126)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|**[link](https://github.com/ATILF-UMR7118/pRAGe)**|
 |**2024-07-23**|**PhenoFlow: A Human-LLM Driven Visual Analytics System for Exploring Large and Complex Stroke Datasets**|Jaeyoung Kim et.al.|[2407.16329](http://arxiv.org/abs/2407.16329)|null|
-|**2024-07-23**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|null|
+|**2024-07-23**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|**[link](https://github.com/lifestrugglee/privacy-synthetic-generation)**|
 |**2024-07-16**|**Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations: A Comparative Analysis**|Qiuhong Wei et.al.|[2407.15862](http://arxiv.org/abs/2407.15862)|null|
 |**2024-07-21**|**A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech**|Gaurav Verma et.al.|[2407.15227](http://arxiv.org/abs/2407.15227)|null|
 |**2024-07-19**|**CVE-LLM : Automatic vulnerability evaluation in medical device industry using large language models**|Rikhiya Ghosh et.al.|[2407.14640](http://arxiv.org/abs/2407.14640)|null|
@@ -184,7 +184,7 @@
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|**[link](https://github.com/samyateia/bioasq2024)**|
 |**2024-07-18**|**End-To-End Clinical Trial Matching with Large Language Models**|Dyke Ferber et.al.|[2407.13463](http://arxiv.org/abs/2407.13463)|null|
-|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|null|
+|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|**[link](https://github.com/freedomintelligence/chain-of-diagnosis)**|
 |**2024-07-18**|**TrialEnroll: Predicting Clinical Trial Enrollment Success with Deep & Cross Network and Large Language Models**|Ling Yue et.al.|[2407.13115](http://arxiv.org/abs/2407.13115)|null|
 |**2024-07-03**|**Large Language Model Agents for Improving Engagement with Behavior Change Interventions: Application to Digital Mindfulness**|Harsh Kumar et.al.|[2407.13067](http://arxiv.org/abs/2407.13067)|null|
 |**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|**[link](https://github.com/pinglab-utils/rugged)**|
@@ -1030,7 +1030,7 @@
 |**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|**[link](https://gitlab.com/anonymousdot/codefeater)**|
 |**2024-08-01**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
-|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|null|
+|**2024-07-18**|**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**|Junying Chen et.al.|[2407.13301](http://arxiv.org/abs/2407.13301)|**[link](https://github.com/freedomintelligence/chain-of-diagnosis)**|
 |**2024-07-19**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
 |**2024-07-19**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193](http://arxiv.org/abs/2407.13193)|null|
 |**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
