@@ -829,13 +829,13 @@
 |**2024-09-16**|**Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges**|Vinay Samuel et.al.|[2409.09927](http://arxiv.org/abs/2409.09927)|null|
 |**2024-09-16**|**SFR-RAG: Towards Contextually Faithful LLMs**|Xuan-Phi Nguyen et.al.|[2409.09916](http://arxiv.org/abs/2409.09916)|null|
 |**2024-09-15**|**ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing**|Suhyeon Yoo et.al.|[2409.09760](http://arxiv.org/abs/2409.09760)|null|
-|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|null|
-|**2024-09-15**|**Confidence Estimation for LLM-Based Dialogue State Tracking**|Yi-Jyun Sun et.al.|[2409.09629](http://arxiv.org/abs/2409.09629)|**[link](https://github.com/jennycs0830/confidence_score_dst)**|
+|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
+|**2024-09-21**|**Confidence Estimation for LLM-Based Dialogue State Tracking**|Yi-Jyun Sun et.al.|[2409.09629](http://arxiv.org/abs/2409.09629)|**[link](https://github.com/jennycs0830/confidence_score_dst)**|
 |**2024-09-14**|**VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications**|Teun van de Laar et.al.|[2409.09536](http://arxiv.org/abs/2409.09536)|null|
 |**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
 |**2024-09-19**|**The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection**|Yi Yang et.al.|[2409.09380](http://arxiv.org/abs/2409.09380)|null|
 |**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
-|**2024-09-13**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435](http://arxiv.org/abs/2409.08435)|null|
+|**2024-09-23**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435](http://arxiv.org/abs/2409.08435)|null|
 |**2024-09-12**|**Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT**|Irene Weber et.al.|[2409.07732](http://arxiv.org/abs/2409.07732)|**[link](https://github.com/weberi/2024_akwi_structured_gpt_experiments)**|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
