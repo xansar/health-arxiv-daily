@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**CHBench: A Chinese Dataset for Evaluating Health in Large Language Models**|Chenlu Guo et.al.|[2409.15766](http://arxiv.org/abs/2409.15766)|**[link](https://github.com/tracyguo2001/chbench)**|
+|**2024-09-24**|**XTRUST: On the Multilingual Trustworthiness of Large Language Models**|Yahan Li et.al.|[2409.15762](http://arxiv.org/abs/2409.15762)|**[link](https://github.com/lluckyyh/xtrust)**|
+|**2024-09-24**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses**|Abdelrahman Hanafi et.al.|[2409.15687](http://arxiv.org/abs/2409.15687)|null|
+|**2024-09-23**|**Voice Assistants for Health Self-Management: Designing for and with Older Adults**|Amama Mahmood et.al.|[2409.15488](http://arxiv.org/abs/2409.15488)|null|
+|**2024-09-20**|**Prompting Large Language Models for Supporting the Differential Diagnosis of Anemia**|Elisa Castagnari et.al.|[2409.15377](http://arxiv.org/abs/2409.15377)|null|
+|**2024-09-23**|**A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?**|Yunfei Xie et.al.|[2409.15277](http://arxiv.org/abs/2409.15277)|null|
+|**2024-09-23**|**Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation**|Yi-Fei Zhao et.al.|[2409.15260](http://arxiv.org/abs/2409.15260)|null|
+|**2024-09-24**|**PALLM: Evaluating and Enhancing PALLiative Care Conversations with Large Language Models**|Zhiyuan Wang et.al.|[2409.15188](http://arxiv.org/abs/2409.15188)|null|
+|**2024-09-23**|**Lessons Learned on Information Retrieval in Electronic Health Records: A Comparison of Embedding Models and Pooling Strategies**|Skatje Myers et.al.|[2409.15163](http://arxiv.org/abs/2409.15163)|null|
+|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|null|
+|**2024-09-20**|**Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory**|Kunyao Lan et.al.|[2409.15084](http://arxiv.org/abs/2409.15084)|null|
+|**2024-09-23**|**Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs**|Clément Christophe et.al.|[2409.14988](http://arxiv.org/abs/2409.14988)|null|
+|**2024-09-23**|**Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization**|Aseem Srivastava et.al.|[2409.14907](http://arxiv.org/abs/2409.14907)|null|
+|**2024-09-24**|**Harmonising the Clinical Melody: Tuning Large Language Models for Hospital Course Summarisation in Clinical Coding**|Bokang Bi et.al.|[2409.14638](http://arxiv.org/abs/2409.14638)|null|
+|**2024-09-22**|**Can Large Language Models Logically Predict Myocardial Infarction? Evaluation based on UK Biobank Cohort**|Yuxing Zhi et.al.|[2409.14478](http://arxiv.org/abs/2409.14478)|null|
+|**2024-09-22**|**PretextTrans: Investigating Medical Factual Knowledge Mastery of LLMs with Predicate-text Dual Transformation**|Yuxuan Zhou et.al.|[2409.14302](http://arxiv.org/abs/2409.14302)|null|
+|**2024-09-21**|**Current Trends and Future Directions for Sexual Health Conversational Agents (CAs) for Youth: A Scoping Review**|Jinkyung Katie Park et.al.|[2409.14226](http://arxiv.org/abs/2409.14226)|null|
+|**2024-09-20**|**Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology**|Aidan Gilson et.al.|[2409.13902](http://arxiv.org/abs/2409.13902)|null|
+|**2024-09-20**|**Transfer Learning with Clinical Concept Embeddings from Large Language Models**|Yuhe Gao et.al.|[2409.13893](http://arxiv.org/abs/2409.13893)|null|
+|**2024-09-11**|**A Simplified Retriever to Improve Accuracy of Phenotype Normalizations by Large Language Models**|Daniel B. Hier et.al.|[2409.13744](http://arxiv.org/abs/2409.13744)|null|
+|**2024-09-20**|**Recent Advancement of Emotion Cognition in Large Language Models**|Yuyan Chen et.al.|[2409.13354](http://arxiv.org/abs/2409.13354)|null|
+|**2024-09-20**|**SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**|Jinge Wu et.al.|[2409.13321](http://arxiv.org/abs/2409.13321)|null|
+|**2024-09-20**|**An adapted large language model facilitates multiple medical tasks in diabetes care**|Lai Wei et.al.|[2409.13191](http://arxiv.org/abs/2409.13191)|**[link](https://github.com/waltonfuture/Diabetica)**|
+|**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853](http://arxiv.org/abs/2409.12853)|null|
+|**2024-09-20**|**Fine Tuning Large Language Models for Medicine: The Role and Importance of Direct Preference Optimization**|Thomas Savage et.al.|[2409.12741](http://arxiv.org/abs/2409.12741)|null|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
 |**2024-09-20**|**Development and bilingual evaluation of Japanese medical large language model within reasonably low computational resources**|Issey Sukeda et.al.|[2409.11783](http://arxiv.org/abs/2409.11783)|**[link](https://github.com/stardust-coder/japanese-lm-med-harness)**|
@@ -36,7 +61,7 @@
 |**2024-09-17**|**ExploreSelf: Fostering User-driven Exploration and Reflection on Personal Challenges with Adaptive Guidance by Large Language Models**|Inhwa Song et.al.|[2409.09662](http://arxiv.org/abs/2409.09662)|null|
 |**2024-09-15**|**MindScape Study: Integrating LLM and Behavioral Sensing for Personalized AI-Driven Journaling Experiences**|Subigya Nepal et.al.|[2409.09570](http://arxiv.org/abs/2409.09570)|null|
 |**2024-09-14**|**Efficient Fine-Tuning of Large Language Models for Automated Medical Documentation**|Hui Yi Leong et.al.|[2409.09324](http://arxiv.org/abs/2409.09324)|null|
-|**2024-09-13**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201](http://arxiv.org/abs/2409.09201)|null|
+|**2024-09-24**|**Contextual Evaluation of Large Language Models for Classifying Tropical and Infectious Diseases**|Mercy Asiedu et.al.|[2409.09201](http://arxiv.org/abs/2409.09201)|null|
 |**2024-09-13**|**Multimodal Fusion with LLMs for Engagement Prediction in Natural Conversation**|Cheng Charles Ma et.al.|[2409.09135](http://arxiv.org/abs/2409.09135)|null|
 |**2024-08-30**|**OrthoDoc: Multimodal Large Language Model for Assisting Diagnosis in Computed Tomography**|Youzhu Jin et.al.|[2409.09052](http://arxiv.org/abs/2409.09052)|null|
 |**2024-09-13**|**Optimizing Ingredient Substitution Using Large Language Models to Enhance Phytochemical Content in Recipes**|Luis Rita et.al.|[2409.08792](http://arxiv.org/abs/2409.08792)|null|
@@ -802,12 +827,42 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## UncertaintyLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Automated test generation to evaluate tool-augmented LLMs as conversational AI agents**|Samuel Arcadinho et.al.|[2409.15934](http://arxiv.org/abs/2409.15934)|null|
+|**2024-09-24**|**Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts**|Sukai Huang et.al.|[2409.15915](http://arxiv.org/abs/2409.15915)|null|
+|**2024-09-24**|**Enhancing Text-to-SQL Capabilities of Large Language Models via Domain Database Knowledge Injection**|Xingyu Ma et.al.|[2409.15907](http://arxiv.org/abs/2409.15907)|null|
+|**2024-09-24**|**XTRUST: On the Multilingual Trustworthiness of Large Language Models**|Yahan Li et.al.|[2409.15762](http://arxiv.org/abs/2409.15762)|**[link](https://github.com/lluckyyh/xtrust)**|
+|**2024-09-23**|**Parse Trees Guided LLM Prompt Compression**|Wenhao Mao et.al.|[2409.15395](http://arxiv.org/abs/2409.15395)|**[link](https://github.com/lengendaryhippopotamus/partprompt)**|
+|**2024-09-18**|**VERA: Validation and Enhancement for Retrieval Augmented systems**|Nitin Aravind Birur et.al.|[2409.15364](http://arxiv.org/abs/2409.15364)|null|
+|**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
+|**2024-09-18**|**Reward-Robust RLHF in LLMs**|Yuzi Yan et.al.|[2409.15360](http://arxiv.org/abs/2409.15360)|null|
+|**2024-09-23**|**A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?**|Yunfei Xie et.al.|[2409.15277](http://arxiv.org/abs/2409.15277)|null|
+|**2024-09-24**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
+|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|null|
+|**2024-09-23**|**Enhancing Scientific Reproducibility Through Automated BioCompute Object Creation Using Retrieval-Augmented Generation from Publications**|Sean Kim et.al.|[2409.15076](http://arxiv.org/abs/2409.15076)|null|
+|**2024-09-23**|**InterMind: A Doctor-Patient-Family Interactive Depression Assessment System Empowered by Large Language Models**|Zhiyuan Zhou et.al.|[2409.14878](http://arxiv.org/abs/2409.14878)|null|
+|**2024-09-23**|**Past Meets Present: Creating Historical Analogy with Large Language Models**|Nianqi Li et.al.|[2409.14820](http://arxiv.org/abs/2409.14820)|null|
+|**2024-09-23**|**Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method**|Weichao Zhang et.al.|[2409.14781](http://arxiv.org/abs/2409.14781)|null|
+|**2024-09-23**|**zsLLMCode: An Effective Approach for Functional Code Embedding via LLM with Zero-Shot Learning**|Zixiang Xian et.al.|[2409.14644](http://arxiv.org/abs/2409.14644)|null|
+|**2024-09-22**|**Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization**|Minyi Zhao et.al.|[2409.14484](http://arxiv.org/abs/2409.14484)|null|
+|**2024-09-22**|**Unveiling Narrative Reasoning Limits of Large Language Models with Trope in Movie Synopses**|Hung-Ting Su et.al.|[2409.14324](http://arxiv.org/abs/2409.14324)|**[link](https://github.com/shelley1214/trope)**|
+|**2024-09-21**|**OAEI-LLM: A Benchmark Dataset for Understanding Large Language Model Hallucinations in Ontology Matching**|Zhangcheng Qiang et.al.|[2409.14038](http://arxiv.org/abs/2409.14038)|null|
+|**2024-09-20**|**Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology**|Aidan Gilson et.al.|[2409.13902](http://arxiv.org/abs/2409.13902)|null|
+|**2024-09-20**|**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**|Bowen Yan et.al.|[2409.13612](http://arxiv.org/abs/2409.13612)|null|
+|**2024-09-20**|**ChainBuddy: An AI Agent System for Generating LLM Pipelines**|Jingyue Zhang et.al.|[2409.13588](http://arxiv.org/abs/2409.13588)|null|
+|**2024-09-23**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447](http://arxiv.org/abs/2409.13447)|null|
+|**2024-09-20**|**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey**|Sourav Verma et.al.|[2409.13385](http://arxiv.org/abs/2409.13385)|null|
+|**2024-09-20**|**Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems**|Andrea Colombo et.al.|[2409.13252](http://arxiv.org/abs/2409.13252)|null|
+|**2024-09-19**|**Edu-Values: Towards Evaluating the Chinese Education Values of Large Language Models**|Peiyi Zhang et.al.|[2409.12739](http://arxiv.org/abs/2409.12739)|null|
+|**2024-09-19**|**LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2409.12580](http://arxiv.org/abs/2409.12580)|null|
+|**2024-09-19**|**Textualized Agent-Style Reasoning for Complex Tasks by Multiple Round LLM Generation**|Chen Liang et.al.|[2409.12411](http://arxiv.org/abs/2409.12411)|null|
+|**2024-09-19**|**On the Effectiveness of LLMs for Manual Test Verifications**|Myron David Lucena Campos Peixoto et.al.|[2409.12405](http://arxiv.org/abs/2409.12405)|null|
+|**2024-09-18**|**RAG-Modulo: Solving Sequential Tasks using Experience, Critics, and Language Models**|Abhinav Jain et.al.|[2409.12294](http://arxiv.org/abs/2409.12294)|null|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-05**|**LitFM: A Retrieval Augmented Structure-aware Foundation Model For Citation Graphs**|Jiasheng Zhang et.al.|[2409.12177](http://arxiv.org/abs/2409.12177)|null|
 |**2024-09-18**|**Combating Phone Scams with LLM-based Detection: Where Do We Stand?**|Zitong Shen et.al.|[2409.11643](http://arxiv.org/abs/2409.11643)|null|
@@ -815,7 +870,7 @@
 |**2024-09-17**|**What Does ChatGPT Make of Historical Stock Returns? Extrapolation and Miscalibration in LLM Stock Return Forecasts**|Shuaiyu Chen et.al.|[2409.11540](http://arxiv.org/abs/2409.11540)|null|
 |**2024-09-17**|**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**|Jiahui Gao et.al.|[2409.11365](http://arxiv.org/abs/2409.11365)|null|
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
-|**2024-09-18**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
+|**2024-09-25**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
 |**2024-09-17**|**Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models**|Bishwash Khanal et.al.|[2409.11233](http://arxiv.org/abs/2409.11233)|null|
 |**2024-09-17**|**Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization**|Jianing Wang et.al.|[2409.11212](http://arxiv.org/abs/2409.11212)|null|
 |**2024-09-17**|**A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language Models: An Experimental Analysis up to 405B**|Jemin Lee et.al.|[2409.11055](http://arxiv.org/abs/2409.11055)|**[link](https://gitlab.com/ones-ai/eval-quant-llms)**|
@@ -1073,7 +1128,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
