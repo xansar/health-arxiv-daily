@@ -321,7 +321,7 @@
 |**2024-06-15**|**We Care: Multimodal Depression Detection and Knowledge Infused Mental Health Therapeutic Response Generation**|Palash Moon et.al.|[2406.10561](http://arxiv.org/abs/2406.10561)|null|
 |**2024-06-15**|**CancerLLM: A Large Language Model in Cancer Domain**|Mingchen Li et.al.|[2406.10459](http://arxiv.org/abs/2406.10459)|null|
 |**2024-06-14**|**Improving the Validity and Practical Usefulness of AI/ML Evaluations Using an Estimands Framework**|Olivier Binette et.al.|[2406.10366](http://arxiv.org/abs/2406.10366)|null|
-|**2024-06-14**|**A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations**|Jinqiang Wang et.al.|[2406.10303](http://arxiv.org/abs/2406.10303)|null|
+|**2024-06-14**|**A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations**|Jinqiang Wang et.al.|[2406.10303](http://arxiv.org/abs/2406.10303)|**[link](https://github.com/jqwangai/medical-llm)**|
 |**2024-06-13**|**Automatically Labeling $200B Life-Saving Datasets: A Large Clinical Trial Outcome Benchmark**|Chufan Gao et.al.|[2406.10292](http://arxiv.org/abs/2406.10292)|null|
 |**2024-06-11**|**Beyond Words: On Large Language Models Actionability in Mission-Critical Risk Analysis**|Matteo Esposito et.al.|[2406.10273](http://arxiv.org/abs/2406.10273)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
@@ -1030,7 +1030,7 @@
 |**2024-08-15**|**Scaling Up Natural Language Understanding for Multi-Robots Through the Lens of Hierarchy**|Shaojun Xu et.al.|[2408.08188](http://arxiv.org/abs/2408.08188)|null|
 |**2024-08-15**|**Confidence-weighted integration of human and machine judgments for superior decision-making**|Felipe Yáñez et.al.|[2408.08083](http://arxiv.org/abs/2408.08083)|**[link](https://github.com/braingpt-lovelab/haico)**|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
-|**2024-08-14**|**Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**|Yuxin Jiang et.al.|[2408.07471](http://arxiv.org/abs/2408.07471)|null|
+|**2024-08-14**|**Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**|Yuxin Jiang et.al.|[2408.07471](http://arxiv.org/abs/2408.07471)|**[link](https://github.com/YJiangcm/BMC)**|
 |**2024-08-13**|**MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty**|Yongjin Yang et.al.|[2408.06816](http://arxiv.org/abs/2408.06816)|null|
 |**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
 |**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|null|
