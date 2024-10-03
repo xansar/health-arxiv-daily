@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning**|Yebowen Hu et.al.|[2410.01772](http://arxiv.org/abs/2410.01772)|null|
+|**2024-10-02**|**Practicing Stress Relief for the Everyday: Designing Social Simulation Using VR, AR, and LLMs**|Anna Fang et.al.|[2410.01672](http://arxiv.org/abs/2410.01672)|null|
+|**2024-10-02**|**MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework**|Zonghai Yao et.al.|[2410.01553](http://arxiv.org/abs/2410.01553)|**[link](https://github.com/bio-nlp/medqa-cs)**|
+|**2024-10-01**|**FMBench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks**|Peiran Wu et.al.|[2410.01089](http://arxiv.org/abs/2410.01089)|null|
+|**2024-10-01**|**Deceptive Risks in LLM-enhanced Robots**|Robert Ranisch et.al.|[2410.00434](http://arxiv.org/abs/2410.00434)|null|
+|**2024-10-01**|**CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset**|Xiao Wang et.al.|[2410.00379](http://arxiv.org/abs/2410.00379)|**[link](https://github.com/event-ahu/medical_image_analysis)**|
+|**2024-10-01**|**Insight: A Multi-Modal Diagnostic Pipeline using LLMs for Ocular Surface Disease Diagnosis**|Chun-Hsiao Yeh et.al.|[2410.00292](http://arxiv.org/abs/2410.00292)|null|
+|**2024-09-30**|**A Methodology for Explainable Large Language Models with Integrated Gradients and Linguistic Analysis in Text Classification**|Marina Ribeiro et.al.|[2410.00250](http://arxiv.org/abs/2410.00250)|null|
+|**2024-09-30**|**EEG Emotion Copilot: Pruning LLMs for Emotional EEG Interpretation with Assisted Medical Record Generation**|Hongyu Chen et.al.|[2410.00166](http://arxiv.org/abs/2410.00166)|null|
+|**2024-09-30**|**Adapting LLMs for the Medical Domain in Portuguese: A Study on Fine-Tuning and Model Evaluation**|Pedro Henrique Paiola et.al.|[2410.00163](http://arxiv.org/abs/2410.00163)|null|
 |**2024-09-30**|**Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation of LLM-Generated Medical Explanatory Arguments**|Iker De la Iglesia et.al.|[2409.20565](http://arxiv.org/abs/2409.20565)|null|
 |**2024-09-30**|**Wait, but Tylenol is Acetaminophen... Investigating and Improving Language Models' Ability to Resist Requests for Misinformation**|Shan Chen et.al.|[2409.20385](http://arxiv.org/abs/2409.20385)|null|
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147](http://arxiv.org/abs/2409.20147)|null|
@@ -860,6 +870,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning**|Yebowen Hu et.al.|[2410.01772](http://arxiv.org/abs/2410.01772)|null|
+|**2024-10-02**|**CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs**|Kangsheng Wang et.al.|[2410.01696](http://arxiv.org/abs/2410.01696)|null|
+|**2024-10-02**|**FactAlign: Long-form Factuality Alignment of Large Language Models**|Chao-Wei Huang et.al.|[2410.01691](http://arxiv.org/abs/2410.01691)|**[link](https://github.com/miulab/factalign)**|
+|**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
+|**2024-10-02**|**Enhancing Training Data Attribution for Large Language Models with Fitting Error Consideration**|Kangxi Wu et.al.|[2410.01285](http://arxiv.org/abs/2410.01285)|null|
+|**2024-10-02**|**BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval-Augmented Generation**|Bryan Li et.al.|[2410.01171](http://arxiv.org/abs/2410.01171)|**[link](https://github.com/manestay/bordirlines)**|
+|**2024-10-01**|**Truth or Deceit? A Bayesian Decoding Game Enhances Consistency and Reliability**|Weitong Zhang et.al.|[2410.01064](http://arxiv.org/abs/2410.01064)|null|
+|**2024-10-01**|**Uncertainty-aware Reward Model: Teaching Reward Models to Know What is Unknown**|Xingzhou Lou et.al.|[2410.00847](http://arxiv.org/abs/2410.00847)|null|
+|**2024-10-01**|**Dynamic Planning for LLM-based Graphical User Interface Automation**|Shaoqing Zhang et.al.|[2410.00467](http://arxiv.org/abs/2410.00467)|**[link](https://github.com/sqzhang-lazy/d-pot)**|
+|**2024-10-01**|**UniAdapt: A Universal Adapter for Knowledge Calibration**|Tai D. Nguyen et.al.|[2410.00454](http://arxiv.org/abs/2410.00454)|null|
+|**2024-10-01**|**Are LLMs Aware that Some Questions are not Open-ended?**|Dongjie Yang et.al.|[2410.00423](http://arxiv.org/abs/2410.00423)|null|
+|**2024-10-01**|**Boosting the Capabilities of Compact Models in Low-Data Contexts with Large Language Models and Retrieval-Augmented Generation**|Bhargav Shandilya et.al.|[2410.00387](http://arxiv.org/abs/2410.00387)|null|
+|**2024-09-30**|**A Methodology for Explainable Large Language Models with Integrated Gradients and Linguistic Analysis in Text Classification**|Marina Ribeiro et.al.|[2410.00250](http://arxiv.org/abs/2410.00250)|null|
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
 |**2024-09-30**|**Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models**|Arpan Mukherjee et.al.|[2409.20512](http://arxiv.org/abs/2409.20512)|null|
 |**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365](http://arxiv.org/abs/2409.20365)|null|
@@ -873,7 +896,7 @@
 |**2024-09-28**|**DENEB: A Hallucination-Robust Automatic Evaluation Metric for Image Captioning**|Kazuki Matsuda et.al.|[2409.19255](http://arxiv.org/abs/2409.19255)|null|
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
 |**2024-09-27**|**A Survey on the Honesty of Large Language Models**|Siheng Li et.al.|[2409.18786](http://arxiv.org/abs/2409.18786)|**[link](https://github.com/sihengli99/llm-honesty-survey)**|
-|**2024-10-01**|**Model-based Preference Optimization in Abstractive Summarization without Human Feedback**|Jaepill Choi et.al.|[2409.18618](http://arxiv.org/abs/2409.18618)|**[link](https://github.com/cjaep/MPO)**|
+|**2024-10-02**|**Model-based Preference Optimization in Abstractive Summarization without Human Feedback**|Jaepill Choi et.al.|[2409.18618](http://arxiv.org/abs/2409.18618)|**[link](https://github.com/cjaep/MPO)**|
 |**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|null|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**A Scalable Data-Driven Framework for Systematic Analysis of SEC 10-K Filings Using Large Language Models**|Syed Affan Daimi et.al.|[2409.17581](http://arxiv.org/abs/2409.17581)|null|
