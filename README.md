@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications**|Aditi Godbole et.al.|[2409.18454](http://arxiv.org/abs/2409.18454)|null|
 |**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|null|
-|**2024-09-26**|**Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**|Yuexing Hao et.al.|[2409.18290](http://arxiv.org/abs/2409.18290)|null|
+|**2024-09-26**|**Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**|Yuexing Hao et.al.|[2409.18290](http://arxiv.org/abs/2409.18290)|**[link](https://github.com/YuexingHao/In-Basket-Message-Evaluation)**|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**Digital Twin Ecosystem for Oncology Clinical Operations**|Himanshu Pandey et.al.|[2409.17650](http://arxiv.org/abs/2409.17650)|null|
 |**2024-09-26**|**ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue**|Zhangpu Li et.al.|[2409.17610](http://arxiv.org/abs/2409.17610)|null|
@@ -854,7 +854,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -878,7 +878,7 @@
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**A Scalable Data-Driven Framework for Systematic Analysis of SEC 10-K Filings Using Large Language Models**|Syed Affan Daimi et.al.|[2409.17581](http://arxiv.org/abs/2409.17581)|null|
 |**2024-09-26**|**HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection**|Xuefeng Du et.al.|[2409.17504](http://arxiv.org/abs/2409.17504)|null|
-|**2024-09-25**|**Post-hoc Reward Calibration: A Case Study on Length Bias**|Zeyu Huang et.al.|[2409.17407](http://arxiv.org/abs/2409.17407)|null|
+|**2024-09-25**|**Post-hoc Reward Calibration: A Case Study on Length Bias**|Zeyu Huang et.al.|[2409.17407](http://arxiv.org/abs/2409.17407)|**[link](https://github.com/zeroyuhuang/reward-calibration)**|
 |**2024-09-25**|**Search for Efficient Large Language Models**|Xuan Shen et.al.|[2409.17372](http://arxiv.org/abs/2409.17372)|null|
 |**2024-09-20**|**A Multiple-Fill-in-the-Blank Exam Approach for Enhancing Zero-Resource Hallucination Detection in Large Language Models**|Satoshi Munakata et.al.|[2409.17173](http://arxiv.org/abs/2409.17173)|null|
 |**2024-09-25**|**Mitigating the Bias of Large Language Model Evaluation**|Hongli Zhou et.al.|[2409.16788](http://arxiv.org/abs/2409.16788)|null|
@@ -909,7 +909,7 @@
 |**2024-09-20**|**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**|Bowen Yan et.al.|[2409.13612](http://arxiv.org/abs/2409.13612)|null|
 |**2024-09-20**|**ChainBuddy: An AI Agent System for Generating LLM Pipelines**|Jingyue Zhang et.al.|[2409.13588](http://arxiv.org/abs/2409.13588)|null|
 |**2024-09-23**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447](http://arxiv.org/abs/2409.13447)|null|
-|**2024-09-20**|**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey**|Sourav Verma et.al.|[2409.13385](http://arxiv.org/abs/2409.13385)|null|
+|**2024-09-20**|**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey**|Sourav Verma et.al.|[2409.13385](http://arxiv.org/abs/2409.13385)|**[link](https://github.com/srgrace/contextual-compression)**|
 |**2024-09-20**|**Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems**|Andrea Colombo et.al.|[2409.13252](http://arxiv.org/abs/2409.13252)|null|
 |**2024-09-19**|**Edu-Values: Towards Evaluating the Chinese Education Values of Large Language Models**|Peiyi Zhang et.al.|[2409.12739](http://arxiv.org/abs/2409.12739)|null|
 |**2024-09-19**|**LLMs Can Check Their Own Results to Mitigate Hallucinations in Traffic Understanding Tasks**|Malsha Ashani Mahawatta Dona et.al.|[2409.12580](http://arxiv.org/abs/2409.12580)|null|
@@ -1181,7 +1181,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
