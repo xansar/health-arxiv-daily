@@ -683,7 +683,7 @@ layout: default
 |**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-02-05**|**Illuminate: A novel approach for depression detection with explainable analysis and proactive therapy using prompt engineering**|Aryan Agrawal et.al.|[2402.05127](http://arxiv.org/abs/2402.05127)|null|
 |**2024-02-05**|**Zero-Shot Clinical Trial Patient Matching with LLMs**|Michael Wornow et.al.|[2402.05125](http://arxiv.org/abs/2402.05125)|null|
-|**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
+|**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|**[link](https://github.com/microsoft/byoeb)**|
 |**2024-02-06**|**Measuring Implicit Bias in Explicitly Unbiased Large Language Models**|Xuechunzi Bai et.al.|[2402.04105](http://arxiv.org/abs/2402.04105)|**[link](https://github.com/baixuechunzi/llm-implicit-bias)**|
 |**2024-02-06**|**The Use of a Large Language Model for Cyberbullying Detection**|Bayode Ogunleye et.al.|[2402.04088](http://arxiv.org/abs/2402.04088)|null|
 |**2024-02-06**|**Iterative Prompt Refinement for Radiation Oncology Symptom Extraction Using Teacher-Student Large Language Models**|Reza Khanmohammadi et.al.|[2402.04075](http://arxiv.org/abs/2402.04075)|null|
@@ -804,7 +804,7 @@ layout: default
 |**2023-12-04**|**MedXChat: Bridging CXR Modalities with a Unified Multimodal Large Model**|Ling Yang et.al.|[2312.02233](http://arxiv.org/abs/2312.02233)|null|
 |**2023-12-03**|**Effectively Fine-tune to Improve Large Multimodal Models for Radiology Report Generation**|Yuzhe Lu et.al.|[2312.01504](http://arxiv.org/abs/2312.01504)|null|
 |**2023-12-18**|**From Beginner to Expert: Modeling Medical Knowledge into General LLMs**|Qiang Li et.al.|[2312.01040](http://arxiv.org/abs/2312.01040)|null|
-|**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567](http://arxiv.org/abs/2312.00567)|null|
+|**2023-12-01**|**Explanatory Argument Extraction of Correct Answers in Resident Medical Exams**|Iakes Goenaga et.al.|[2312.00567](http://arxiv.org/abs/2312.00567)|**[link](https://github.com/ixa-ehu/antidote-casimedicos)**|
 |**2023-11-30**|**Towards Accurate Differential Diagnosis with Large Language Models**|Daniel McDuff et.al.|[2312.00164](http://arxiv.org/abs/2312.00164)|null|
 |**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681](http://arxiv.org/abs/2311.18681)|**[link](https://github.com/chantalmp/radialog)**|
 |**2023-11-29**|**Are we going MAD? Benchmarking Multi-Agent Debate between Language Models for Medical Q&A**|Andries Smit et.al.|[2311.17371](http://arxiv.org/abs/2311.17371)|**[link](https://github.com/instadeepai/debatellm)**|
@@ -976,7 +976,7 @@ layout: default
 |**2024-09-16**|**Benchmarking Large Language Model Uncertainty for Prompt Optimization**|Pei-Fu Guo et.al.|[2409.10044](http://arxiv.org/abs/2409.10044)|**[link](https://github.com/0frett/po-uncertainty-benchmarking)**|
 |**2024-09-18**|**HALO: Hallucination Analysis and Learning Optimization to Empower LLMs with Retrieval-Augmented Context for Guided Clinical Decision Making**|Sumera Anjum et.al.|[2409.10011](http://arxiv.org/abs/2409.10011)|**[link](https://github.com/responsibleailab/halo)**|
 |**2024-09-23**|**Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations**|Abe Bohan Hou et.al.|[2409.09947](http://arxiv.org/abs/2409.09947)|**[link](https://github.com/bohanhou14/GapHalu)**|
-|**2024-09-16**|**Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges**|Vinay Samuel et.al.|[2409.09927](http://arxiv.org/abs/2409.09927)|null|
+|**2024-09-16**|**Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges**|Vinay Samuel et.al.|[2409.09927](http://arxiv.org/abs/2409.09927)|**[link](https://github.com/vsamuel2003/data-contamination)**|
 |**2024-09-16**|**SFR-RAG: Towards Contextually Faithful LLMs**|Xuan-Phi Nguyen et.al.|[2409.09916](http://arxiv.org/abs/2409.09916)|null|
 |**2024-09-15**|**ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing**|Suhyeon Yoo et.al.|[2409.09760](http://arxiv.org/abs/2409.09760)|null|
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
@@ -1140,7 +1140,7 @@ layout: default
 |**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
 |**2024-08-01**|**DeliLaw: A Chinese Legal Counselling System Based on a Large Language Model**|Nan Xie et.al.|[2408.00357](http://arxiv.org/abs/2408.00357)|null|
 |**2024-07-31**|**Deceptive AI systems that give explanations are more convincing than honest AI systems and can amplify belief in misinformation**|Valdemar Danry et.al.|[2408.00024](http://arxiv.org/abs/2408.00024)|null|
-|**2024-07-30**|**WebApp1K: A Practical Code-Generation Benchmark for Web App Development**|Yi Cui et.al.|[2408.00019](http://arxiv.org/abs/2408.00019)|null|
+|**2024-07-30**|**WebApp1K: A Practical Code-Generation Benchmark for Web App Development**|Yi Cui et.al.|[2408.00019](http://arxiv.org/abs/2408.00019)|**[link](https://github.com/onekq/webapp1k)**|
 |**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771](http://arxiv.org/abs/2407.21771)|null|
 |**2024-07-31**|**Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency**|Taiji Li et.al.|[2407.21443](http://arxiv.org/abs/2407.21443)|null|
 |**2024-08-09**|**Cost-Effective Hallucination Detection for LLMs**|Simon Valentin et.al.|[2407.21424](http://arxiv.org/abs/2407.21424)|null|
