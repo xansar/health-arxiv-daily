@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
+|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|null|
+|**2024-10-04**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
+|**2024-10-04**|**Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models**|Yan Chen et.al.|[2410.03134](http://arxiv.org/abs/2410.03134)|null|
+|**2024-10-04**|**Image First or Text First? Optimising the Sequencing of Modalities in Large Language Model Prompting and Reasoning Tasks**|Grant Wardle et.al.|[2410.03062](http://arxiv.org/abs/2410.03062)|null|
 |**2024-10-03**|**HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**|Lingrui Mei et.al.|[2410.02684](http://arxiv.org/abs/2410.02684)|**[link](https://github.com/Meirtz/HiddenGuard)**|
 |**2024-10-03**|**ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration**|Zixiang Wang et.al.|[2410.02551](http://arxiv.org/abs/2410.02551)|null|
 |**2024-10-03**|**MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02458](http://arxiv.org/abs/2410.02458)|null|
@@ -877,6 +882,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
+|**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
+|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
+|**2024-10-04**|**Towards a Benchmark for Large Language Models for Business Process Management Tasks**|Kiran Busch et.al.|[2410.03255](http://arxiv.org/abs/2410.03255)|null|
+|**2024-10-04**|**Showing LLM-Generated Code Selectively Based on Confidence of LLMs**|Jia Li et.al.|[2410.03234](http://arxiv.org/abs/2410.03234)|null|
+|**2024-10-04**|**ALR $^2$ : A Retrieve-then-Reason Framework for Long-context Question Answering**|Huayang Li et.al.|[2410.03227](http://arxiv.org/abs/2410.03227)|null|
+|**2024-10-04**|**Margin Matching Preference Optimization: Enhanced Model Alignment with Granular Feedback**|Kyuyoung Kim et.al.|[2410.03145](http://arxiv.org/abs/2410.03145)|null|
+|**2024-10-04**|**SAG: Style-Aligned Article Generation via Model Collaboration**|Chenning Xu et.al.|[2410.03137](http://arxiv.org/abs/2410.03137)|null|
+|**2024-10-04**|**ARB-LLM: Alternating Refined Binarizations for Large Language Models**|Zhiteng Li et.al.|[2410.03129](http://arxiv.org/abs/2410.03129)|**[link](https://github.com/zhitengli/arb-llm)**|
+|**2024-10-04**|**UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**|Jing Xiong et.al.|[2410.03090](http://arxiv.org/abs/2410.03090)|null|
+|**2024-10-04**|**Scalable Frame-based Construction of Sociocultural NormBases for Socially-Aware Dialogues**|Shilin Qu et.al.|[2410.03049](http://arxiv.org/abs/2410.03049)|null|
+|**2024-10-03**|**Characterizing Context Influence and Hallucination in Summarization**|James Flemings et.al.|[2410.03026](http://arxiv.org/abs/2410.03026)|**[link](https://github.com/james-flemings/context_influence)**|
+|**2024-10-03**|**Is Your Paper Being Reviewed by an LLM? Investigating AI Text Detectability in Peer Review**|Sungduk Yu et.al.|[2410.03019](http://arxiv.org/abs/2410.03019)|null|
+|**2024-09-30**|**Ingest-And-Ground: Dispelling Hallucinations from Continually-Pretrained LLMs with RAG**|Chenhao Fang et.al.|[2410.02825](http://arxiv.org/abs/2410.02825)|null|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
@@ -884,7 +903,7 @@ layout: default
 |**2024-10-03**|**Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers**|Shijie Chen et.al.|[2410.02642](http://arxiv.org/abs/2410.02642)|null|
 |**2024-10-03**|**Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration**|Yun Qu et.al.|[2410.02511](http://arxiv.org/abs/2410.02511)|**[link](https://github.com/hijkzzz/pymarl2)**|
 |**2024-10-03**|**AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models**|Junfeng Fang et.al.|[2410.02355](http://arxiv.org/abs/2410.02355)|**[link](https://github.com/jianghoucheng/alphaedit)**|
-|**2024-10-03**|**How Much Can RAG Help the Reasoning of LLM?**|Jingyu Liu et.al.|[2410.02338](http://arxiv.org/abs/2410.02338)|null|
+|**2024-10-04**|**How Much Can RAG Help the Reasoning of LLM?**|Jingyu Liu et.al.|[2410.02338](http://arxiv.org/abs/2410.02338)|null|
 |**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
 |**2024-10-03**|**Efficiently Deploying LLMs with Controlled Risk**|Michael J. Zellinger et.al.|[2410.02173](http://arxiv.org/abs/2410.02173)|null|
 |**2024-10-03**|**Can LLMs Reliably Simulate Human Learner Actions? A Simulation Authoring Framework for Open-Ended Learning Environments**|Amogh Mannekote et.al.|[2410.02110](http://arxiv.org/abs/2410.02110)|null|
