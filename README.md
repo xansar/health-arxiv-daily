@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
+|**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
+|**2024-10-09**|**Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare**|Pardis Sadat Zahraei et.al.|[2410.06566](http://arxiv.org/abs/2410.06566)|null|
+|**2024-10-08**|**Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns**|Buse Carik et.al.|[2410.06336](http://arxiv.org/abs/2410.06336)|null|
+|**2024-10-08**|**Linking Code and Documentation Churn: Preliminary Analysis**|Ani Hovhannisyan et.al.|[2410.05992](http://arxiv.org/abs/2410.05992)|null|
+|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725](http://arxiv.org/abs/2410.05725)|null|
+|**2024-10-08**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684](http://arxiv.org/abs/2410.05684)|null|
+|**2024-10-07**|**RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction**|Yuwei Zhang et.al.|[2410.05361](http://arxiv.org/abs/2410.05361)|null|
 |**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|**[link](https://github.com/JoyDajunSpaceCraft/EquityGuard)**|
 |**2024-10-07**|**Rule-based Data Selection for Large Language Models**|Xiaomin Li et.al.|[2410.04715](http://arxiv.org/abs/2410.04715)|null|
 |**2024-10-07**|**Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine**|Xiaorui Su et.al.|[2410.04660](http://arxiv.org/abs/2410.04660)|null|
@@ -893,6 +901,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
+|**2024-10-09**|**Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization**|Chengtao Jian et.al.|[2410.07018](http://arxiv.org/abs/2410.07018)|null|
+|**2024-10-09**|**Self-Boosting Large Language Models with Synthetic Preference Data**|Qingxiu Dong et.al.|[2410.06961](http://arxiv.org/abs/2410.06961)|null|
+|**2024-10-09**|**AutoFeedback: An LLM-based Framework for Efficient and Accurate API Request Generation**|Huanxi Liu et.al.|[2410.06943](http://arxiv.org/abs/2410.06943)|null|
+|**2024-10-09**|**Utilize the Flow before Stepping into the Same River Twice: Certainty Represented Knowledge Flow for Refusal-Aware Instruction Tuning**|Runchuan Zhu et.al.|[2410.06913](http://arxiv.org/abs/2410.06913)|null|
+|**2024-10-09**|**Calibrating Verbalized Probabilities for Large Language Models**|Cheng Wang et.al.|[2410.06707](http://arxiv.org/abs/2410.06707)|null|
+|**2024-10-09**|**Honesty to Subterfuge: In-Context Reinforcement Learning Can Make Honest Models Reward Hack**|Leo McKee-Reid et.al.|[2410.06491](http://arxiv.org/abs/2410.06491)|null|
+|**2024-10-09**|**Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders**|David Noever et.al.|[2410.06462](http://arxiv.org/abs/2410.06462)|null|
+|**2024-10-09**|**Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs**|Ruijia Niu et.al.|[2410.06431](http://arxiv.org/abs/2410.06431)|null|
+|**2024-10-08**|**Validation of the Scientific Literature via Chemputation Augmented by Large Language Models**|Sebastian Pagel et.al.|[2410.06384](http://arxiv.org/abs/2410.06384)|null|
+|**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
+|**2024-10-08**|**EVOLvE: Evaluating and Optimizing LLMs For Exploration**|Allen Nie et.al.|[2410.06238](http://arxiv.org/abs/2410.06238)|null|
+|**2024-10-08**|**ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution**|Corban Rivera et.al.|[2410.06108](http://arxiv.org/abs/2410.06108)|null|
+|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-08**|**Gradual Learning: Optimizing Fine-Tuning with Partially Mastered Knowledge in Large Language Models**|Bozhou Li et.al.|[2410.05802](http://arxiv.org/abs/2410.05802)|null|
+|**2024-10-08**|**Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition**|Zheyang Xiong et.al.|[2410.05603](http://arxiv.org/abs/2410.05603)|null|
+|**2024-10-07**|**Self-rationalization improves LLM as a fine-grained judge**|Prapti Trivedi et.al.|[2410.05495](http://arxiv.org/abs/2410.05495)|null|
+|**2024-10-07**|**ESPACE: Dimensionality Reduction of Activations for Model Compression**|Charbel Sakr et.al.|[2410.05437](http://arxiv.org/abs/2410.05437)|null|
+|**2024-10-05**|**PalmBench: A Comprehensive Benchmark of Compressed Large Language Models on Mobile Platforms**|Yilong Li et.al.|[2410.05315](http://arxiv.org/abs/2410.05315)|null|
 |**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
 |**2024-10-07**|**Precise Model Benchmarking with Only a Few Observations**|Riccardo Fogliato et.al.|[2410.05222](http://arxiv.org/abs/2410.05222)|null|
 |**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
@@ -904,7 +931,7 @@
 |**2024-10-03**|**Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**|Aparna Elangovan et.al.|[2410.03775](http://arxiv.org/abs/2410.03775)|null|
 |**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
-|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
+|**2024-10-08**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
 |**2024-10-04**|**Towards a Benchmark for Large Language Models for Business Process Management Tasks**|Kiran Busch et.al.|[2410.03255](http://arxiv.org/abs/2410.03255)|**[link](https://github.com/kiribu10/openllminbpm-benchmark)**|
 |**2024-10-04**|**Showing LLM-Generated Code Selectively Based on Confidence of LLMs**|Jia Li et.al.|[2410.03234](http://arxiv.org/abs/2410.03234)|null|
 |**2024-10-04**|**ALR $^2$ : A Retrieve-then-Reason Framework for Long-context Question Answering**|Huayang Li et.al.|[2410.03227](http://arxiv.org/abs/2410.03227)|null|
