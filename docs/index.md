@@ -22,12 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951](http://arxiv.org/abs/2410.07951)|null|
+|**2024-10-09**|**MoDEM: Mixture of Domain Expert Models**|Toby Simonds et.al.|[2410.07490](http://arxiv.org/abs/2410.07490)|null|
 |**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
 |**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
 |**2024-10-09**|**Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare**|Pardis Sadat Zahraei et.al.|[2410.06566](http://arxiv.org/abs/2410.06566)|null|
 |**2024-10-08**|**Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns**|Buse Carik et.al.|[2410.06336](http://arxiv.org/abs/2410.06336)|null|
 |**2024-10-08**|**Linking Code and Documentation Churn: Preliminary Analysis**|Ani Hovhannisyan et.al.|[2410.05992](http://arxiv.org/abs/2410.05992)|null|
-|**2024-10-10**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725](http://arxiv.org/abs/2410.05725)|null|
+|**2024-10-10**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725](http://arxiv.org/abs/2410.05725)|**[link](https://github.com/wwh0411/knowledgesg)**|
 |**2024-10-10**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684](http://arxiv.org/abs/2410.05684)|null|
 |**2024-10-07**|**RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction**|Yuwei Zhang et.al.|[2410.05361](http://arxiv.org/abs/2410.05361)|null|
 |**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|**[link](https://github.com/JoyDajunSpaceCraft/EquityGuard)**|
@@ -40,7 +42,7 @@ layout: default
 |**2024-10-05**|**RoQLlama: A Lightweight Romanian Adapted Language Model**|George-Andrei Dima et.al.|[2410.04269](http://arxiv.org/abs/2410.04269)|null|
 |**2024-10-05**|**DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech**|Dominika Woszczyk et.al.|[2410.04188](http://arxiv.org/abs/2410.04188)|null|
 |**2024-10-05**|**Exploring LLM-based Data Annotation Strategies for Medical Dialogue Preference Alignment**|Chengfeng Dou et.al.|[2410.04112](http://arxiv.org/abs/2410.04112)|null|
-|**2024-10-04**|**Searching for Best Practices in Medical Transcription with Large Language Model**|Jiafeng Li et.al.|[2410.03797](http://arxiv.org/abs/2410.03797)|null|
+|**2024-10-04**|**Searching for Best Practices in Medical Transcription with Large Language Model**|Jiafeng Li et.al.|[2410.03797](http://arxiv.org/abs/2410.03797)|**[link](https://github.com/li001029/Medical_LLM_ASR)**|
 |**2024-10-01**|**Towards Democratization of Subspeciality Medical Expertise**|Jack W. O'Sullivan et.al.|[2410.03741](http://arxiv.org/abs/2410.03741)|null|
 |**2024-10-01**|**Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model**|Aidan Gilson et.al.|[2410.03740](http://arxiv.org/abs/2410.03740)|null|
 |**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
@@ -903,6 +905,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
+|**2024-10-10**|**A Closer Look at Machine Unlearning for Large Language Models**|Xiaojian Yuan et.al.|[2410.08109](http://arxiv.org/abs/2410.08109)|**[link](https://github.com/sail-sg/closer-look-llm-unlearning)**|
+|**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085](http://arxiv.org/abs/2410.08085)|null|
+|**2024-10-10**|**Fine-Tuning Language Models for Ethical Ambiguity: A Comparative Study of Alignment with Human Responses**|Pranav Senthilkumar et.al.|[2410.07826](http://arxiv.org/abs/2410.07826)|null|
+|**2024-10-10**|**Mitigating Gender Bias in Code Large Language Models via Model Editing**|Zhanyue Qin et.al.|[2410.07820](http://arxiv.org/abs/2410.07820)|null|
+|**2024-10-10**|**Automatic Curriculum Expert Iteration for Reliable LLM Reasoning**|Zirui Zhao et.al.|[2410.07627](http://arxiv.org/abs/2410.07627)|null|
+|**2024-10-10**|**No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users**|Mengxuan Hu et.al.|[2410.07589](http://arxiv.org/abs/2410.07589)|null|
+|**2024-10-10**|**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**|Xukai Liu et.al.|[2410.07549](http://arxiv.org/abs/2410.07549)|null|
+|**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526](http://arxiv.org/abs/2410.07526)|null|
+|**2024-10-09**|**Localizing Factual Inconsistencies in Attributable Text Generation**|Arie Cattan et.al.|[2410.07473](http://arxiv.org/abs/2410.07473)|null|
+|**2024-10-09**|**Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning**|Abhinav Bandari et.al.|[2410.07461](http://arxiv.org/abs/2410.07461)|**[link](https://github.com/abx393/llm-pruning-calibration-data)**|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
 |**2024-10-09**|**Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization**|Chengtao Jian et.al.|[2410.07018](http://arxiv.org/abs/2410.07018)|null|
 |**2024-10-09**|**Self-Boosting Large Language Models with Synthetic Preference Data**|Qingxiu Dong et.al.|[2410.06961](http://arxiv.org/abs/2410.06961)|null|
@@ -929,7 +942,7 @@ layout: default
 |**2024-10-06**|**Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval**|Pengcheng Jiang et.al.|[2410.04585](http://arxiv.org/abs/2410.04585)|**[link](https://github.com/pat-jj/KARE)**|
 |**2024-10-06**|**DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**|Xuan Gong et.al.|[2410.04514](http://arxiv.org/abs/2410.04514)|null|
 |**2024-10-05**|**DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech**|Dominika Woszczyk et.al.|[2410.04188](http://arxiv.org/abs/2410.04188)|null|
-|**2024-10-04**|**dZiner: Rational Inverse Design of Materials with AI Agents**|Mehrad Ansari et.al.|[2410.03963](http://arxiv.org/abs/2410.03963)|null|
+|**2024-10-04**|**dZiner: Rational Inverse Design of Materials with AI Agents**|Mehrad Ansari et.al.|[2410.03963](http://arxiv.org/abs/2410.03963)|**[link](https://github.com/mehradans92/dziner)**|
 |**2024-10-03**|**Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**|Aparna Elangovan et.al.|[2410.03775](http://arxiv.org/abs/2410.03775)|null|
 |**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
