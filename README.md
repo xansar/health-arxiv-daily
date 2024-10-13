@@ -910,9 +910,9 @@
 |**2024-10-10**|**Mitigating Gender Bias in Code Large Language Models via Model Editing**|Zhanyue Qin et.al.|[2410.07820](http://arxiv.org/abs/2410.07820)|null|
 |**2024-10-10**|**Automatic Curriculum Expert Iteration for Reliable LLM Reasoning**|Zirui Zhao et.al.|[2410.07627](http://arxiv.org/abs/2410.07627)|null|
 |**2024-10-10**|**No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in LLMs, Even for Vigilant Users**|Mengxuan Hu et.al.|[2410.07589](http://arxiv.org/abs/2410.07589)|null|
-|**2024-10-10**|**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**|Xukai Liu et.al.|[2410.07549](http://arxiv.org/abs/2410.07549)|null|
+|**2024-10-10**|**OneNet: A Fine-Tuning Free Framework for Few-Shot Entity Linking via Large Language Model Prompting**|Xukai Liu et.al.|[2410.07549](http://arxiv.org/abs/2410.07549)|**[link](https://github.com/laquabe/OneNet)**|
 |**2024-10-10**|**MKGL: Mastery of a Three-Word Language**|Lingbing Guo et.al.|[2410.07526](http://arxiv.org/abs/2410.07526)|null|
-|**2024-10-09**|**Localizing Factual Inconsistencies in Attributable Text Generation**|Arie Cattan et.al.|[2410.07473](http://arxiv.org/abs/2410.07473)|null|
+|**2024-10-09**|**Localizing Factual Inconsistencies in Attributable Text Generation**|Arie Cattan et.al.|[2410.07473](http://arxiv.org/abs/2410.07473)|**[link](https://github.com/ariecattan/qasem_consistency)**|
 |**2024-10-09**|**Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning**|Abhinav Bandari et.al.|[2410.07461](http://arxiv.org/abs/2410.07461)|**[link](https://github.com/abx393/llm-pruning-calibration-data)**|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
 |**2024-10-09**|**Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization**|Chengtao Jian et.al.|[2410.07018](http://arxiv.org/abs/2410.07018)|null|
