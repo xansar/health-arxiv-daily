@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431](http://arxiv.org/abs/2410.08431)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951](http://arxiv.org/abs/2410.07951)|null|
 |**2024-10-09**|**MoDEM: Mixture of Domain Expert Models**|Toby Simonds et.al.|[2410.07490](http://arxiv.org/abs/2410.07490)|null|
 |**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
@@ -905,6 +906,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
+|**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970](http://arxiv.org/abs/2410.08970)|null|
+|**2024-10-11**|**Decoding Secret Memorization in Code LLMs Through Token-Level Characterization**|Yuqing Nie et.al.|[2410.08858](http://arxiv.org/abs/2410.08858)|null|
+|**2024-10-11**|**Measuring the Inconsistency of Large Language Models in Preferential Ranking**|Xiutian Zhao et.al.|[2410.08851](http://arxiv.org/abs/2410.08851)|null|
+|**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|null|
+|**2024-10-11**|**Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation**|Ruobing Wang et.al.|[2410.08821](http://arxiv.org/abs/2410.08821)|**[link](https://github.com/thunlp/adaptive-note)**|
+|**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
+|**2024-10-11**|**Humanity in AI: Detecting the Personality of Large Language Models**|Baohua Zhan et.al.|[2410.08545](http://arxiv.org/abs/2410.08545)|null|
+|**2024-10-11**|**Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both**|Abhijnan Nath et.al.|[2410.08458](http://arxiv.org/abs/2410.08458)|null|
+|**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431](http://arxiv.org/abs/2410.08431)|null|
+|**2024-10-10**|**Large Airfoil Models**|Howon Lee et.al.|[2410.08392](http://arxiv.org/abs/2410.08392)|null|
 |**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
 |**2024-10-10**|**A Closer Look at Machine Unlearning for Large Language Models**|Xiaojian Yuan et.al.|[2410.08109](http://arxiv.org/abs/2410.08109)|**[link](https://github.com/sail-sg/closer-look-llm-unlearning)**|
 |**2024-10-10**|**Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study over Open-ended Question Answering**|Yuan Sui et.al.|[2410.08085](http://arxiv.org/abs/2410.08085)|null|
