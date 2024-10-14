@@ -243,7 +243,7 @@
 |**2024-07-27**|**AgentPeerTalk: Empowering Students through Agentic-AI-Driven Discernment of Bullying and Joking in Peer Interactions in Schools**|Aditya Paul et.al.|[2408.01459](http://arxiv.org/abs/2408.01459)|null|
 |**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285](http://arxiv.org/abs/2408.01285)|null|
 |**2024-08-05**|**Agentic LLM Workflows for Generating Patient-Friendly Medical Reports**|Malavikha Sudarshan et.al.|[2408.01112](http://arxiv.org/abs/2408.01112)|**[link](https://github.com/malavikhasudarshan/multi-agent-patient-letter-generation)**|
-|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
+|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|**[link](https://github.com/teddy-xionggz/medrag)**|
 |**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
 |**2024-07-31**|**A Taxonomy of Stereotype Content in Large Language Models**|Gandalf Nicolas et.al.|[2408.00162](http://arxiv.org/abs/2408.00162)|null|
 |**2024-07-31**|**A Course Shared Task on Evaluating LLM Output for Clinical Questions**|Yufang Hou et.al.|[2408.00122](http://arxiv.org/abs/2408.00122)|**[link](https://github.com/UKPLab/folt-shared-task-23-24)**|
@@ -326,7 +326,7 @@
 |**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|**[link](https://github.com/coding-groot/cactus)**|
 |**2024-07-03**|**SemioLLM: Assessing Large Language Models for Semiological Analysis in Epilepsy Research**|Meghal Dani et.al.|[2407.03004](http://arxiv.org/abs/2407.03004)|null|
 |**2024-07-02**|**Supporters and Skeptics: LLM-based Analysis of Engagement with Mental Health (Mis)Information Content on Video-sharing Platforms**|Viet Cuong Nguyen et.al.|[2407.02662](http://arxiv.org/abs/2407.02662)|null|
-|**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|null|
+|**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|**[link](https://github.com/Wangyixinxin/MMedAgent)**|
 |**2024-06-29**|**Potential Renovation of Information Search Process with the Power of Large Language Model for Healthcare**|Forhan Bin Emdad et.al.|[2407.01627](http://arxiv.org/abs/2407.01627)|null|
 |**2024-07-14**|**Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles**|Ryan Louie et.al.|[2407.00870](http://arxiv.org/abs/2407.00870)|null|
 |**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731](http://arxiv.org/abs/2407.00731)|**[link](https://github.com/qiuhaolu/tner)**|
@@ -368,7 +368,7 @@
 |**2024-06-18**|**Adversarial Attacks on Large Language Models in Medicine**|Yifan Yang et.al.|[2406.12259](http://arxiv.org/abs/2406.12259)|null|
 |**2024-06-18**|**Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models**|Lulu Zhao et.al.|[2406.12182](http://arxiv.org/abs/2406.12182)|null|
 |**2024-06-19**|**Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks**|Jack Gallifant et.al.|[2406.12066](http://arxiv.org/abs/2406.12066)|**[link](https://github.com/bittermanlab/rabbits)**|
-|**2024-06-28**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-28**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|**[link](https://github.com/vedantpalit/WellDunn)**|
 |**2024-06-30**|**MedCalc-Bench: Evaluating Large Language Models for Medical Calculations**|Nikhil Khandekar et.al.|[2406.12036](http://arxiv.org/abs/2406.12036)|**[link](https://github.com/ncbi-nlp/medcalc-bench)**|
 |**2024-06-19**|**Unveiling and Mitigating Bias in Mental Health Analysis with Large Language Models**|Yuqing Wang et.al.|[2406.12033](http://arxiv.org/abs/2406.12033)|**[link](https://github.com/eternityyw/biaseval-llm-mentalhealth)**|
 |**2024-06-17**|**Are Large Language Models True Healthcare Jacks-of-All-Trades? Benchmarking Across Health Professions Beyond Physician Exams**|Zheheng Luo et.al.|[2406.11328](http://arxiv.org/abs/2406.11328)|**[link](https://github.com/zhehengluoK/eval_empec)**|
@@ -589,7 +589,7 @@
 |**2024-03-19**|**Automatic Summarization of Doctor-Patient Encounter Dialogues Using Large Language Model through Prompt Tuning**|Mengxian Lyu et.al.|[2403.13089](http://arxiv.org/abs/2403.13089)|null|
 |**2024-03-19**|**Improving Generalizability of Extracting Social Determinants of Health Using Large Language Models through Prompt-tuning**|Cheng Peng et.al.|[2403.12374](http://arxiv.org/abs/2403.12374)|null|
 |**2024-03-18**|**Leveraging Large Language Models to Extract Information on Substance Use Disorder Severity from Clinical Notes: A Zero-shot Learning Approach**|Maria Mahbub et.al.|[2403.12297](http://arxiv.org/abs/2403.12297)|null|
-|**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025](http://arxiv.org/abs/2403.12025)|null|
+|**2024-03-18**|**A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models**|Stephen R. Pfohl et.al.|[2403.12025](http://arxiv.org/abs/2403.12025)|**[link](https://github.com/google-research/google-research)**|
 |**2024-04-02**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
 |**2024-03-18**|**Narrative Feature or Structured Feature? A Study of Large Language Models to Identify Cancer Patients at Risk of Heart Failure**|Ziyi Chen et.al.|[2403.11425](http://arxiv.org/abs/2403.11425)|null|
 |**2024-03-17**|**Cheap Ways of Extracting Clinical Markers from Texts**|Anastasia Sandu et.al.|[2403.11227](http://arxiv.org/abs/2403.11227)|**[link](https://github.com/nlp-unibuc/clpsych24-task)**|
@@ -620,9 +620,9 @@
 |**2024-03-08**|**Decomposing Vision-based LLM Predictions for Auto-Evaluation with GPT-4**|Qingqing Zhu et.al.|[2403.05680](http://arxiv.org/abs/2403.05680)|null|
 |**2024-03-11**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
 |**2024-03-13**|**Electrocardiogram Instruction Tuning for Report Generation**|Zhongwei Wan et.al.|[2403.04945](http://arxiv.org/abs/2403.04945)|null|
-|**2024-03-07**|**Few shot chain-of-thought driven reasoning to prompt LLMs for open ended medical question answering**|Ojas Gramopadhye et.al.|[2403.04890](http://arxiv.org/abs/2403.04890)|null|
+|**2024-03-07**|**Few shot chain-of-thought driven reasoning to prompt LLMs for open ended medical question answering**|Ojas Gramopadhye et.al.|[2403.04890](http://arxiv.org/abs/2403.04890)|**[link](https://github.com/coldseal/clinicr)**|
 |**2024-03-06**|**Enhancing chest X-ray datasets with privacy-preserving large language models and multi-type annotations: a data-driven approach for improved classification**|Ricardo Bigolin Lanfredi et.al.|[2403.04024](http://arxiv.org/abs/2403.04024)|**[link](https://github.com/rsummers11/CADLab)**|
-|**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|null|
+|**2024-03-06**|**Towards Safe and Aligned Large Language Models for Medicine**|Tessa Han et.al.|[2403.03744](http://arxiv.org/abs/2403.03744)|**[link](https://github.com/ai4life-group/med-safety-bench)**|
 |**2024-03-09**|**Apollo: An Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People**|Xidong Wang et.al.|[2403.03640](http://arxiv.org/abs/2403.03640)|**[link](https://github.com/freedomintelligence/apollo)**|
 |**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336](http://arxiv.org/abs/2403.03336)|null|
 |**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
@@ -1117,7 +1117,7 @@
 |**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
 |**2024-08-28**|**An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation**|Thai Tang Quoc et.al.|[2408.15658](http://arxiv.org/abs/2408.15658)|null|
 |**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
-|**2024-08-29**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533](http://arxiv.org/abs/2408.15533)|null|
+|**2024-08-29**|**LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via Layer-wise Relevance Propagation**|Haichuan Hu et.al.|[2408.15533](http://arxiv.org/abs/2408.15533)|**[link](https://github.com/tomsawyerhu/lrp4rag)**|
 |**2024-08-28**|**Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression**|Haowen Hou et.al.|[2408.15491](http://arxiv.org/abs/2408.15491)|**[link](https://github.com/howard-hou/instruction-aware-contextual-compressor)**|
 |**2024-08-27**|**The Uniqueness of LLaMA3-70B with Per-Channel Quantization: An Empirical Study**|Minghai Qin et.al.|[2408.15301](http://arxiv.org/abs/2408.15301)|null|
 |**2024-08-27**|**Can Unconfident LLM Annotations Be Used for Confident Conclusions?**|Kristina Gligorić et.al.|[2408.15204](http://arxiv.org/abs/2408.15204)|**[link](https://github.com/kristinagligoric/confidence-driven-inference)**|
@@ -1212,7 +1212,7 @@
 |**2024-08-02**|**Misinforming LLMs: vulnerabilities, challenges and opportunities**|Bo Zhou et.al.|[2408.01168](http://arxiv.org/abs/2408.01168)|null|
 |**2024-08-01**|**Granting GPT-4 License and Opportunity: Enhancing Accuracy and Confidence Estimation for Few-Shot Event Detection**|Steven Fincke et.al.|[2408.00914](http://arxiv.org/abs/2408.00914)|null|
 |**2024-07-26**|**ChipExpert: The Open-Source Integrated-Circuit-Design-Specific Large Language Model**|Ning Xu et.al.|[2408.00804](http://arxiv.org/abs/2408.00804)|null|
-|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
+|**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|**[link](https://github.com/teddy-xionggz/medrag)**|
 |**2024-08-01**|**Future of Artificial Intelligence in Agile Software Development**|Mariyam Mahboob et.al.|[2408.00703](http://arxiv.org/abs/2408.00703)|null|
 |**2024-07-25**|**Closing the gap between open-source and commercial large language models for medical evidence summarization**|Gongbo Zhang et.al.|[2408.00588](http://arxiv.org/abs/2408.00588)|null|
 |**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555](http://arxiv.org/abs/2408.00555)|null|
