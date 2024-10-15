@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@ layout: default
 |**2024-09-30**|**Classification of Radiological Text in Small and Imbalanced Datasets in a Non-English Language**|Vincent Beliveau et.al.|[2409.20147](http://arxiv.org/abs/2409.20147)|**[link](https://github.com/vbeliveau/radiology-text-classification)**|
 |**2024-10-01**|**See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning**|Chengxin Zheng et.al.|[2409.19676](http://arxiv.org/abs/2409.19676)|**[link](https://github.com/chauncey-jheng/pcrl-mrg)**|
 |**2024-09-29**|**MedHalu: Hallucinations in Responses to Healthcare Queries by Large Language Models**|Vibhor Agarwal et.al.|[2409.19492](http://arxiv.org/abs/2409.19492)|null|
-|**2024-09-28**|**HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations**|Ziyu Wang et.al.|[2409.19487](http://arxiv.org/abs/2409.19487)|null|
+|**2024-10-11**|**HealthQ: Unveiling Questioning Capabilities of LLM Chains in Healthcare Conversations**|Ziyu Wang et.al.|[2409.19487](http://arxiv.org/abs/2409.19487)|null|
 |**2024-09-28**|**INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning**|Pablo Romero et.al.|[2409.19467](http://arxiv.org/abs/2409.19467)|null|
 |**2024-09-27**|**Confidential Prompting: Protecting User Prompts from Cloud LLM Providers**|In Gim et.al.|[2409.19134](http://arxiv.org/abs/2409.19134)|null|
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
