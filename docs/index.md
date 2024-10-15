@@ -22,6 +22,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Thinking LLMs: General Instruction Following with Thought Generation**|Tianhao Wu et.al.|[2410.10630](http://arxiv.org/abs/2410.10630)|null|
+|**2024-10-14**|**Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts**|Guorui Zheng et.al.|[2410.10626](http://arxiv.org/abs/2410.10626)|**[link](https://github.com/freedomintelligence/apollomoe)**|
+|**2024-10-14**|**MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media**|Wei Zhai et.al.|[2410.10323](http://arxiv.org/abs/2410.10323)|null|
+|**2024-10-13**|**Adaptive Reasoning and Acting in Medical Language Agents**|Abhishek Dutta et.al.|[2410.10020](http://arxiv.org/abs/2410.10020)|null|
+|**2024-10-13**|**MisinfoEval: Generative AI in the Era of "Alternative Facts"**|Saadia Gabriel et.al.|[2410.09949](http://arxiv.org/abs/2410.09949)|null|
+|**2024-10-13**|**Equitable Access to Justice: Logical LLMs Show Promise**|Manuj Kant et.al.|[2410.09904](http://arxiv.org/abs/2410.09904)|null|
+|**2024-10-13**|**MIRAGE: Multimodal Identification and Recognition of Annotations in Indian General Prescriptions**|Tavish Mankash et.al.|[2410.09729](http://arxiv.org/abs/2410.09729)|null|
+|**2024-10-12**|**Society of Medical Simplifiers**|Chen Lyu et.al.|[2410.09631](http://arxiv.org/abs/2410.09631)|null|
+|**2024-10-12**|**Enhanced Electronic Health Records Text Summarization Using Large Language Models**|Ruvarashe Madzime et.al.|[2410.09628](http://arxiv.org/abs/2410.09628)|null|
+|**2024-10-11**|**Fine-Tuning In-House Large Language Models to Infer Differential Diagnosis from Radiology Reports**|Luoyao Chen et.al.|[2410.09234](http://arxiv.org/abs/2410.09234)|null|
+|**2024-10-04**|**Leveraging Social Determinants of Health in Alzheimer's Research Using LLM-Augmented Literature Mining and Knowledge Graphs**|Tianqi Shang et.al.|[2410.09080](http://arxiv.org/abs/2410.09080)|null|
 |**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431](http://arxiv.org/abs/2410.08431)|null|
 |**2024-10-10**|**Disease Entity Recognition and Normalization is Improved with Large Language Model Derived Synthetic Normalized Mentions**|Kuleen Sasse et.al.|[2410.07951](http://arxiv.org/abs/2410.07951)|null|
 |**2024-10-09**|**MoDEM: Mixture of Domain Expert Models**|Toby Simonds et.al.|[2410.07490](http://arxiv.org/abs/2410.07490)|null|
@@ -33,7 +44,7 @@ layout: default
 |**2024-10-10**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725](http://arxiv.org/abs/2410.05725)|**[link](https://github.com/wwh0411/knowledgesg)**|
 |**2024-10-10**|**Copiloting Diagnosis of Autism in Real Clinical Scenarios via LLMs**|Yi Jiang et.al.|[2410.05684](http://arxiv.org/abs/2410.05684)|null|
 |**2024-10-07**|**RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction**|Yuwei Zhang et.al.|[2410.05361](http://arxiv.org/abs/2410.05361)|null|
-|**2024-10-07**|**Enhancing Equity in Large Language Models for Medical Applications**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|**[link](https://github.com/JoyDajunSpaceCraft/EquityGuard)**|
+|**2024-10-14**|**Mitigating the Risk of Health Inequity Exacerbated by Large Language Models**|Yuelyu Ji et.al.|[2410.05180](http://arxiv.org/abs/2410.05180)|null|
 |**2024-10-07**|**Rule-based Data Selection for Large Language Models**|Xiaomin Li et.al.|[2410.04715](http://arxiv.org/abs/2410.04715)|null|
 |**2024-10-07**|**Knowledge Graph Based Agent for Complex, Knowledge-Intensive QA in Medicine**|Xiaorui Su et.al.|[2410.04660](http://arxiv.org/abs/2410.04660)|null|
 |**2024-10-06**|**CardioAI: A Multimodal AI-based System to Support Symptom Monitoring and Risk Detection of Cancer Treatment-Induced Cardiotoxicity**|Siyi Wu et.al.|[2410.04592](http://arxiv.org/abs/2410.04592)|null|
@@ -906,11 +917,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
+|**2024-10-14**|**SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators**|Rasoul Shafipour et.al.|[2410.10714](http://arxiv.org/abs/2410.10714)|null|
+|**2024-10-14**|**On Calibration of LLM-based Guard Models for Reliable Content Moderation**|Hongfu Liu et.al.|[2410.10414](http://arxiv.org/abs/2410.10414)|null|
+|**2024-10-14**|**Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion**|Xinping Zhao et.al.|[2410.10408](http://arxiv.org/abs/2410.10408)|null|
+|**2024-10-14**|**Optimizing Instruction Synthesis: Effective Exploration of Evolutionary Space with Tree Search**|Chenglin Li et.al.|[2410.10392](http://arxiv.org/abs/2410.10392)|null|
+|**2024-10-14**|**Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning**|Yongxin Xu et.al.|[2410.10360](http://arxiv.org/abs/2410.10360)|null|
+|**2024-10-14**|**SkillAggregation: Reference-free LLM-Dependent Aggregation**|Guangzhi Sun et.al.|[2410.10215](http://arxiv.org/abs/2410.10215)|null|
+|**2024-10-13**|**A Multi-LLM Orchestration Engine for Personalized, Context-Rich Assistance**|Sumedh Rasal et.al.|[2410.10039](http://arxiv.org/abs/2410.10039)|null|
+|**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
+|**2024-10-13**|**LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models**|Han Qiu et.al.|[2410.09962](http://arxiv.org/abs/2410.09962)|**[link](https://github.com/hanqiu-hq/longhalqa)**|
+|**2024-10-13**|**Can Large Language Models Generate Geospatial Code?**|Shuyang Hou et.al.|[2410.09738](http://arxiv.org/abs/2410.09738)|null|
+|**2024-10-13**|**Taming Overconfidence in LLMs: Reward Calibration in RLHF**|Jixuan Leng et.al.|[2410.09724](http://arxiv.org/abs/2410.09724)|null|
+|**2024-10-13**|**Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG**|Xinxi Chen et.al.|[2410.09699](http://arxiv.org/abs/2410.09699)|null|
+|**2024-10-13**|**Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**|Dong Chen et.al.|[2410.09680](http://arxiv.org/abs/2410.09680)|null|
+|**2024-10-12**|**FlatQuant: Flatness Matters for LLM Quantization**|Yuxuan Sun et.al.|[2410.09426](http://arxiv.org/abs/2410.09426)|**[link](https://github.com/ruikangliu/flatquant)**|
+|**2024-10-12**|**LLM $\times$ MapReduce: Simplified Long-Sequence Processing using Large Language Models**|Zihan Zhou et.al.|[2410.09342](http://arxiv.org/abs/2410.09342)|**[link](https://github.com/thunlp/llmxmapreduce)**|
+|**2024-10-11**|**Nudging: Inference-time Alignment via Model Collaboration**|Yu Fei et.al.|[2410.09300](http://arxiv.org/abs/2410.09300)|null|
 |**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
 |**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970](http://arxiv.org/abs/2410.08970)|null|
 |**2024-10-11**|**Decoding Secret Memorization in Code LLMs Through Token-Level Characterization**|Yuqing Nie et.al.|[2410.08858](http://arxiv.org/abs/2410.08858)|null|
 |**2024-10-11**|**Measuring the Inconsistency of Large Language Models in Preferential Ranking**|Xiutian Zhao et.al.|[2410.08851](http://arxiv.org/abs/2410.08851)|null|
-|**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|null|
+|**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|**[link](https://github.com/molex2024/molex)**|
 |**2024-10-11**|**Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation**|Ruobing Wang et.al.|[2410.08821](http://arxiv.org/abs/2410.08821)|**[link](https://github.com/thunlp/adaptive-note)**|
 |**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
 |**2024-10-11**|**Humanity in AI: Detecting the Personality of Large Language Models**|Baohua Zhan et.al.|[2410.08545](http://arxiv.org/abs/2410.08545)|null|
