@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development**|Tengfei Ma et.al.|[2410.11550](http://arxiv.org/abs/2410.11550)|null|
+|**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531](http://arxiv.org/abs/2410.11531)|null|
+|**2024-10-15**|**HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications**|Weijie Xu et.al.|[2410.11239](http://arxiv.org/abs/2410.11239)|null|
+|**2024-10-13**|**3DS: Decomposed Difficulty Data Selection's Case Study on LLM Medical Domain Adaptation**|Hongxin Ding et.al.|[2410.10901](http://arxiv.org/abs/2410.10901)|null|
+|**2024-10-08**|**Application of NotebookLM, a Large Language Model with Retrieval-Augmented Generation, for Lung Cancer Staging**|Ryota Tozuka et.al.|[2410.10869](http://arxiv.org/abs/2410.10869)|null|
+|**2024-10-08**|**CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models Using Discrete Concept**|YuXuan Wu et.al.|[2410.10866](http://arxiv.org/abs/2410.10866)|null|
+|**2024-10-06**|**Mitigating Hallucinations Using Ensemble of Knowledge Graph and Vector Store in Large Language Models to Enhance Mental Health Support**|Abdul Muqtadir et.al.|[2410.10853](http://arxiv.org/abs/2410.10853)|null|
+|**2024-10-06**|**On the Reliability of Large Language Models to Misinformed and Demographically-Informed Prompts**|Toluwani Aremu et.al.|[2410.10850](http://arxiv.org/abs/2410.10850)|null|
 |**2024-10-14**|**Thinking LLMs: General Instruction Following with Thought Generation**|Tianhao Wu et.al.|[2410.10630](http://arxiv.org/abs/2410.10630)|null|
 |**2024-10-14**|**Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts**|Guorui Zheng et.al.|[2410.10626](http://arxiv.org/abs/2410.10626)|**[link](https://github.com/freedomintelligence/apollomoe)**|
 |**2024-10-14**|**MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media**|Wei Zhai et.al.|[2410.10323](http://arxiv.org/abs/2410.10323)|null|
@@ -917,6 +925,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Zero-shot Model-based Reinforcement Learning using Large Language Models**|Abdelhakim Benechehab et.al.|[2410.11711](http://arxiv.org/abs/2410.11711)|**[link](https://github.com/abenechehab/dicl)**|
+|**2024-10-15**|**Black-box Uncertainty Quantification Method for LLM-as-a-Judge**|Nico Wagner et.al.|[2410.11594](http://arxiv.org/abs/2410.11594)|null|
+|**2024-10-15**|**AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data**|Xinjie Zhao et.al.|[2410.11531](http://arxiv.org/abs/2410.11531)|null|
+|**2024-10-15**|**ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability**|Zhongxiang Sun et.al.|[2410.11414](http://arxiv.org/abs/2410.11414)|null|
+|**2024-10-15**|**LargePiG: Your Large Language Model is Secretly a Pointer Generator**|Zhongxiang Sun et.al.|[2410.11366](http://arxiv.org/abs/2410.11366)|null|
+|**2024-10-15**|**Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs**|Shuo Li et.al.|[2410.11302](http://arxiv.org/abs/2410.11302)|null|
+|**2024-10-15**|**On the Capacity of Citation Generation by Large Language Models**|Haosheng Qian et.al.|[2410.11217](http://arxiv.org/abs/2410.11217)|null|
+|**2024-10-14**|**LLM Unlearning via Loss Adjustment with Only Forget Data**|Yaxuan Wang et.al.|[2410.11143](http://arxiv.org/abs/2410.11143)|null|
+|**2024-10-14**|**Can Structured Data Reduce Epistemic Uncertainty?**|Shriram M S et.al.|[2410.11141](http://arxiv.org/abs/2410.11141)|null|
+|**2024-10-14**|**Varying Shades of Wrong: Aligning LLMs with Wrong Answers Only**|Jihan Yao et.al.|[2410.11055](http://arxiv.org/abs/2410.11055)|null|
+|**2024-10-13**|**3DS: Decomposed Difficulty Data Selection's Case Study on LLM Medical Domain Adaptation**|Hongxin Ding et.al.|[2410.10901](http://arxiv.org/abs/2410.10901)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
 |**2024-10-14**|**SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators**|Rasoul Shafipour et.al.|[2410.10714](http://arxiv.org/abs/2410.10714)|null|
 |**2024-10-14**|**On Calibration of LLM-based Guard Models for Reliable Content Moderation**|Hongfu Liu et.al.|[2410.10414](http://arxiv.org/abs/2410.10414)|null|
@@ -926,7 +945,7 @@ layout: default
 |**2024-10-14**|**SkillAggregation: Reference-free LLM-Dependent Aggregation**|Guangzhi Sun et.al.|[2410.10215](http://arxiv.org/abs/2410.10215)|null|
 |**2024-10-13**|**A Multi-LLM Orchestration Engine for Personalized, Context-Rich Assistance**|Sumedh Rasal et.al.|[2410.10039](http://arxiv.org/abs/2410.10039)|null|
 |**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
-|**2024-10-13**|**LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models**|Han Qiu et.al.|[2410.09962](http://arxiv.org/abs/2410.09962)|**[link](https://github.com/hanqiu-hq/longhalqa)**|
+|**2024-10-15**|**LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models**|Han Qiu et.al.|[2410.09962](http://arxiv.org/abs/2410.09962)|**[link](https://github.com/hanqiu-hq/longhalqa)**|
 |**2024-10-13**|**Can Large Language Models Generate Geospatial Code?**|Shuyang Hou et.al.|[2410.09738](http://arxiv.org/abs/2410.09738)|null|
 |**2024-10-13**|**Taming Overconfidence in LLMs: Reward Calibration in RLHF**|Jixuan Leng et.al.|[2410.09724](http://arxiv.org/abs/2410.09724)|null|
 |**2024-10-13**|**Honest AI: Fine-Tuning "Small" Language Models to Say "I Don't Know", and Reducing Hallucination in RAG**|Xinxi Chen et.al.|[2410.09699](http://arxiv.org/abs/2410.09699)|null|
