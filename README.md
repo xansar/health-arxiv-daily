@@ -29,7 +29,7 @@
 |**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191](http://arxiv.org/abs/2410.13191)|null|
 |**2024-10-16**|**Leveraging LLMs for Translating and Classifying Mental Health Data**|Konstantinos Skianis et.al.|[2410.12985](http://arxiv.org/abs/2410.12985)|null|
 |**2024-10-16**|**AT-RAG: An Adaptive RAG Model Enhancing Query Efficiency with Topic Filtering and Iterative Reasoning**|Mohammad Reza Rezaei et.al.|[2410.12886](http://arxiv.org/abs/2410.12886)|null|
-|**2024-10-13**|**IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery**|Agasthya Gangavarapu et.al.|[2410.12868](http://arxiv.org/abs/2410.12868)|null|
+|**2024-10-13**|**IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery**|Agasthya Gangavarapu et.al.|[2410.12868](http://arxiv.org/abs/2410.12868)|**[link](https://github.com/uheal/imas)**|
 |**2024-10-11**|**LLMD: A Large Language Model for Interpreting Longitudinal Medical Records**|Robert Porter et.al.|[2410.12860](http://arxiv.org/abs/2410.12860)|null|
 |**2024-10-11**|**Large Language Models for Medical OSCE Assessment: A Novel Approach to Transcript Analysis**|Ameer Hamza Shakur et.al.|[2410.12858](http://arxiv.org/abs/2410.12858)|null|
 |**2024-10-10**|**Prompt Engineering a Schizophrenia Chatbot: Utilizing a Multi-Agent Approach for Enhanced Compliance with Prompt Instructions**|Per Niklas Waaler et.al.|[2410.12848](http://arxiv.org/abs/2410.12848)|null|
@@ -958,20 +958,20 @@
 |**2024-10-16**|**PromptExp: Multi-granularity Prompt Explanation of Large Language Models**|Ximing Dong et.al.|[2410.13073](http://arxiv.org/abs/2410.13073)|null|
 |**2024-10-16**|**LLM Confidence Evaluation Measures in Zero-Shot CSS Classification**|David Farr et.al.|[2410.13047](http://arxiv.org/abs/2410.13047)|null|
 |**2024-10-16**|**When Not to Answer: Evaluating Prompts on GPT Models for Effective Abstention in Unanswerable Math Word Problems**|Asir Saadat et.al.|[2410.13029](http://arxiv.org/abs/2410.13029)|null|
-|**2024-10-16**|**LLM Chain Ensembles for Scalable and Accurate Data Annotation**|David Farr et.al.|[2410.13006](http://arxiv.org/abs/2410.13006)|null|
+|**2024-10-16**|**LLM Chain Ensembles for Scalable and Accurate Data Annotation**|David Farr et.al.|[2410.13006](http://arxiv.org/abs/2410.13006)|**[link](https://github.com/davidthfarr/chainensembles)**|
 |**2024-10-16**|**REFINE on Scarce Data: Retrieval Enhancement through Fine-Tuning via Model Fusion of Embedding Models**|Ambuje Gupta et.al.|[2410.12890](http://arxiv.org/abs/2410.12890)|null|
 |**2024-10-16**|**On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs**|Herun Wan et.al.|[2410.12600](http://arxiv.org/abs/2410.12600)|null|
-|**2024-10-16**|**A Claim Decomposition Benchmark for Long-form Answer Verification**|Zhihao Zhang et.al.|[2410.12558](http://arxiv.org/abs/2410.12558)|null|
+|**2024-10-16**|**A Claim Decomposition Benchmark for Long-form Answer Verification**|Zhihao Zhang et.al.|[2410.12558](http://arxiv.org/abs/2410.12558)|**[link](https://github.com/FBzzh/CACDD)**|
 |**2024-10-17**|**MedAide: Towards an Omni Medical Aide via Specialized LLM-based Multi-Agent Collaboration**|Jinjie Wei et.al.|[2410.12532](http://arxiv.org/abs/2410.12532)|null|
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
 |**2024-10-16**|**KcMF: A Knowledge-compliant Framework for Schema and Entity Matching with Fine-tuning-free LLMs**|Yongqin Xu et.al.|[2410.12480](http://arxiv.org/abs/2410.12480)|null|
-|**2024-10-16**|**MlingConf: A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models**|Boyang Xue et.al.|[2410.12478](http://arxiv.org/abs/2410.12478)|null|
-|**2024-10-16**|**ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs**|Jingming Zhuo et.al.|[2410.12405](http://arxiv.org/abs/2410.12405)|null|
+|**2024-10-16**|**MlingConf: A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models**|Boyang Xue et.al.|[2410.12478](http://arxiv.org/abs/2410.12478)|**[link](https://github.com/AmourWaltz/MlingConf)**|
+|**2024-10-16**|**ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs**|Jingming Zhuo et.al.|[2410.12405](http://arxiv.org/abs/2410.12405)|**[link](https://github.com/open-compass/ProSA)**|
 |**2024-10-17**|**Pyramid-Driven Alignment: Pyramid Principle Guided Integration of Large Language Models and Knowledge Graphs**|Lei Sun et.al.|[2410.12298](http://arxiv.org/abs/2410.12298)|null|
 |**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[2410.12295](http://arxiv.org/abs/2410.12295)|null|
 |**2024-10-17**|**LLM-based Cognitive Models of Students with Misconceptions**|Shashank Sonkar et.al.|[2410.12294](http://arxiv.org/abs/2410.12294)|null|
 |**2024-10-16**|**An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation**|Junjie Chen et.al.|[2410.12265](http://arxiv.org/abs/2410.12265)|null|
-|**2024-10-16**|**CoFE-RAG: A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity**|Jintao Liu et.al.|[2410.12248](http://arxiv.org/abs/2410.12248)|null|
+|**2024-10-16**|**CoFE-RAG: A Comprehensive Full-chain Evaluation Framework for Retrieval-Augmented Generation with Enhanced Data Diversity**|Jintao Liu et.al.|[2410.12248](http://arxiv.org/abs/2410.12248)|**[link](https://github.com/Alibaba-NLP/CoFE-RAG)**|
 |**2024-10-16**|**On A Scale From 1 to 5: Quantifying Hallucination in Faithfulness Evaluation**|Xiaonan Jing et.al.|[2410.12222](http://arxiv.org/abs/2410.12222)|null|
 |**2024-10-16**|**Iter-AHMCL: Alleviate Hallucination for Large Language Model via Iterative Model-level Contrastive Learning**|Huiwen Wu et.al.|[2410.12130](http://arxiv.org/abs/2410.12130)|null|
 |**2024-10-15**|**Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**|Kaiqiao Han et.al.|[2410.12040](http://arxiv.org/abs/2410.12040)|null|
