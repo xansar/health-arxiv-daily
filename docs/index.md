@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|null|
+|**2024-10-22**|**DIRI: Adversarial Patient Reidentification with Large Language Models for Evaluating Clinical Text Anonymization**|John X. Morris et.al.|[2410.17035](http://arxiv.org/abs/2410.17035)|null|
+|**2024-10-22**|**SleepCoT: A Lightweight Personalized Sleep Health Model via Chain-of-Thought Distillation**|Huimin Zheng et.al.|[2410.16924](http://arxiv.org/abs/2410.16924)|null|
+|**2024-10-22**|**Visual Question Answering in Ophthalmology: A Progressive and Practical Perspective**|Xiaolan Chen et.al.|[2410.16662](http://arxiv.org/abs/2410.16662)|null|
+|**2024-10-21**|**How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?**|Kenza Benkirane et.al.|[2410.16574](http://arxiv.org/abs/2410.16574)|null|
+|**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|null|
+|**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322](http://arxiv.org/abs/2410.16322)|null|
+|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Fine-Tuning LLMs for Reliable Medical Question-Answering Services**|Ali Anaissi et.al.|[2410.16088](http://arxiv.org/abs/2410.16088)|null|
 |**2024-10-21**|**Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding**|Derong Xu et.al.|[2410.15702](http://arxiv.org/abs/2410.15702)|null|
 |**2024-10-21**|**Resource-Efficient Medical Report Generation using Large Language Models**|Abdullah et.al.|[2410.15642](http://arxiv.org/abs/2410.15642)|null|
@@ -959,17 +965,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234](http://arxiv.org/abs/2410.17234)|null|
+|**2024-10-22**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
+|**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021](http://arxiv.org/abs/2410.17021)|null|
+|**2024-10-22**|**Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots**|Haru Nakajima et.al.|[2410.16804](http://arxiv.org/abs/2410.16804)|null|
+|**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|null|
+|**2024-10-21**|**Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models' Reasoning with Formal Logic**|Jason Chan et.al.|[2410.16502](http://arxiv.org/abs/2410.16502)|null|
+|**2024-10-18**|**Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**|Rui Pu et.al.|[2410.16327](http://arxiv.org/abs/2410.16327)|null|
 |**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
 |**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
-|**2024-10-21**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
+|**2024-10-22**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
 |**2024-10-21**|**Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding**|Derong Xu et.al.|[2410.15702](http://arxiv.org/abs/2410.15702)|null|
 |**2024-10-21**|**Students Rather Than Experts: A New AI For Education Pipeline To Model More Human-Like And Personalised Early Adolescences**|Yiping Ma et.al.|[2410.15701](http://arxiv.org/abs/2410.15701)|null|
 |**2024-10-21**|**NetSafe: Exploring the Topological Safety of Multi-agent Networks**|Miao Yu et.al.|[2410.15686](http://arxiv.org/abs/2410.15686)|null|
 |**2024-10-21**|**Bayesian Concept Bottleneck Models with LLM Priors**|Jean Feng et.al.|[2410.15555](http://arxiv.org/abs/2410.15555)|**[link](https://github.com/jjfeng/bc-llm)**|
 |**2024-10-20**|**Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini**|Chanseo Lee et.al.|[2410.15528](http://arxiv.org/abs/2410.15528)|null|
-|**2024-10-20**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
+|**2024-10-22**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
 |**2024-10-20**|**Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training**|Shahrad Mohammadzadeh et.al.|[2410.15460](http://arxiv.org/abs/2410.15460)|null|
 |**2024-10-20**|**CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges**|Haitao Li et.al.|[2410.15393](http://arxiv.org/abs/2410.15393)|null|
 |**2024-10-20**|**A Survey of Hallucination in Large Visual Language Models**|Wei Lan et.al.|[2410.15359](http://arxiv.org/abs/2410.15359)|null|
@@ -979,20 +992,20 @@ layout: default
 |**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
 |**2024-10-19**|**MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification**|Yin Li et.al.|[2410.15154](http://arxiv.org/abs/2410.15154)|**[link](https://github.com/mccodeai/mccoder)**|
-|**2024-10-19**|**Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization**|Zihui Wu et.al.|[2410.15052](http://arxiv.org/abs/2410.15052)|null|
+|**2024-10-22**|**Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization**|Zihui Wu et.al.|[2410.15052](http://arxiv.org/abs/2410.15052)|**[link](https://github.com/wooozihui/GlitchMiner)**|
 |**2024-10-19**|**"Ghost of the past": identifying and resolving privacy leakage from LLM's memory through proactive user interaction**|Shuning Zhang et.al.|[2410.14931](http://arxiv.org/abs/2410.14931)|null|
 |**2024-10-18**|**FedSpaLLM: Federated Pruning of Large Language Models**|Guangji Bai et.al.|[2410.14852](http://arxiv.org/abs/2410.14852)|null|
 |**2024-10-18**|**Enabling Scalable Evaluation of Bias Patterns in Medical LLMs**|Hamed Fayyaz et.al.|[2410.14763](http://arxiv.org/abs/2410.14763)|**[link](https://github.com/healthylaife/autofair)**|
-|**2024-10-17**|**ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**|Kishan Maharaj et.al.|[2410.14748](http://arxiv.org/abs/2410.14748)|null|
+|**2024-10-22**|**ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**|Kishan Maharaj et.al.|[2410.14748](http://arxiv.org/abs/2410.14748)|null|
 |**2024-10-17**|**Eliciting Uncertainty in Chain-of-Thought to Mitigate Bias against Forecasting Harmful User Behaviors**|Anthony Sicilia et.al.|[2410.14744](http://arxiv.org/abs/2410.14744)|null|
 |**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
-|**2024-10-18**|**Do LLMs estimate uncertainty well in instruction-following?**|Juyeon Heo et.al.|[2410.14582](http://arxiv.org/abs/2410.14582)|null|
+|**2024-10-22**|**Do LLMs estimate uncertainty well in instruction-following?**|Juyeon Heo et.al.|[2410.14582](http://arxiv.org/abs/2410.14582)|null|
 |**2024-10-18**|**Combining Entropy and Matrix Nuclear Norm for Enhanced Evaluation of Language Models**|James Vo et.al.|[2410.14480](http://arxiv.org/abs/2410.14480)|null|
 |**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
 |**2024-10-18**|**Critical Questions Generation: Motivation and Challenges**|Blanca Calvo Figueras et.al.|[2410.14335](http://arxiv.org/abs/2410.14335)|**[link](https://github.com/hitz-zentroa/critical_questions_generation)**|
 |**2024-10-18**|**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM**|Songheng Zhang et.al.|[2410.14331](http://arxiv.org/abs/2410.14331)|null|
 |**2024-10-18**|**LoGU: Long-form Generation with Uncertainty Expressions**|Ruihan Yang et.al.|[2410.14309](http://arxiv.org/abs/2410.14309)|null|
-|**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
+|**2024-10-22**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Ted Kwartler et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
 |**2024-10-18**|**Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**|Olga Loginova et.al.|[2410.14248](http://arxiv.org/abs/2410.14248)|null|
 |**2024-10-21**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
 |**2024-10-18**|**Fine-Grained Verifiers: Preference Modeling as Next-token Prediction in Vision-Language Alignment**|Chenhang Cui et.al.|[2410.14148](http://arxiv.org/abs/2410.14148)|null|
