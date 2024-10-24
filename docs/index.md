@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@ layout: default
 |**2024-10-21**|**How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?**|Kenza Benkirane et.al.|[2410.16574](http://arxiv.org/abs/2410.16574)|null|
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|null|
 |**2024-10-17**|**SouLLMate: An Application Enhancing Diverse Mental Health Support with Adaptive LLMs, Prompt Engineering, and RAG Techniques**|Qiming Guo et.al.|[2410.16322](http://arxiv.org/abs/2410.16322)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
+|**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Fine-Tuning LLMs for Reliable Medical Question-Answering Services**|Ali Anaissi et.al.|[2410.16088](http://arxiv.org/abs/2410.16088)|null|
 |**2024-10-21**|**Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding**|Derong Xu et.al.|[2410.15702](http://arxiv.org/abs/2410.15702)|null|
 |**2024-10-21**|**Resource-Efficient Medical Report Generation using Large Language Models**|Abdullah et.al.|[2410.15642](http://arxiv.org/abs/2410.15642)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2024-10-18**|**Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**|Rui Pu et.al.|[2410.16327](http://arxiv.org/abs/2410.16327)|null|
 |**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
-|**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
+|**2024-10-23**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
 |**2024-10-22**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
 |**2024-10-21**|**Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding**|Derong Xu et.al.|[2410.15702](http://arxiv.org/abs/2410.15702)|null|
@@ -988,7 +988,7 @@ layout: default
 |**2024-10-20**|**A Survey of Hallucination in Large Visual Language Models**|Wei Lan et.al.|[2410.15359](http://arxiv.org/abs/2410.15359)|null|
 |**2024-10-20**|**Modality-Fair Preference Optimization for Trustworthy MLLM Alignment**|Songtao Jiang et.al.|[2410.15334](http://arxiv.org/abs/2410.15334)|null|
 |**2024-10-20**|**A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice**|Hsiu-Yuan Huang et.al.|[2410.15326](http://arxiv.org/abs/2410.15326)|null|
-|**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319](http://arxiv.org/abs/2410.15319)|null|
+|**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319](http://arxiv.org/abs/2410.15319)|**[link](https://github.com/causal-machine-learning-lab/awesome-causal-llm)**|
 |**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
 |**2024-10-19**|**MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification**|Yin Li et.al.|[2410.15154](http://arxiv.org/abs/2410.15154)|**[link](https://github.com/mccodeai/mccoder)**|
