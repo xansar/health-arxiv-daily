@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -978,7 +978,7 @@ layout: default
 |**2024-10-23**|**AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models**|Kim Sung-Bin et.al.|[2410.18325](http://arxiv.org/abs/2410.18325)|**[link](https://github.com/avhbench/avhbench)**|
 |**2024-10-23**|**Multilingual Hallucination Gaps in Large Language Models**|Cléa Chataigner et.al.|[2410.18270](http://arxiv.org/abs/2410.18270)|null|
 |**2024-10-23**|**Beware of Calibration Data for Pruning Large Language Models**|Yixin Ji et.al.|[2410.17711](http://arxiv.org/abs/2410.17711)|null|
-|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|null|
+|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|**[link](https://github.com/guijinSON/MM-Eval)**|
 |**2024-10-22**|**Do Robot Snakes Dream like Electric Sheep? Investigating the Effects of Architectural Inductive Biases on Hallucination**|Jerry Huang et.al.|[2410.17477](http://arxiv.org/abs/2410.17477)|null|
 |**2024-10-22**|**ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs**|Reza Fayyazi et.al.|[2410.17406](http://arxiv.org/abs/2410.17406)|null|
 |**2024-10-22**|**DeLLiriuM: A large language model for delirium prediction in the ICU using structured EHR**|Miguel Contreras et.al.|[2410.17363](http://arxiv.org/abs/2410.17363)|null|
