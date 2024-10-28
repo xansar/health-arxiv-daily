@@ -142,7 +142,7 @@ layout: default
 |**2024-09-27**|**Outlining the Borders for LLM Applications in Patient Education: Developing an Expert-in-the-Loop LLM-Powered Chatbot for Prostate Cancer Patient Education**|Yuexing Hao et.al.|[2409.19100](http://arxiv.org/abs/2409.19100)|null|
 |**2024-10-01**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
 |**2024-09-27**|**Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications**|Aditi Godbole et.al.|[2409.18454](http://arxiv.org/abs/2409.18454)|null|
-|**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|null|
+|**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|**[link](https://github.com/niuchuangnn/vllm_structure)**|
 |**2024-09-26**|**Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**|Yuexing Hao et.al.|[2409.18290](http://arxiv.org/abs/2409.18290)|**[link](https://github.com/YuexingHao/In-Basket-Message-Evaluation)**|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**Digital Twin Ecosystem for Oncology Clinical Operations**|Himanshu Pandey et.al.|[2409.17650](http://arxiv.org/abs/2409.17650)|null|
@@ -166,7 +166,7 @@ layout: default
 |**2024-09-23**|**Generative AI Is Not Ready for Clinical Use in Patient Education for Lower Back Pain Patients, Even With Retrieval-Augmented Generation**|Yi-Fei Zhao et.al.|[2409.15260](http://arxiv.org/abs/2409.15260)|null|
 |**2024-09-24**|**PALLM: Evaluating and Enhancing PALLiative Care Conversations with Large Language Models**|Zhiyuan Wang et.al.|[2409.15188](http://arxiv.org/abs/2409.15188)|**[link](https://github.com/barneslab/pallm)**|
 |**2024-09-23**|**Lessons Learned on Information Retrieval in Electronic Health Records: A Comparison of Embedding Models and Pooling Strategies**|Skatje Myers et.al.|[2409.15163](http://arxiv.org/abs/2409.15163)|null|
-|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|null|
+|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|**[link](https://github.com/hpai-bsc/prompt_engine)**|
 |**2024-09-20**|**Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory**|Kunyao Lan et.al.|[2409.15084](http://arxiv.org/abs/2409.15084)|null|
 |**2024-09-23**|**Beyond Fine-tuning: Unleashing the Potential of Continuous Pretraining for Clinical LLMs**|Clément Christophe et.al.|[2409.14988](http://arxiv.org/abs/2409.14988)|null|
 |**2024-09-23**|**Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization**|Aseem Srivastava et.al.|[2409.14907](http://arxiv.org/abs/2409.14907)|null|
@@ -180,7 +180,7 @@ layout: default
 |**2024-09-20**|**Recent Advancement of Emotion Cognition in Large Language Models**|Yuyan Chen et.al.|[2409.13354](http://arxiv.org/abs/2409.13354)|null|
 |**2024-09-20**|**SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**|Jinge Wu et.al.|[2409.13321](http://arxiv.org/abs/2409.13321)|null|
 |**2024-09-20**|**An adapted large language model facilitates multiple medical tasks in diabetes care**|Lai Wei et.al.|[2409.13191](http://arxiv.org/abs/2409.13191)|**[link](https://github.com/waltonfuture/Diabetica)**|
-|**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853](http://arxiv.org/abs/2409.12853)|null|
+|**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853](http://arxiv.org/abs/2409.12853)|**[link](https://github.com/ai-in-complex-systems-lab/adhd-knowledgegraph)**|
 |**2024-09-20**|**Fine Tuning Large Language Models for Medicine: The Role and Importance of Direct Preference Optimization**|Thomas Savage et.al.|[2409.12741](http://arxiv.org/abs/2409.12741)|null|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
@@ -364,7 +364,7 @@ layout: default
 |**2024-07-25**|**CCoE: A Compact LLM with Collaboration of Experts**|Shaomang Huang et.al.|[2407.11686](http://arxiv.org/abs/2407.11686)|null|
 |**2024-07-16**|**Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise**|Qimin Yang et.al.|[2407.11536](http://arxiv.org/abs/2407.11536)|null|
 |**2024-07-09**|**Generative AI for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations**|Rachael Fleurence et.al.|[2407.11054](http://arxiv.org/abs/2407.11054)|null|
-|**2024-06-25**|**Panacea: A foundation model for clinical trial search, summarization, design, and recruitment**|Jiacheng Lin et.al.|[2407.11007](http://arxiv.org/abs/2407.11007)|null|
+|**2024-06-25**|**Panacea: A foundation model for clinical trial search, summarization, design, and recruitment**|Jiacheng Lin et.al.|[2407.11007](http://arxiv.org/abs/2407.11007)|**[link](https://github.com/linjc16/panacea)**|
 |**2024-07-15**|**Interpretability analysis on a pathology foundation model reveals biologically relevant embeddings across modalities**|Nhat Le et.al.|[2407.10785](http://arxiv.org/abs/2407.10785)|null|
 |**2024-07-15**|**TCM-FTP: Fine-Tuning Large Language Models for Herbal Prescription Prediction**|Xingzhi Zhou et.al.|[2407.10510](http://arxiv.org/abs/2407.10510)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
@@ -400,7 +400,7 @@ layout: default
 |**2024-07-14**|**Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles**|Ryan Louie et.al.|[2407.00870](http://arxiv.org/abs/2407.00870)|null|
 |**2024-06-30**|**Large Language Models Struggle in Token-Level Clinical Named Entity Recognition**|Qiuhao Lu et.al.|[2407.00731](http://arxiv.org/abs/2407.00731)|**[link](https://github.com/qiuhaolu/tner)**|
 |**2024-06-29**|**Answering real-world clinical questions using large language model based systems**|Yen Sia Low et.al.|[2407.00541](http://arxiv.org/abs/2407.00541)|null|
-|**2024-06-29**|**ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees**|Zhiyuan Wang et.al.|[2407.00499](http://arxiv.org/abs/2407.00499)|null|
+|**2024-06-29**|**ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees**|Zhiyuan Wang et.al.|[2407.00499](http://arxiv.org/abs/2407.00499)|**[link](https://github.com/zhiyuan-gg/conformal-uncertainty-criterion)**|
 |**2024-06-28**|**EHRmonize: A Framework for Medical Concept Abstraction from Electronic Health Records using Large Language Models**|João Matos et.al.|[2407.00242](http://arxiv.org/abs/2407.00242)|**[link](https://github.com/aiwonglab/ehrmonize)**|
 |**2024-07-02**|**Generative AI for Synthetic Data Across Multiple Medical Modalities: A Systematic Review of Recent Developments and Challenges**|Mahmoud Ibrahim et.al.|[2407.00116](http://arxiv.org/abs/2407.00116)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
@@ -492,7 +492,7 @@ layout: default
 |**2024-05-31**|**GAMedX: Generative AI-based Medical Entity Data Extractor Using Large Language Models**|Mohammed-Khalil Ghali et.al.|[2405.20585](http://arxiv.org/abs/2405.20585)|null|
 |**2024-05-30**|**PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals**|Ruiyi Wang et.al.|[2405.19660](http://arxiv.org/abs/2405.19660)|**[link](https://github.com/ruiyiw/patient-psi)**|
 |**2024-05-30**|**Leveraging Open-Source Large Language Models for encoding Social Determinants of Health using an Intelligent Router**|Akul Goel et.al.|[2405.19631](http://arxiv.org/abs/2405.19631)|null|
-|**2024-05-26**|**ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text**|Han Yu et.al.|[2405.19366](http://arxiv.org/abs/2405.19366)|null|
+|**2024-05-26**|**ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text**|Han Yu et.al.|[2405.19366](http://arxiv.org/abs/2405.19366)|**[link](https://github.com/comp-well-org/esi)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-06-03**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
 |**2024-05-28**|**Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**|Anjanava Biswas et.al.|[2405.18346](http://arxiv.org/abs/2405.18346)|null|
@@ -714,7 +714,7 @@ layout: default
 |**2024-02-27**|**A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education**|Michael A. Hedderich et.al.|[2402.17456](http://arxiv.org/abs/2402.17456)|null|
 |**2024-02-27**|**Deep Learning Based Named Entity Recognition Models for Recipes**|Mansi Goel et.al.|[2402.17447](http://arxiv.org/abs/2402.17447)|null|
 |**2024-02-26**|**OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**|Fujian Jia et.al.|[2402.16810](http://arxiv.org/abs/2402.16810)|null|
-|**2024-02-26**|**LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery**|Kexin Chen et.al.|[2402.16664](http://arxiv.org/abs/2402.16664)|null|
+|**2024-02-26**|**LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery**|Kexin Chen et.al.|[2402.16664](http://arxiv.org/abs/2402.16664)|**[link](https://github.com/yuyangdu01/llm-cl-vqa)**|
 |**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
 |**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|**[link](https://github.com/cemuluoglakci/hypotermqa)**|
@@ -1022,7 +1022,7 @@ layout: default
 |**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340](http://arxiv.org/abs/2410.14340)|null|
 |**2024-10-18**|**Critical Questions Generation: Motivation and Challenges**|Blanca Calvo Figueras et.al.|[2410.14335](http://arxiv.org/abs/2410.14335)|**[link](https://github.com/hitz-zentroa/critical_questions_generation)**|
 |**2024-10-18**|**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM**|Songheng Zhang et.al.|[2410.14331](http://arxiv.org/abs/2410.14331)|null|
-|**2024-10-18**|**LoGU: Long-form Generation with Uncertainty Expressions**|Ruihan Yang et.al.|[2410.14309](http://arxiv.org/abs/2410.14309)|null|
+|**2024-10-18**|**LoGU: Long-form Generation with Uncertainty Expressions**|Ruihan Yang et.al.|[2410.14309](http://arxiv.org/abs/2410.14309)|**[link](https://github.com/rhyang2021/logu)**|
 |**2024-10-22**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Ted Kwartler et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
 |**2024-10-18**|**Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**|Olga Loginova et.al.|[2410.14248](http://arxiv.org/abs/2410.14248)|null|
 |**2024-10-21**|**Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
@@ -1126,7 +1126,7 @@ layout: default
 |**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
 |**2024-10-08**|**EVOLvE: Evaluating and Optimizing LLMs For Exploration**|Allen Nie et.al.|[2410.06238](http://arxiv.org/abs/2410.06238)|null|
 |**2024-10-08**|**ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution**|Corban Rivera et.al.|[2410.06108](http://arxiv.org/abs/2410.06108)|null|
-|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|**[link](https://github.com/sib-swiss/sparql-llm)**|
 |**2024-10-08**|**Gradual Learning: Optimizing Fine-Tuning with Partially Mastered Knowledge in Large Language Models**|Bozhou Li et.al.|[2410.05802](http://arxiv.org/abs/2410.05802)|null|
 |**2024-10-08**|**Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition**|Zheyang Xiong et.al.|[2410.05603](http://arxiv.org/abs/2410.05603)|null|
 |**2024-10-07**|**Self-rationalization improves LLM as a fine-grained judge**|Prapti Trivedi et.al.|[2410.05495](http://arxiv.org/abs/2410.05495)|null|
@@ -1194,7 +1194,7 @@ layout: default
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
 |**2024-09-27**|**A Survey on the Honesty of Large Language Models**|Siheng Li et.al.|[2409.18786](http://arxiv.org/abs/2409.18786)|**[link](https://github.com/sihengli99/llm-honesty-survey)**|
 |**2024-10-02**|**Model-based Preference Optimization in Abstractive Summarization without Human Feedback**|Jaepill Choi et.al.|[2409.18618](http://arxiv.org/abs/2409.18618)|**[link](https://github.com/cjaep/MPO)**|
-|**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|null|
+|**2024-09-26**|**Cross-Institutional Structured Radiology Reporting for Lung Cancer Screening Using a Dynamic Template-Constrained Large Language Model**|Chuang Niu et.al.|[2409.18319](http://arxiv.org/abs/2409.18319)|**[link](https://github.com/niuchuangnn/vllm_structure)**|
 |**2024-09-26**|**Zero- and Few-shot Named Entity Recognition and Text Expansion in Medication Prescriptions using ChatGPT**|Natthanaphop Isaradech et.al.|[2409.17683](http://arxiv.org/abs/2409.17683)|null|
 |**2024-09-26**|**A Scalable Data-Driven Framework for Systematic Analysis of SEC 10-K Filings Using Large Language Models**|Syed Affan Daimi et.al.|[2409.17581](http://arxiv.org/abs/2409.17581)|null|
 |**2024-09-26**|**HaloScope: Harnessing Unlabeled LLM Generations for Hallucination Detection**|Xuefeng Du et.al.|[2409.17504](http://arxiv.org/abs/2409.17504)|null|
@@ -1216,7 +1216,7 @@ layout: default
 |**2024-09-27**|**Reward-Robust RLHF in LLMs**|Yuzi Yan et.al.|[2409.15360](http://arxiv.org/abs/2409.15360)|null|
 |**2024-09-23**|**A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?**|Yunfei Xie et.al.|[2409.15277](http://arxiv.org/abs/2409.15277)|null|
 |**2024-09-26**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
-|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|null|
+|**2024-09-23**|**Boosting Healthcare LLMs Through Retrieved Context**|Jordi Bayarri-Planas et.al.|[2409.15127](http://arxiv.org/abs/2409.15127)|**[link](https://github.com/hpai-bsc/prompt_engine)**|
 |**2024-09-23**|**Enhancing Scientific Reproducibility Through Automated BioCompute Object Creation Using Retrieval-Augmented Generation from Publications**|Sean Kim et.al.|[2409.15076](http://arxiv.org/abs/2409.15076)|null|
 |**2024-09-23**|**InterMind: A Doctor-Patient-Family Interactive Depression Assessment System Empowered by Large Language Models**|Zhiyuan Zhou et.al.|[2409.14878](http://arxiv.org/abs/2409.14878)|null|
 |**2024-09-23**|**Past Meets Present: Creating Historical Analogy with Large Language Models**|Nianqi Li et.al.|[2409.14820](http://arxiv.org/abs/2409.14820)|**[link](https://github.com/nianqi-li/historical-analogy-of-llms)**|
@@ -1446,7 +1446,7 @@ layout: default
 |**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604](http://arxiv.org/abs/2407.16604)|null|
 |**2024-07-23**|**Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs**|Yifan Xia et.al.|[2407.16576](http://arxiv.org/abs/2407.16576)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|**[link](https://github.com/ATILF-UMR7118/pRAGe)**|
-|**2024-07-25**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470](http://arxiv.org/abs/2407.16470)|null|
+|**2024-07-25**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470](http://arxiv.org/abs/2407.16470)|**[link](https://github.com/kenza-ily/mt_hallucination_detection)**|
 |**2024-07-23**|**Enhancing LLM's Cognition via Structurization**|Kai Liu et.al.|[2407.16434](http://arxiv.org/abs/2407.16434)|null|
 |**2024-07-23**|**LawLuo: A Chinese Law Firm Co-run by LLM Agents**|Jingyun Sun et.al.|[2407.16252](http://arxiv.org/abs/2407.16252)|**[link](https://github.com/nefujing/lawluo)**|
 |**2024-07-23**|**Do LLMs Know When to NOT Answer? Investigating Abstention Abilities of Large Language Models**|Nishanth Madhusudhan et.al.|[2407.16221](http://arxiv.org/abs/2407.16221)|null|
