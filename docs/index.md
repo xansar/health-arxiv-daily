@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-27**|**Language Models And A Second Opinion Use Case: The Pocket Professional**|David Noever et.al.|[2410.20636](http://arxiv.org/abs/2410.20636)|null|
+|**2024-10-26**|**Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks**|Annalisa Szymanski et.al.|[2410.20266](http://arxiv.org/abs/2410.20266)|null|
+|**2024-10-26**|**Infectious Disease Forecasting in India using LLM's and Deep Learning**|Chaitya Shah et.al.|[2410.20168](http://arxiv.org/abs/2410.20168)|null|
+|**2024-10-26**|**AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels**|Lei Li et.al.|[2410.20050](http://arxiv.org/abs/2410.20050)|**[link](https://github.com/cmirb-benchmark/cmirb)**|
+|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
+|**2024-10-18**|**Novel Development of LLM Driven mCODE Data Model for Improved Clinical Trial Matching to Enable Standardization and Interoperability in Oncology Research**|Aarsh Shekhar et.al.|[2410.19826](http://arxiv.org/abs/2410.19826)|null|
 |**2024-10-24**|**Inference time LLM alignment in single and multidomain preference spectrum**|Sadat Shahriar et.al.|[2410.19206](http://arxiv.org/abs/2410.19206)|null|
 |**2024-10-24**|**Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**|Mohit Chandra et.al.|[2410.19155](http://arxiv.org/abs/2410.19155)|null|
 |**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
@@ -973,6 +979,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
+|**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
+|**2024-10-28**|**Reward Modeling with Weak Supervision for Language Models**|Ben Hauptvogel et.al.|[2410.20869](http://arxiv.org/abs/2410.20869)|null|
+|**2024-10-28**|**Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation**|Jaechang Kim et.al.|[2410.20811](http://arxiv.org/abs/2410.20811)|null|
+|**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783](http://arxiv.org/abs/2410.20783)|**[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)**|
+|**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|null|
+|**2024-10-27**|**Maintaining Informative Coherence: Migrating Hallucinations in Large Language Models via Absorbing Markov Chains**|Jiemin Wu et.al.|[2410.20340](http://arxiv.org/abs/2410.20340)|null|
+|**2024-10-26**|**Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models**|Mohammad Beigi et.al.|[2410.20199](http://arxiv.org/abs/2410.20199)|null|
+|**2024-10-26**|**Uncertainty-Penalized Direct Preference Optimization**|Sam Houliston et.al.|[2410.20187](http://arxiv.org/abs/2410.20187)|null|
+|**2024-10-26**|**Mask-based Membership Inference Attacks for Retrieval-Augmented Generation**|Mingrui Liu et.al.|[2410.20142](http://arxiv.org/abs/2410.20142)|null|
+|**2024-10-26**|**Beyond Fine-Tuning: Effective Strategies for Mitigating Hallucinations in Large Language Models for Data Analytics**|Mikhail Rumiantsau et.al.|[2410.20024](http://arxiv.org/abs/2410.20024)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
 |**2024-10-25**|**ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**|Ritvik Aggarwal Ishneet Sukhvinder Singh Ibrahim Allahverdiyev et.al.|[2410.19572](http://arxiv.org/abs/2410.19572)|null|
