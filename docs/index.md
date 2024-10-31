@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Improving In-Context Learning with Small Language Model Ensembles**|M. Mehdi Mojarradi et.al.|[2410.21868](http://arxiv.org/abs/2410.21868)|null|
+|**2024-10-29**|**Improving In-Context Learning with Small Language Model Ensembles**|M. Mehdi Mojarradi et.al.|[2410.21868](http://arxiv.org/abs/2410.21868)|**[link](https://github.com/mehdimojarradi/Ensemble-SuperICL)**|
 |**2024-10-28**|**Can Large Language Models Replace Data Scientists in Clinical Research?**|Zifeng Wang et.al.|[2410.21591](http://arxiv.org/abs/2410.21591)|null|
 |**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520](http://arxiv.org/abs/2410.21520)|null|
 |**2024-10-28**|**RoBIn: A Transformer-Based Model For Risk Of Bias Inference With Machine Reading Comprehension**|Abel Corrêa Dias et.al.|[2410.21495](http://arxiv.org/abs/2410.21495)|null|
@@ -986,12 +986,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Distinguishing Ignorance from Error in LLM Hallucinations**|Adi Simhi et.al.|[2410.22071](http://arxiv.org/abs/2410.22071)|**[link](https://github.com/technion-cs-nlp/hallucination-mitigation)**|
-|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-29**|**MARCO: Multi-Agent Real-time Chat Orchestration**|Anubhav Shrimal et.al.|[2410.21784](http://arxiv.org/abs/2410.21784)|null|
 |**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520](http://arxiv.org/abs/2410.21520)|null|
 |**2024-10-28**|**EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation**|Shih-Yang Liu et.al.|[2410.21271](http://arxiv.org/abs/2410.21271)|null|
 |**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
-|**2024-10-28**|**Reward Modeling with Weak Supervision for Language Models**|Ben Hauptvogel et.al.|[2410.20869](http://arxiv.org/abs/2410.20869)|null|
+|**2024-10-28**|**Reward Modeling with Weak Supervision for Language Models**|Ben Hauptvogel et.al.|[2410.20869](http://arxiv.org/abs/2410.20869)|**[link](https://github.com/DFKI-NLP/weak-supervision-rlhf)**|
 |**2024-10-28**|**Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation**|Jaechang Kim et.al.|[2410.20811](http://arxiv.org/abs/2410.20811)|null|
 |**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783](http://arxiv.org/abs/2410.20783)|**[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)**|
 |**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
@@ -1031,7 +1031,7 @@ layout: default
 |**2024-10-21**|**Large language models enabled multiagent ensemble method for efficient EHR data labeling**|Jingwei Huang et.al.|[2410.16543](http://arxiv.org/abs/2410.16543)|null|
 |**2024-10-21**|**Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models' Reasoning with Formal Logic**|Jason Chan et.al.|[2410.16502](http://arxiv.org/abs/2410.16502)|null|
 |**2024-10-18**|**Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs**|Rui Pu et.al.|[2410.16327](http://arxiv.org/abs/2410.16327)|null|
-|**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
+|**2024-10-29**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
 |**2024-10-23**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
 |**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
