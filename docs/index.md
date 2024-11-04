@@ -25,14 +25,14 @@ layout: default
 |**2024-10-31**|**Leveraging Large Language Models for Medical Information Extraction and Query Generation**|Georgios Peikos et.al.|[2410.23851](http://arxiv.org/abs/2410.23851)|null|
 |**2024-10-31**|**Parameter-Efficient Fine-Tuning Medical Multimodal Large Language Models for Medical Visual Grounding**|Jinlong He et.al.|[2410.23822](http://arxiv.org/abs/2410.23822)|null|
 |**2024-10-31**|**The Potential of LLMs in Medical Education: Generating Questions and Answers for Qualification Exams**|Yunqi Zhu et.al.|[2410.23769](http://arxiv.org/abs/2410.23769)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
+|**2024-11-01**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
 |**2024-10-31**|**LEAF: Learning and Evaluation Augmented by Fact-Checking to Improve Factualness in Large Language Models**|Hieu Tran et.al.|[2410.23526](http://arxiv.org/abs/2410.23526)|null|
 |**2024-10-29**|**Do Large Language Models Align with Core Mental Health Counseling Competencies?**|Viet Cuong Nguyen et.al.|[2410.22446](http://arxiv.org/abs/2410.22446)|null|
 |**2024-10-29**|**Improving In-Context Learning with Small Language Model Ensembles**|M. Mehdi Mojarradi et.al.|[2410.21868](http://arxiv.org/abs/2410.21868)|**[link](https://github.com/mehdimojarradi/Ensemble-SuperICL)**|
 |**2024-10-28**|**Can Large Language Models Replace Data Scientists in Clinical Research?**|Zifeng Wang et.al.|[2410.21591](http://arxiv.org/abs/2410.21591)|null|
 |**2024-10-28**|**LLM-Forest for Health Tabular Data Imputation**|Xinrui He et.al.|[2410.21520](http://arxiv.org/abs/2410.21520)|null|
 |**2024-10-28**|**RoBIn: A Transformer-Based Model For Risk Of Bias Inference With Machine Reading Comprehension**|Abel Corrêa Dias et.al.|[2410.21495](http://arxiv.org/abs/2410.21495)|null|
-|**2024-10-28**|**"We do use it, but not how hearing people think": How the Deaf and Hard of Hearing Community Uses Large Language Model Tools**|Shuxu Huffman et.al.|[2410.21358](http://arxiv.org/abs/2410.21358)|null|
+|**2024-11-01**|**"We do use it, but not how hearing people think": How the Deaf and Hard of Hearing Community Uses Large Language Model Tools**|Shuxu Huffman et.al.|[2410.21358](http://arxiv.org/abs/2410.21358)|null|
 |**2024-10-28**|**Large Language Model Benchmarks in Medical Tasks**|Lawrence K. Q. Yan et.al.|[2410.21348](http://arxiv.org/abs/2410.21348)|null|
 |**2024-10-27**|**Language Models And A Second Opinion Use Case: The Pocket Professional**|David Noever et.al.|[2410.20636](http://arxiv.org/abs/2410.20636)|null|
 |**2024-10-26**|**Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks**|Annalisa Szymanski et.al.|[2410.20266](http://arxiv.org/abs/2410.20266)|null|
@@ -1018,7 +1018,7 @@ layout: default
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
 |**2024-10-30**|**ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**|Ishneet Sukhvinder Singh et.al.|[2410.19572](http://arxiv.org/abs/2410.19572)|null|
-|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
+|**2024-11-01**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
 |**2024-10-25**|**A Debate-Driven Experiment on LLM Hallucinations and Accuracy**|Ray Li et.al.|[2410.19485](http://arxiv.org/abs/2410.19485)|null|
 |**2024-10-25**|**Investigating the Role of Prompting and External Tools in Hallucination Rates of Large Language Models**|Liam Barkley et.al.|[2410.19385](http://arxiv.org/abs/2410.19385)|null|
 |**2024-10-25**|**Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning**|Yujian Liu et.al.|[2410.19290](http://arxiv.org/abs/2410.19290)|**[link](https://github.com/ucsb-nlp-chang/prereq_tune)**|
