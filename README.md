@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
+|**2024-11-05**|**[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI**|Maren Pielka et.al.|[2411.02973](http://arxiv.org/abs/2411.02973)|null|
+|**2024-11-04**|**Zebra-Llama: A Context-Aware Large Language Model for Democratizing Rare Disease Knowledge**|Karthik Soman et.al.|[2411.02657](http://arxiv.org/abs/2411.02657)|**[link](https://github.com/karthiksoman/zebra-Llama)**|
+|**2024-11-04**|**"It's a conversation, not a quiz": A Risk Taxonomy and Reflection Tool for LLM Adoption in Public Health**|Jiawei Zhou et.al.|[2411.02594](http://arxiv.org/abs/2411.02594)|null|
+|**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523](http://arxiv.org/abs/2411.02523)|null|
 |**2024-11-01**|**Rationale-Guided Retrieval Augmented Generation for Medical Question Answering**|Jiwoong Sohn et.al.|[2411.00300](http://arxiv.org/abs/2411.00300)|**[link](https://github.com/dmis-lab/rag2)**|
 |**2024-11-01**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Sraavya Sambara et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
 |**2024-10-31**|**A Demonstration of Adaptive Collaboration of Large Language Models for Medical Decision-Making**|Yubin Kim et.al.|[2411.00248](http://arxiv.org/abs/2411.00248)|null|
@@ -994,6 +999,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
+|**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252](http://arxiv.org/abs/2411.03252)|null|
+|**2024-11-05**|**HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems**|Jiejun Tan et.al.|[2411.02959](http://arxiv.org/abs/2411.02959)|**[link](https://github.com/plageon/HtmlRAG)**|
+|**2024-11-05**|**Graph-DPEP: Decomposed Plug and Ensemble Play for Few-Shot Document Relation Extraction with Graph-of-Thoughts Reasoning**|Tao Zhang et.al.|[2411.02864](http://arxiv.org/abs/2411.02864)|null|
+|**2024-11-05**|**V-DPO: Mitigating Hallucination in Large Vision Language Models via Vision-Guided Direct Preference Optimization**|Yuxi Xie et.al.|[2411.02712](http://arxiv.org/abs/2411.02712)|**[link](https://github.com/yuxixie/v-dpo)**|
+|**2024-11-04**|**FactTest: Factuality Testing in Large Language Models with Statistical Guarantees**|Fan Nie et.al.|[2411.02603](http://arxiv.org/abs/2411.02603)|null|
+|**2024-11-03**|**Graph-based Confidence Calibration for Large Language Models**|Yukun Li et.al.|[2411.02454](http://arxiv.org/abs/2411.02454)|null|
+|**2024-11-03**|**Rate, Explain and Cite (REC): Enhanced Explanation and Attribution in Automatic Evaluation by Large Language Models**|Aliyah R. Hsu et.al.|[2411.02448](http://arxiv.org/abs/2411.02448)|**[link](https://github.com/adelaidehsu/rec)**|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
 |**2024-11-04**|**Addressing Uncertainty in LLMs to Enhance Reliability in Generative AI**|Ramneet Kaur et.al.|[2411.02381](http://arxiv.org/abs/2411.02381)|null|
 |**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
@@ -1011,7 +1024,7 @@
 |**2024-11-01**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Sraavya Sambara et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
 |**2024-10-29**|**Problem Categorization Can Help Large Language Models Solve Math Problems**|Amogh Akella et.al.|[2411.00042](http://arxiv.org/abs/2411.00042)|null|
 |**2024-10-28**|**A Perspective for Adapting Generalist AI to Specialized Medical AI Applications and Their Challenges**|Zifeng Wang et.al.|[2411.00024](http://arxiv.org/abs/2411.00024)|null|
-|**2024-10-28**|**Device-Directed Speech Detection for Follow-up Conversations Using Large Language Models**|Oggi Rudovic et.al.|[2411.00023](http://arxiv.org/abs/2411.00023)|null|
+|**2024-11-04**|**Device-Directed Speech Detection for Follow-up Conversations Using Large Language Models**|Ognjen et.al.|[2411.00023](http://arxiv.org/abs/2411.00023)|null|
 |**2024-10-31**|**Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**|Liyi Chen et.al.|[2410.23875](http://arxiv.org/abs/2410.23875)|**[link](https://github.com/liyichen-cly/pog)**|
 |**2024-10-31**|**Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs**|Shuyang Yu et.al.|[2410.23605](http://arxiv.org/abs/2410.23605)|null|
 |**2024-10-31**|**Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval**|Sheryl Hsu et.al.|[2410.23214](http://arxiv.org/abs/2410.23214)|null|
