@@ -527,7 +527,7 @@
 |**2024-05-30**|**Leveraging Open-Source Large Language Models for encoding Social Determinants of Health using an Intelligent Router**|Akul Goel et.al.|[2405.19631](http://arxiv.org/abs/2405.19631)|null|
 |**2024-05-26**|**ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text**|Han Yu et.al.|[2405.19366](http://arxiv.org/abs/2405.19366)|**[link](https://github.com/comp-well-org/esi)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
-|**2024-06-03**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
+|**2024-06-03**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|**[link](https://github.com/ydk122024/pediatricsgpt)**|
 |**2024-05-28**|**Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation**|Anjanava Biswas et.al.|[2405.18346](http://arxiv.org/abs/2405.18346)|null|
 |**2024-05-28**|**Edinburgh Clinical NLP at MEDIQA-CORR 2024: Guiding Large Language Models with Hints**|Aryo Pradipta Gema et.al.|[2405.18028](http://arxiv.org/abs/2405.18028)|null|
 |**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004](http://arxiv.org/abs/2405.18004)|null|
