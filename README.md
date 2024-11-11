@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
+|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
+|**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
+|**2024-11-08**|**Content Quality vs. Attention Allocation: An LLM-Based Case Study in Peer-to-peer Mental Health Networks**|Teng Ye et.al.|[2411.05328](http://arxiv.org/abs/2411.05328)|null|
+|**2024-11-07**|**Interactive Dialogue Agents via Reinforcement Learning on Hindsight Regenerations**|Joey Hong et.al.|[2411.05194](http://arxiv.org/abs/2411.05194)|null|
+|**2024-11-07**|**FineTuneBench: How well do commercial fine-tuning APIs infuse knowledge into LLMs?**|Eric Wu et.al.|[2411.05059](http://arxiv.org/abs/2411.05059)|null|
+|**2024-11-07**|**Integrating Large Language Models for Genetic Variant Classification**|Youssef Boulaimen et.al.|[2411.05055](http://arxiv.org/abs/2411.05055)|null|
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-07**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
@@ -1005,6 +1012,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
+|**2024-11-08**|**Web Archives Metadata Generation with GPT-4o: Challenges and Insights**|Abigail Yongping Huang et.al.|[2411.05409](http://arxiv.org/abs/2411.05409)|**[link](https://github.com/masamune-prog/warc2summary)**|
+|**2024-11-08**|**Seeing Through the Fog: A Cost-Effectiveness Analysis of Hallucination Detection Systems**|Alexander Thomas et.al.|[2411.05270](http://arxiv.org/abs/2411.05270)|null|
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
 |**2024-11-07**|**Self-Calibrated Listwise Reranking with Large Language Models**|Ruiyang Ren et.al.|[2411.04602](http://arxiv.org/abs/2411.04602)|null|
