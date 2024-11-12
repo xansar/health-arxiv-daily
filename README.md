@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19**|Vedant Khandelwal et.al.|[2411.07163](http://arxiv.org/abs/2411.07163)|null|
+|**2024-11-11**|**Cancer-Answer: Empowering Cancer Care with Advanced Large Language Models**|Aniket Deroy et.al.|[2411.06946](http://arxiv.org/abs/2411.06946)|null|
+|**2024-11-11**|**Persuasion with Large Language Models: a Survey**|Alexander Rogiers et.al.|[2411.06837](http://arxiv.org/abs/2411.06837)|null|
+|**2024-11-11**|**Large Language Model in Medical Informatics: Direct Classification and Enhanced Text Representations for Automatic ICD Coding**|Zeyd Boukhers et.al.|[2411.06823](http://arxiv.org/abs/2411.06823)|null|
+|**2024-11-11**|**Ambient AI Scribing Support: Comparing the Performance of Specialized AI Agentic Architecture to Leading Foundational Models**|Chanseo Lee et.al.|[2411.06713](http://arxiv.org/abs/2411.06713)|null|
+|**2024-11-10**|**In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages**|Joseph Gatto et.al.|[2411.06549](http://arxiv.org/abs/2411.06549)|**[link](https://github.com/persist-lab/syntheticportalgen)**|
+|**2024-11-10**|**ClinicalBench: Can LLMs Beat Traditional ML Models in Clinical Prediction?**|Canyu Chen et.al.|[2411.06469](http://arxiv.org/abs/2411.06469)|null|
+|**2024-11-09**|**GuidelineGuard: An Agentic Framework for Medical Note Evaluation with Guideline Adherence**|MD Ragib Shahriyear et.al.|[2411.06264](http://arxiv.org/abs/2411.06264)|null|
+|**2024-11-08**|**Humans Continue to Outperform Large Language Models in Complex Clinical Decision-Making: A Study with Medical Calculators**|Nicholas Wan et.al.|[2411.05897](http://arxiv.org/abs/2411.05897)|null|
+|**2024-11-08**|**Identifying and Decomposing Compound Ingredients in Meal Plans Using Large Language Models**|Leon Kopitar et.al.|[2411.05892](http://arxiv.org/abs/2411.05892)|null|
 |**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
 |**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
 |**2024-11-08**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
@@ -1012,6 +1022,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021](http://arxiv.org/abs/2411.07021)|null|
+|**2024-11-11**|**LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?**|Rikiya Takehi et.al.|[2411.06877](http://arxiv.org/abs/2411.06877)|null|
+|**2024-11-11**|**AssistRAG: Boosting the Potential of Large Language Models with an Intelligent Information Assistant**|Yujia Zhou et.al.|[2411.06805](http://arxiv.org/abs/2411.06805)|**[link](https://github.com/smallporridge/assistrag)**|
+|**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
+|**2024-11-10**|**CriticAL: Critic Automation with Language Models**|Michael Y. Li et.al.|[2411.06590](http://arxiv.org/abs/2411.06590)|null|
+|**2024-11-10**|**Epistemic Integrity in Large Language Models**|Bijean Ghafouri et.al.|[2411.06528](http://arxiv.org/abs/2411.06528)|null|
+|**2024-11-10**|**Prompt-Efficient Fine-Tuning for GPT-like Deep Models to Reduce Hallucination and to Improve Reproducibility in Scientific Text Generation Using Stochastic Optimisation Techniques**|Daniil Sulimov et.al.|[2411.06445](http://arxiv.org/abs/2411.06445)|null|
+|**2024-11-09**|**Sufficient Context: A New Lens on Retrieval Augmented Generation Systems**|Hailey Joren et.al.|[2411.06037](http://arxiv.org/abs/2411.06037)|null|
+|**2024-11-08**|**Game-theoretic LLM: Agent Workflow for Negotiation Games**|Wenyue Hua et.al.|[2411.05990](http://arxiv.org/abs/2411.05990)|**[link](https://github.com/wenyueh/game_theory)**|
+|**2024-11-08**|**FactLens: Benchmarking Fine-Grained Fact Verification**|Kushan Mitra et.al.|[2411.05980](http://arxiv.org/abs/2411.05980)|null|
+|**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
 |**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
 |**2024-11-08**|**Web Archives Metadata Generation with GPT-4o: Challenges and Insights**|Abigail Yongping Huang et.al.|[2411.05409](http://arxiv.org/abs/2411.05409)|**[link](https://github.com/masamune-prog/warc2summary)**|
 |**2024-11-08**|**Seeing Through the Fog: A Cost-Effectiveness Analysis of Hallucination Detection Systems**|Alexander Thomas et.al.|[2411.05270](http://arxiv.org/abs/2411.05270)|null|
