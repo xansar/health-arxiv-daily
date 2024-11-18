@@ -168,7 +168,7 @@
 |**2024-10-01**|**Towards Democratization of Subspeciality Medical Expertise**|Jack W. O'Sullivan et.al.|[2410.03741](http://arxiv.org/abs/2410.03741)|null|
 |**2024-10-01**|**Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model**|Aidan Gilson et.al.|[2410.03740](http://arxiv.org/abs/2410.03740)|null|
 |**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
-|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|null|
+|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|**[link](https://github.com/Optifine-TAT/CliMedBench)**|
 |**2024-10-04**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
 |**2024-10-04**|**Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models**|Yan Chen et.al.|[2410.03134](http://arxiv.org/abs/2410.03134)|null|
 |**2024-10-04**|**Image First or Text First? Optimising the Sequencing of Modalities in Large Language Model Prompting and Reasoning Tasks**|Grant Wardle et.al.|[2410.03062](http://arxiv.org/abs/2410.03062)|null|
@@ -235,7 +235,7 @@
 |**2024-09-20**|**Transfer Learning with Clinical Concept Embeddings from Large Language Models**|Yuhe Gao et.al.|[2409.13893](http://arxiv.org/abs/2409.13893)|null|
 |**2024-09-11**|**A Simplified Retriever to Improve Accuracy of Phenotype Normalizations by Large Language Models**|Daniel B. Hier et.al.|[2409.13744](http://arxiv.org/abs/2409.13744)|null|
 |**2024-09-20**|**Recent Advancement of Emotion Cognition in Large Language Models**|Yuyan Chen et.al.|[2409.13354](http://arxiv.org/abs/2409.13354)|null|
-|**2024-09-20**|**SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**|Jinge Wu et.al.|[2409.13321](http://arxiv.org/abs/2409.13321)|null|
+|**2024-09-20**|**SLaVA-CXR: Small Language and Vision Assistant for Chest X-ray Report Automation**|Jinge Wu et.al.|[2409.13321](http://arxiv.org/abs/2409.13321)|**[link](https://github.com/knowlab/slava-cxr)**|
 |**2024-09-20**|**An adapted large language model facilitates multiple medical tasks in diabetes care**|Lai Wei et.al.|[2409.13191](http://arxiv.org/abs/2409.13191)|**[link](https://github.com/waltonfuture/Diabetica)**|
 |**2024-09-19**|**A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights**|Hakan T. Otal et.al.|[2409.12853](http://arxiv.org/abs/2409.12853)|**[link](https://github.com/ai-in-complex-systems-lab/adhd-knowledgegraph)**|
 |**2024-09-20**|**Fine Tuning Large Language Models for Medicine: The Role and Importance of Direct Preference Optimization**|Thomas Savage et.al.|[2409.12741](http://arxiv.org/abs/2409.12741)|null|
@@ -573,7 +573,7 @@
 |**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701](http://arxiv.org/abs/2405.12701)|**[link](https://github.com/dmis-lab/olaph)**|
 |**2024-05-21**|**Exploration of Masked and Causal Language Modelling for Text Generation**|Nicolo Micheletti et.al.|[2405.12630](http://arxiv.org/abs/2405.12630)|null|
 |**2024-05-21**|**DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge**|Bufang Yang et.al.|[2405.12541](http://arxiv.org/abs/2405.12541)|null|
-|**2024-05-20**|**Can AI Relate: Testing Large Language Model Response for Mental Health Support**|Saadia Gabriel et.al.|[2405.12021](http://arxiv.org/abs/2405.12021)|null|
+|**2024-05-20**|**Can AI Relate: Testing Large Language Model Response for Mental Health Support**|Saadia Gabriel et.al.|[2405.12021](http://arxiv.org/abs/2405.12021)|**[link](https://github.com/skgabriel/mh-eval)**|
 |**2024-05-19**|**Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning**|Zishan Gu et.al.|[2405.11640](http://arxiv.org/abs/2405.11640)|null|
 |**2024-05-18**|**Can Public LLMs be used for Self-Diagnosis of Medical Conditions ?**|Nikil Sharan Prabahar Balasubramanian et.al.|[2405.11407](http://arxiv.org/abs/2405.11407)|null|
 |**2024-05-18**|**Automating PTSD Diagnostics in Clinical Interviews: Leveraging Large Language Models for Trauma Assessments**|Sichang Tu et.al.|[2405.11178](http://arxiv.org/abs/2405.11178)|null|
@@ -867,7 +867,7 @@
 |**2024-01-29**|**Response Generation for Cognitive Behavioral Therapy with Large Language Models: Comparative Study with Socratic Questioning**|Kenta Izumi et.al.|[2401.15966](http://arxiv.org/abs/2401.15966)|null|
 |**2024-01-28**|**AI as a Medical Ally: Evaluating ChatGPT's Usage and Impact in Indian Healthcare**|Aryaman Raina et.al.|[2401.15605](http://arxiv.org/abs/2401.15605)|null|
 |**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269](http://arxiv.org/abs/2401.15269)|**[link](https://github.com/dmis-lab/self-biorag)**|
-|**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
+|**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|**[link](https://github.com/mushfiqur11/simpledc-dataset)**|
 |**2024-01-26**|**Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias**|Yu He Ke et.al.|[2401.14589](http://arxiv.org/abs/2401.14589)|null|
 |**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|**[link](https://github.com/itaymanes/k-qa)**|
 |**2024-01-25**|**LongHealth: A Question Answering Benchmark with Long Clinical Documents**|Lisa Adams et.al.|[2401.14490](http://arxiv.org/abs/2401.14490)|**[link](https://github.com/kbressem/longhealth)**|
@@ -986,7 +986,7 @@
 |**2023-11-12**|**Evaluating the Efficacy of Interactive Language Therapy Based on LLM for High-Functioning Autistic Adolescent Psychological Counseling**|Yujin Cho et.al.|[2311.09243](http://arxiv.org/abs/2311.09243)|null|
 |**2023-11-15**|**PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health**|Haoan Jin et.al.|[2311.09189](http://arxiv.org/abs/2311.09189)|**[link](https://github.com/kaguraruri/psy-eval)**|
 |**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
-|**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|null|
+|**2023-11-14**|**Extrinsically-Focused Evaluation of Omissions in Medical Summarization**|Elliot Schumacher et.al.|[2311.08303](http://arxiv.org/abs/2311.08303)|**[link](https://github.com/curai/curai-research)**|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
 |**2023-11-13**|**It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models**|Nishant Balepur et.al.|[2311.07532](http://arxiv.org/abs/2311.07532)|**[link](https://github.com/nbalepur/poe)**|
 |**2023-11-13**|**Applying Large Language Models for Causal Structure Learning in Non Small Cell Lung Cancer**|Narmada Naik et.al.|[2311.07191](http://arxiv.org/abs/2311.07191)|null|
@@ -1112,7 +1112,7 @@
 |**2024-10-28**|**Bridging the Gap between Expert and Language Models: Concept-guided Chess Commentary Generation and Evaluation**|Jaechang Kim et.al.|[2410.20811](http://arxiv.org/abs/2410.20811)|null|
 |**2024-10-28**|**Graph-based Uncertainty Metrics for Long-form Language Model Outputs**|Mingjian Jiang et.al.|[2410.20783](http://arxiv.org/abs/2410.20783)|**[link](https://github.com/mingjianjiang-1/graph-based-uncertainty)**|
 |**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
-|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|**[link](https://github.com/graph-com/subgraphrag)**|
 |**2024-10-27**|**Maintaining Informative Coherence: Migrating Hallucinations in Large Language Models via Absorbing Markov Chains**|Jiemin Wu et.al.|[2410.20340](http://arxiv.org/abs/2410.20340)|null|
 |**2024-10-26**|**Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models**|Mohammad Beigi et.al.|[2410.20199](http://arxiv.org/abs/2410.20199)|null|
 |**2024-10-26**|**Uncertainty-Penalized Direct Preference Optimization**|Sam Houliston et.al.|[2410.20187](http://arxiv.org/abs/2410.20187)|null|
