@@ -18,8 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
+|**2024-11-17**|**BianCang: A Traditional Chinese Medicine Large Language Model**|Sibo Wei et.al.|[2411.11027](http://arxiv.org/abs/2411.11027)|**[link](https://github.com/qlu-nlp/biancang)**|
+|**2024-11-16**|**Can Generic LLMs Help Analyze Child-adult Interactions Involving Children with Autism in Clinical Observation?**|Tiantian Feng et.al.|[2411.10761](http://arxiv.org/abs/2411.10761)|null|
+|**2024-11-16**|**Structured Dialogue System for Mental Health: An LLM Chatbot Leveraging the PM+ Guidelines**|Yixiang Chen et.al.|[2411.10681](http://arxiv.org/abs/2411.10681)|null|
 |**2024-11-15**|**Evaluating the role of `Constitutions' for learning from AI feedback**|Saskia Redgate et.al.|[2411.10168](http://arxiv.org/abs/2411.10168)|null|
-|**2024-11-15**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
+|**2024-11-18**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
 |**2024-11-15**|**JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging**|Kaito Baba et.al.|[2411.09933](http://arxiv.org/abs/2411.09933)|null|
 |**2024-11-15**|**A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation**|Chin-Sung Tung et.al.|[2411.09874](http://arxiv.org/abs/2411.09874)|**[link](https://github.com/tcs211/ai_eeeg_report)**|
 |**2024-11-14**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834](http://arxiv.org/abs/2411.09834)|**[link](https://github.com/lavita-ai/medical-eval-sphere)**|
@@ -59,7 +63,7 @@
 |**2024-11-04**|**"It's a conversation, not a quiz": A Risk Taxonomy and Reflection Tool for LLM Adoption in Public Health**|Jiawei Zhou et.al.|[2411.02594](http://arxiv.org/abs/2411.02594)|null|
 |**2024-11-01**|**Evaluating the Impact of Lab Test Results on Large Language Models Generated Differential Diagnoses from Clinical Case Vignettes**|Balu Bhasuran et.al.|[2411.02523](http://arxiv.org/abs/2411.02523)|null|
 |**2024-11-01**|**Rationale-Guided Retrieval Augmented Generation for Medical Question Answering**|Jiwoong Sohn et.al.|[2411.00300](http://arxiv.org/abs/2411.00300)|**[link](https://github.com/dmis-lab/rag2)**|
-|**2024-11-01**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Sraavya Sambara et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
+|**2024-11-16**|**RadFlag: A Black-Box Hallucination Detection Method for Medical Vision Language Models**|Serena Zhang et.al.|[2411.00299](http://arxiv.org/abs/2411.00299)|null|
 |**2024-10-31**|**A Demonstration of Adaptive Collaboration of Large Language Models for Medical Decision-Making**|Yubin Kim et.al.|[2411.00248](http://arxiv.org/abs/2411.00248)|**[link](https://github.com/mitmedialab/mdagents)**|
 |**2024-10-31**|**Beyond Label Attention: Transparency in Language Models for Automated Medical Coding via Dictionary Learning**|John Wu et.al.|[2411.00173](http://arxiv.org/abs/2411.00173)|null|
 |**2024-10-28**|**A Perspective for Adapting Generalist AI to Specialized Medical AI Applications and Their Challenges**|Zifeng Wang et.al.|[2411.00024](http://arxiv.org/abs/2411.00024)|null|
@@ -1034,6 +1038,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531](http://arxiv.org/abs/2411.11531)|null|
+|**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
+|**2024-11-18**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|null|
+|**2024-11-17**|**Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering**|Zeping Yu et.al.|[2411.10950](http://arxiv.org/abs/2411.10950)|**[link](https://github.com/zepingyu0512/llava-mechanism)**|
+|**2024-11-16**|**Chain-of-Programming (CoP) : Empowering Large Language Models for Geospatial Code Generation**|Shuyang Hou et.al.|[2411.10753](http://arxiv.org/abs/2411.10753)|null|
+|**2024-11-16**|**I'm Spartacus, No, I'm Spartacus: Measuring and Understanding LLM Identity Confusion**|Kun Li et.al.|[2411.10683](http://arxiv.org/abs/2411.10683)|null|
+|**2024-11-15**|**Personalization of Code Readability Evaluation Based on LLM Using Collaborative Filtering**|Buntaro Hiraki et.al.|[2411.10583](http://arxiv.org/abs/2411.10583)|null|
+|**2024-11-15**|**On the Privacy Risk of In-context Learning**|Haonan Duan et.al.|[2411.10512](http://arxiv.org/abs/2411.10512)|null|
 |**2024-11-15**|**Understanding The Effect Of Temperature On Alignment With Human Opinions**|Maja Pavlovic et.al.|[2411.10080](http://arxiv.org/abs/2411.10080)|null|
 |**2024-11-15**|**Layer Importance and Hallucination Analysis in Large Language Models via Enhanced Activation Variance-Sparsity**|Zichen Song et.al.|[2411.10069](http://arxiv.org/abs/2411.10069)|null|
 |**2024-11-15**|**Experiences from Using LLMs for Repository Mining Studies in Empirical Software Engineering**|Vincenzo de Martino et.al.|[2411.09974](http://arxiv.org/abs/2411.09974)|null|
@@ -1052,7 +1064,7 @@
 |**2024-11-12**|**Verbosity $\neq$ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models**|Yusen Zhang et.al.|[2411.07858](http://arxiv.org/abs/2411.07858)|**[link](https://github.com/psunlpgroup/verbosityllm)**|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[2411.07711](http://arxiv.org/abs/2411.07711)|null|
 |**2024-11-12**|**DecoPrompt : Decoding Prompts Reduces Hallucinations when Large Language Models Meet False Premises**|Nan Xu et.al.|[2411.07457](http://arxiv.org/abs/2411.07457)|**[link](https://github.com/xunannancy/decoprompt)**|
-|**2024-11-11**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021](http://arxiv.org/abs/2411.07021)|null|
+|**2024-11-16**|**Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation**|Ziwei Liu et.al.|[2411.07021](http://arxiv.org/abs/2411.07021)|null|
 |**2024-11-11**|**LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?**|Rikiya Takehi et.al.|[2411.06877](http://arxiv.org/abs/2411.06877)|null|
 |**2024-11-11**|**AssistRAG: Boosting the Potential of Large Language Models with an Intelligent Information Assistant**|Yujia Zhou et.al.|[2411.06805](http://arxiv.org/abs/2411.06805)|**[link](https://github.com/smallporridge/assistrag)**|
 |**2024-11-11**|**Anchor Attention, Small Cache: Code Generation with Large Language Models**|Xiangyu Zhang et.al.|[2411.06680](http://arxiv.org/abs/2411.06680)|null|
@@ -1064,7 +1076,7 @@
 |**2024-11-08**|**FactLens: Benchmarking Fine-Grained Fact Verification**|Kushan Mitra et.al.|[2411.05980](http://arxiv.org/abs/2411.05980)|null|
 |**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
 |**2024-11-08**|**The influence of persona and conversational task on social interactions with a LLM-controlled embodied conversational agent**|Leon O. H. Kroczek et.al.|[2411.05653](http://arxiv.org/abs/2411.05653)|null|
-|**2024-11-08**|**Web Archives Metadata Generation with GPT-4o: Challenges and Insights**|Abigail Yongping Huang et.al.|[2411.05409](http://arxiv.org/abs/2411.05409)|**[link](https://github.com/masamune-prog/warc2summary)**|
+|**2024-11-16**|**Web Archives Metadata Generation with GPT-4o: Challenges and Insights**|Abigail Yongping Huang et.al.|[2411.05409](http://arxiv.org/abs/2411.05409)|**[link](https://github.com/masamune-prog/warc2summary)**|
 |**2024-11-08**|**Seeing Through the Fog: A Cost-Effectiveness Analysis of Hallucination Detection Systems**|Alexander Thomas et.al.|[2411.05270](http://arxiv.org/abs/2411.05270)|null|
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
 |**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|**[link](https://github.com/fujie-math/PRISM)**|
