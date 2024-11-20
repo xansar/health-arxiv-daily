@@ -22,12 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
+|**2024-11-19**|**Performance of Large Language Models in Technical MRI Question Answering: A Comparative Study**|Alan B McMillan et.al.|[2411.12238](http://arxiv.org/abs/2411.12238)|null|
+|**2024-11-18**|**Medical Video Generation for Disease Progression Simulation**|Xu Cao et.al.|[2411.11943](http://arxiv.org/abs/2411.11943)|null|
+|**2024-11-04**|**Large language models for mental health**|Andreas Triantafyllopoulos et.al.|[2411.11880](http://arxiv.org/abs/2411.11880)|null|
 |**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
 |**2024-11-17**|**BianCang: A Traditional Chinese Medicine Large Language Model**|Sibo Wei et.al.|[2411.11027](http://arxiv.org/abs/2411.11027)|**[link](https://github.com/qlu-nlp/biancang)**|
 |**2024-11-16**|**Can Generic LLMs Help Analyze Child-adult Interactions Involving Children with Autism in Clinical Observation?**|Tiantian Feng et.al.|[2411.10761](http://arxiv.org/abs/2411.10761)|null|
 |**2024-11-16**|**Structured Dialogue System for Mental Health: An LLM Chatbot Leveraging the PM+ Guidelines**|Yixiang Chen et.al.|[2411.10681](http://arxiv.org/abs/2411.10681)|null|
 |**2024-11-15**|**Evaluating the role of `Constitutions' for learning from AI feedback**|Saskia Redgate et.al.|[2411.10168](http://arxiv.org/abs/2411.10168)|null|
-|**2024-11-18**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
+|**2024-11-19**|**Information Extraction from Clinical Notes: Are We Ready to Switch to Large Language Models?**|Yan Hu et.al.|[2411.10020](http://arxiv.org/abs/2411.10020)|null|
 |**2024-11-15**|**JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging**|Kaito Baba et.al.|[2411.09933](http://arxiv.org/abs/2411.09933)|null|
 |**2024-11-15**|**A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation**|Chin-Sung Tung et.al.|[2411.09874](http://arxiv.org/abs/2411.09874)|**[link](https://github.com/tcs211/ai_eeeg_report)**|
 |**2024-11-14**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834](http://arxiv.org/abs/2411.09834)|**[link](https://github.com/lavita-ai/medical-eval-sphere)**|
@@ -1040,6 +1044,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
+|**2024-11-15**|**Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination**|Haojie Zheng et.al.|[2411.12591](http://arxiv.org/abs/2411.12591)|**[link](https://github.com/terry-xu-666/visual_inference_chain)**|
+|**2024-11-19**|**Do LLMs Understand Ambiguity in Text? A Case Study in Open-world Question Answering**|Aryan Keluskar et.al.|[2411.12395](http://arxiv.org/abs/2411.12395)|null|
+|**2024-11-18**|**VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation**|Ruiyang Zhang et.al.|[2411.11919](http://arxiv.org/abs/2411.11919)|null|
+|**2024-11-07**|**Deploying Large Language Models With Retrieval Augmented Generation**|Sonal Prabhune et.al.|[2411.11895](http://arxiv.org/abs/2411.11895)|null|
 |**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531](http://arxiv.org/abs/2411.11531)|null|
 |**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
 |**2024-11-18**|**Deep Learning-based Code Reviews: A Paradigm Shift or a Double-Edged Sword?**|Rosalia Tufano et.al.|[2411.11401](http://arxiv.org/abs/2411.11401)|null|
