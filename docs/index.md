@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1058,7 +1058,7 @@ layout: default
 |**2024-11-21**|**Benchmarking GPT-4 against Human Translators: A Comprehensive Evaluation Across Languages, Domains, and Expertise Levels**|Jianhao Yan et.al.|[2411.13775](http://arxiv.org/abs/2411.13775)|null|
 |**2024-11-20**|**Using AI Large Language Models for Grading in Education: A Hands-On Test for Physics**|Ryan Mok et.al.|[2411.13685](http://arxiv.org/abs/2411.13685)|null|
 |**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
-|**2024-11-20**|**Fact-Level Confidence Calibration and Self-Correction**|Yige Yuan et.al.|[2411.13343](http://arxiv.org/abs/2411.13343)|null|
+|**2024-11-20**|**Fact-Level Confidence Calibration and Self-Correction**|Yige Yuan et.al.|[2411.13343](http://arxiv.org/abs/2411.13343)|**[link](https://github.com/yuanyige/fact-calibration)**|
 |**2024-11-20**|**Unlocking Historical Clinical Trial Data with ALIGN: A Compositional Large Language Model System for Medical Coding**|Nabeel Seedat et.al.|[2411.13163](http://arxiv.org/abs/2411.13163)|null|
 |**2024-11-16**|**A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery**|Grace Sng et.al.|[2411.12759](http://arxiv.org/abs/2411.12759)|null|
 |**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
