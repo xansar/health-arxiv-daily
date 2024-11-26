@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700](http://arxiv.org/abs/2411.15700)|null|
+|**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
+|**2024-11-23**|**AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**|Tobi Olatunji et.al.|[2411.15640](http://arxiv.org/abs/2411.15640)|null|
+|**2024-11-23**|**Large Language Model with Region-guided Referring and Grounding for CT Report Generation**|Zhixuan Chen et.al.|[2411.15539](http://arxiv.org/abs/2411.15539)|null|
+|**2024-11-23**|**The Decoy Dilemma in Online Medical Information Evaluation: A Comparative Study of Credibility Assessments by LLM and Human Judges**|Jiqun Liu et.al.|[2411.15396](http://arxiv.org/abs/2411.15396)|null|
+|**2024-11-22**|**Regulator-Manufacturer AI Agents Modeling: Mathematical Feedback-Driven Multi-Agent LLM Framework**|Yu Han et.al.|[2411.15356](http://arxiv.org/abs/2411.15356)|null|
+|**2024-11-21**|**BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models**|Taha Koleilat et.al.|[2411.15232](http://arxiv.org/abs/2411.15232)|null|
 |**2024-11-22**|**Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation**|Colin Diggs et.al.|[2411.14971](http://arxiv.org/abs/2411.14971)|null|
 |**2024-11-22**|**De-biased Multimodal Electrocardiogram Analysis**|Haitao Li et.al.|[2411.14795](http://arxiv.org/abs/2411.14795)|null|
 |**2024-11-22**|**Enhancing Clinical Trial Patient Matching through Knowledge Augmentation with Multi-Agents**|Hanwen Shi et.al.|[2411.14637](http://arxiv.org/abs/2411.14637)|null|
@@ -1054,6 +1061,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
+|**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495](http://arxiv.org/abs/2411.16495)|null|
+|**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
+|**2024-11-24**|**Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**|Lifu Tu et.al.|[2411.15993](http://arxiv.org/abs/2411.15993)|null|
+|**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
+|**2024-11-23**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645](http://arxiv.org/abs/2411.15645)|null|
+|**2024-11-23**|**"All that Glitters": Approaches to Evaluations with Unreliable Model and Human Annotations**|Michael Hardy et.al.|[2411.15634](http://arxiv.org/abs/2411.15634)|null|
+|**2024-11-22**|**Sycophancy in Large Language Models: Causes and Mitigations**|Lars Malmqvist et.al.|[2411.15287](http://arxiv.org/abs/2411.15287)|null|
+|**2024-11-18**|**Can Open-source LLMs Enhance Data Augmentation for Toxic Detection?: An Experimental Study**|Zheng Hui et.al.|[2411.15175](http://arxiv.org/abs/2411.15175)|null|
 |**2024-11-22**|**Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation**|Colin Diggs et.al.|[2411.14971](http://arxiv.org/abs/2411.14971)|null|
 |**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
 |**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
