@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Can artificial intelligence predict clinical trial outcomes?**|Shuyi Jin et.al.|[2411.17595](http://arxiv.org/abs/2411.17595)|null|
+|**2024-11-26**|**The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations**|Theodora Worledge et.al.|[2411.17375](http://arxiv.org/abs/2411.17375)|**[link](https://github.com/guestrin-lab/extractive-abstractive-spectrum)**|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-26**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204](http://arxiv.org/abs/2411.17204)|null|
+|**2024-11-25**|**Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries**|Harshavardhan Battula et.al.|[2411.16818](http://arxiv.org/abs/2411.16818)|null|
 |**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700](http://arxiv.org/abs/2411.15700)|null|
 |**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
 |**2024-11-23**|**AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**|Tobi Olatunji et.al.|[2411.15640](http://arxiv.org/abs/2411.15640)|null|
@@ -1061,7 +1067,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-25**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
+|**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
+|**2024-11-26**|**One Mind, Many Tongues: A Deep Dive into Language-Agnostic Knowledge Neurons in Large Language Models**|Pengfei Cao et.al.|[2411.17401](http://arxiv.org/abs/2411.17401)|null|
+|**2024-11-26**|**Can LLMs be Good Graph Judger for Knowledge Graph Construction?**|Haoyu Huang et.al.|[2411.17388](http://arxiv.org/abs/2411.17388)|**[link](https://github.com/hhy-huang/graphjudger)**|
+|**2024-11-26**|**Meaningless is better: hashing bias-inducing words in LLM prompts improves performance in logical reasoning and statistical learning**|Milena Chadimová et.al.|[2411.17304](http://arxiv.org/abs/2411.17304)|null|
+|**2024-11-26**|**HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator**|Fan Yang et.al.|[2411.17261](http://arxiv.org/abs/2411.17261)|null|
+|**2024-11-25**|**Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries**|Harshavardhan Battula et.al.|[2411.16818](http://arxiv.org/abs/2411.16818)|null|
+|**2024-11-25**|**Enhancing Answer Reliability Through Inter-Model Consensus of Large Language Models**|Alireza Amiri-Margavi et.al.|[2411.16797](http://arxiv.org/abs/2411.16797)|null|
+|**2024-11-25**|**VidHal: Benchmarking Temporal Hallucinations in Vision LLMs**|Wey Yeh Choong et.al.|[2411.16771](http://arxiv.org/abs/2411.16771)|**[link](https://github.com/lookuz/vidhal)**|
+|**2024-11-23**|**Text-to-SQL Calibration: No Need to Ask -- Just Rescale Model Probabilities**|Ashwin Ramachandran et.al.|[2411.16742](http://arxiv.org/abs/2411.16742)|null|
+|**2024-11-23**|**Two Heads Are Better Than One: Collaborative LLM Embodied Agents for Human-Robot Interaction**|Mitchell Rosser et.al.|[2411.16723](http://arxiv.org/abs/2411.16723)|null|
+|**2024-11-26**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
 |**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495](http://arxiv.org/abs/2411.16495)|null|
 |**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
 |**2024-11-24**|**Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**|Lifu Tu et.al.|[2411.15993](http://arxiv.org/abs/2411.15993)|null|
@@ -1081,7 +1097,7 @@
 |**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258](http://arxiv.org/abs/2411.14258)|null|
 |**2024-11-21**|**RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks**|Changyue Jiang et.al.|[2411.14110](http://arxiv.org/abs/2411.14110)|null|
 |**2024-11-21**|**XAgents: A Framework for Interpretable Rule-Based Multi-Agents Cooperation**|Hailong Yang et.al.|[2411.13932](http://arxiv.org/abs/2411.13932)|null|
-|**2024-11-21**|**Benchmarking GPT-4 against Human Translators: A Comprehensive Evaluation Across Languages, Domains, and Expertise Levels**|Jianhao Yan et.al.|[2411.13775](http://arxiv.org/abs/2411.13775)|null|
+|**2024-11-21**|**Benchmarking GPT-4 against Human Translators: A Comprehensive Evaluation Across Languages, Domains, and Expertise Levels**|Jianhao Yan et.al.|[2411.13775](http://arxiv.org/abs/2411.13775)|**[link](https://github.com/elliottyan/gpt_versus_mt_experts)**|
 |**2024-11-20**|**Using AI Large Language Models for Grading in Education: A Hands-On Test for Physics**|Ryan Mok et.al.|[2411.13685](http://arxiv.org/abs/2411.13685)|**[link](https://github.com/faraazakhtar185/LLM_Grader_Analysis)**|
 |**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
 |**2024-11-20**|**Fact-Level Confidence Calibration and Self-Correction**|Yige Yuan et.al.|[2411.13343](http://arxiv.org/abs/2411.13343)|**[link](https://github.com/yuanyige/fact-calibration)**|
