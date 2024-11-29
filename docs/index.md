@@ -26,11 +26,11 @@ layout: default
 |**2024-11-27**|**Wearable intelligent throat enables natural speech in stroke patients with dysarthria**|Chenyu Tang et.al.|[2411.18266](http://arxiv.org/abs/2411.18266)|null|
 |**2024-11-27**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
 |**2024-11-27**|**Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track**|Deepak Gupta et.al.|[2411.18069](http://arxiv.org/abs/2411.18069)|null|
-|**2024-11-27**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967](http://arxiv.org/abs/2411.17967)|null|
+|**2024-11-27**|**QuaLLM-Health: An Adaptation of an LLM-Based Framework for Quantitative Data Extraction from Online Health Discussions**|Ramez Kouzy et.al.|[2411.17967](http://arxiv.org/abs/2411.17967)|**[link](https://github.com/ramezkouzy/GLP1-LLM)**|
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
 |**2024-11-26**|**Can artificial intelligence predict clinical trial outcomes?**|Shuyi Jin et.al.|[2411.17595](http://arxiv.org/abs/2411.17595)|null|
 |**2024-11-26**|**The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations**|Theodora Worledge et.al.|[2411.17375](http://arxiv.org/abs/2411.17375)|**[link](https://github.com/guestrin-lab/extractive-abstractive-spectrum)**|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|null|
+|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
 |**2024-11-26**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204](http://arxiv.org/abs/2411.17204)|null|
 |**2024-11-25**|**Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries**|Harshavardhan Battula et.al.|[2411.16818](http://arxiv.org/abs/2411.16818)|null|
 |**2024-11-24**|**RAMIE: Retrieval-Augmented Multi-task Information Extraction with Large Language Models on Dietary Supplements**|Zaifu Zhan et.al.|[2411.15700](http://arxiv.org/abs/2411.15700)|null|
