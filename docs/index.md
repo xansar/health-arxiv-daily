@@ -67,7 +67,7 @@ layout: default
 |**2024-11-19**|**A Benchmark for Long-Form Medical Question Answering**|Pedram Hosseini et.al.|[2411.09834](http://arxiv.org/abs/2411.09834)|null|
 |**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413](http://arxiv.org/abs/2411.09413)|null|
 |**2024-11-14**|**Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering**|Nghia Trung Ngo et.al.|[2411.09213](http://arxiv.org/abs/2411.09213)|null|
-|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-14**|**Optimizing Automatic Summarization of Long Clinical Records Using Dynamic Context Extension:Testing and Evaluation of the NBCE Method**|Guoqing Zhang et.al.|[2411.08586](http://arxiv.org/abs/2411.08586)|null|
 |**2024-11-12**|**Leveraging Multimodal Models for Enhanced Neuroimaging Diagnostics in Alzheimer's Disease**|Francesco Chiumento et.al.|[2411.07871](http://arxiv.org/abs/2411.07871)|null|
 |**2024-11-12**|**Multimodal Clinical Reasoning through Knowledge-augmented Rationale Generation**|Shuai Niu et.al.|[2411.07611](http://arxiv.org/abs/2411.07611)|null|
@@ -1093,7 +1093,7 @@ layout: default
 |**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
 |**2024-11-24**|**Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown**|Lifu Tu et.al.|[2411.15993](http://arxiv.org/abs/2411.15993)|null|
 |**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
-|**2024-11-23**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645](http://arxiv.org/abs/2411.15645)|null|
+|**2024-11-23**|**MC-NEST -- Enhancing Mathematical Reasoning in Large Language Models with a Monte Carlo Nash Equilibrium Self-Refine Tree**|Gollam Rabby et.al.|[2411.15645](http://arxiv.org/abs/2411.15645)|**[link](https://github.com/corei5/MC_NEST_GPT)**|
 |**2024-11-23**|**"All that Glitters": Approaches to Evaluations with Unreliable Model and Human Annotations**|Michael Hardy et.al.|[2411.15634](http://arxiv.org/abs/2411.15634)|null|
 |**2024-11-22**|**Sycophancy in Large Language Models: Causes and Mitigations**|Lars Malmqvist et.al.|[2411.15287](http://arxiv.org/abs/2411.15287)|null|
 |**2024-11-18**|**Can Open-source LLMs Enhance Data Augmentation for Toxic Detection?: An Experimental Study**|Zheng Hui et.al.|[2411.15175](http://arxiv.org/abs/2411.15175)|null|
