@@ -90,7 +90,7 @@ layout: default
 |**2024-11-11**|**FineTuneBench: How well do commercial fine-tuning APIs infuse knowledge into LLMs?**|Eric Wu et.al.|[2411.05059](http://arxiv.org/abs/2411.05059)|**[link](https://github.com/kevinwu23/stanfordfinetunebench)**|
 |**2024-11-07**|**Integrating Large Language Models for Genetic Variant Classification**|Youssef Boulaimen et.al.|[2411.05055](http://arxiv.org/abs/2411.05055)|null|
 |**2024-11-07**|**Position Paper On Diagnostic Uncertainty Estimation from Large Language Models: Next-Word Probability Is Not Pre-test Probability**|Yanjun Gao et.al.|[2411.04962](http://arxiv.org/abs/2411.04962)|null|
-|**2024-11-19**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-19**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-07**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
 |**2024-11-06**|**A Comparative Study of Recent Large Language Models on Generating Hospital Discharge Summaries for Lung Cancer Patients**|Yiming Li et.al.|[2411.03805](http://arxiv.org/abs/2411.03805)|null|
 |**2024-11-06**|**From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond**|Harsha Nori et.al.|[2411.03590](http://arxiv.org/abs/2411.03590)|null|
@@ -1134,7 +1134,7 @@ layout: default
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689](http://arxiv.org/abs/2411.09689)|null|
 |**2024-11-14**|**DAHL: Domain-specific Automated Hallucination Evaluation of Long-Form Text through a Benchmark Dataset in Biomedicine**|Jean Seo et.al.|[2411.09255](http://arxiv.org/abs/2411.09255)|**[link](https://github.com/seemdog/DAHL)**|
 |**2024-11-14**|**Toward Democratized Generative AI in Next-Generation Mobile Edge Networks**|Ruichen Zhang et.al.|[2411.09148](http://arxiv.org/abs/2411.09148)|null|
-|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-04**|**QCG-Rerank: Chunks Graph Rerank with Query Expansion in Retrieval-Augmented LLMs for Tourism Domain**|Qikai Wei et.al.|[2411.08724](http://arxiv.org/abs/2411.08724)|null|
 |**2024-11-13**|**Neural Topic Modeling with Large Language Models in the Loop**|Xiaohao Yang et.al.|[2411.08534](http://arxiv.org/abs/2411.08534)|null|
 |**2024-11-13**|**Refining Translations with LLMs: A Constraint-Aware Iterative Prompting Approach**|Shangfeng Chen et.al.|[2411.08348](http://arxiv.org/abs/2411.08348)|null|
@@ -1165,7 +1165,7 @@ layout: default
 |**2024-11-07**|**LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG**|Laifa Tao et.al.|[2411.04476](http://arxiv.org/abs/2411.04476)|null|
 |**2024-11-07**|**Bayesian Calibration of Win Rate Estimation with LLM Evaluators**|Yicheng Gao et.al.|[2411.04424](http://arxiv.org/abs/2411.04424)|**[link](https://github.com/yale-nlp/bay-calibration-llm-evaluators)**|
 |**2024-11-06**|**A Multilingual Sentiment Lexicon for Low-Resource Language Translation using Large Languages Models and Explainable AI**|Melusi Malinga et.al.|[2411.04316](http://arxiv.org/abs/2411.04316)|null|
-|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
+|**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|**[link](https://github.com/taekb/eval-medical-dapt)**|
 |**2024-11-06**|**Fine-Grained Guidance for Retrievers: Leveraging LLMs' Feedback in Retrieval-Augmented Generation**|Yuhang Liu et.al.|[2411.03957](http://arxiv.org/abs/2411.03957)|null|
 |**2024-11-06**|**EXPLORA: Efficient Exemplar Subset Selection for Complex Reasoning**|Kiran Purohit et.al.|[2411.03877](http://arxiv.org/abs/2411.03877)|**[link](https://github.com/kiranpurohit/explora)**|
 |**2024-11-06**|**QUILL: Quotation Generation Enhancement of Large Language Models**|Jin Xiao et.al.|[2411.03675](http://arxiv.org/abs/2411.03675)|**[link](https://github.com/gracexiaoo/quill)**|
