@@ -1081,12 +1081,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-29**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS**|Alessandro Scirè et.al.|[2411.19655](http://arxiv.org/abs/2411.19655)|null|
+|**2024-12-02**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis**|Alessandro Scirè et.al.|[2411.19655](http://arxiv.org/abs/2411.19655)|**[link](https://github.com/Babelscape/LLM-Oasis)**|
 |**2024-11-29**|**RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation**|Xianfeng Tan et.al.|[2411.19528](http://arxiv.org/abs/2411.19528)|null|
 |**2024-11-29**|**Towards Understanding Retrieval Accuracy and Prompt Quality in RAG Systems**|Shengming Zhao et.al.|[2411.19463](http://arxiv.org/abs/2411.19463)|null|
 |**2024-11-28**|**Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs**|Anirudh Phukan et.al.|[2411.19187](http://arxiv.org/abs/2411.19187)|null|
 |**2024-11-28**|**Mars-PO: Multi-Agent Reasoning System Preference Optimization**|Xiaoxuan Lou et.al.|[2411.19039](http://arxiv.org/abs/2411.19039)|null|
-|**2024-11-28**|**AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models**|Jisheng Bai et.al.|[2411.18953](http://arxiv.org/abs/2411.18953)|null|
+|**2024-11-28**|**AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models**|Jisheng Bai et.al.|[2411.18953](http://arxiv.org/abs/2411.18953)|**[link](https://github.com/jishengbai/audiosetcaps)**|
 |**2024-11-27**|**Embracing AI in Education: Understanding the Surge in Large Language Model Use by Secondary Students**|Tiffany Zhu et.al.|[2411.18708](http://arxiv.org/abs/2411.18708)|null|
 |**2024-11-27**|**Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track**|Deepak Gupta et.al.|[2411.18069](http://arxiv.org/abs/2411.18069)|null|
 |**2024-11-26**|**MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D Content Creation**|Sankalp Sinha et.al.|[2411.17945](http://arxiv.org/abs/2411.17945)|null|
@@ -1113,7 +1113,7 @@ layout: default
 |**2024-11-18**|**Can Open-source LLMs Enhance Data Augmentation for Toxic Detection?: An Experimental Study**|Zheng Hui et.al.|[2411.15175](http://arxiv.org/abs/2411.15175)|null|
 |**2024-11-22**|**Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation**|Colin Diggs et.al.|[2411.14971](http://arxiv.org/abs/2411.14971)|null|
 |**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
-|**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
+|**2024-12-01**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
 |**2024-11-20**|**The Impossible Test: A 2024 Unsolvable Dataset and A Chance for an AGI Quiz**|David Noever et.al.|[2411.14486](http://arxiv.org/abs/2411.14486)|null|
 |**2024-11-19**|**Why you don't overfit, and don't need Bayes if you only train for one epoch**|Laurence Aitchison et.al.|[2411.14478](http://arxiv.org/abs/2411.14478)|null|
 |**2024-11-18**|**Testing Uncertainty of Large Language Models for Physics Knowledge and Reasoning**|Elizaveta Reganova et.al.|[2411.14465](http://arxiv.org/abs/2411.14465)|null|
@@ -1131,7 +1131,7 @@ layout: default
 |**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
 |**2024-11-15**|**Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination**|Haojie Zheng et.al.|[2411.12591](http://arxiv.org/abs/2411.12591)|**[link](https://github.com/terry-xu-666/visual_inference_chain)**|
 |**2024-11-19**|**Do LLMs Understand Ambiguity in Text? A Case Study in Open-world Question Answering**|Aryan Keluskar et.al.|[2411.12395](http://arxiv.org/abs/2411.12395)|null|
-|**2024-11-18**|**VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation**|Ruiyang Zhang et.al.|[2411.11919](http://arxiv.org/abs/2411.11919)|null|
+|**2024-11-28**|**VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation**|Ruiyang Zhang et.al.|[2411.11919](http://arxiv.org/abs/2411.11919)|null|
 |**2024-11-07**|**Deploying Large Language Models With Retrieval Augmented Generation**|Sonal Prabhune et.al.|[2411.11895](http://arxiv.org/abs/2411.11895)|null|
 |**2024-11-18**|**Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality**|Viktoriia Chekalina et.al.|[2411.11531](http://arxiv.org/abs/2411.11531)|null|
 |**2024-11-18**|**Membership Inference Attack against Long-Context Large Language Models**|Zixiong Wang et.al.|[2411.11424](http://arxiv.org/abs/2411.11424)|null|
