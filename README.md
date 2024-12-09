@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-06**|**SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot**|Jinlin Wu et.al.|[2412.05187](http://arxiv.org/abs/2412.05187)|**[link](https://github.com/franciszchen/surgbox)**|
+|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|null|
+|**2024-12-05**|**Give me Some Hard Questions: Synthetic Data Generation for Clinical QA**|Fan Bai et.al.|[2412.04573](http://arxiv.org/abs/2412.04573)|null|
+|**2024-12-04**|**Prompting Large Language Models for Clinical Temporal Relation Extraction**|Jianping He et.al.|[2412.04512](http://arxiv.org/abs/2412.04512)|null|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235](http://arxiv.org/abs/2412.04235)|null|
 |**2024-12-05**|**Automated Multi-Label Annotation for Mental Health Illnesses Using Large Language Models**|Abdelrahaman A. Hassan et.al.|[2412.03796](http://arxiv.org/abs/2412.03796)|null|
 |**2024-11-28**|**CovidLLM: A Robust Large Language Model with Missing Value Adaptation and Multi-Objective Learning Strategy for Predicting Disease Severity and Clinical Outcomes in COVID-19 Patients**|Shengjun Zhu et.al.|[2412.03593](http://arxiv.org/abs/2412.03593)|**[link](https://github.com/sysll/CovidLLM)**|
@@ -31,7 +36,7 @@
 |**2024-12-02**|**Su-RoBERTa: A Semi-supervised Approach to Predicting Suicide Risk through Social Media using Base Language Models**|Chayan Tank et.al.|[2412.01353](http://arxiv.org/abs/2412.01353)|null|
 |**2024-12-02**|**Best Practices for Large Language Models in Radiology**|Christian Bluethgen et.al.|[2412.01233](http://arxiv.org/abs/2412.01233)|null|
 |**2024-12-01**|**Uhura: A Benchmark for Evaluating Scientific Question Answering and Truthfulness in Low-Resource African Languages**|Edward Bayes et.al.|[2412.00948](http://arxiv.org/abs/2412.00948)|null|
-|**2024-11-30**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573](http://arxiv.org/abs/2412.00573)|null|
+|**2024-12-06**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573](http://arxiv.org/abs/2412.00573)|null|
 |**2024-11-30**|**Polish Medical Exams: A new dataset for cross-lingual medical knowledge transfer assessment**|Łukasz Grzybowski et.al.|[2412.00559](http://arxiv.org/abs/2412.00559)|null|
 |**2024-11-30**|**Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective**|Yue Zhou et.al.|[2412.00554](http://arxiv.org/abs/2412.00554)|null|
 |**2024-11-30**|**CDEMapper: Enhancing NIH Common Data Element Normalization using Large Language Models**|Yan Wang et.al.|[2412.00491](http://arxiv.org/abs/2412.00491)|null|
@@ -44,7 +49,7 @@
 |**2024-11-28**|**A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence**|Chenyu Tang et.al.|[2411.19000](http://arxiv.org/abs/2411.19000)|null|
 |**2024-11-28**|**Rephrasing Electronic Health Records for Pretraining Clinical Language Models**|Jinghui Liu et.al.|[2411.18940](http://arxiv.org/abs/2411.18940)|null|
 |**2024-11-28**|**Devising a Set of Compact and Explainable Spoken Language Feature for Screening Alzheimer's Disease**|Junan Li et.al.|[2411.18922](http://arxiv.org/abs/2411.18922)|null|
-|**2024-12-03**|**LLM-ABBA: Understanding time series via symbolic approximation**|Erin Carson et.al.|[2411.18506](http://arxiv.org/abs/2411.18506)|null|
+|**2024-12-06**|**LLM-ABBA: Understanding time series via symbolic approximation**|Erin Carson et.al.|[2411.18506](http://arxiv.org/abs/2411.18506)|null|
 |**2024-11-28**|**Wearable intelligent throat enables natural speech in stroke patients with dysarthria**|Chenyu Tang et.al.|[2411.18266](http://arxiv.org/abs/2411.18266)|null|
 |**2024-11-29**|**InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**|Xinyao Zheng et.al.|[2411.18191](http://arxiv.org/abs/2411.18191)|null|
 |**2024-11-27**|**Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track**|Deepak Gupta et.al.|[2411.18069](http://arxiv.org/abs/2411.18069)|null|
@@ -1099,6 +1104,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-06**|**100% Hallucination Elimination Using Acurai**|Michael C. Wood et.al.|[2412.05223](http://arxiv.org/abs/2412.05223)|null|
+|**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
+|**2024-12-06**|**Diff4Steer: Steerable Diffusion Prior for Generative Music Retrieval with Semantic Guidance**|Xuchan Bao et.al.|[2412.04746](http://arxiv.org/abs/2412.04746)|null|
+|**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690](http://arxiv.org/abs/2412.04690)|null|
+|**2024-12-05**|**HEAL: Hierarchical Embedding Alignment Loss for Improved Retrieval and Representation Learning**|Manish Bhattarai et.al.|[2412.04661](http://arxiv.org/abs/2412.04661)|null|
+|**2024-12-05**|**Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates**|Li Shi et.al.|[2412.04629](http://arxiv.org/abs/2412.04629)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235](http://arxiv.org/abs/2412.04235)|null|
@@ -1116,7 +1128,7 @@
 |**2024-12-02**|**SailCompass: Towards Reproducible and Robust Evaluation for Southeast Asian Languages**|Jia Guo et.al.|[2412.01186](http://arxiv.org/abs/2412.01186)|**[link](https://github.com/sail-sg/sailcompass)**|
 |**2024-12-02**|**SAUP: Situation Awareness Uncertainty Propagation on LLM Agent**|Qiwei Zhao et.al.|[2412.01033](http://arxiv.org/abs/2412.01033)|null|
 |**2024-12-02**|**AI Benchmarks and Datasets for LLM Evaluation**|Todor Ivanov et.al.|[2412.01020](http://arxiv.org/abs/2412.01020)|null|
-|**2024-11-30**|**Enhancing Zero-shot Chain of Thought Prompting via Uncertainty-Guided Strategy Selection**|Shanu Kumar et.al.|[2412.00353](http://arxiv.org/abs/2412.00353)|null|
+|**2024-12-06**|**Enhancing Zero-shot Chain of Thought Prompting via Uncertainty-Guided Strategy Selection**|Shanu Kumar et.al.|[2412.00353](http://arxiv.org/abs/2412.00353)|null|
 |**2024-11-30**|**Human-Like Code Quality Evaluation through LLM-based Recursive Semantic Comprehension**|Fangzhou Xu et.al.|[2412.00314](http://arxiv.org/abs/2412.00314)|null|
 |**2024-11-29**|**An AI-Driven Data Mesh Architecture Enhancing Decision-Making in Infrastructure Construction and Public Procurement**|Saurabh Mishra et.al.|[2412.00224](http://arxiv.org/abs/2412.00224)|null|
 |**2024-11-24**|**Improving Medical Diagnostics with Vision-Language Models: Convex Hull-Based Uncertainty Analysis**|Ferhat Ozgur Catak et.al.|[2412.00056](http://arxiv.org/abs/2412.00056)|null|
