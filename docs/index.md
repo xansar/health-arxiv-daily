@@ -22,9 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-09**|**PediaBench: A Comprehensive Chinese Pediatric Dataset for Benchmarking Large Language Models**|Qian Zhang et.al.|[2412.06287](http://arxiv.org/abs/2412.06287)|**[link](https://github.com/acmislab/pediabench)**|
+|**2024-12-09**|**MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization**|Kangyu Zhu et.al.|[2412.06141](http://arxiv.org/abs/2412.06141)|**[link](https://github.com/aiming-lab/mmedpo)**|
+|**2024-12-08**|**Domain-Specific Translation with Open-Source Large Language Models: Resource-Oriented Analysis**|Aman Kassahun Wassie et.al.|[2412.05862](http://arxiv.org/abs/2412.05862)|null|
+|**2024-12-08**|**Are Clinical T5 Models Better for Clinical Text?**|Yahan Li et.al.|[2412.05845](http://arxiv.org/abs/2412.05845)|null|
+|**2024-12-09**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
 |**2024-12-06**|**SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot**|Jinlin Wu et.al.|[2412.05187](http://arxiv.org/abs/2412.05187)|**[link](https://github.com/franciszchen/surgbox)**|
-|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|null|
+|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|**[link](https://github.com/quinten-health-os/synth-data-gen-from-text)**|
 |**2024-12-05**|**Give me Some Hard Questions: Synthetic Data Generation for Clinical QA**|Fan Bai et.al.|[2412.04573](http://arxiv.org/abs/2412.04573)|null|
 |**2024-12-04**|**Prompting Large Language Models for Clinical Temporal Relation Extraction**|Jianping He et.al.|[2412.04512](http://arxiv.org/abs/2412.04512)|null|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235](http://arxiv.org/abs/2412.04235)|null|
@@ -33,7 +37,7 @@ layout: default
 |**2024-12-04**|**A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences**|Gabriel Lino Garcia et.al.|[2412.03531](http://arxiv.org/abs/2412.03531)|null|
 |**2024-12-04**|**Advancing Conversational Psychotherapy: Integrating Privacy, Dual-Memory, and Domain Expertise with Large Language Models**|XiuYu Zhang et.al.|[2412.02987](http://arxiv.org/abs/2412.02987)|null|
 |**2024-12-03**|**A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications**|Yixiang Qu et.al.|[2412.02868](http://arxiv.org/abs/2412.02868)|null|
-|**2024-12-05**|**RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models**|Hieu Tran et.al.|[2412.02830](http://arxiv.org/abs/2412.02830)|null|
+|**2024-12-09**|**RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models**|Hieu Tran et.al.|[2412.02830](http://arxiv.org/abs/2412.02830)|null|
 |**2024-12-03**|**Keeping Experts in the Loop: Expert-Guided Optimization for Clinical Data Classification using Large Language Models**|Nader Karayanni et.al.|[2412.02173](http://arxiv.org/abs/2412.02173)|null|
 |**2024-12-04**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955](http://arxiv.org/abs/2412.01955)|null|
 |**2024-12-02**|**Medchain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking**|Jie Liu et.al.|[2412.01605](http://arxiv.org/abs/2412.01605)|null|
@@ -42,7 +46,7 @@ layout: default
 |**2024-12-01**|**Uhura: A Benchmark for Evaluating Scientific Question Answering and Truthfulness in Low-Resource African Languages**|Edward Bayes et.al.|[2412.00948](http://arxiv.org/abs/2412.00948)|null|
 |**2024-12-06**|**Opus: A Large Work Model for Complex Workflow Generation**|Théo Fagnoni et.al.|[2412.00573](http://arxiv.org/abs/2412.00573)|null|
 |**2024-11-30**|**Polish Medical Exams: A new dataset for cross-lingual medical knowledge transfer assessment**|Łukasz Grzybowski et.al.|[2412.00559](http://arxiv.org/abs/2412.00559)|null|
-|**2024-11-30**|**Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective**|Yue Zhou et.al.|[2412.00554](http://arxiv.org/abs/2412.00554)|null|
+|**2024-12-07**|**Unveiling Performance Challenges of Large Language Models in Low-Resource Healthcare: A Demographic Fairness Perspective**|Yue Zhou et.al.|[2412.00554](http://arxiv.org/abs/2412.00554)|null|
 |**2024-11-30**|**CDEMapper: Enhancing NIH Common Data Element Normalization using Large Language Models**|Yan Wang et.al.|[2412.00491](http://arxiv.org/abs/2412.00491)|null|
 |**2024-11-29**|**SSDM 2.0: Time-Accurate Speech Rich Transcription with Non-Fluencies**|Jiachen Lian et.al.|[2412.00265](http://arxiv.org/abs/2412.00265)|null|
 |**2024-11-29**|**Fine Tuning Large Language Models to Deliver CBT for Depression**|Talha Tahir et.al.|[2412.00251](http://arxiv.org/abs/2412.00251)|**[link](https://github.com/ttahir-git/FineTuning_LLMs_for_CBT_for_Depression)**|
@@ -1106,7 +1110,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
+|**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi et.al.|[2412.06272](http://arxiv.org/abs/2412.06272)|null|
+|**2024-12-09**|**MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization**|Kangyu Zhu et.al.|[2412.06141](http://arxiv.org/abs/2412.06141)|**[link](https://github.com/aiming-lab/mmedpo)**|
+|**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
+|**2024-12-07**|**Training-Free Bayesianization for Low-Rank Adapters of Large Language Models**|Haizhou Shi et.al.|[2412.05723](http://arxiv.org/abs/2412.05723)|**[link](https://github.com/wang-ml-lab/bayesian-peft)**|
+|**2024-12-07**|**Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent**|Ziyuan Qin et.al.|[2412.05722](http://arxiv.org/abs/2412.05722)|null|
+|**2024-12-07**|**A Survey on Uncertainty Quantification of Large Language Models: Taxonomy, Open Research Challenges, and Future Directions**|Ola Shorinwa et.al.|[2412.05563](http://arxiv.org/abs/2412.05563)|null|
+|**2024-12-07**|**Ranking of Large Language Model with Nonparametric Prompts**|Zebin Wang et.al.|[2412.05506](http://arxiv.org/abs/2412.05506)|null|
+|**2024-12-06**|**Multi-Objective Alignment of Large Language Models Through Hypervolume Maximization**|Subhojyoti Mukherjee et.al.|[2412.05469](http://arxiv.org/abs/2412.05469)|null|
+|**2024-12-06**|**A Graph-Based Approach for Conversational AI-Driven Personal Memory Capture and Retrieval in a Real-world Application**|Savini Kashmira et.al.|[2412.05447](http://arxiv.org/abs/2412.05447)|null|
+|**2024-12-06**|**HiVeGen -- Hierarchical LLM-based Verilog Generation for Scalable Chip Design**|Jinwei Tang et.al.|[2412.05393](http://arxiv.org/abs/2412.05393)|null|
+|**2024-12-09**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
 |**2024-12-06**|**100% Hallucination Elimination Using Acurai**|Michael C. Wood et.al.|[2412.05223](http://arxiv.org/abs/2412.05223)|null|
 |**2024-12-06**|**Steps are all you need: Rethinking STEM Education with Prompt Engineering**|Krishnasai Addala et.al.|[2412.05023](http://arxiv.org/abs/2412.05023)|null|
 |**2024-12-06**|**Diff4Steer: Steerable Diffusion Prior for Generative Music Retrieval with Semantic Guidance**|Xuchan Bao et.al.|[2412.04746](http://arxiv.org/abs/2412.04746)|null|
