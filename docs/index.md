@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|null|
+|**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743](http://arxiv.org/abs/2412.07743)|null|
+|**2024-12-09**|**Balancing Efficiency and Effectiveness: An LLM-Infused Approach for Optimized CTR Prediction**|Guoxiao Zhang et.al.|[2412.06860](http://arxiv.org/abs/2412.06860)|null|
+|**2024-12-06**|**Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System**|Fang Zeng et.al.|[2412.06828](http://arxiv.org/abs/2412.06828)|null|
 |**2024-12-09**|**PediaBench: A Comprehensive Chinese Pediatric Dataset for Benchmarking Large Language Models**|Qian Zhang et.al.|[2412.06287](http://arxiv.org/abs/2412.06287)|**[link](https://github.com/acmislab/pediabench)**|
 |**2024-12-09**|**MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization**|Kangyu Zhu et.al.|[2412.06141](http://arxiv.org/abs/2412.06141)|**[link](https://github.com/aiming-lab/mmedpo)**|
 |**2024-12-08**|**Domain-Specific Translation with Open-Source Large Language Models: Resource-Oriented Analysis**|Aman Kassahun Wassie et.al.|[2412.05862](http://arxiv.org/abs/2412.05862)|null|
@@ -65,7 +69,7 @@ layout: default
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
 |**2024-11-26**|**Can artificial intelligence predict clinical trial outcomes?**|Shuyi Jin et.al.|[2411.17595](http://arxiv.org/abs/2411.17595)|null|
 |**2024-11-26**|**The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations**|Theodora Worledge et.al.|[2411.17375](http://arxiv.org/abs/2411.17375)|**[link](https://github.com/guestrin-lab/extractive-abstractive-spectrum)**|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
+|**2024-12-10**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
 |**2024-11-28**|**Strategic Prompting for Conversational Tasks: A Comparative Analysis of Large Language Models Across Diverse Conversational Tasks**|Ratnesh Kumar Joshi et.al.|[2411.17204](http://arxiv.org/abs/2411.17204)|null|
 |**2024-11-25**|**Enhancing In-Hospital Mortality Prediction Using Multi-Representational Learning with LLM-Generated Expert Summaries**|Harshavardhan Battula et.al.|[2411.16818](http://arxiv.org/abs/2411.16818)|null|
 |**2024-11-27**|**Creating Scalable AGI: the Open General Intelligence Framework**|Daniel A. Dollinger et.al.|[2411.15832](http://arxiv.org/abs/2411.15832)|null|
@@ -1110,6 +1114,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Granite Guardian**|Inkit Padhi et.al.|[2412.07724](http://arxiv.org/abs/2412.07724)|**[link](https://github.com/ibm-granite/granite-guardian)**|
+|**2024-12-10**|**Label-Confidence-Aware Uncertainty Estimation in Natural Language Generation**|Qinhong Lin et.al.|[2412.07255](http://arxiv.org/abs/2412.07255)|null|
+|**2024-12-10**|**Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay**|Ruiheng Liu et.al.|[2412.07246](http://arxiv.org/abs/2412.07246)|null|
+|**2024-12-10**|**MAPLE: A Framework for Active Preference Learning Guided by Large Language Models**|Saaduddin Mahmud et.al.|[2412.07207](http://arxiv.org/abs/2412.07207)|null|
+|**2024-12-10**|**When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study**|Yang Xiong et.al.|[2412.07189](http://arxiv.org/abs/2412.07189)|null|
+|**2024-12-10**|**Post-Training Statistical Calibration for Higher Activation Sparsity**|Vui Seng Chua et.al.|[2412.07174](http://arxiv.org/abs/2412.07174)|**[link](https://github.com/intellabs/scap)**|
+|**2024-12-09**|**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**|Jieyu Zhang et.al.|[2412.07012](http://arxiv.org/abs/2412.07012)|**[link](https://github.com/jieyuz2/provision)**|
 |**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi et.al.|[2412.06272](http://arxiv.org/abs/2412.06272)|null|
 |**2024-12-09**|**MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization**|Kangyu Zhu et.al.|[2412.06141](http://arxiv.org/abs/2412.06141)|**[link](https://github.com/aiming-lab/mmedpo)**|
 |**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
@@ -1126,7 +1137,7 @@ layout: default
 |**2024-12-06**|**Diff4Steer: Steerable Diffusion Prior for Generative Music Retrieval with Semantic Guidance**|Xuchan Bao et.al.|[2412.04746](http://arxiv.org/abs/2412.04746)|null|
 |**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690](http://arxiv.org/abs/2412.04690)|null|
 |**2024-12-05**|**HEAL: Hierarchical Embedding Alignment Loss for Improved Retrieval and Representation Learning**|Manish Bhattarai et.al.|[2412.04661](http://arxiv.org/abs/2412.04661)|null|
-|**2024-12-05**|**Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates**|Li Shi et.al.|[2412.04629](http://arxiv.org/abs/2412.04629)|null|
+|**2024-12-10**|**Argumentative Experience: Reducing Confirmation Bias on Controversial Issues through LLM-Generated Multi-Persona Debates**|Li Shi et.al.|[2412.04629](http://arxiv.org/abs/2412.04629)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235](http://arxiv.org/abs/2412.04235)|null|
