@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Detecting Conversational Mental Manipulation with Intent-Aware Prompting**|Jiayuan Ma et.al.|[2412.08414](http://arxiv.org/abs/2412.08414)|**[link](https://github.com/anton-jiayuan-ma/manip-iap)**|
 |**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|null|
 |**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743](http://arxiv.org/abs/2412.07743)|null|
 |**2024-12-09**|**Balancing Efficiency and Effectiveness: An LLM-Infused Approach for Optimized CTR Prediction**|Guoxiao Zhang et.al.|[2412.06860](http://arxiv.org/abs/2412.06860)|null|
@@ -1114,13 +1115,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Learning to Reason via Self-Iterative Process Feedback for Small Language Models**|Kaiyuan Chen et.al.|[2412.08393](http://arxiv.org/abs/2412.08393)|null|
+|**2024-12-11**|**What You See Is Not Always What You Get: An Empirical Study of Code Comprehension by Large Language Models**|Bangshuo Zhu et.al.|[2412.08098](http://arxiv.org/abs/2412.08098)|null|
+|**2024-12-10**|**HalluCana: Fixing LLM Hallucination with A Canary Lookahead**|Tianyi Li et.al.|[2412.07965](http://arxiv.org/abs/2412.07965)|null|
+|**2024-12-10**|**Forking Paths in Neural Text Generation**|Eric Bigelow et.al.|[2412.07961](http://arxiv.org/abs/2412.07961)|null|
+|**2024-12-10**|**Low-Rank Correction for Quantized LLMs**|Meyer Scetbon et.al.|[2412.07902](http://arxiv.org/abs/2412.07902)|null|
+|**2024-12-08**|**Language Model as Visual Explainer**|Xingyi Yang et.al.|[2412.07802](http://arxiv.org/abs/2412.07802)|null|
 |**2024-12-10**|**Granite Guardian**|Inkit Padhi et.al.|[2412.07724](http://arxiv.org/abs/2412.07724)|**[link](https://github.com/ibm-granite/granite-guardian)**|
 |**2024-12-10**|**Label-Confidence-Aware Uncertainty Estimation in Natural Language Generation**|Qinhong Lin et.al.|[2412.07255](http://arxiv.org/abs/2412.07255)|null|
 |**2024-12-10**|**Filling Memory Gaps: Enhancing Continual Semantic Parsing via SQL Syntax Variance-Guided LLMs without Real Data Replay**|Ruiheng Liu et.al.|[2412.07246](http://arxiv.org/abs/2412.07246)|null|
 |**2024-12-10**|**MAPLE: A Framework for Active Preference Learning Guided by Large Language Models**|Saaduddin Mahmud et.al.|[2412.07207](http://arxiv.org/abs/2412.07207)|null|
 |**2024-12-10**|**When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study**|Yang Xiong et.al.|[2412.07189](http://arxiv.org/abs/2412.07189)|null|
 |**2024-12-10**|**Post-Training Statistical Calibration for Higher Activation Sparsity**|Vui Seng Chua et.al.|[2412.07174](http://arxiv.org/abs/2412.07174)|**[link](https://github.com/intellabs/scap)**|
-|**2024-12-09**|**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**|Jieyu Zhang et.al.|[2412.07012](http://arxiv.org/abs/2412.07012)|**[link](https://github.com/jieyuz2/provision)**|
+|**2024-12-11**|**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**|Jieyu Zhang et.al.|[2412.07012](http://arxiv.org/abs/2412.07012)|**[link](https://github.com/jieyuz2/provision)**|
 |**2024-12-09**|**Methods for Legal Citation Prediction in the Age of LLMs: An Australian Law Case Study**|Ehsan Shareghi et.al.|[2412.06272](http://arxiv.org/abs/2412.06272)|null|
 |**2024-12-09**|**MMedPO: Aligning Medical Vision-Language Models with Clinical-Aware Multimodal Preference Optimization**|Kangyu Zhu et.al.|[2412.06141](http://arxiv.org/abs/2412.06141)|**[link](https://github.com/aiming-lab/mmedpo)**|
 |**2024-12-08**|**Hallucination-aware Optimization for Large Language Model-empowered Communications**|Yinqiu Liu et.al.|[2412.06007](http://arxiv.org/abs/2412.06007)|null|
