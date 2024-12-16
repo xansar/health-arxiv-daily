@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
 |**2024-12-11**|**Detecting Conversational Mental Manipulation with Intent-Aware Prompting**|Jiayuan Ma et.al.|[2412.08414](http://arxiv.org/abs/2412.08414)|**[link](https://github.com/anton-jiayuan-ma/manip-iap)**|
 |**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|**[link](https://github.com/mbzuai-oryx/bimedix2)**|
@@ -1116,6 +1117,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Detecting LLM Hallucination Through Layer-wise Information Deficiency: Analysis of Unanswerable Questions and Ambiguous Prompts**|Hazel Kim et.al.|[2412.10246](http://arxiv.org/abs/2412.10246)|null|
+|**2024-12-13**|**How good is my story? Towards quantitative metrics for evaluating LLM-generated XAI narratives**|Timour Ichmoukhamedov et.al.|[2412.10220](http://arxiv.org/abs/2412.10220)|null|
+|**2024-12-13**|**TACOMORE: Leveraging the Potential of LLMs in Corpus-based Discourse Analysis with Prompt Engineering**|Bingru Li et.al.|[2412.10139](http://arxiv.org/abs/2412.10139)|null|
+|**2024-12-13**|**ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**|Yang Qin et.al.|[2412.10138](http://arxiv.org/abs/2412.10138)|**[link](https://github.com/alibaba/route)**|
 |**2024-12-12**|**DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction**|Yu Feng et.al.|[2412.09572](http://arxiv.org/abs/2412.09572)|null|
 |**2024-12-12**|**Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion**|Ben Liu et.al.|[2412.09094](http://arxiv.org/abs/2412.09094)|**[link](https://github.com/lb0828/ftg)**|
 |**2024-12-12**|**Dial-In LLM: Human-Aligned Dialogue Intent Clustering with LLM-in-the-loop**|Mengze Hong et.al.|[2412.09049](http://arxiv.org/abs/2412.09049)|null|
