@@ -22,6 +22,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives**|Sam Relins et.al.|[2412.11878](http://arxiv.org/abs/2412.11878)|null|
+|**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|null|
+|**2024-12-16**|**Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery**|Ryuhaerang Choi et.al.|[2412.11656](http://arxiv.org/abs/2412.11656)|null|
+|**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453](http://arxiv.org/abs/2412.11453)|null|
+|**2024-12-15**|**TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**|Lanxiang Hu et.al.|[2412.11242](http://arxiv.org/abs/2412.11242)|null|
+|**2024-12-15**|**AD-LLM: Benchmarking Large Language Models for Anomaly Detection**|Tiankai Yang et.al.|[2412.11142](http://arxiv.org/abs/2412.11142)|**[link](https://github.com/usc-fortis/ad-llm)**|
+|**2024-12-15**|**HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation**|Tengfei Liu et.al.|[2412.11070](http://arxiv.org/abs/2412.11070)|**[link](https://github.com/tengfeiliu966/hc-llm)**|
+|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982](http://arxiv.org/abs/2412.10982)|null|
+|**2024-12-14**|**LLMs-in-the-Loop Part 2: Expert Small AI Models for Anonymization and De-identification of PHI Across Multiple Languages**|Murat Gunay et.al.|[2412.10918](http://arxiv.org/abs/2412.10918)|null|
+|**2024-12-14**|**Superhuman performance of a large language model on the reasoning tasks of a physician**|Peter G. Brodeur et.al.|[2412.10849](http://arxiv.org/abs/2412.10849)|null|
+|**2024-12-14**|**Large Language Models for Medical Forecasting -- Foresight 2**|Zeljko Kraljevic et.al.|[2412.10848](http://arxiv.org/abs/2412.10848)|null|
+|**2024-12-14**|**A recent evaluation on the performance of LLMs on radiation oncology physics using questions of randomly shuffled options**|Peilong Wang et.al.|[2412.10622](http://arxiv.org/abs/2412.10622)|null|
+|**2024-12-09**|**Leveraging Audio and Text Modalities in Mental Health: A Study of LLMs Performance**|Abdelrahman A. Ali et.al.|[2412.10417](http://arxiv.org/abs/2412.10417)|null|
+|**2024-12-09**|**Exploring Complex Mental Health Symptoms via Classifying Social Media Data with Explainable LLMs**|Kexin Chen et.al.|[2412.10414](http://arxiv.org/abs/2412.10414)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
 |**2024-12-11**|**Detecting Conversational Mental Manipulation with Intent-Aware Prompting**|Jiayuan Ma et.al.|[2412.08414](http://arxiv.org/abs/2412.08414)|**[link](https://github.com/anton-jiayuan-ma/manip-iap)**|
@@ -1117,6 +1132,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation**|Xiaoxi Li et.al.|[2412.11919](http://arxiv.org/abs/2412.11919)|**[link](https://github.com/sunnynexus/retrollm)**|
+|**2024-12-16**|**Can Language Models Rival Mathematics Students? Evaluating Mathematical Reasoning through Textual Manipulation and Human Experiments**|Andrii Nikolaiev et.al.|[2412.11908](http://arxiv.org/abs/2412.11908)|null|
+|**2024-12-16**|**A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection**|Simon Hachmeier et.al.|[2412.11851](http://arxiv.org/abs/2412.11851)|**[link](https://github.com/progsi/ytuncoverllm)**|
+|**2024-12-16**|**UAlign: Leveraging Uncertainty Estimations for Factuality Alignment on Large Language Models**|Boyang Xue et.al.|[2412.11803](http://arxiv.org/abs/2412.11803)|null|
+|**2024-12-16**|**Fool Me, Fool Me: User Attitudes Toward LLM Falsehoods**|Diana Bar-Or Nirman et.al.|[2412.11625](http://arxiv.org/abs/2412.11625)|null|
+|**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
+|**2024-12-15**|**CATER: Leveraging LLM to Pioneer a Multidimensional, Reference-Independent Paradigm in Translation Quality Evaluation**|Kurando IIDA et.al.|[2412.11261](http://arxiv.org/abs/2412.11261)|null|
+|**2024-12-15**|**Do Tutors Learn from Equity Training and Can Generative AI Assess It?**|Danielle R. Thomas et.al.|[2412.11255](http://arxiv.org/abs/2412.11255)|null|
+|**2024-12-15**|**Task-Oriented Dialog Systems for the Senegalese Wolof Language**|Derguene Mbaye et.al.|[2412.11203](http://arxiv.org/abs/2412.11203)|null|
+|**2024-12-15**|**Combating Multimodal LLM Hallucination via Bottom-up Holistic Reasoning**|Shengqiong Wu et.al.|[2412.11124](http://arxiv.org/abs/2412.11124)|null|
+|**2024-12-15**|**Latent Reward: LLM-Empowered Credit Assignment in Episodic Reinforcement Learning**|Yun Qu et.al.|[2412.11120](http://arxiv.org/abs/2412.11120)|**[link](https://github.com/cloud-qu/lare)**|
+|**2024-12-15**|**Empowering LLMs to Understand and Generate Complex Vector Graphics**|Ximing Xing et.al.|[2412.11102](http://arxiv.org/abs/2412.11102)|null|
+|**2024-12-14**|**MedG-KRP: Medical Graph Knowledge Representation Probing**|Gabriel R. Rosenbaum et.al.|[2412.10982](http://arxiv.org/abs/2412.10982)|null|
+|**2024-12-14**|**Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**|Xue Wu et.al.|[2412.10654](http://arxiv.org/abs/2412.10654)|null|
+|**2024-12-13**|**Benchmarking large language models for materials synthesis: the case of atomic layer deposition**|Angel Yanguas-Gil et.al.|[2412.10477](http://arxiv.org/abs/2412.10477)|null|
 |**2024-12-13**|**Detecting LLM Hallucination Through Layer-wise Information Deficiency: Analysis of Unanswerable Questions and Ambiguous Prompts**|Hazel Kim et.al.|[2412.10246](http://arxiv.org/abs/2412.10246)|null|
 |**2024-12-13**|**How good is my story? Towards quantitative metrics for evaluating LLM-generated XAI narratives**|Timour Ichmoukhamedov et.al.|[2412.10220](http://arxiv.org/abs/2412.10220)|null|
 |**2024-12-13**|**TACOMORE: Leveraging the Potential of LLMs in Corpus-based Discourse Analysis with Prompt Engineering**|Bingru Li et.al.|[2412.10139](http://arxiv.org/abs/2412.10139)|null|
