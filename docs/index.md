@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1152,10 +1152,10 @@ layout: default
 |**2024-12-19**|**Dehallucinating Parallel Context Extension for Retrieval-Augmented Generation**|Zexiong Ma et.al.|[2412.14905](http://arxiv.org/abs/2412.14905)|null|
 |**2024-12-19**|**Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling**|Junyi Li et.al.|[2412.14860](http://arxiv.org/abs/2412.14860)|null|
 |**2024-12-19**|**Query pipeline optimization for cancer patient question answering systems**|Maolin He et.al.|[2412.14751](http://arxiv.org/abs/2412.14751)|null|
-|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|null|
+|**2024-12-19**|**On Verbalized Confidence Scores for LLMs**|Daniel Yang et.al.|[2412.14737](http://arxiv.org/abs/2412.14737)|**[link](https://github.com/danielyxyang/llm-verbalized-uq)**|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
 |**2024-12-19**|**Cal-DPO: Calibrated Direct Preference Optimization for Language Model Alignment**|Teng Xiao et.al.|[2412.14516](http://arxiv.org/abs/2412.14516)|**[link](https://github.com/tengxiao1/cal-dpo)**|
-|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|null|
+|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|**[link](https://github.com/li-group/faultexplainer)**|
 |**2024-12-18**|**LLMSA: A Compositional Neuro-Symbolic Approach to Compilation-free and Customizable Static Analysis**|Chengpeng Wang et.al.|[2412.14399](http://arxiv.org/abs/2412.14399)|null|
 |**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
