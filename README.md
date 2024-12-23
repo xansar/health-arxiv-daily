@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Towards Interpretable Radiology Report Generation via Concept Bottlenecks using a Multi-Agentic RAG**|Hasan Md Tusfiqur Alam et.al.|[2412.16086](http://arxiv.org/abs/2412.16086)|**[link](https://github.com/tifat58/irr-with-cbm-rag)**|
+|**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957](http://arxiv.org/abs/2412.15957)|null|
+|**2024-12-20**|**Linguistic Features Extracted by GPT-4 Improve Alzheimer's Disease Detection based on Spontaneous Speech**|Jonathan Heitz et.al.|[2412.15772](http://arxiv.org/abs/2412.15772)|**[link](https://github.com/jheitz/coling2025_gpt_paper)**|
+|**2024-12-20**|**Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models**|Shamus Sim et.al.|[2412.15748](http://arxiv.org/abs/2412.15748)|null|
+|**2024-12-20**|**NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning**|Zheyuan Zhang et.al.|[2412.15547](http://arxiv.org/abs/2412.15547)|null|
+|**2024-12-17**|**A MapReduce Approach to Effectively Utilize Long Context Information in Retrieval Augmented Language Models**|Gongbo Zhang et.al.|[2412.15271](http://arxiv.org/abs/2412.15271)|null|
+|**2024-12-16**|**Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search**|Edward Kim et.al.|[2412.15256](http://arxiv.org/abs/2412.15256)|null|
+|**2024-12-13**|**Script-Based Dialog Policy Planning for LLM-Powered Conversational Agents: A Basic Architecture for an "AI Therapist"**|Robert Wasenmüller et.al.|[2412.15242](http://arxiv.org/abs/2412.15242)|null|
+|**2024-12-12**|**CareBot: A Pioneering Full-Process Open-Source Medical Language Model**|Lulu Zhao et.al.|[2412.15236](http://arxiv.org/abs/2412.15236)|null|
 |**2024-12-18**|**Clinical Trials Ontology Engineering with Large Language Models**|Berkan Çakır et.al.|[2412.14387](http://arxiv.org/abs/2412.14387)|null|
 |**2024-12-18**|**Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLM Ophthalmological QA in LMICs**|David Restrepo et.al.|[2412.14304](http://arxiv.org/abs/2412.14304)|null|
 |**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
@@ -1143,6 +1152,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models**|Jessica Y. Bo et.al.|[2412.15584](http://arxiv.org/abs/2412.15584)|null|
+|**2024-12-20**|**Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage**|Saehyung Lee et.al.|[2412.15484](http://arxiv.org/abs/2412.15484)|null|
+|**2024-12-19**|**Systematic Evaluation of Long-Context LLMs on Financial Concepts**|Lavanya Gupta et.al.|[2412.15386](http://arxiv.org/abs/2412.15386)|null|
+|**2024-12-19**|**Conceptual In-Context Learning and Chain of Concepts: Solving Complex Conceptual Problems Using Large Language Models**|Nishtha N. Vaidya et.al.|[2412.15309](http://arxiv.org/abs/2412.15309)|null|
+|**2024-12-19**|**A Comparative Study of DSPy Teleprompter Algorithms for Aligning Large Language Models Evaluation Metrics to Human Evaluation**|Bhaskarjit Sarmah et.al.|[2412.15298](http://arxiv.org/abs/2412.15298)|null|
+|**2024-12-19**|**Confidence in the Reasoning of Large Language Models**|Yudi Pawitan et.al.|[2412.15296](http://arxiv.org/abs/2412.15296)|**[link](https://github.com/yudpaw-git/statspuzzle)**|
+|**2024-12-17**|**SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation**|Yuzheng Cai et.al.|[2412.15272](http://arxiv.org/abs/2412.15272)|**[link](https://github.com/YZ-Cai/SimGRAG)**|
+|**2024-12-17**|**A MapReduce Approach to Effectively Utilize Long Context Information in Retrieval Augmented Language Models**|Gongbo Zhang et.al.|[2412.15271](http://arxiv.org/abs/2412.15271)|null|
+|**2024-12-15**|**LLMs for Literature Review: Are we there yet?**|Shubham Agarwal et.al.|[2412.15249](http://arxiv.org/abs/2412.15249)|null|
 |**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
 |**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
 |**2024-12-19**|**Review-Then-Refine: A Dynamic Framework for Multi-Hop Question Answering with Temporal Adaptability**|Xiangsen Chen et.al.|[2412.15101](http://arxiv.org/abs/2412.15101)|null|
