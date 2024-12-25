@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
+|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096](http://arxiv.org/abs/2412.18096)|null|
 |**2024-12-23**|**Generating Completions for Fragmented Broca's Aphasic Sentences Using Large Language Models**|Sijbren van Vaals et.al.|[2412.17669](http://arxiv.org/abs/2412.17669)|**[link](https://github.com/sijbrenvv/completions_for_broca-s_aphasia)**|
 |**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651](http://arxiv.org/abs/2412.17651)|null|
 |**2024-12-22**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882](http://arxiv.org/abs/2412.16882)|null|
@@ -53,7 +55,7 @@
 |**2024-12-11**|**Performance of a large language model-Artificial Intelligence based chatbot for counseling patients with sexually transmitted infections and genital diseases**|Nikhil Mehta et.al.|[2412.12166](http://arxiv.org/abs/2412.12166)|null|
 |**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|**[link](https://github.com/zh-wang-med/llm-rg4)**|
 |**2024-12-16**|**Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives**|Sam Relins et.al.|[2412.11878](http://arxiv.org/abs/2412.11878)|null|
-|**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|null|
+|**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery**|Ryuhaerang Choi et.al.|[2412.11656](http://arxiv.org/abs/2412.11656)|null|
 |**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453](http://arxiv.org/abs/2412.11453)|null|
 |**2024-12-19**|**TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs**|Lanxiang Hu et.al.|[2412.11242](http://arxiv.org/abs/2412.11242)|null|
@@ -1163,7 +1165,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-22**|**The HalluRAG Dataset: Detecting Closed-Domain Hallucinations in RAG Applications Using an LLM's Internal States**|Fabian Ridder et.al.|[2412.17056](http://arxiv.org/abs/2412.17056)|null|
+|**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|null|
+|**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
+|**2024-12-24**|**Annotating References to Mythological Entities in French Literature**|Thierry Poibeau et.al.|[2412.18270](http://arxiv.org/abs/2412.18270)|null|
+|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096](http://arxiv.org/abs/2412.18096)|null|
+|**2024-12-23**|**Trustworthy and Efficient LLMs Meet Databases**|Kyoungmin Kim et.al.|[2412.18022](http://arxiv.org/abs/2412.18022)|null|
+|**2024-12-22**|**The HalluRAG Dataset: Detecting Closed-Domain Hallucinations in RAG Applications Using an LLM's Internal States**|Fabian Ridder et.al.|[2412.17056](http://arxiv.org/abs/2412.17056)|**[link](https://github.com/f4biian/hallurag)**|
 |**2024-12-22**|**Cannot or Should Not? Automatic Analysis of Refusal Composition in IFT/RLHF Datasets and Refusal Behavior of Black-Box LLMs**|Alexander von Recum et.al.|[2412.16974](http://arxiv.org/abs/2412.16974)|null|
 |**2024-12-21**|**Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|null|
 |**2024-12-21**|**Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks**|Jinyan Su et.al.|[2412.16708](http://arxiv.org/abs/2412.16708)|**[link](https://github.com/jinyansu1/eval_poisonrag)**|
@@ -1173,7 +1180,7 @@
 |**2024-12-20**|**Towards Safe and Honest AI Agents with Neural Self-Other Overlap**|Marc Carauleanu et.al.|[2412.16325](http://arxiv.org/abs/2412.16325)|null|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-20**|**To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models**|Jessica Y. Bo et.al.|[2412.15584](http://arxiv.org/abs/2412.15584)|null|
-|**2024-12-20**|**Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage**|Saehyung Lee et.al.|[2412.15484](http://arxiv.org/abs/2412.15484)|null|
+|**2024-12-24**|**Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage**|Saehyung Lee et.al.|[2412.15484](http://arxiv.org/abs/2412.15484)|null|
 |**2024-12-19**|**Systematic Evaluation of Long-Context LLMs on Financial Concepts**|Lavanya Gupta et.al.|[2412.15386](http://arxiv.org/abs/2412.15386)|null|
 |**2024-12-19**|**Conceptual In-Context Learning and Chain of Concepts: Solving Complex Conceptual Problems Using Large Language Models**|Nishtha N. Vaidya et.al.|[2412.15309](http://arxiv.org/abs/2412.15309)|null|
 |**2024-12-19**|**A Comparative Study of DSPy Teleprompter Algorithms for Aligning Large Language Models Evaluation Metrics to Human Evaluation**|Bhaskarjit Sarmah et.al.|[2412.15298](http://arxiv.org/abs/2412.15298)|null|
