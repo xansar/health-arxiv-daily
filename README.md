@@ -21,14 +21,14 @@
 |**2024-12-29**|**Understanding the Impact of Confidence in Retrieval Augmented Generation: A Case Study in the Medical Domain**|Shintaro Ozaki et.al.|[2412.20309](http://arxiv.org/abs/2412.20309)|null|
 |**2024-12-28**|**On the Compositional Generalization of Multimodal LLMs for Medical Imaging**|Zhenyang Cai et.al.|[2412.20070](http://arxiv.org/abs/2412.20070)|**[link](https://github.com/freedomintelligence/med-mat)**|
 |**2024-12-28**|**The Emotional Spectrum of LLMs: Leveraging Empathy and Emotion-Based Markers for Mental Health Support**|Alessandro De Grandi et.al.|[2412.20068](http://arxiv.org/abs/2412.20068)|null|
-|**2024-12-26**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260](http://arxiv.org/abs/2412.19260)|**[link](https://github.com/abachaa/medec)**|
+|**2025-01-02**|**MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes**|Asma Ben Abacha et.al.|[2412.19260](http://arxiv.org/abs/2412.19260)|**[link](https://github.com/abachaa/medec)**|
 |**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947](http://arxiv.org/abs/2412.18947)|null|
 |**2024-12-25**|**HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**|Junying Chen et.al.|[2412.18925](http://arxiv.org/abs/2412.18925)|**[link](https://github.com/freedomintelligence/huatuogpt-o1)**|
 |**2024-12-24**|**Research on the Proximity Relationships of Psychosomatic Disease Knowledge Graph Modules Extracted by Large Language Models**|Zihan Zhou et.al.|[2412.18419](http://arxiv.org/abs/2412.18419)|null|
 |**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096](http://arxiv.org/abs/2412.18096)|null|
 |**2024-12-23**|**Generating Completions for Fragmented Broca's Aphasic Sentences Using Large Language Models**|Sijbren van Vaals et.al.|[2412.17669](http://arxiv.org/abs/2412.17669)|**[link](https://github.com/sijbrenvv/completions_for_broca-s_aphasia)**|
 |**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651](http://arxiv.org/abs/2412.17651)|null|
-|**2024-12-22**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882](http://arxiv.org/abs/2412.16882)|null|
+|**2025-01-01**|**PsychAdapter: Adapting LLM Transformers to Reflect Traits, Personality and Mental Health**|Huy Vu et.al.|[2412.16882](http://arxiv.org/abs/2412.16882)|null|
 |**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833](http://arxiv.org/abs/2412.16833)|null|
 |**2024-12-21**|**AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles**|Aritra Kumar Lahiri et.al.|[2412.16701](http://arxiv.org/abs/2412.16701)|null|
 |**2024-12-21**|**Evaluating the Performance of Large Language Models in Scientific Claim Detection and Classification**|Tanjim Bin Faruk et.al.|[2412.16486](http://arxiv.org/abs/2412.16486)|null|
