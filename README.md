@@ -106,7 +106,7 @@
 |**2024-12-09**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
 |**2024-12-06**|**SurgBox: Agent-Driven Operating Room Sandbox with Surgery Copilot**|Jinlin Wu et.al.|[2412.05187](http://arxiv.org/abs/2412.05187)|**[link](https://github.com/franciszchen/surgbox)**|
 |**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|**[link](https://github.com/quinten-health-os/synth-data-gen-from-text)**|
-|**2024-12-05**|**Give me Some Hard Questions: Synthetic Data Generation for Clinical QA**|Fan Bai et.al.|[2412.04573](http://arxiv.org/abs/2412.04573)|null|
+|**2024-12-05**|**Give me Some Hard Questions: Synthetic Data Generation for Clinical QA**|Fan Bai et.al.|[2412.04573](http://arxiv.org/abs/2412.04573)|**[link](https://github.com/bflashcp3f/synthetic-clinical-qa)**|
 |**2024-12-04**|**Prompting Large Language Models for Clinical Temporal Relation Extraction**|Jianping He et.al.|[2412.04512](http://arxiv.org/abs/2412.04512)|null|
 |**2024-12-05**|**Addressing Hallucinations with RAG and NMISS in Italian Healthcare LLM Chatbots**|Maria Paola Priola et.al.|[2412.04235](http://arxiv.org/abs/2412.04235)|null|
 |**2024-12-05**|**Automated Multi-Label Annotation for Mental Health Illnesses Using Large Language Models**|Abdelrahaman A. Hassan et.al.|[2412.03796](http://arxiv.org/abs/2412.03796)|null|
@@ -237,7 +237,7 @@
 |**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
 |**2024-10-18**|**Novel Development of LLM Driven mCODE Data Model for Improved Clinical Trial Matching to Enable Standardization and Interoperability in Oncology Research**|Aarsh Shekhar et.al.|[2410.19826](http://arxiv.org/abs/2410.19826)|null|
 |**2024-10-24**|**Inference time LLM alignment in single and multidomain preference spectrum**|Sadat Shahriar et.al.|[2410.19206](http://arxiv.org/abs/2410.19206)|null|
-|**2024-10-24**|**Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**|Mohit Chandra et.al.|[2410.19155](http://arxiv.org/abs/2410.19155)|null|
+|**2024-10-24**|**Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**|Mohit Chandra et.al.|[2410.19155](http://arxiv.org/abs/2410.19155)|**[link](https://github.com/mohit3011/Lived-Experience-Not-Found)**|
 |**2024-10-24**|**Watermarking Large Language Models and the Generated Content: Opportunities and Challenges**|Ruisi Zhang et.al.|[2410.19096](http://arxiv.org/abs/2410.19096)|null|
 |**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955](http://arxiv.org/abs/2410.18955)|null|
 |**2024-10-24**|**Demystifying Large Language Models for Medicine: A Primer**|Qiao Jin et.al.|[2410.18856](http://arxiv.org/abs/2410.18856)|**[link](https://github.com/ncbi-nlp/llm-medicine-primer)**|
@@ -524,7 +524,7 @@
 |**2024-08-06**|**Fact Finder -- Enhancing Domain Expertise of Large Language Models by Incorporating Knowledge Graphs**|Daniel Steinigen et.al.|[2408.03010](http://arxiv.org/abs/2408.03010)|**[link](https://github.com/chrschy/fact-finder)**|
 |**2024-08-07**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|**[link](https://github.com/ihealthlab/dietitianexameval)**|
 |**2024-08-04**|**MedSyn: LLM-based Synthetic Medical Text Generation Framework**|Gleb Kumichev et.al.|[2408.02056](http://arxiv.org/abs/2408.02056)|**[link](https://github.com/milteam/MedSyn)**|
-|**2024-08-06**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933](http://arxiv.org/abs/2408.01933)|null|
+|**2024-08-06**|**DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models**|Bowen Wang et.al.|[2408.01933](http://arxiv.org/abs/2408.01933)|**[link](https://github.com/wbw520/direct)**|
 |**2024-08-03**|**MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance**|Jihye Choi et.al.|[2408.01869](http://arxiv.org/abs/2408.01869)|**[link](https://github.com/jihyechoi77/malade)**|
 |**2024-07-27**|**AgentPeerTalk: Empowering Students through Agentic-AI-Driven Discernment of Bullying and Joking in Peer Interactions in Schools**|Aditya Paul et.al.|[2408.01459](http://arxiv.org/abs/2408.01459)|null|
 |**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285](http://arxiv.org/abs/2408.01285)|null|
@@ -1240,7 +1240,7 @@
 |**2024-12-27**|**MBQ: Modality-Balanced Quantization for Large Vision-Language Models**|Shiyao Li et.al.|[2412.19509](http://arxiv.org/abs/2412.19509)|**[link](https://github.com/thu-nics/mbq)**|
 |**2024-12-26**|**RAG with Differential Privacy**|Nicolas Grislain et.al.|[2412.19291](http://arxiv.org/abs/2412.19291)|null|
 |**2025-01-03**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947](http://arxiv.org/abs/2412.18947)|null|
-|**2025-01-06**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|null|
+|**2025-01-06**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|**[link](https://github.com/Applied-Machine-Learning-Lab/AMAR)**|
 |**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
 |**2024-12-24**|**Annotating References to Mythological Entities in French Literature**|Thierry Poibeau et.al.|[2412.18270](http://arxiv.org/abs/2412.18270)|null|
 |**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096](http://arxiv.org/abs/2412.18096)|null|
