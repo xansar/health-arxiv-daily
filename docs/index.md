@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Combining LLM decision and RL action selection to improve RL policy for adaptive interventions**|Karine Karine et.al.|[2501.06980](http://arxiv.org/abs/2501.06980)|null|
+|**2025-01-12**|**Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**|Xinyao Ma et.al.|[2501.06964](http://arxiv.org/abs/2501.06964)|null|
+|**2025-01-12**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses in Arabic Context**|Noureldin Zahran et.al.|[2501.06859](http://arxiv.org/abs/2501.06859)|null|
+|**2025-01-12**|**Hierarchical Divide-and-Conquer for Fine-Grained Alignment in LLM-Based Medical Evaluation**|Shunfan Zheng et.al.|[2501.06741](http://arxiv.org/abs/2501.06741)|null|
+|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
+|**2025-01-11**|**O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning**|Zhongzhen Huang et.al.|[2501.06458](http://arxiv.org/abs/2501.06458)|**[link](https://github.com/spiral-med/ophiuchus)**|
+|**2025-01-10**|**AFRIDOC-MT: Document-level MT Corpus for African Languages**|Jesujoba O. Alabi et.al.|[2501.06374](http://arxiv.org/abs/2501.06374)|null|
+|**2025-01-10**|**Gender-Neutral Large Language Models for Medical Applications: Reducing Bias in PubMed Abstracts**|Elizabeth Schaefer et.al.|[2501.06365](http://arxiv.org/abs/2501.06365)|null|
+|**2025-01-10**|**Large Language Models for Bioinformatics**|Wei Ruan et.al.|[2501.06271](http://arxiv.org/abs/2501.06271)|null|
 |**2025-01-10**|**From Conversation to Automation: Leveraging Large Language Models to Analyze Strategies in Problem Solving Therapy**|Elham Aghakhani et.al.|[2501.06101](http://arxiv.org/abs/2501.06101)|null|
 |**2025-01-07**|**Practical Design and Benchmarking of Generative AI Applications for Surgical Billing and Coding**|John C. Rollman et.al.|[2501.05479](http://arxiv.org/abs/2501.05479)|null|
 |**2024-12-31**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464](http://arxiv.org/abs/2501.05464)|null|
@@ -1194,6 +1204,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection**|Xin Yin et.al.|[2501.07425](http://arxiv.org/abs/2501.07425)|null|
+|**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078](http://arxiv.org/abs/2501.07078)|**[link](https://github.com/csjywu1/adkgd)**|
+|**2025-01-11**|**Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**|Yinghao Hu et.al.|[2501.06521](http://arxiv.org/abs/2501.06521)|**[link](https://github.com/yinghaohu/legalhalbench)**|
+|**2025-01-11**|**First Token Probability Guided RAG for Telecom Question Answering**|Tingwei Chen et.al.|[2501.06468](http://arxiv.org/abs/2501.06468)|null|
+|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
 |**2025-01-10**|**Hermit Kingdom Through the Lens of Multiple Perspectives: A Case Study of LLM Hallucination on North Korea**|Eunjung Cho et.al.|[2501.05981](http://arxiv.org/abs/2501.05981)|null|
 |**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752](http://arxiv.org/abs/2501.05752)|null|
 |**2025-01-09**|**Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**|Laura Puccioni et.al.|[2501.05248](http://arxiv.org/abs/2501.05248)|null|
