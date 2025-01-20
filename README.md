@@ -511,7 +511,7 @@
 |**2024-08-20**|**Large Language Models for Multimodal Deformable Image Registration**|Mingrui Ma et.al.|[2408.10703](http://arxiv.org/abs/2408.10703)|**[link](https://github.com/ninjannn/llm-morph)**|
 |**2024-08-19**|**Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory**|Haoran Li et.al.|[2408.10053](http://arxiv.org/abs/2408.10053)|null|
 |**2024-08-29**|**MSDiagnosis: An EMR-based Dataset for Clinical Multi-Step Diagnosis**|Ruihui Hou et.al.|[2408.10039](http://arxiv.org/abs/2408.10039)|null|
-|**2024-08-19**|**Ranking Generated Answers: On the Agreement of Retrieval Models with Humans on Consumer Health Questions**|Sebastian Heineking et.al.|[2408.09831](http://arxiv.org/abs/2408.09831)|null|
+|**2024-08-19**|**Ranking Generated Answers: On the Agreement of Retrieval Models with Humans on Consumer Health Questions**|Sebastian Heineking et.al.|[2408.09831](http://arxiv.org/abs/2408.09831)|**[link](https://github.com/webis-de/arxiv24-ranking-generated-answers)**|
 |**2024-08-19**|**R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**|Xiao Wang et.al.|[2408.09743](http://arxiv.org/abs/2408.09743)|**[link](https://github.com/event-ahu/medical_image_analysis)**|
 |**2024-08-18**|**Improving and Assessing the Fidelity of Large Language Models Alignment to Online Communities**|Minh Duc Chu et.al.|[2408.09366](http://arxiv.org/abs/2408.09366)|null|
 |**2024-08-17**|**TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems**|Xinke Jiang et.al.|[2408.09199](http://arxiv.org/abs/2408.09199)|**[link](https://github.com/artessay/sama)**|
@@ -855,7 +855,7 @@
 |**2024-04-06**|**IITK at SemEval-2024 Task 2: Exploring the Capabilities of LLMs for Safe Biomedical Natural Language Inference for Clinical Trials**|Shreyasi Mandal et.al.|[2404.04510](http://arxiv.org/abs/2404.04510)|**[link](https://github.com/exploration-lab/iitk-semeval-2024-task-2-clinical-nli)**|
 |**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|**[link](https://github.com/danielsun94/conversational_diagnosis)**|
 |**2024-04-11**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|**[link](https://github.com/tio-ikim/clue)**|
-|**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|null|
+|**2024-04-04**|**Personalized LLM Response Generation with Parameterized Memory Injection**|Kai Zhang et.al.|[2404.03565](http://arxiv.org/abs/2404.03565)|**[link](https://github.com/matthewkkai/milp)**|
 |**2024-04-02**|**Classifying Cancer Stage with Open-Source Clinical Large Language Models**|Chia-Hsuan Chang et.al.|[2404.01589](http://arxiv.org/abs/2404.01589)|null|
 |**2024-04-01**|**Towards a potential paradigm shift in health data collection and analysis**|David Josef Herzog et.al.|[2404.01403](http://arxiv.org/abs/2404.01403)|null|
 |**2024-04-01**|**Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models**|Yi-Lin Tuan et.al.|[2404.01295](http://arxiv.org/abs/2404.01295)|null|
@@ -1066,7 +1066,7 @@
 |**2024-01-16**|**Gene-associated Disease Discovery Powered by Large Language Models**|Jiayu Chang et.al.|[2401.09490](http://arxiv.org/abs/2401.09490)|null|
 |**2024-01-17**|**Understanding the concerns and choices of public when using large language models for healthcare**|Yunpeng Xiao et.al.|[2401.09090](http://arxiv.org/abs/2401.09090)|null|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
-|**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310](http://arxiv.org/abs/2401.07310)|null|
+|**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310](http://arxiv.org/abs/2401.07310)|**[link](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study)**|
 |**2024-01-13**|**EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records**|Wenqi Shi et.al.|[2401.07128](http://arxiv.org/abs/2401.07128)|**[link](https://github.com/wshi83/ehragent)**|
 |**2024-01-13**|**NHANES-GCP: Leveraging the Google Cloud Platform and BigQuery ML for reproducible machine learning with data from the National Health and Nutrition Examination Survey**|B. Ross Katz et.al.|[2401.06967](http://arxiv.org/abs/2401.06967)|**[link](https://github.com/in-vivo-group/nhanes-gcp)**|
 |**2024-01-12**|**Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data**|Yubin Kim et.al.|[2401.06866](http://arxiv.org/abs/2401.06866)|**[link](https://github.com/mitmedialab/health-llm)**|
@@ -1756,7 +1756,7 @@
 |**2024-10-03**|**Characterizing Context Influence and Hallucination in Summarization**|James Flemings et.al.|[2410.03026](http://arxiv.org/abs/2410.03026)|**[link](https://github.com/james-flemings/context_influence)**|
 |**2024-10-03**|**Is Your Paper Being Reviewed by an LLM? Investigating AI Text Detectability in Peer Review**|Sungduk Yu et.al.|[2410.03019](http://arxiv.org/abs/2410.03019)|null|
 |**2024-09-30**|**Ingest-And-Ground: Dispelling Hallucinations from Continually-Pretrained LLMs with RAG**|Chenhao Fang et.al.|[2410.02825](http://arxiv.org/abs/2410.02825)|null|
-|**2024-10-09**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
+|**2024-10-09**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|**[link](https://github.com/amazon-science/crispo)**|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|**[link](https://github.com/amazon-science/SigExt)**|
 |**2024-10-03**|**Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization**|Ryan C. Barron et.al.|[2410.02721](http://arxiv.org/abs/2410.02721)|null|
 |**2024-10-07**|**LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations**|Hadas Orgad et.al.|[2410.02707](http://arxiv.org/abs/2410.02707)|**[link](https://github.com/technion-cs-nlp/llmsknow)**|
@@ -1860,7 +1860,7 @@
 |**2024-09-15**|**ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing**|Suhyeon Yoo et.al.|[2409.09760](http://arxiv.org/abs/2409.09760)|null|
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
 |**2024-09-21**|**Confidence Estimation for LLM-Based Dialogue State Tracking**|Yi-Jyun Sun et.al.|[2409.09629](http://arxiv.org/abs/2409.09629)|**[link](https://github.com/jennycs0830/confidence_score_dst)**|
-|**2024-09-14**|**VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications**|Teun van de Laar et.al.|[2409.09536](http://arxiv.org/abs/2409.09536)|null|
+|**2024-09-14**|**VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications**|Teun van de Laar et.al.|[2409.09536](http://arxiv.org/abs/2409.09536)|**[link](https://github.com/teunvdl/chatgpt_drone_control)**|
 |**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
 |**2024-09-19**|**The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection**|Yi Yang et.al.|[2409.09380](http://arxiv.org/abs/2409.09380)|null|
 |**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
