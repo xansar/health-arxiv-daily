@@ -22,13 +22,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Can open source large language models be used for tumor documentation in Germany? -- An evaluation on urological doctors' notes**|Stefan Lenz et.al.|[2501.12106](http://arxiv.org/abs/2501.12106)|**[link](https://github.com/stefan-m-lenz/urollmeval)**|
+|**2025-01-21**|**Med-R $^2$ : Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885](http://arxiv.org/abs/2501.11885)|null|
+|**2025-01-19**|**Clinical trial cohort selection using Large Language Models on n2c2 Challenges**|Chi-en Amy Tai et.al.|[2501.11114](http://arxiv.org/abs/2501.11114)|null|
+|**2025-01-18**|**Iterative Tree Analysis for Medical Critics**|Zenan Huang et.al.|[2501.10642](http://arxiv.org/abs/2501.10642)|null|
 |**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
 |**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
 |**2025-01-17**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906](http://arxiv.org/abs/2501.09906)|null|
 |**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825](http://arxiv.org/abs/2501.09825)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
 |**2025-01-16**|**FineMedLM-o1: Enhancing the Medical Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training**|Hongzhou Yu et.al.|[2501.09213](http://arxiv.org/abs/2501.09213)|**[link](https://github.com/hongzhouyu/finemed)**|
-|**2025-01-15**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977](http://arxiv.org/abs/2501.08977)|null|
+|**2025-01-17**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977](http://arxiv.org/abs/2501.08977)|null|
 |**2025-01-15**|**Enhanced Large Language Models for Effective Screening of Depression and Anxiety**|June M. Liu et.al.|[2501.08769](http://arxiv.org/abs/2501.08769)|null|
 |**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
 |**2025-01-14**|**ASTRID -- An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems**|Mohita Chowdhury et.al.|[2501.08208](http://arxiv.org/abs/2501.08208)|null|
@@ -38,14 +42,14 @@ layout: default
 |**2025-01-12**|**Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**|Xinyao Ma et.al.|[2501.06964](http://arxiv.org/abs/2501.06964)|null|
 |**2025-01-12**|**A Comprehensive Evaluation of Large Language Models on Mental Illnesses in Arabic Context**|Noureldin Zahran et.al.|[2501.06859](http://arxiv.org/abs/2501.06859)|null|
 |**2025-01-12**|**Hierarchical Divide-and-Conquer for Fine-Grained Alignment in LLM-Based Medical Evaluation**|Shunfan Zheng et.al.|[2501.06741](http://arxiv.org/abs/2501.06741)|null|
-|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
+|**2025-01-21**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
 |**2025-01-11**|**O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning**|Zhongzhen Huang et.al.|[2501.06458](http://arxiv.org/abs/2501.06458)|**[link](https://github.com/spiral-med/ophiuchus)**|
 |**2025-01-10**|**AFRIDOC-MT: Document-level MT Corpus for African Languages**|Jesujoba O. Alabi et.al.|[2501.06374](http://arxiv.org/abs/2501.06374)|null|
 |**2025-01-10**|**Gender-Neutral Large Language Models for Medical Applications: Reducing Bias in PubMed Abstracts**|Elizabeth Schaefer et.al.|[2501.06365](http://arxiv.org/abs/2501.06365)|null|
 |**2025-01-10**|**Large Language Models for Bioinformatics**|Wei Ruan et.al.|[2501.06271](http://arxiv.org/abs/2501.06271)|null|
 |**2025-01-10**|**From Conversation to Automation: Leveraging Large Language Models to Analyze Strategies in Problem Solving Therapy**|Elham Aghakhani et.al.|[2501.06101](http://arxiv.org/abs/2501.06101)|null|
 |**2025-01-07**|**Practical Design and Benchmarking of Generative AI Applications for Surgical Billing and Coding**|John C. Rollman et.al.|[2501.05479](http://arxiv.org/abs/2501.05479)|null|
-|**2024-12-31**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464](http://arxiv.org/abs/2501.05464)|null|
+|**2025-01-18**|**LLM-MedQA: Enhancing Medical Question Answering through Case Studies in Large Language Models**|Hang Yang et.al.|[2501.05464](http://arxiv.org/abs/2501.05464)|null|
 |**2025-01-09**|**Investigating Numerical Translation with Large Language Models**|Wei Tang et.al.|[2501.04927](http://arxiv.org/abs/2501.04927)|null|
 |**2025-01-07**|**LlaMADRS: Prompting Large Language Models for Interview-Based Depression Assessment**|Gaoussou Youssouf Kebe et.al.|[2501.03624](http://arxiv.org/abs/2501.03624)|null|
 |**2025-01-06**|**Existential Crisis: A Social Robot's Reason for Being**|Dora Medgyesy et.al.|[2501.03376](http://arxiv.org/abs/2501.03376)|null|
@@ -1215,6 +1219,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-19**|**AdaptiveLog: An Adaptive Log Analysis Framework with the Collaboration of Large and Small Language Model**|Lipeng Ma et.al.|[2501.11031](http://arxiv.org/abs/2501.11031)|**[link](https://github.com/leaperovo/adaptivelog-review)**|
+|**2025-01-18**|**Iterative Tree Analysis for Medical Critics**|Zenan Huang et.al.|[2501.10642](http://arxiv.org/abs/2501.10642)|null|
+|**2025-01-18**|**Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks**|Xin Yi et.al.|[2501.10639](http://arxiv.org/abs/2501.10639)|null|
+|**2025-01-17**|**4bit-Quantization in Vector-Embedding for RAG**|Taehee Jeong et.al.|[2501.10534](http://arxiv.org/abs/2501.10534)|**[link](https://github.com/taeheej/4bit-quantization-in-vector-embedding-for-rag)**|
 |**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
 |**2025-01-17**|**Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models**|Qiang Liu et.al.|[2501.09997](http://arxiv.org/abs/2501.09997)|null|
@@ -1243,7 +1251,7 @@ layout: default
 |**2025-01-13**|**ADKGD: Anomaly Detection in Knowledge Graphs with Dual-Channel Training**|Jiayang Wu et.al.|[2501.07078](http://arxiv.org/abs/2501.07078)|**[link](https://github.com/csjywu1/adkgd)**|
 |**2025-01-11**|**Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering**|Yinghao Hu et.al.|[2501.06521](http://arxiv.org/abs/2501.06521)|**[link](https://github.com/yinghaohu/legalhalbench)**|
 |**2025-01-11**|**First Token Probability Guided RAG for Telecom Question Answering**|Tingwei Chen et.al.|[2501.06468](http://arxiv.org/abs/2501.06468)|null|
-|**2025-01-11**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
+|**2025-01-21**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
 |**2025-01-10**|**Hermit Kingdom Through the Lens of Multiple Perspectives: A Case Study of LLM Hallucination on North Korea**|Eunjung Cho et.al.|[2501.05981](http://arxiv.org/abs/2501.05981)|null|
 |**2025-01-10**|**Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models**|Sungjae Lee et.al.|[2501.05752](http://arxiv.org/abs/2501.05752)|null|
 |**2025-01-09**|**Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**|Laura Puccioni et.al.|[2501.05248](http://arxiv.org/abs/2501.05248)|null|
@@ -1258,7 +1266,7 @@ layout: default
 |**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
 |**2025-01-08**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295](http://arxiv.org/abs/2501.03295)|null|
 |**2025-01-06**|**CALM: Curiosity-Driven Auditing for Large Language Models**|Xiang Zheng et.al.|[2501.02997](http://arxiv.org/abs/2501.02997)|**[link](https://github.com/x-zheng16/calm)**|
-|**2025-01-06**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968](http://arxiv.org/abs/2501.02968)|null|
+|**2025-01-19**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968](http://arxiv.org/abs/2501.02968)|null|
 |**2025-01-09**|**InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion**|Zhaoyi Yan et.al.|[2501.02795](http://arxiv.org/abs/2501.02795)|null|
 |**2025-01-06**|**QuIM-RAG: Advancing Retrieval-Augmented Generation with Inverted Question Matching for Enhanced QA Performance**|Binita Saha et.al.|[2501.02702](http://arxiv.org/abs/2501.02702)|null|
 |**2025-01-06**|**EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models**|Andrés Villa et.al.|[2501.02699](http://arxiv.org/abs/2501.02699)|null|
