@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
+|**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654](http://arxiv.org/abs/2501.14654)|**[link](https://github.com/stanfordmlgroup/medagentbench)**|
+|**2025-01-24**|**AI Chatbots as Professional Service Agents: Developing a Professional Identity**|Wenwen Li et.al.|[2501.14179](http://arxiv.org/abs/2501.14179)|null|
+|**2025-01-23**|**MedSlice: Fine-Tuned Large Language Models for Secure Clinical Note Sectioning**|Joshua Davis et.al.|[2501.14105](http://arxiv.org/abs/2501.14105)|**[link](https://github.com/lindvalllab/medslice)**|
+|**2025-01-23**|**Leveraging Large Language Models to Analyze Emotional and Contextual Drivers of Teen Substance Use in Online Discussions**|Jianfeng Zhu et.al.|[2501.14037](http://arxiv.org/abs/2501.14037)|null|
+|**2025-01-23**|**Comprehensive Modeling and Question Answering of Cancer Clinical Practice Guidelines using LLMs**|Bhumika Gupta et.al.|[2501.13984](http://arxiv.org/abs/2501.13984)|null|
+|**2025-01-21**|**Benchmarking Generative AI for Scoring Medical Student Interviews in Objective Structured Clinical Examinations (OSCEs)**|Jadon Geathers et.al.|[2501.13957](http://arxiv.org/abs/2501.13957)|null|
+|**2025-01-20**|**A Layered Multi-Expert Framework for Long-Context Mental Health Assessments**|Jinwen Tang et.al.|[2501.13951](http://arxiv.org/abs/2501.13951)|null|
+|**2025-01-14**|**Evaluating Computational Accuracy of Large Language Models in Numerical Reasoning Tasks for Healthcare Applications**|Arjun R. Malghan et.al.|[2501.13936](http://arxiv.org/abs/2501.13936)|null|
 |**2025-01-23**|**Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change**|Mowafak Allaham et.al.|[2501.13802](http://arxiv.org/abs/2501.13802)|null|
 |**2025-01-22**|**Intelligent Exercise and Feedback System for Social Healthcare using LLMOps**|Yeongrak Choi et.al.|[2501.13723](http://arxiv.org/abs/2501.13723)|null|
 |**2025-01-23**|**Question Answering on Patient Medical Records with Private Fine-Tuned LLMs**|Sara Kothari et.al.|[2501.13687](http://arxiv.org/abs/2501.13687)|null|
@@ -1222,6 +1231,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains**|Xu Chu et.al.|[2501.14431](http://arxiv.org/abs/2501.14431)|null|
+|**2025-01-24**|**Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph**|Xujian Liang et.al.|[2501.14300](http://arxiv.org/abs/2501.14300)|**[link](https://github.com/dosonleung/fasttog)**|
+|**2025-01-24**|**Humanity's Last Exam**|Long Phan et.al.|[2501.14249](http://arxiv.org/abs/2501.14249)|null|
+|**2025-01-24**|**AI Chatbots as Professional Service Agents: Developing a Professional Identity**|Wenwen Li et.al.|[2501.14179](http://arxiv.org/abs/2501.14179)|null|
+|**2025-01-23**|**OstQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting**|Xing Hu et.al.|[2501.13987](http://arxiv.org/abs/2501.13987)|**[link](https://github.com/brotherhappy/ostquant)**|
+|**2025-01-23**|**Comprehensive Modeling and Question Answering of Cancer Clinical Practice Guidelines using LLMs**|Bhumika Gupta et.al.|[2501.13984](http://arxiv.org/abs/2501.13984)|null|
+|**2025-01-20**|**A Layered Multi-Expert Framework for Long-Context Mental Health Assessments**|Jinwen Tang et.al.|[2501.13951](http://arxiv.org/abs/2501.13951)|null|
 |**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
 |**2025-01-23**|**On the Reasoning Capacity of AI Models and How to Quantify It**|Santosh Kumar Radha et.al.|[2501.13833](http://arxiv.org/abs/2501.13833)|null|
 |**2025-01-23**|**Hallucinations Can Improve Large Language Models in Drug Discovery**|Shuzhou Yuan et.al.|[2501.13824](http://arxiv.org/abs/2501.13824)|null|
