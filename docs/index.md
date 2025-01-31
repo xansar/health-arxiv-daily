@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**GENIE: Generative Note Information Extraction model for structuring EHR data**|Huaiyuan Ying et.al.|[2501.18435](http://arxiv.org/abs/2501.18435)|null|
+|**2025-01-30**|**Battery State of Health Estimation Using LLM Framework**|Aybars Yunusoglu et.al.|[2501.18123](http://arxiv.org/abs/2501.18123)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
 |**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510](http://arxiv.org/abs/2501.17510)|null|
 |**2025-01-28**|**Memorize and Rank: Elevating Large Language Models for Clinical Diagnosis Prediction**|Mingyu Derek Ma et.al.|[2501.17326](http://arxiv.org/abs/2501.17326)|null|
@@ -1253,11 +1255,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
+|**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|**[link](https://github.com/AozhongZhang/CLoQ)**|
+|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-29**|**Large Language Models Think Too Fast To Explore Effectively**|Lan Pan et.al.|[2501.18009](http://arxiv.org/abs/2501.18009)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-01-29**|**Semantic Consistency Regularization with Large Language Models for Semi-supervised Sentiment Analysis**|Kunrong Li et.al.|[2501.17598](http://arxiv.org/abs/2501.17598)|null|
 |**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/abs/2501.17581)|null|
 |**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295](http://arxiv.org/abs/2501.17295)|null|
-|**2025-01-26**|**Visualizing Uncertainty in Translation Tasks: An Evaluation of LLM Performance and Confidence Metrics**|Jin Hyun Park et.al.|[2501.17187](http://arxiv.org/abs/2501.17187)|null|
+|**2025-01-26**|**Visualizing Uncertainty in Translation Tasks: An Evaluation of LLM Performance and Confidence Metrics**|Jin Hyun Park et.al.|[2501.17187](http://arxiv.org/abs/2501.17187)|**[link](https://github.com/7201krap/csce679_data-visualization)**|
 |**2025-01-25**|**LLM Evaluation Based on Aerospace Manufacturing Expertise: Automated Generation and Multi-Model Question Answering**|Beiming Liu et.al.|[2501.17183](http://arxiv.org/abs/2501.17183)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**MCTS-SQL: An Effective Framework for Text-to-SQL with Monte Carlo Tree Search**|Shuozhi Yuan et.al.|[2501.16607](http://arxiv.org/abs/2501.16607)|null|
@@ -1284,7 +1290,7 @@ layout: default
 |**2025-01-22**|**OnionEval: An Unified Evaluation of Fact-conflicting Hallucination for Small-Large Language Models**|Chongren Sun et.al.|[2501.12975](http://arxiv.org/abs/2501.12975)|**[link](https://github.com/sunchongren/onioneval)**|
 |**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909](http://arxiv.org/abs/2501.12909)|null|
 |**2025-01-22**|**Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home**|Viktor Moskvoretskii et.al.|[2501.12835](http://arxiv.org/abs/2501.12835)|null|
-|**2025-01-26**|**EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering**|Chang Zong et.al.|[2501.12746](http://arxiv.org/abs/2501.12746)|null|
+|**2025-01-30**|**EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering**|Chang Zong et.al.|[2501.12746](http://arxiv.org/abs/2501.12746)|null|
 |**2025-01-25**|**Online Preference Alignment for Language Models via Count-based Exploration**|Chenjia Bai et.al.|[2501.12735](http://arxiv.org/abs/2501.12735)|**[link](https://github.com/baichenjia/copo)**|
 |**2025-01-22**|**Paradigm-Based Automatic HDL Code Generation Using LLMs**|Wenhao Sun et.al.|[2501.12702](http://arxiv.org/abs/2501.12702)|null|
 |**2025-01-19**|**AdaptiveLog: An Adaptive Log Analysis Framework with the Collaboration of Large and Small Language Model**|Lipeng Ma et.al.|[2501.11031](http://arxiv.org/abs/2501.11031)|**[link](https://github.com/leaperovo/adaptivelog-review)**|
