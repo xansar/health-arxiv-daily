@@ -80,7 +80,7 @@ layout: default
 |**2025-01-12**|**Hierarchical Divide-and-Conquer for Fine-Grained Alignment in LLM-Based Medical Evaluation**|Shunfan Zheng et.al.|[2501.06741](http://arxiv.org/abs/2501.06741)|null|
 |**2025-01-21**|**MedCT: A Clinical Terminology Graph for Generative AI Applications in Healthcare**|Ye Chen et.al.|[2501.06465](http://arxiv.org/abs/2501.06465)|null|
 |**2025-01-11**|**O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning**|Zhongzhen Huang et.al.|[2501.06458](http://arxiv.org/abs/2501.06458)|**[link](https://github.com/spiral-med/ophiuchus)**|
-|**2025-01-10**|**AFRIDOC-MT: Document-level MT Corpus for African Languages**|Jesujoba O. Alabi et.al.|[2501.06374](http://arxiv.org/abs/2501.06374)|null|
+|**2025-01-10**|**AFRIDOC-MT: Document-level MT Corpus for African Languages**|Jesujoba O. Alabi et.al.|[2501.06374](http://arxiv.org/abs/2501.06374)|**[link](https://github.com/masakhane-io/afridoc-mt)**|
 |**2025-01-10**|**Gender-Neutral Large Language Models for Medical Applications: Reducing Bias in PubMed Abstracts**|Elizabeth Schaefer et.al.|[2501.06365](http://arxiv.org/abs/2501.06365)|null|
 |**2025-01-10**|**Large Language Models for Bioinformatics**|Wei Ruan et.al.|[2501.06271](http://arxiv.org/abs/2501.06271)|null|
 |**2025-01-10**|**From Conversation to Automation: Leveraging Large Language Models to Analyze Strategies in Problem Solving Therapy**|Elham Aghakhani et.al.|[2501.06101](http://arxiv.org/abs/2501.06101)|null|
@@ -710,7 +710,7 @@ layout: default
 |**2024-06-27**|**Efficient Continual Pre-training by Mitigating the Stability Gap**|Yiduo Guo et.al.|[2406.14833](http://arxiv.org/abs/2406.14833)|null|
 |**2024-07-01**|**ACR: A Benchmark for Automatic Cohort Retrieval**|Dung Ngoc Thai et.al.|[2406.14780](http://arxiv.org/abs/2406.14780)|null|
 |**2024-06-20**|**A Large Language Model Outperforms Other Computational Approaches to the High-Throughput Phenotyping of Physician Notes**|Syed I. Munzir et.al.|[2406.14757](http://arxiv.org/abs/2406.14757)|null|
-|**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|null|
+|**2024-06-20**|**medIKAL: Integrating Knowledge Graphs as Assistants of LLMs for Enhanced Clinical Diagnosis on EMRs**|Mingyi Jia et.al.|[2406.14326](http://arxiv.org/abs/2406.14326)|**[link](https://github.com/csu-nlp-group/medikal)**|
 |**2024-06-19**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 |**2024-06-24**|**The Efficacy of Conversational Artificial Intelligence in Rectifying the Theory of Mind and Autonomy Biases: Comparative Analysis**|Marcin Rządeczka et.al.|[2406.13813](http://arxiv.org/abs/2406.13813)|null|
 |**2024-06-19**|**Leveraging Large Language Models for Patient Engagement: The Power of Conversational AI in Digital Health**|Bo Wen et.al.|[2406.13659](http://arxiv.org/abs/2406.13659)|null|
@@ -1839,7 +1839,7 @@ layout: default
 |**2024-10-06**|**DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**|Xuan Gong et.al.|[2410.04514](http://arxiv.org/abs/2410.04514)|null|
 |**2024-10-05**|**DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech**|Dominika Woszczyk et.al.|[2410.04188](http://arxiv.org/abs/2410.04188)|null|
 |**2024-10-04**|**dZiner: Rational Inverse Design of Materials with AI Agents**|Mehrad Ansari et.al.|[2410.03963](http://arxiv.org/abs/2410.03963)|**[link](https://github.com/mehradans92/dziner)**|
-|**2024-10-03**|**Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**|Aparna Elangovan et.al.|[2410.03775](http://arxiv.org/abs/2410.03775)|null|
+|**2024-10-03**|**Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge**|Aparna Elangovan et.al.|[2410.03775](http://arxiv.org/abs/2410.03775)|**[link](https://github.com/amazon-science/beyondcorrelation)**|
 |**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
 |**2024-10-08**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
