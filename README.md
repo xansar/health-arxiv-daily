@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
+|**2025-01-30**|**Zero-shot Large Language Models for Long Clinical Text Summarization with Temporal Reasoning**|Maya Kruse et.al.|[2501.18724](http://arxiv.org/abs/2501.18724)|null|
+|**2025-01-29**|**Layered Chain-of-Thought Prompting for Multi-Agent LLM Systems: A Comprehensive Approach to Explainable Large Language Models**|Manish Sanwal et.al.|[2501.18645](http://arxiv.org/abs/2501.18645)|null|
+|**2025-01-27**|**Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare**|Hang Zhang et.al.|[2501.18632](http://arxiv.org/abs/2501.18632)|null|
 |**2025-01-30**|**GENIE: Generative Note Information Extraction model for structuring EHR data**|Huaiyuan Ying et.al.|[2501.18435](http://arxiv.org/abs/2501.18435)|null|
 |**2025-01-30**|**Battery State of Health Estimation Using LLM Framework**|Aybars Yunusoglu et.al.|[2501.18123](http://arxiv.org/abs/2501.18123)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
@@ -1253,9 +1257,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Towards Adaptive Self-Improvement for Smarter Energy Systems**|Alexander Sommer et.al.|[2501.19340](http://arxiv.org/abs/2501.19340)|null|
+|**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337](http://arxiv.org/abs/2501.19337)|null|
+|**2025-01-31**|**Offline Learning for Combinatorial Multi-armed Bandits**|Xutong Liu et.al.|[2501.19300](http://arxiv.org/abs/2501.19300)|null|
+|**2025-01-31**|**Poison as Cure: Visual Noise for Mitigating Object Hallucinations in LVMs**|Kejia Zhang et.al.|[2501.19164](http://arxiv.org/abs/2501.19164)|null|
+|**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012](http://arxiv.org/abs/2501.19012)|null|
+|**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
 |**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
-|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-29**|**Large Language Models Think Too Fast To Explore Effectively**|Lan Pan et.al.|[2501.18009](http://arxiv.org/abs/2501.18009)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-01-29**|**Semantic Consistency Regularization with Large Language Models for Semi-supervised Sentiment Analysis**|Kunrong Li et.al.|[2501.17598](http://arxiv.org/abs/2501.17598)|null|
