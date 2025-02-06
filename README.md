@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**MeDiSumQA: Patient-Oriented Question-Answer Generation from Discharge Letters**|Amin Dada et.al.|[2502.03298](http://arxiv.org/abs/2502.03298)|null|
+|**2025-02-05**|**MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation**|Seonok Kim et.al.|[2502.03004](http://arxiv.org/abs/2502.03004)|null|
+|**2025-02-05**|**CAMI: A Counselor Agent Supporting Motivational Interviewing through State Inference and Topic Exploration**|Yizhe Yang et.al.|[2502.02807](http://arxiv.org/abs/2502.02807)|null|
 |**2025-02-04**|**Conversation AI Dialog for Medicare powered by Finetuning and Retrieval Augmented Generation**|Atharva Mangeshkumar Agrawal et.al.|[2502.02249](http://arxiv.org/abs/2502.02249)|null|
 |**2025-02-02**|**Agent-Based Uncertainty Awareness Improves Automated Radiology Report Labeling with an Open-Source Large Language Model**|Hadas Ben-Atya et.al.|[2502.01691](http://arxiv.org/abs/2502.01691)|null|
 |**2025-02-03**|**OphthBench: A Comprehensive Benchmark for Evaluating Large Language Models in Chinese Ophthalmology**|Chengfeng Zhou et.al.|[2502.01243](http://arxiv.org/abs/2502.01243)|null|
@@ -25,7 +28,7 @@
 |**2025-02-02**|**Generalization of Medical Large Language Models through Cross-Domain Weak Supervision**|Robert Long et.al.|[2502.00832](http://arxiv.org/abs/2502.00832)|null|
 |**2025-01-31**|**Fairshare Data Pricing for Large Language Models**|Luyang Zhang et.al.|[2502.00198](http://arxiv.org/abs/2502.00198)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196](http://arxiv.org/abs/2502.00196)|null|
-|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
 |**2025-01-30**|**A Multi-Layered Large Language Model Framework for Disease Prediction**|Malak Mohamed et.al.|[2502.00063](http://arxiv.org/abs/2502.00063)|null|
 |**2025-01-21**|**Leveraging Large Language Models to Enhance Machine Learning Interpretability and Predictive Performance: A Case Study on Emergency Department Returns for Mental Health Patients**|Abdulaziz Ahmed et.al.|[2502.00025](http://arxiv.org/abs/2502.00025)|null|
 |**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
@@ -1267,6 +1270,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
+|**2025-02-05**|**SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs**|Ben Liu et.al.|[2502.03283](http://arxiv.org/abs/2502.03283)|null|
+|**2025-02-05**|**Improve Decoding Factuality by Token-wise Cross Layer Entropy of Large Language Models**|Jialiang Wu et.al.|[2502.03199](http://arxiv.org/abs/2502.03199)|null|
+|**2025-02-05**|**IAO Prompting: Making Knowledge Flow Explicit in LLMs through Structured Reasoning Templates**|Aissatou Diallo et.al.|[2502.03080](http://arxiv.org/abs/2502.03080)|null|
+|**2025-02-04**|**An Analysis of LLM Fine-Tuning and Few-Shot Learning for Flaky Test Detection and Classification**|Riddhi More et.al.|[2502.02715](http://arxiv.org/abs/2502.02715)|null|
 |**2025-02-04**|**EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization**|Yize Wu et.al.|[2502.02493](http://arxiv.org/abs/2502.02493)|null|
 |**2025-02-04**|**Activation-Informed Merging of Large Language Models**|Amin Heyrani Nobari et.al.|[2502.02421](http://arxiv.org/abs/2502.02421)|**[link](https://github.com/ahnobari/ActivationInformedMerging)**|
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[2502.02025](http://arxiv.org/abs/2502.02025)|null|
