@@ -1302,7 +1302,7 @@ layout: default
 |**2025-02-01**|**Benchmark on Peer Review Toxic Detection: A Challenging Task with a New Dataset**|Man Luo et.al.|[2502.01676](http://arxiv.org/abs/2502.01676)|null|
 |**2025-02-03**|**CondAmbigQA: A Benchmark and Dataset for Conditional Ambiguous Question Answering**|Zongxi Li et.al.|[2502.01523](http://arxiv.org/abs/2502.01523)|null|
 |**2025-02-03**|**Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**|Gaole He et.al.|[2502.01390](http://arxiv.org/abs/2502.01390)|null|
-|**2025-02-03**|**PSSD: Making Large Language Models Self-denial via Human Psyche Structure**|Jinzhi Liao et.al.|[2502.01344](http://arxiv.org/abs/2502.01344)|null|
+|**2025-02-03**|**PSSD: Making Large Language Models Self-denial via Human Psyche Structure**|Jinzhi Liao et.al.|[2502.01344](http://arxiv.org/abs/2502.01344)|**[link](https://github.com/liaozenghua/pssd)**|
 |**2025-02-03**|**Human-Agent Interaction in Synthetic Social Networks: A Framework for Studying Online Polarization**|Tim Donkers et.al.|[2502.01340](http://arxiv.org/abs/2502.01340)|null|
 |**2025-02-03**|**DeepRAG: Thinking to Retrieval Step by Step for Large Language Models**|Xinyan Guan et.al.|[2502.01142](http://arxiv.org/abs/2502.01142)|null|
 |**2025-02-03**|**Picky LLMs and Unreliable RMs: An Empirical Study on Safety Alignment after Instruction Tuning**|Guanlin Li et.al.|[2502.01116](http://arxiv.org/abs/2502.01116)|null|
@@ -1315,7 +1315,7 @@ layout: default
 |**2025-02-01**|**Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**|Zhi Zhou et.al.|[2502.00511](http://arxiv.org/abs/2502.00511)|null|
 |**2025-02-01**|**Estimating LLM Uncertainty with Logits**|Huan Ma et.al.|[2502.00290](http://arxiv.org/abs/2502.00290)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196](http://arxiv.org/abs/2502.00196)|null|
-|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|**[link](https://github.com/goodevening13/aquakv)**|
 |**2025-01-31**|**Towards Adaptive Self-Improvement for Smarter Energy Systems**|Alexander Sommer et.al.|[2501.19340](http://arxiv.org/abs/2501.19340)|null|
 |**2025-01-31**|**Homogeneity Bias as Differential Sampling Uncertainty in Language Models**|Messi H. J. Lee et.al.|[2501.19337](http://arxiv.org/abs/2501.19337)|null|
 |**2025-01-31**|**Offline Learning for Combinatorial Multi-armed Bandits**|Xutong Liu et.al.|[2501.19300](http://arxiv.org/abs/2501.19300)|null|
