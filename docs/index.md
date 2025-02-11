@@ -22,6 +22,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Automatic Evaluation of Healthcare LLMs Beyond Question-Answering**|Anna Arias-Duart et.al.|[2502.06666](http://arxiv.org/abs/2502.06666)|null|
+|**2025-02-10**|**Scaling Public Health Text Annotation: Zero-Shot Learning vs. Crowdsourcing for Improved Efficiency and Labeling Accuracy**|Kamyar Kazari et.al.|[2502.06150](http://arxiv.org/abs/2502.06150)|null|
+|**2025-02-09**|**HamRaz: A Culture-Based Persian Conversation Dataset for Person-Centered Therapy Using LLM Agents**|Mohammad Amin Abbasi et.al.|[2502.05982](http://arxiv.org/abs/2502.05982)|null|
+|**2025-02-09**|**A Generative Framework for Bidirectional Image-Report Understanding in Chest Radiography**|Nicholas Evans et.al.|[2502.05926](http://arxiv.org/abs/2502.05926)|null|
+|**2025-02-09**|**Enhancing Depression Detection with Chain-of-Thought Prompting: From Emotion to Reasoning Using Large Language Models**|Shiyu Teng et.al.|[2502.05879](http://arxiv.org/abs/2502.05879)|null|
+|**2025-02-09**|**Large Language Model-based Nonnegative Matrix Factorization For Cardiorespiratory Sound Separation**|Yasaman Torabi et.al.|[2502.05757](http://arxiv.org/abs/2502.05757)|null|
+|**2025-02-09**|**RECOVER: Designing a Large Language Model-based Remote Patient Monitoring System for Postoperative Gastrointestinal Cancer Care**|Ziqi Yang et.al.|[2502.05740](http://arxiv.org/abs/2502.05740)|null|
+|**2025-02-08**|**KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy**|Hyunjong Kim et.al.|[2502.05651](http://arxiv.org/abs/2502.05651)|null|
+|**2025-02-08**|**ELMTEX: Fine-Tuning Large Language Models for Structured Clinical Information Extraction. A Case Study on Clinical Reports**|Aynur Guluzade et.al.|[2502.05638](http://arxiv.org/abs/2502.05638)|**[link](https://gitlab.cc-asp.fraunhofer.de/health-open/elmtex)**|
+|**2025-02-08**|**OntoTune: Ontology-Driven Self-training for Aligning Large Language Models**|Zhiqiang Liu et.al.|[2502.05478](http://arxiv.org/abs/2502.05478)|null|
+|**2025-02-02**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
 |**2025-02-07**|**"It Felt Like I Was Left in the Dark": Exploring Information Needs and Design Opportunities for Family Caregivers of Older Adult Patients in Critical Care Settings**|Shihan Fu et.al.|[2502.05115](http://arxiv.org/abs/2502.05115)|null|
 |**2025-02-07**|**Enhancing Health Information Retrieval with RAG by Prioritizing Topical Relevance and Factual Accuracy**|Rishabh Uapadhyay et.al.|[2502.04666](http://arxiv.org/abs/2502.04666)|null|
 |**2025-02-05**|**Limitations of Large Language Models in Clinical Problem-Solving Arising from Inflexible Reasoning**|Jonathan Kim et.al.|[2502.04381](http://arxiv.org/abs/2502.04381)|null|
@@ -1279,11 +1290,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|null|
+|**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/abs/2502.06329)|null|
+|**2025-02-10**|**Emergent Response Planning in LLM**|Zhichen Dong et.al.|[2502.06258](http://arxiv.org/abs/2502.06258)|null|
+|**2025-02-10**|**Confidence Improves Self-Consistency in LLMs**|Amir Taubenfeld et.al.|[2502.06233](http://arxiv.org/abs/2502.06233)|null|
+|**2025-02-10**|**Unveiling the Capabilities of Large Language Models in Detecting Offensive Language with Annotation Disagreement**|Junyu Lu et.al.|[2502.06207](http://arxiv.org/abs/2502.06207)|null|
+|**2025-02-10**|**Uncertainty-Aware Adaptation of Large Language Models for Protein-Protein Interaction Analysis**|Sanket Jantre et.al.|[2502.06173](http://arxiv.org/abs/2502.06173)|null|
+|**2025-02-09**|**GRAIT: Gradient-Driven Refusal-Aware Instruction Tuning for Effective Hallucination Mitigation**|Runchuan Zhu et.al.|[2502.05911](http://arxiv.org/abs/2502.05911)|null|
+|**2025-02-09**|**Self-Training Large Language Models for Tool-Use Without Demonstrations**|Ne Luo et.al.|[2502.05867](http://arxiv.org/abs/2502.05867)|null|
+|**2025-02-09**|**Delta - Contrastive Decoding Mitigates Text Hallucinations in Large Language Models**|Cheng Peng Huang et.al.|[2502.05825](http://arxiv.org/abs/2502.05825)|null|
+|**2025-02-09**|**Assessing confidence in frontier AI safety cases**|Stephen Barrett et.al.|[2502.05791](http://arxiv.org/abs/2502.05791)|null|
+|**2025-02-09**|**Visual Text Mining with Progressive Taxonomy Construction for Environmental Studies**|Sam Yu-Te Lee et.al.|[2502.05731](http://arxiv.org/abs/2502.05731)|null|
+|**2025-02-07**|**SEER: Self-Explainability Enhancement of Large Language Models' Representations**|Guanxu Chen et.al.|[2502.05242](http://arxiv.org/abs/2502.05242)|null|
 |**2025-02-07**|**ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework**|Xiaoyu Deng et.al.|[2502.05084](http://arxiv.org/abs/2502.05084)|null|
 |**2025-02-07**|**Aligning Black-box Language Models with Human Judgments**|Gerrit J. J. van den Burg et.al.|[2502.04997](http://arxiv.org/abs/2502.04997)|null|
 |**2025-02-07**|**CoCoA: A Generalized Approach to Uncertainty Quantification by Integrating Confidence and Consistency of LLM Outputs**|Roman Vashurin et.al.|[2502.04964](http://arxiv.org/abs/2502.04964)|null|
 |**2025-02-07**|**Self-Rationalization in the Wild: A Large Scale Out-of-Distribution Evaluation on NLI-related tasks**|Jing Yang et.al.|[2502.04797](http://arxiv.org/abs/2502.04797)|null|
-|**2025-02-07**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643](http://arxiv.org/abs/2502.04643)|null|
+|**2025-02-10**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643](http://arxiv.org/abs/2502.04643)|null|
 |**2025-02-06**|**TruthFlow: Truthful LLM Generation via Representation Flow Correction**|Hanyu Wang et.al.|[2502.04556](http://arxiv.org/abs/2502.04556)|null|
 |**2025-02-06**|**Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization**|Yu-Neng Chuang et.al.|[2502.04428](http://arxiv.org/abs/2502.04428)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
@@ -1296,7 +1319,7 @@ layout: default
 |**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
 |**2025-02-06**|**Syntriever: How to Train Your Retriever with Synthetic Data from LLMs**|Minsang Kim et.al.|[2502.03824](http://arxiv.org/abs/2502.03824)|null|
 |**2025-02-06**|**Large Language Models for Multi-Robot Systems: A Survey**|Peihan Li et.al.|[2502.03814](http://arxiv.org/abs/2502.03814)|null|
-|**2025-02-06**|**Enhancing Hallucination Detection through Noise Injection**|Litian Liu et.al.|[2502.03799](http://arxiv.org/abs/2502.03799)|null|
+|**2025-02-08**|**Enhancing Hallucination Detection through Noise Injection**|Litian Liu et.al.|[2502.03799](http://arxiv.org/abs/2502.03799)|null|
 |**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-06**|**MultiQ&A: An Analysis in Measuring Robustness via Automated Crowdsourcing of Question Perturbations and Answers**|Nicole Cho et.al.|[2502.03711](http://arxiv.org/abs/2502.03711)|null|
