@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Beyond Prompting: Time2Lang -- Bridging Time-Series Foundation Models and Large Language Models for Health Sensing**|Arvind Pillai et.al.|[2502.07608](http://arxiv.org/abs/2502.07608)|null|
+|**2025-02-11**|**Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning**|Jiayuan Zhu et.al.|[2502.07143](http://arxiv.org/abs/2502.07143)|null|
+|**2025-02-10**|**Interactive Data Harmonization with LLM Agents**|Aécio Santos et.al.|[2502.07132](http://arxiv.org/abs/2502.07132)|null|
+|**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
+|**2025-02-06**|**Integrating Generative Artificial Intelligence in ADRD: A Framework for Streamlining Diagnosis and Care in Neurodegenerative Diseases**|Andrew G. Breithaupt et.al.|[2502.06842](http://arxiv.org/abs/2502.06842)|null|
+|**2025-02-04**|**Diffusion Instruction Tuning**|Chen Jin et.al.|[2502.06814](http://arxiv.org/abs/2502.06814)|null|
 |**2025-02-10**|**Automatic Evaluation of Healthcare LLMs Beyond Question-Answering**|Anna Arias-Duart et.al.|[2502.06666](http://arxiv.org/abs/2502.06666)|null|
 |**2025-02-10**|**Scaling Public Health Text Annotation: Zero-Shot Learning vs. Crowdsourcing for Improved Efficiency and Labeling Accuracy**|Kamyar Kazari et.al.|[2502.06150](http://arxiv.org/abs/2502.06150)|null|
 |**2025-02-09**|**HamRaz: A Culture-Based Persian Conversation Dataset for Person-Centered Therapy Using LLM Agents**|Mohammad Amin Abbasi et.al.|[2502.05982](http://arxiv.org/abs/2502.05982)|null|
@@ -1288,7 +1294,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|null|
+|**2025-02-11**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|null|
+|**2025-02-11**|**When More is Less: Understanding Chain-of-Thought Length in LLMs**|Yuyang Wu et.al.|[2502.07266](http://arxiv.org/abs/2502.07266)|null|
+|**2025-02-11**|**Perceived Confidence Scoring for Data Annotation with Zero-Shot LLMs**|Sina Salimian et.al.|[2502.07186](http://arxiv.org/abs/2502.07186)|null|
+|**2025-02-11**|**Refine Knowledge of Large Language Models via Adaptive Contrastive Learning**|Yinghui Li et.al.|[2502.07184](http://arxiv.org/abs/2502.07184)|null|
+|**2025-02-11**|**Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning**|Feng Chen et.al.|[2502.07154](http://arxiv.org/abs/2502.07154)|null|
+|**2025-02-11**|**Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning**|Jiayuan Zhu et.al.|[2502.07143](http://arxiv.org/abs/2502.07143)|null|
+|**2025-02-08**|**Learning Conformal Abstention Policies for Adaptive Risk Management in Large Language and Vision-Language Models**|Sina Tayebati et.al.|[2502.06884](http://arxiv.org/abs/2502.06884)|null|
+|**2025-02-08**|**Group Reasoning Emission Estimation Networks**|Yanming Guo et.al.|[2502.06874](http://arxiv.org/abs/2502.06874)|null|
+|**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|null|
+|**2025-02-07**|**LLM-Supported Natural Language to Bash Translation**|Finnian Westenfelder et.al.|[2502.06858](http://arxiv.org/abs/2502.06858)|**[link](https://github.com/westenfelder/NL2SH)**|
+|**2025-02-11**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|null|
 |**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/abs/2502.06329)|null|
 |**2025-02-10**|**Emergent Response Planning in LLM**|Zhichen Dong et.al.|[2502.06258](http://arxiv.org/abs/2502.06258)|null|
 |**2025-02-10**|**Confidence Improves Self-Consistency in LLMs**|Amir Taubenfeld et.al.|[2502.06233](http://arxiv.org/abs/2502.06233)|null|
@@ -1302,13 +1318,13 @@
 |**2025-02-07**|**SEER: Self-Explainability Enhancement of Large Language Models' Representations**|Guanxu Chen et.al.|[2502.05242](http://arxiv.org/abs/2502.05242)|null|
 |**2025-02-07**|**ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework**|Xiaoyu Deng et.al.|[2502.05084](http://arxiv.org/abs/2502.05084)|null|
 |**2025-02-07**|**Aligning Black-box Language Models with Human Judgments**|Gerrit J. J. van den Burg et.al.|[2502.04997](http://arxiv.org/abs/2502.04997)|null|
-|**2025-02-07**|**CoCoA: A Generalized Approach to Uncertainty Quantification by Integrating Confidence and Consistency of LLM Outputs**|Roman Vashurin et.al.|[2502.04964](http://arxiv.org/abs/2502.04964)|null|
+|**2025-02-11**|**CoCoA: A Generalized Approach to Uncertainty Quantification by Integrating Confidence and Consistency of LLM Outputs**|Roman Vashurin et.al.|[2502.04964](http://arxiv.org/abs/2502.04964)|null|
 |**2025-02-07**|**Self-Rationalization in the Wild: A Large Scale Out-of-Distribution Evaluation on NLI-related tasks**|Jing Yang et.al.|[2502.04797](http://arxiv.org/abs/2502.04797)|null|
 |**2025-02-10**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643](http://arxiv.org/abs/2502.04643)|null|
 |**2025-02-06**|**TruthFlow: Truthful LLM Generation via Representation Flow Correction**|Hanyu Wang et.al.|[2502.04556](http://arxiv.org/abs/2502.04556)|null|
 |**2025-02-06**|**Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization**|Yu-Neng Chuang et.al.|[2502.04428](http://arxiv.org/abs/2502.04428)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
-|**2025-02-06**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
+|**2025-02-11**|**Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing**|Kunfeng Lai et.al.|[2502.04411](http://arxiv.org/abs/2502.04411)|null|
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405](http://arxiv.org/abs/2502.04405)|null|
 |**2025-02-05**|**Limitations of Large Language Models in Clinical Problem-Solving Arising from Inflexible Reasoning**|Jonathan Kim et.al.|[2502.04381](http://arxiv.org/abs/2502.04381)|null|
 |**2025-02-05**|**MARAGE: Transferable Multi-Model Adversarial Attack for Retrieval-Augmented Generation Data Extraction**|Xiao Hu et.al.|[2502.04360](http://arxiv.org/abs/2502.04360)|null|
@@ -1316,7 +1332,7 @@
 |**2025-02-06**|**Experiments with Large Language Models on Retrieval-Augmented Generation for Closed-Source Simulation Software**|Andreas Baumann et.al.|[2502.03916](http://arxiv.org/abs/2502.03916)|null|
 |**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
 |**2025-02-06**|**Syntriever: How to Train Your Retriever with Synthetic Data from LLMs**|Minsang Kim et.al.|[2502.03824](http://arxiv.org/abs/2502.03824)|null|
-|**2025-02-06**|**Large Language Models for Multi-Robot Systems: A Survey**|Peihan Li et.al.|[2502.03814](http://arxiv.org/abs/2502.03814)|null|
+|**2025-02-10**|**Large Language Models for Multi-Robot Systems: A Survey**|Peihan Li et.al.|[2502.03814](http://arxiv.org/abs/2502.03814)|null|
 |**2025-02-08**|**Enhancing Hallucination Detection through Noise Injection**|Litian Liu et.al.|[2502.03799](http://arxiv.org/abs/2502.03799)|null|
 |**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
