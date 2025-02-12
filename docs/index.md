@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -50,7 +50,7 @@ layout: default
 |**2025-02-02**|**Generalization of Medical Large Language Models through Cross-Domain Weak Supervision**|Robert Long et.al.|[2502.00832](http://arxiv.org/abs/2502.00832)|null|
 |**2025-01-31**|**Fairshare Data Pricing for Large Language Models**|Luyang Zhang et.al.|[2502.00198](http://arxiv.org/abs/2502.00198)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196](http://arxiv.org/abs/2502.00196)|null|
-|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|**[link](https://github.com/mbzuai-oryx/AIN)**|
 |**2025-01-30**|**A Multi-Layered Large Language Model Framework for Disease Prediction**|Malak Mohamed et.al.|[2502.00063](http://arxiv.org/abs/2502.00063)|null|
 |**2025-01-21**|**Leveraging Large Language Models to Enhance Machine Learning Interpretability and Predictive Performance: A Case Study on Emergency Department Returns for Mental Health Patients**|Abdulaziz Ahmed et.al.|[2502.00025](http://arxiv.org/abs/2502.00025)|null|
 |**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
@@ -1342,7 +1342,7 @@ layout: default
 |**2025-02-02**|**LIBRA: Measuring Bias of Large Language Model from a Local Context**|Bo Pang et.al.|[2502.01679](http://arxiv.org/abs/2502.01679)|null|
 |**2025-02-01**|**Benchmark on Peer Review Toxic Detection: A Challenging Task with a New Dataset**|Man Luo et.al.|[2502.01676](http://arxiv.org/abs/2502.01676)|null|
 |**2025-02-03**|**CondAmbigQA: A Benchmark and Dataset for Conditional Ambiguous Question Answering**|Zongxi Li et.al.|[2502.01523](http://arxiv.org/abs/2502.01523)|null|
-|**2025-02-03**|**Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**|Gaole He et.al.|[2502.01390](http://arxiv.org/abs/2502.01390)|null|
+|**2025-02-03**|**Plan-Then-Execute: An Empirical Study of User Trust and Team Performance When Using LLM Agents As A Daily Assistant**|Gaole He et.al.|[2502.01390](http://arxiv.org/abs/2502.01390)|**[link](https://github.com/richardhgl/chi2025_plan-then-execute_llmagent)**|
 |**2025-02-03**|**PSSD: Making Large Language Models Self-denial via Human Psyche Structure**|Jinzhi Liao et.al.|[2502.01344](http://arxiv.org/abs/2502.01344)|**[link](https://github.com/liaozenghua/pssd)**|
 |**2025-02-03**|**Human-Agent Interaction in Synthetic Social Networks: A Framework for Studying Online Polarization**|Tim Donkers et.al.|[2502.01340](http://arxiv.org/abs/2502.01340)|null|
 |**2025-02-03**|**DeepRAG: Thinking to Retrieval Step by Step for Large Language Models**|Xinyan Guan et.al.|[2502.01142](http://arxiv.org/abs/2502.01142)|null|
