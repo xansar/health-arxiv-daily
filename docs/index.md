@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|null|
+|**2025-02-13**|**Improving TCM Question Answering through Tree-Organized Self-Reflective Retrieval with LLMs**|Chang Liu et.al.|[2502.09156](http://arxiv.org/abs/2502.09156)|null|
+|**2025-02-13**|**Hope vs. Hate: Understanding User Interactions with LGBTQ+ News Content in Mainstream US News Media through the Lens of Hope Speech**|Jonathan Pofcher et.al.|[2502.09004](http://arxiv.org/abs/2502.09004)|null|
+|**2025-02-13**|**Medicine on the Edge: Comparative Performance Analysis of On-Device LLMs for Clinical Reasoning**|Leon Nissen et.al.|[2502.08954](http://arxiv.org/abs/2502.08954)|null|
+|**2025-02-12**|**Assessing the Impact of the Quality of Textual Data on Feature Representation and Machine Learning Models**|Tabinda Sarwar et.al.|[2502.08669](http://arxiv.org/abs/2502.08669)|null|
 |**2025-02-12**|**SycEval: Evaluating LLM Sycophancy**|Aaron Fanous et.al.|[2502.08177](http://arxiv.org/abs/2502.08177)|null|
 |**2025-02-12**|**Large language models perpetuate bias in palliative care: development and analysis of the Palliative Care Adversarial Dataset (PCAD)**|Naomi Akhras et.al.|[2502.08073](http://arxiv.org/abs/2502.08073)|null|
 |**2025-02-11**|**Caught in the Web of Words: Do LLMs Fall for Spin in Medical Literature?**|Hye Sun Yun et.al.|[2502.07963](http://arxiv.org/abs/2502.07963)|null|
@@ -1299,6 +1304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**LP-LM: No Hallucinations in Question Answering with Logic Programming**|Katherine Wu et.al.|[2502.09212](http://arxiv.org/abs/2502.09212)|null|
+|**2025-02-13**|**Logical Lease Litigation: Prolog and LLMs for Rental Law Compliance in New York**|Sanskar Sehgal et.al.|[2502.09204](http://arxiv.org/abs/2502.09204)|null|
+|**2025-02-13**|**Enhancing RAG with Active Learning on Conversation Records: Reject Incapables and Answer Capables**|Xuzhao Geng et.al.|[2502.09073](http://arxiv.org/abs/2502.09073)|null|
+|**2025-02-13**|**Self-Consistency of the Internal Reward Models Improves Self-Rewarding Language Models**|Xin Zhou et.al.|[2502.08922](http://arxiv.org/abs/2502.08922)|null|
+|**2025-02-13**|**MIH-TCCT: Mitigating Inconsistent Hallucinations in LLMs via Event-Driven Text-Code Cyclic Training**|Xinxin You et.al.|[2502.08904](http://arxiv.org/abs/2502.08904)|null|
+|**2025-02-12**|**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**|Mohammad Mahdi Abootorabi et.al.|[2502.08826](http://arxiv.org/abs/2502.08826)|null|
+|**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
+|**2025-02-10**|**Hallucination Detection: A Probabilistic Framework Using Embeddings Distance Analysis**|Emanuele Ricco et.al.|[2502.08663](http://arxiv.org/abs/2502.08663)|null|
+|**2025-02-09**|**Few-shot_LLM_Synthetic_Data_with_Distribution_Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
+|**2025-02-08**|**Refining Positive and Toxic Samples for Dual Safety Self-Alignment of LLMs with Minimal Human Interventions**|Jingxin Xu et.al.|[2502.08657](http://arxiv.org/abs/2502.08657)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
 |**2025-02-12**|**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding**|Konstantin Berestizshevsky et.al.|[2502.08363](http://arxiv.org/abs/2502.08363)|**[link](https://github.com/kostyanoob/top-theta-attention)**|
 |**2025-02-12**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
