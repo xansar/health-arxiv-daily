@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1325,7 +1325,7 @@ layout: default
 |**2025-02-11**|**From Hazard Identification to Controller Design: Proactive and LLM-Supported Safety Engineering for ML-Powered Systems**|Yining Hong et.al.|[2502.07974](http://arxiv.org/abs/2502.07974)|null|
 |**2025-02-11**|**Elevating Legal LLM Responses: Harnessing Trainable Logical Structures and Semantic Knowledge with Legal Reasoning**|Rujing Yao et.al.|[2502.07912](http://arxiv.org/abs/2502.07912)|null|
 |**2025-02-11**|**Bridging LLM-Generated Code and Requirements: Reverse Generation technique and SBC Metric for Developer Insights**|Ahilan Ayyachamy Nadar Ponnusamy et.al.|[2502.07835](http://arxiv.org/abs/2502.07835)|null|
-|**2025-02-11**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|null|
+|**2025-02-11**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|**[link](https://github.com/S1s-Z/NOVA)**|
 |**2025-02-11**|**When More is Less: Understanding Chain-of-Thought Length in LLMs**|Yuyang Wu et.al.|[2502.07266](http://arxiv.org/abs/2502.07266)|null|
 |**2025-02-11**|**Perceived Confidence Scoring for Data Annotation with Zero-Shot LLMs**|Sina Salimian et.al.|[2502.07186](http://arxiv.org/abs/2502.07186)|null|
 |**2025-02-11**|**Refine Knowledge of Large Language Models via Adaptive Contrastive Learning**|Yinghui Li et.al.|[2502.07184](http://arxiv.org/abs/2502.07184)|null|
@@ -1333,7 +1333,7 @@ layout: default
 |**2025-02-11**|**Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning**|Jiayuan Zhu et.al.|[2502.07143](http://arxiv.org/abs/2502.07143)|null|
 |**2025-02-08**|**Learning Conformal Abstention Policies for Adaptive Risk Management in Large Language and Vision-Language Models**|Sina Tayebati et.al.|[2502.06884](http://arxiv.org/abs/2502.06884)|**[link](https://github.com/sinatayebati/vlm-uncertainty)**|
 |**2025-02-08**|**Group Reasoning Emission Estimation Networks**|Yanming Guo et.al.|[2502.06874](http://arxiv.org/abs/2502.06874)|null|
-|**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|null|
+|**2025-02-08**|**Knowledge Graph-Guided Retrieval Augmented Generation**|Xiangrong Zhu et.al.|[2502.06864](http://arxiv.org/abs/2502.06864)|**[link](https://github.com/nju-websoft/KG2RAG)**|
 |**2025-02-07**|**LLM-Supported Natural Language to Bash Translation**|Finnian Westenfelder et.al.|[2502.06858](http://arxiv.org/abs/2502.06858)|**[link](https://github.com/westenfelder/NL2SH)**|
 |**2025-02-11**|**Calibrating LLMs with Information-Theoretic Evidential Deep Learning**|Yawei Li et.al.|[2502.06351](http://arxiv.org/abs/2502.06351)|**[link](https://github.com/sandylaker/ib-edl)**|
 |**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/abs/2502.06329)|null|
