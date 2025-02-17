@@ -104,7 +104,7 @@
 |**2025-01-23**|**How to Complete Domain Tuning while Keeping General Ability in LLM: Adaptive Layer-wise and Element-wise Regularization**|Shezheng Song et.al.|[2501.13669](http://arxiv.org/abs/2501.13669)|null|
 |**2025-01-20**|**Multilinguality in LLM-Designed Reward Functions for Restless Bandits: Effects on Task Performance and Fairness**|Ambreesh Parthasarathy et.al.|[2501.13120](http://arxiv.org/abs/2501.13120)|null|
 |**2025-01-21**|**Can open source large language models be used for tumor documentation in Germany? -- An evaluation on urological doctors' notes**|Stefan Lenz et.al.|[2501.12106](http://arxiv.org/abs/2501.12106)|**[link](https://github.com/stefan-m-lenz/urollmeval)**|
-|**2025-01-23**|**Med-R $^2$ : Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885](http://arxiv.org/abs/2501.11885)|null|
+|**2025-01-23**|**Med-R $^2$ : Crafting Trustworthy LLM Physicians through Retrieval and Reasoning of Evidence-Based Medicine**|Keer Lu et.al.|[2501.11885](http://arxiv.org/abs/2501.11885)|**[link](https://github.com/8023looker/med-rr)**|
 |**2025-01-19**|**Clinical trial cohort selection using Large Language Models on n2c2 Challenges**|Chi-en Amy Tai et.al.|[2501.11114](http://arxiv.org/abs/2501.11114)|null|
 |**2025-01-18**|**Iterative Tree Analysis for Medical Critics**|Zenan Huang et.al.|[2501.10642](http://arxiv.org/abs/2501.10642)|null|
 |**2025-01-17**|**Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education**|William Hersh et.al.|[2501.10186](http://arxiv.org/abs/2501.10186)|null|
@@ -997,7 +997,7 @@
 |**2024-03-16**|**LLM-based Conversational AI Therapist for Daily Functioning Screening and Psychotherapeutic Intervention via Everyday Smart Devices**|Jingping Nie et.al.|[2403.10779](http://arxiv.org/abs/2403.10779)|null|
 |**2024-03-16**|**Depression Detection on Social Media with Large Language Models**|Xiaochong Lan et.al.|[2403.10750](http://arxiv.org/abs/2403.10750)|null|
 |**2024-03-15**|**Neural Erosion: Emulating Controlled Neurodegeneration and Aging in AI Systems**|Antonios Alexos et.al.|[2403.10596](http://arxiv.org/abs/2403.10596)|null|
-|**2024-03-22**|**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**|Chen Chen et.al.|[2403.10581](http://arxiv.org/abs/2403.10581)|null|
+|**2024-03-22**|**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**|Chen Chen et.al.|[2403.10581](http://arxiv.org/abs/2403.10581)|**[link](https://github.com/cherise215/LLM-ECG-Dual-Attention)**|
 |**2024-03-15**|**Trusting the Search: Unraveling Human Trust in Health Information from Google and ChatGPT**|Xin Sun et.al.|[2403.09987](http://arxiv.org/abs/2403.09987)|null|
 |**2024-03-08**|**A Novel Nuanced Conversation Evaluation Framework for Large Language Models in Mental Health**|Alexander Marrapese et.al.|[2403.09705](http://arxiv.org/abs/2403.09705)|null|
 |**2024-03-14**|**Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge**|Li Yizhen et.al.|[2403.09164](http://arxiv.org/abs/2403.09164)|null|
@@ -1392,10 +1392,10 @@
 |**2025-02-03**|**Picky LLMs and Unreliable RMs: An Empirical Study on Safety Alignment after Instruction Tuning**|Guanlin Li et.al.|[2502.01116](http://arxiv.org/abs/2502.01116)|null|
 |**2025-02-03**|**ChartCitor: Multi-Agent Framework for Fine-Grained Chart Visual Attribution**|Kanika Goswami et.al.|[2502.00989](http://arxiv.org/abs/2502.00989)|null|
 |**2025-02-03**|**Context-Aware Hierarchical Merging for Long Document Summarization**|Litu Ou et.al.|[2502.00977](http://arxiv.org/abs/2502.00977)|null|
-|**2025-02-02**|**Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications**|Yixin Wu et.al.|[2502.00808](http://arxiv.org/abs/2502.00808)|null|
+|**2025-02-02**|**Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications**|Yixin Wu et.al.|[2502.00808](http://arxiv.org/abs/2502.00808)|**[link](https://github.com/trustairlab/synthetic_artifact_auditing)**|
 |**2025-02-02**|**Generative AI for Analyzing Participatory Rural Appraisal Data: An Exploratory Case Study in Gender Research**|Srividya Sheshadri et.al.|[2502.00763](http://arxiv.org/abs/2502.00763)|null|
 |**2025-02-02**|**MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction**|Chao Wang et.al.|[2502.00717](http://arxiv.org/abs/2502.00717)|null|
-|**2025-02-01**|**Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation**|Stuart Armstrong et.al.|[2502.00580](http://arxiv.org/abs/2502.00580)|null|
+|**2025-02-01**|**Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation**|Stuart Armstrong et.al.|[2502.00580](http://arxiv.org/abs/2502.00580)|**[link](https://github.com/alignedai/DATDP)**|
 |**2025-02-01**|**Bridging Internal Probability and Self-Consistency for Effective and Efficient LLM Reasoning**|Zhi Zhou et.al.|[2502.00511](http://arxiv.org/abs/2502.00511)|null|
 |**2025-02-01**|**Estimating LLM Uncertainty with Logits**|Huan Ma et.al.|[2502.00290](http://arxiv.org/abs/2502.00290)|null|
 |**2025-01-31**|**DermaSynth: Rich Synthetic Image-Text Pairs Using Open Access Dermatology Datasets**|Abdurrahim Yilmaz et.al.|[2502.00196](http://arxiv.org/abs/2502.00196)|null|
