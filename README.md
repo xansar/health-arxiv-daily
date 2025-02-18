@@ -18,9 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-14**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|null|
+|**2025-02-17**|**Exploring Large Language Models in Healthcare: Insights into Corpora Sources, Customization Strategies, and Evaluation Metrics**|Shuqi Yang et.al.|[2502.11861](http://arxiv.org/abs/2502.11861)|null|
+|**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|null|
+|**2025-02-17**|**CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation**|Guangya Yu et.al.|[2502.11703](http://arxiv.org/abs/2502.11703)|null|
+|**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|null|
+|**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
+|**2025-02-16**|**A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions**|Hongbin Na et.al.|[2502.11095](http://arxiv.org/abs/2502.11095)|null|
+|**2025-02-16**|**SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information**|Xiangyu Zhang et.al.|[2502.10950](http://arxiv.org/abs/2502.10950)|null|
+|**2025-02-15**|**Developing Conversational Speech Systems for Robots to Detect Speech Biomarkers of Cognition in People Living with Dementia**|Rohith Perumandla et.al.|[2502.10896](http://arxiv.org/abs/2502.10896)|null|
+|**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
+|**2025-02-14**|**Batch-Adaptive Annotations for Causal Inference with Complex-Embedded Outcomes**|Ezinne Nwankwo et.al.|[2502.10605](http://arxiv.org/abs/2502.10605)|null|
+|**2025-02-17**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|null|
 |**2025-02-12**|**Cancer Vaccine Adjuvant Name Recognition from Biomedical Literature using Large Language Models**|Hasin Rehana et.al.|[2502.09659](http://arxiv.org/abs/2502.09659)|null|
-|**2025-02-13**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|**[link](https://github.com/aabarr/Synthetic-Neurosurgical-Data)**|
+|**2025-02-17**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|**[link](https://github.com/aabarr/Synthetic-Neurosurgical-Data)**|
 |**2025-02-13**|**Improving TCM Question Answering through Tree-Organized Self-Reflective Retrieval with LLMs**|Chang Liu et.al.|[2502.09156](http://arxiv.org/abs/2502.09156)|null|
 |**2025-02-13**|**Hope vs. Hate: Understanding User Interactions with LGBTQ+ News Content in Mainstream US News Media through the Lens of Hope Speech**|Jonathan Pofcher et.al.|[2502.09004](http://arxiv.org/abs/2502.09004)|null|
 |**2025-02-13**|**Medicine on the Edge: Comparative Performance Analysis of On-Device LLMs for Clinical Reasoning**|Leon Nissen et.al.|[2502.08954](http://arxiv.org/abs/2502.08954)|**[link](https://github.com/StanfordBDHG/HealthBench)**|
@@ -1304,6 +1315,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
+|**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025](http://arxiv.org/abs/2502.12025)|null|
+|**2025-02-17**|**Navigating the Helpfulness-Truthfulness Trade-Off with Uncertainty-Aware Instruction Fine-Tuning**|Tianyi Wu et.al.|[2502.11962](http://arxiv.org/abs/2502.11962)|null|
+|**2025-02-17**|**Can Your Uncertainty Scores Detect Hallucinated Entity?**|Min-Hsuan Yeh et.al.|[2502.11948](http://arxiv.org/abs/2502.11948)|null|
+|**2025-02-17**|**Cognitive-Aligned Document Selection for Retrieval-augmented Generation**|Bingyu Wan et.al.|[2502.11770](http://arxiv.org/abs/2502.11770)|null|
+|**2025-02-17**|**ReviewEval: An Evaluation Framework for AI-Generated Reviews**|Chavvi Kirtani et.al.|[2502.11736](http://arxiv.org/abs/2502.11736)|null|
+|**2025-02-17**|**Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary Perception**|Shiyu Ni et.al.|[2502.11677](http://arxiv.org/abs/2502.11677)|null|
+|**2025-02-17**|**Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation**|Arindam Sharma et.al.|[2502.11620](http://arxiv.org/abs/2502.11620)|null|
+|**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
+|**2025-02-17**|**"Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents**|Rongwu Xu et.al.|[2502.11355](http://arxiv.org/abs/2502.11355)|null|
+|**2025-02-16**|**Smoothing Out Hallucinations: Mitigating LLM Hallucination with Smoothed Knowledge Distillation**|Hieu Nguyen et.al.|[2502.11306](http://arxiv.org/abs/2502.11306)|null|
+|**2025-02-16**|**Uncertainty-Aware Step-wise Verification with Generative Reward Models**|Zihuiwen Ye et.al.|[2502.11250](http://arxiv.org/abs/2502.11250)|null|
+|**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
+|**2025-02-16**|**Uncertainty-Aware Search and Value Models: Mitigating Search Scaling Flaws in LLMs**|Fei Yu et.al.|[2502.11155](http://arxiv.org/abs/2502.11155)|null|
+|**2025-02-16**|**Valuable Hallucinations: Realizable Non-realistic Propositions**|Qiucheng Chen et.al.|[2502.11113](http://arxiv.org/abs/2502.11113)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
+|**2025-02-16**|**Mind the Confidence Gap: Overconfidence, Calibration, and Distractor Effects in Large Language Models**|Prateek Chhikara et.al.|[2502.11028](http://arxiv.org/abs/2502.11028)|null|
+|**2025-02-16**|**Leveraging Uncertainty Estimation for Efficient LLM Routing**|Tuo Zhang et.al.|[2502.11021](http://arxiv.org/abs/2502.11021)|null|
+|**2025-02-16**|**Agentic LLM Framework for Adaptive Decision Discourse**|Antoine Dolant et.al.|[2502.10978](http://arxiv.org/abs/2502.10978)|null|
+|**2025-02-16**|**SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information**|Xiangyu Zhang et.al.|[2502.10950](http://arxiv.org/abs/2502.10950)|null|
+|**2025-02-15**|**Towards Effective Extraction and Evaluation of Factual Claims**|Dasha Metropolitansky et.al.|[2502.10855](http://arxiv.org/abs/2502.10855)|null|
+|**2025-02-15**|**An Empirical Analysis of Uncertainty in Large Language Model Evaluations**|Qiujie Xie et.al.|[2502.10709](http://arxiv.org/abs/2502.10709)|null|
+|**2025-02-15**|**LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization**|Erica Zhang et.al.|[2502.10648](http://arxiv.org/abs/2502.10648)|null|
+|**2025-02-14**|**Post-training an LLM for RAG? Train on Self-Generated Demonstrations**|Matthew Finlayson et.al.|[2502.10596](http://arxiv.org/abs/2502.10596)|null|
+|**2025-02-14**|**Can Large Language Model Agents Balance Energy Systems?**|Xinxing Ren et.al.|[2502.10557](http://arxiv.org/abs/2502.10557)|null|
 |**2025-02-14**|**A novel approach to data generation in generative model**|JaeHong Kim et.al.|[2502.10092](http://arxiv.org/abs/2502.10092)|null|
 |**2025-02-14**|**Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos**|Weirui Ye et.al.|[2502.09886](http://arxiv.org/abs/2502.09886)|null|
 |**2025-02-14**|**Automated Hypothesis Validation with Agentic Sequential Falsifications**|Kexin Huang et.al.|[2502.09858](http://arxiv.org/abs/2502.09858)|null|
@@ -1320,7 +1357,7 @@
 |**2025-02-08**|**Refining Positive and Toxic Samples for Dual Safety Self-Alignment of LLMs with Minimal Human Interventions**|Jingxin Xu et.al.|[2502.08657](http://arxiv.org/abs/2502.08657)|null|
 |**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
 |**2025-02-12**|**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding**|Konstantin Berestizshevsky et.al.|[2502.08363](http://arxiv.org/abs/2502.08363)|**[link](https://github.com/kostyanoob/top-theta-attention)**|
-|**2025-02-12**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
+|**2025-02-17**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
 |**2025-02-12**|**Compromising Honesty and Harmlessness in Language Models via Deception Attacks**|Laurène Vaugrante et.al.|[2502.08301](http://arxiv.org/abs/2502.08301)|null|
 |**2025-02-12**|**Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis**|Changhua Pei et.al.|[2502.08224](http://arxiv.org/abs/2502.08224)|null|
 |**2025-02-12**|**Bridging the Safety Gap: A Guardrail Pipeline for Trustworthy LLM Inferences**|Shanshan Han et.al.|[2502.08142](http://arxiv.org/abs/2502.08142)|null|
@@ -1329,7 +1366,7 @@
 |**2025-02-11**|**From Hazard Identification to Controller Design: Proactive and LLM-Supported Safety Engineering for ML-Powered Systems**|Yining Hong et.al.|[2502.07974](http://arxiv.org/abs/2502.07974)|null|
 |**2025-02-11**|**Elevating Legal LLM Responses: Harnessing Trainable Logical Structures and Semantic Knowledge with Legal Reasoning**|Rujing Yao et.al.|[2502.07912](http://arxiv.org/abs/2502.07912)|null|
 |**2025-02-11**|**Bridging LLM-Generated Code and Requirements: Reverse Generation technique and SBC Metric for Developer Insights**|Ahilan Ayyachamy Nadar Ponnusamy et.al.|[2502.07835](http://arxiv.org/abs/2502.07835)|**[link](https://github.com/AhilanPonnusamy/Reverse-Generation-and-SBC-Metric--Reference-Implementation)**|
-|**2025-02-11**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|**[link](https://github.com/S1s-Z/NOVA)**|
+|**2025-02-17**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|**[link](https://github.com/S1s-Z/NOVA)**|
 |**2025-02-11**|**When More is Less: Understanding Chain-of-Thought Length in LLMs**|Yuyang Wu et.al.|[2502.07266](http://arxiv.org/abs/2502.07266)|null|
 |**2025-02-11**|**Perceived Confidence Scoring for Data Annotation with Zero-Shot LLMs**|Sina Salimian et.al.|[2502.07186](http://arxiv.org/abs/2502.07186)|null|
 |**2025-02-11**|**Refine Knowledge of Large Language Models via Adaptive Contrastive Learning**|Yinghui Li et.al.|[2502.07184](http://arxiv.org/abs/2502.07184)|null|
