@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
+|**2025-02-18**|**An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation**|Mohammad Feli et.al.|[2502.12836](http://arxiv.org/abs/2502.12836)|null|
+|**2025-02-18**|**Baichuan-M1: Pushing the Medical Capability of Large Language Models**|Bingning Wang et.al.|[2502.12671](http://arxiv.org/abs/2502.12671)|null|
+|**2025-02-18**|**Simulating Cooperative Prosocial Behavior with Multi-Agent LLMs: Evidence and Mechanisms for AI Agents to Inform Policy Decisions**|Karthik Sreedhar et.al.|[2502.12504](http://arxiv.org/abs/2502.12504)|null|
+|**2025-02-18**|**USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner**|Mingcong Chen et.al.|[2502.12498](http://arxiv.org/abs/2502.12498)|null|
+|**2025-02-14**|**Leveraging large language models for structured information extraction from pathology reports**|Jeya Balaji Balasubramanian et.al.|[2502.12183](http://arxiv.org/abs/2502.12183)|**[link](https://github.com/jeyabbalas/medical-report-information-extractor)**|
 |**2025-02-17**|**Exploring Large Language Models in Healthcare: Insights into Corpora Sources, Customization Strategies, and Evaluation Metrics**|Shuqi Yang et.al.|[2502.11861](http://arxiv.org/abs/2502.11861)|null|
 |**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|null|
 |**2025-02-17**|**CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation**|Guangya Yu et.al.|[2502.11703](http://arxiv.org/abs/2502.11703)|null|
@@ -1315,6 +1321,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
+|**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055](http://arxiv.org/abs/2502.13055)|null|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-18**|**Trust Me, I'm Wrong: High-Certainty Hallucinations in LLMs**|Adi Simhi et.al.|[2502.12964](http://arxiv.org/abs/2502.12964)|null|
+|**2025-02-18**|**Pitfalls of Scale: Investigating the Inverse Task of Redefinition in Large Language Models**|Elena Stringli et.al.|[2502.12821](http://arxiv.org/abs/2502.12821)|null|
+|**2025-02-18**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-02-18**|**"I know myself better, but not really greatly": Using LLMs to Detect and Explain LLM-Generated Texts**|Jiazhou Ji et.al.|[2502.12743](http://arxiv.org/abs/2502.12743)|null|
+|**2025-02-18**|**R.R.: Unveiling LLM Training Privacy through Recollection and Ranking**|Wenlong Meng et.al.|[2502.12658](http://arxiv.org/abs/2502.12658)|null|
+|**2025-02-18**|**COPU: Conformal Prediction for Uncertainty Quantification in Natural Language Generation**|Sean Wang et.al.|[2502.12601](http://arxiv.org/abs/2502.12601)|null|
+|**2025-02-18**|**EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning**|Xiaoqian Liu et.al.|[2502.12486](http://arxiv.org/abs/2502.12486)|null|
+|**2025-02-18**|**Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking**|Alireza S. Ziabari et.al.|[2502.12470](http://arxiv.org/abs/2502.12470)|null|
+|**2025-02-18**|**MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation**|Yutong Wang et.al.|[2502.12468](http://arxiv.org/abs/2502.12468)|null|
+|**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
 |**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025](http://arxiv.org/abs/2502.12025)|null|
@@ -1330,7 +1351,7 @@
 |**2025-02-16**|**Uncertainty-Aware Step-wise Verification with Generative Reward Models**|Zihuiwen Ye et.al.|[2502.11250](http://arxiv.org/abs/2502.11250)|null|
 |**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
 |**2025-02-16**|**Uncertainty-Aware Search and Value Models: Mitigating Search Scaling Flaws in LLMs**|Fei Yu et.al.|[2502.11155](http://arxiv.org/abs/2502.11155)|null|
-|**2025-02-16**|**Valuable Hallucinations: Realizable Non-realistic Propositions**|Qiucheng Chen et.al.|[2502.11113](http://arxiv.org/abs/2502.11113)|null|
+|**2025-02-18**|**Valuable Hallucinations: Realizable Non-realistic Propositions**|Qiucheng Chen et.al.|[2502.11113](http://arxiv.org/abs/2502.11113)|null|
 |**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
 |**2025-02-16**|**Mind the Confidence Gap: Overconfidence, Calibration, and Distractor Effects in Large Language Models**|Prateek Chhikara et.al.|[2502.11028](http://arxiv.org/abs/2502.11028)|null|
 |**2025-02-16**|**Leveraging Uncertainty Estimation for Efficient LLM Routing**|Tuo Zhang et.al.|[2502.11021](http://arxiv.org/abs/2502.11021)|null|
