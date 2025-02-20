@@ -22,6 +22,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
+|**2025-02-19**|**VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare**|Anudeex Shetty et.al.|[2502.13775](http://arxiv.org/abs/2502.13775)|null|
+|**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
+|**2025-02-19**|**Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion**|Shuai Niu et.al.|[2502.13509](http://arxiv.org/abs/2502.13509)|null|
+|**2025-02-19**|**Enhancing Chest X-ray Classification through Knowledge Injection in Cross-Modality Learning**|Yang Yan et.al.|[2502.13447](http://arxiv.org/abs/2502.13447)|null|
+|**2025-02-19**|**RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering**|Sichu Liang et.al.|[2502.13361](http://arxiv.org/abs/2502.13361)|null|
+|**2025-02-18**|**Elucidating Mechanisms of Demographic Bias in LLMs for Healthcare**|Hiba Ahsan et.al.|[2502.13319](http://arxiv.org/abs/2502.13319)|null|
+|**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
+|**2025-02-18**|**Private Text Generation by Seeding Large Language Model Prompts**|Supriya Nagesh et.al.|[2502.13193](http://arxiv.org/abs/2502.13193)|null|
 |**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
 |**2025-02-18**|**An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation**|Mohammad Feli et.al.|[2502.12836](http://arxiv.org/abs/2502.12836)|null|
 |**2025-02-18**|**Baichuan-M1: Pushing the Medical Capability of Large Language Models**|Bingning Wang et.al.|[2502.12671](http://arxiv.org/abs/2502.12671)|null|
@@ -1323,6 +1332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation**|Song Duong et.al.|[2502.13674](http://arxiv.org/abs/2502.13674)|null|
+|**2025-02-19**|**C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**|Feiye Huo et.al.|[2502.13652](http://arxiv.org/abs/2502.13652)|null|
+|**2025-02-19**|**REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models**|DongGeon Lee et.al.|[2502.13622](http://arxiv.org/abs/2502.13622)|null|
+|**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
+|**2025-02-19**|**LLM4Tag: Automatic Tagging System for Information Retrieval via Large Language Models**|Ruiming Tang et.al.|[2502.13481](http://arxiv.org/abs/2502.13481)|null|
+|**2025-02-19**|**TreeCut: A Synthetic Unanswerable Math Word Problem Dataset for LLM Hallucination Evaluation**|Jialin Ouyang et.al.|[2502.13442](http://arxiv.org/abs/2502.13442)|null|
+|**2025-02-19**|**Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning**|Ningke Li et.al.|[2502.13416](http://arxiv.org/abs/2502.13416)|null|
+|**2025-02-19**|**Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval**|Aditya Sharma et.al.|[2502.13369](http://arxiv.org/abs/2502.13369)|null|
+|**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
+|**2025-02-17**|**Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment**|Yuze Zhao et.al.|[2502.13170](http://arxiv.org/abs/2502.13170)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
 |**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055](http://arxiv.org/abs/2502.13055)|null|
