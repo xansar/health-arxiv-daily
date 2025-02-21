@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|null|
+|**2025-02-20**|**Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning**|Juraj Vladika et.al.|[2502.14765](http://arxiv.org/abs/2502.14765)|null|
+|**2025-02-20**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
+|**2025-02-20**|**FIND: Fine-grained Information Density Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis**|Mingyi Jia et.al.|[2502.14614](http://arxiv.org/abs/2502.14614)|null|
+|**2025-02-20**|**MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models**|Shrey Pandit et.al.|[2502.14302](http://arxiv.org/abs/2502.14302)|null|
+|**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
+|**2025-02-20**|**QUAD-LLM-MLTC: Large Language Models Ensemble Learning for Healthcare Text Multi-Label Classification**|Hajar Sakai et.al.|[2502.14189](http://arxiv.org/abs/2502.14189)|null|
+|**2025-02-18**|**Benchmarking Automatic Speech Recognition coupled LLM Modules for Medical Diagnostics**|Kabir Kumar et.al.|[2502.13982](http://arxiv.org/abs/2502.13982)|null|
 |**2025-02-19**|**Exploring Personalized Health Support through Data-Driven, Theory-Guided LLMs: A Case Study in Sleep Health**|Xingbo Wang et.al.|[2502.13920](http://arxiv.org/abs/2502.13920)|null|
 |**2025-02-19**|**VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare**|Anudeex Shetty et.al.|[2502.13775](http://arxiv.org/abs/2502.13775)|null|
 |**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
@@ -42,13 +50,13 @@ layout: default
 |**2025-02-17**|**CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation**|Guangya Yu et.al.|[2502.11703](http://arxiv.org/abs/2502.11703)|null|
 |**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|null|
 |**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
-|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|**[link](https://github.com/alexlecu/llmkgraph)**|
 |**2025-02-16**|**A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions**|Hongbin Na et.al.|[2502.11095](http://arxiv.org/abs/2502.11095)|null|
 |**2025-02-16**|**SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information**|Xiangyu Zhang et.al.|[2502.10950](http://arxiv.org/abs/2502.10950)|null|
 |**2025-02-15**|**Developing Conversational Speech Systems for Robots to Detect Speech Biomarkers of Cognition in People Living with Dementia**|Rohith Perumandla et.al.|[2502.10896](http://arxiv.org/abs/2502.10896)|null|
 |**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
 |**2025-02-14**|**Batch-Adaptive Annotations for Causal Inference with Complex-Embedded Outcomes**|Ezinne Nwankwo et.al.|[2502.10605](http://arxiv.org/abs/2502.10605)|null|
-|**2025-02-17**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|null|
+|**2025-02-17**|**HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation**|Tianwei Lin et.al.|[2502.09838](http://arxiv.org/abs/2502.09838)|**[link](https://github.com/dcdmllm/healthgpt)**|
 |**2025-02-12**|**Cancer Vaccine Adjuvant Name Recognition from Biomedical Literature using Large Language Models**|Hasin Rehana et.al.|[2502.09659](http://arxiv.org/abs/2502.09659)|null|
 |**2025-02-17**|**Zero-shot generation of synthetic neurosurgical data with large language models**|Austin A. Barr et.al.|[2502.09566](http://arxiv.org/abs/2502.09566)|**[link](https://github.com/aabarr/Synthetic-Neurosurgical-Data)**|
 |**2025-02-13**|**Improving TCM Question Answering through Tree-Organized Self-Reflective Retrieval with LLMs**|Chang Liu et.al.|[2502.09156](http://arxiv.org/abs/2502.09156)|null|
@@ -1332,6 +1340,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|null|
+|**2025-02-20**|**Large Language Models Struggle to Describe the Haystack without Human Help: Human-in-the-loop Evaluation of LLMs**|Zongxia Li et.al.|[2502.14748](http://arxiv.org/abs/2502.14748)|null|
+|**2025-02-20**|**CER: Confidence Enhanced Reasoning in LLMs**|Ali Razghandi et.al.|[2502.14634](http://arxiv.org/abs/2502.14634)|null|
+|**2025-02-20**|**Synergistic Fusion of Multi-Source Knowledge via Evidence Theory for High-Entropy Alloy Discovery**|Minh-Quyet Ha et.al.|[2502.14631](http://arxiv.org/abs/2502.14631)|null|
+|**2025-02-20**|**ReVISE: Learning to Refine at Test-Time via Intrinsic Self-Verification**|Hyunseok Lee et.al.|[2502.14565](http://arxiv.org/abs/2502.14565)|null|
+|**2025-02-20**|**Generative adversarial networks vs large language models: a comparative study on synthetic tabular data generation**|Austin A. Barr et.al.|[2502.14523](http://arxiv.org/abs/2502.14523)|null|
+|**2025-02-20**|**How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?**|Sergey Pletenev et.al.|[2502.14502](http://arxiv.org/abs/2502.14502)|null|
+|**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427](http://arxiv.org/abs/2502.14427)|null|
+|**2025-02-20**|**ParallelComp: Parallel Long-Context Compressor for Length Extrapolation**|Jing Xiong et.al.|[2502.14317](http://arxiv.org/abs/2502.14317)|null|
+|**2025-02-20**|**MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models**|Shrey Pandit et.al.|[2502.14302](http://arxiv.org/abs/2502.14302)|null|
+|**2025-02-20**|**STeCa: Step-level Trajectory Calibration for LLM Agent Learning**|Hanlin Wang et.al.|[2502.14276](http://arxiv.org/abs/2502.14276)|**[link](https://github.com/WangHanLinHenry/STeCa)**|
+|**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
+|**2025-02-20**|**PaperHelper: Knowledge-Based LLM QA Paper Reading Assistant**|Congrui Yin et.al.|[2502.14271](http://arxiv.org/abs/2502.14271)|null|
+|**2025-02-20**|**MCQA-Eval: Efficient Confidence Evaluation in NLG with Gold-Standard Correctness Labels**|Xiaoou Liu et.al.|[2502.14268](http://arxiv.org/abs/2502.14268)|null|
+|**2025-02-20**|**Multi-Faceted Studies on Data Poisoning can Advance LLM Development**|Pengfei He et.al.|[2502.14182](http://arxiv.org/abs/2502.14182)|null|
 |**2025-02-19**|**SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation**|Song Duong et.al.|[2502.13674](http://arxiv.org/abs/2502.13674)|null|
 |**2025-02-19**|**C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**|Feiye Huo et.al.|[2502.13652](http://arxiv.org/abs/2502.13652)|null|
 |**2025-02-19**|**REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models**|DongGeon Lee et.al.|[2502.13622](http://arxiv.org/abs/2502.13622)|null|
@@ -1341,14 +1364,14 @@ layout: default
 |**2025-02-19**|**Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning**|Ningke Li et.al.|[2502.13416](http://arxiv.org/abs/2502.13416)|null|
 |**2025-02-19**|**Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval**|Aditya Sharma et.al.|[2502.13369](http://arxiv.org/abs/2502.13369)|null|
 |**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
-|**2025-02-17**|**Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment**|Yuze Zhao et.al.|[2502.13170](http://arxiv.org/abs/2502.13170)|null|
+|**2025-02-17**|**Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment**|Yuze Zhao et.al.|[2502.13170](http://arxiv.org/abs/2502.13170)|**[link](https://github.com/tntwow/code_reasoning)**|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
 |**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055](http://arxiv.org/abs/2502.13055)|null|
-|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-20**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
 |**2025-02-18**|**Trust Me, I'm Wrong: High-Certainty Hallucinations in LLMs**|Adi Simhi et.al.|[2502.12964](http://arxiv.org/abs/2502.12964)|null|
 |**2025-02-18**|**Pitfalls of Scale: Investigating the Inverse Task of Redefinition in Large Language Models**|Elena Stringli et.al.|[2502.12821](http://arxiv.org/abs/2502.12821)|null|
-|**2025-02-18**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
+|**2025-02-20**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
 |**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
 |**2025-02-18**|**"I know myself better, but not really greatly": Using LLMs to Detect and Explain LLM-Generated Texts**|Jiazhou Ji et.al.|[2502.12743](http://arxiv.org/abs/2502.12743)|null|
 |**2025-02-18**|**R.R.: Unveiling LLM Training Privacy through Recollection and Ranking**|Wenlong Meng et.al.|[2502.12658](http://arxiv.org/abs/2502.12658)|null|
@@ -1357,7 +1380,7 @@ layout: default
 |**2025-02-18**|**Reasoning on a Spectrum: Aligning LLMs to System 1 and System 2 Thinking**|Alireza S. Ziabari et.al.|[2502.12470](http://arxiv.org/abs/2502.12470)|null|
 |**2025-02-18**|**MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation**|Yutong Wang et.al.|[2502.12468](http://arxiv.org/abs/2502.12468)|null|
 |**2025-02-17**|**Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs**|Kan Zhu et.al.|[2502.12216](http://arxiv.org/abs/2502.12216)|null|
-|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|**[link](https://github.com/jinyansu1/flare-aug)**|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
 |**2025-02-17**|**SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities**|Fengqing Jiang et.al.|[2502.12025](http://arxiv.org/abs/2502.12025)|null|
 |**2025-02-17**|**Navigating the Helpfulness-Truthfulness Trade-Off with Uncertainty-Aware Instruction Fine-Tuning**|Tianyi Wu et.al.|[2502.11962](http://arxiv.org/abs/2502.11962)|null|
