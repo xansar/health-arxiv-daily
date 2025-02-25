@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**Real-time Monitoring of Economic Shocks using Company Websites**|Michael Koenig et.al.|[2502.17161](http://arxiv.org/abs/2502.17161)|null|
+|**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
+|**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
+|**2025-02-22**|**Large Language Model for Lossless Image Compression with Visual Prompts**|Junhao Du et.al.|[2502.16163](http://arxiv.org/abs/2502.16163)|null|
+|**2025-02-22**|**Enhancing LLMs for Identifying and Prioritizing Important Medical Jargons from Electronic Health Record Notes Utilizing Data Augmentation**|Won Seok Jang et.al.|[2502.16022](http://arxiv.org/abs/2502.16022)|null|
+|**2025-02-21**|**AutoMedPrompt: A New Framework for Optimizing LLM Medical Prompts Using Textual Gradients**|Sean Wu et.al.|[2502.15944](http://arxiv.org/abs/2502.15944)|null|
+|**2025-02-21**|**"Kya family planning after marriage hoti hai?": Integrating Cultural Sensitivity in an LLM Chatbot for Reproductive Health**|Roshini Deva et.al.|[2502.15939](http://arxiv.org/abs/2502.15939)|null|
+|**2025-02-21**|**CVE-LLM : Ontology-Assisted Automatic Vulnerability Evaluation Using Large Language Models**|Rikhiya Ghosh et.al.|[2502.15932](http://arxiv.org/abs/2502.15932)|null|
+|**2025-02-21**|**A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare**|Manar Aljohani et.al.|[2502.15871](http://arxiv.org/abs/2502.15871)|null|
 |**2025-02-21**|**MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models**|Suraj Racha et.al.|[2502.15418](http://arxiv.org/abs/2502.15418)|null|
 |**2025-02-20**|**Rare Disease Differential Diagnosis with Large Language Models at Scale: From Abdominal Actinomycosis to Wilson's Disease**|Elliot Schumacher et.al.|[2502.15069](http://arxiv.org/abs/2502.15069)|null|
 |**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|**[link](https://github.com/stellalisy/alfa)**|
@@ -1342,6 +1352,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|null|
+|**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
+|**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|null|
+|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|null|
+|**2025-02-24**|**Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology**|Longchao Da et.al.|[2502.17026](http://arxiv.org/abs/2502.17026)|null|
+|**2025-02-24**|**Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning**|Jiaheng Li et.al.|[2502.16896](http://arxiv.org/abs/2502.16896)|null|
+|**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
+|**2025-02-24**|**Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses**|Tiejin Chen et.al.|[2502.16820](http://arxiv.org/abs/2502.16820)|null|
+|**2025-02-23**|**Visual Reasoning Evaluation of Grok, Deepseek Janus, Gemini, Qwen, Mistral, and ChatGPT**|Nidhal Jegham et.al.|[2502.16428](http://arxiv.org/abs/2502.16428)|null|
+|**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402](http://arxiv.org/abs/2502.16402)|null|
+|**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
+|**2025-02-22**|**EPERM: An Evidence Path Enhanced Reasoning Model for Knowledge Graph Question and Answering**|Xiao Long et.al.|[2502.16171](http://arxiv.org/abs/2502.16171)|null|
+|**2025-02-22**|**ZiGong 1.0: A Large Language Model for Financial Credit**|Yu Lei et.al.|[2502.16159](http://arxiv.org/abs/2502.16159)|null|
+|**2025-02-22**|**The Law of Knowledge Overshadowing: Towards Understanding, Predicting, and Preventing LLM Hallucination**|Yuji Zhang et.al.|[2502.16143](http://arxiv.org/abs/2502.16143)|null|
+|**2025-02-22**|**Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals**|Linda Zeng et.al.|[2502.16101](http://arxiv.org/abs/2502.16101)|null|
+|**2025-02-21**|**Position: Standard Benchmarks Fail -- LLM Agents Present Overlooked Risks for Financial Applications**|Zichen Chen et.al.|[2502.15865](http://arxiv.org/abs/2502.15865)|null|
+|**2025-02-20**|**Verify when Uncertain: Beyond Self-Consistency in Black Box Hallucination Detection**|Yihao Xue et.al.|[2502.15845](http://arxiv.org/abs/2502.15845)|null|
+|**2025-02-20**|**Hallucination Detection in Large Language Models with Metamorphic Relations**|Borui Yang et.al.|[2502.15844](http://arxiv.org/abs/2502.15844)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
 |**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652](http://arxiv.org/abs/2502.15652)|null|
 |**2025-02-21**|**A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany**|Ina Dormuth et.al.|[2502.15568](http://arxiv.org/abs/2502.15568)|null|
