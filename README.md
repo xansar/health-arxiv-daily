@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2025-02-21**|**MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models**|Suraj Racha et.al.|[2502.15418](http://arxiv.org/abs/2502.15418)|null|
 |**2025-02-20**|**Rare Disease Differential Diagnosis with Large Language Models at Scale: From Abdominal Actinomycosis to Wilson's Disease**|Elliot Schumacher et.al.|[2502.15069](http://arxiv.org/abs/2502.15069)|null|
 |**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|**[link](https://github.com/stellalisy/alfa)**|
-|**2025-02-20**|**Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning**|Juraj Vladika et.al.|[2502.14765](http://arxiv.org/abs/2502.14765)|null|
+|**2025-02-20**|**Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning**|Juraj Vladika et.al.|[2502.14765](http://arxiv.org/abs/2502.14765)|**[link](https://github.com/jvladika/StepByStepFV)**|
 |**2025-02-21**|**Data-Constrained Synthesis of Training Data for De-Identification**|Thomas Vakili et.al.|[2502.14677](http://arxiv.org/abs/2502.14677)|null|
 |**2025-02-20**|**FIND: Fine-grained Information Density Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis**|Mingyi Jia et.al.|[2502.14614](http://arxiv.org/abs/2502.14614)|null|
 |**2025-02-20**|**MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models**|Shrey Pandit et.al.|[2502.14302](http://arxiv.org/abs/2502.14302)|null|
@@ -56,7 +56,7 @@
 |**2025-02-17**|**Exploring Large Language Models in Healthcare: Insights into Corpora Sources, Customization Strategies, and Evaluation Metrics**|Shuqi Yang et.al.|[2502.11861](http://arxiv.org/abs/2502.11861)|null|
 |**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|null|
 |**2025-02-17**|**CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation**|Guangya Yu et.al.|[2502.11703](http://arxiv.org/abs/2502.11703)|null|
-|**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|null|
+|**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|**[link](https://github.com/jiahongliu21/awesome-personalized-large-language-models)**|
 |**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
 |**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|**[link](https://github.com/alexlecu/llmkgraph)**|
 |**2025-02-16**|**A Survey of Large Language Models in Psychotherapy: Current Landscape and Future Directions**|Hongbin Na et.al.|[2502.11095](http://arxiv.org/abs/2502.11095)|null|
@@ -1344,16 +1344,16 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## UncertaintyLLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|null|
+|**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|**[link](https://github.com/zbox1005/cot-uq)**|
 |**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
 |**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|null|
-|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|null|
+|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|**[link](https://github.com/neuir/llm-qe)**|
 |**2025-02-24**|**Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology**|Longchao Da et.al.|[2502.17026](http://arxiv.org/abs/2502.17026)|null|
 |**2025-02-24**|**Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning**|Jiaheng Li et.al.|[2502.16896](http://arxiv.org/abs/2502.16896)|null|
 |**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
@@ -1371,7 +1371,7 @@
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
 |**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652](http://arxiv.org/abs/2502.15652)|null|
 |**2025-02-21**|**A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany**|Ina Dormuth et.al.|[2502.15568](http://arxiv.org/abs/2502.15568)|null|
-|**2025-02-21**|**PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|null|
+|**2025-02-21**|**PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|**[link](https://github.com/openbmb/pip-kag)**|
 |**2025-02-21**|**Beyond Tools: Understanding How Heavy Users Integrate LLMs into Everyday Tasks and Decision-Making**|Eunhye Kim et.al.|[2502.15395](http://arxiv.org/abs/2502.15395)|null|
 |**2025-02-21**|**Evaluating Social Biases in LLM Reasoning**|Xuyang Wu et.al.|[2502.15361](http://arxiv.org/abs/2502.15361)|null|
 |**2025-02-21**|**From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants**|Manisha Mukherjee et.al.|[2502.15237](http://arxiv.org/abs/2502.15237)|null|
@@ -1386,14 +1386,14 @@
 |**2025-02-20**|**ReVISE: Learning to Refine at Test-Time via Intrinsic Self-Verification**|Hyunseok Lee et.al.|[2502.14565](http://arxiv.org/abs/2502.14565)|null|
 |**2025-02-20**|**Generative adversarial networks vs large language models: a comparative study on synthetic tabular data generation**|Austin A. Barr et.al.|[2502.14523](http://arxiv.org/abs/2502.14523)|**[link](https://github.com/aabarr/synthetic-datasets)**|
 |**2025-02-20**|**How Much Knowledge Can You Pack into a LoRA Adapter without Harming LLM?**|Sergey Pletenev et.al.|[2502.14502](http://arxiv.org/abs/2502.14502)|**[link](https://github.com/AIRI-Institute/knowledge-packing)**|
-|**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427](http://arxiv.org/abs/2502.14427)|**[link](https://github.com/ArtemVazh/token_mahalanobis_distance)**|
+|**2025-02-20**|**Token-Level Density-Based Uncertainty Quantification Methods for Eliciting Truthfulness of Large Language Models**|Artem Vazhentsev et.al.|[2502.14427](http://arxiv.org/abs/2502.14427)|null|
 |**2025-02-20**|**ParallelComp: Parallel Long-Context Compressor for Length Extrapolation**|Jing Xiong et.al.|[2502.14317](http://arxiv.org/abs/2502.14317)|null|
 |**2025-02-20**|**MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models**|Shrey Pandit et.al.|[2502.14302](http://arxiv.org/abs/2502.14302)|null|
 |**2025-02-20**|**STeCa: Step-level Trajectory Calibration for LLM Agent Learning**|Hanlin Wang et.al.|[2502.14276](http://arxiv.org/abs/2502.14276)|**[link](https://github.com/WangHanLinHenry/STeCa)**|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
 |**2025-02-20**|**PaperHelper: Knowledge-Based LLM QA Paper Reading Assistant**|Congrui Yin et.al.|[2502.14271](http://arxiv.org/abs/2502.14271)|null|
 |**2025-02-20**|**MCQA-Eval: Efficient Confidence Evaluation in NLG with Gold-Standard Correctness Labels**|Xiaoou Liu et.al.|[2502.14268](http://arxiv.org/abs/2502.14268)|null|
-|**2025-02-20**|**Multi-Faceted Studies on Data Poisoning can Advance LLM Development**|Pengfei He et.al.|[2502.14182](http://arxiv.org/abs/2502.14182)|null|
+|**2025-02-20**|**Multi-Faceted Studies on Data Poisoning can Advance LLM Development**|Pengfei He et.al.|[2502.14182](http://arxiv.org/abs/2502.14182)|**[link](https://github.com/PengfeiHePower/awesome-LLM-data-poisoning)**|
 |**2025-02-19**|**SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation**|Song Duong et.al.|[2502.13674](http://arxiv.org/abs/2502.13674)|null|
 |**2025-02-19**|**C2T: A Classifier-Based Tree Construction Method in Speculative Decoding**|Feiye Huo et.al.|[2502.13652](http://arxiv.org/abs/2502.13652)|null|
 |**2025-02-19**|**REFIND: Retrieval-Augmented Factuality Hallucination Detection in Large Language Models**|DongGeon Lee et.al.|[2502.13622](http://arxiv.org/abs/2502.13622)|null|
@@ -2498,7 +2498,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
