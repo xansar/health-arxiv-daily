@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-02-24**|**Wearable Meets LLM for Stress Management: A Duoethnographic Study Integrating Wearable-Triggered Stressors and LLM Chatbots for Personalized Interventions**|Sameer Neupane et.al.|[2502.17650](http://arxiv.org/abs/2502.17650)|null|
 |**2025-02-24**|**Towards Conditioning Clinical Text Generation for User Control**|Osman Alperen Koraş et.al.|[2502.17571](http://arxiv.org/abs/2502.17571)|null|
 |**2025-02-18**|**User Intent to Use DeekSeep for Healthcare Purposes and their Trust in the Large Language Model: Multinational Survey Study**|Avishek Choudhury et.al.|[2502.17487](http://arxiv.org/abs/2502.17487)|null|
-|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|**[link](https://github.com/stefanhgm/ehrshot-benchmark)**|
 |**2025-02-24**|**Real-time Monitoring of Economic Shocks using Company Websites**|Michael Koenig et.al.|[2502.17161](http://arxiv.org/abs/2502.17161)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
@@ -1354,7 +1354,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1383,7 +1383,7 @@
 |**2025-02-22**|**SAE-V: Interpreting Multimodal Models for Enhanced Alignment**|Hantao Lou et.al.|[2502.17514](http://arxiv.org/abs/2502.17514)|null|
 |**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|**[link](https://github.com/zbox1005/cot-uq)**|
 |**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
-|**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|null|
+|**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|**[link](https://github.com/KRLabsOrg/LettuceDetect)**|
 |**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|**[link](https://github.com/neuir/llm-qe)**|
 |**2025-02-24**|**Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology**|Longchao Da et.al.|[2502.17026](http://arxiv.org/abs/2502.17026)|null|
 |**2025-02-24**|**Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning**|Jiaheng Li et.al.|[2502.16896](http://arxiv.org/abs/2502.16896)|null|
@@ -2529,7 +2529,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
