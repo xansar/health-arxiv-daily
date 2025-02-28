@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
+|**2025-02-27**|**Expertise Is What We Want**|Alan Ashworth et.al.|[2502.20335](http://arxiv.org/abs/2502.20335)|null|
+|**2025-02-27**|**MIND: Towards Immersive Psychological Healing with Multi-agent Inner Dialogue**|Yujia Chen et.al.|[2502.19860](http://arxiv.org/abs/2502.19860)|null|
+|**2025-02-27**|**R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning**|Minggui He et.al.|[2502.19735](http://arxiv.org/abs/2502.19735)|null|
+|**2025-02-27**|**Preference Learning Unlocks LLMs' Psycho-Counseling Skills**|Mian Zhang et.al.|[2502.19731](http://arxiv.org/abs/2502.19731)|null|
+|**2025-02-27**|**SuPreME: A Supervised Pre-training Framework for Multimodal ECG Representation Learning**|Mingsheng Cai et.al.|[2502.19668](http://arxiv.org/abs/2502.19668)|null|
+|**2025-02-26**|**Repurposing the scientific literature with vision-language models**|Anton Alyakin et.al.|[2502.19546](http://arxiv.org/abs/2502.19546)|null|
+|**2025-02-26**|**Conversational Planning for Personal Plans**|Konstantina Christakopoulou et.al.|[2502.19500](http://arxiv.org/abs/2502.19500)|null|
 |**2025-02-26**|**MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis**|Daniel Rose et.al.|[2502.19175](http://arxiv.org/abs/2502.19175)|null|
 |**2025-02-26**|**Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection**|Carter Adams et.al.|[2502.18823](http://arxiv.org/abs/2502.18823)|null|
 |**2025-02-26**|**TrajLLM: A Modular LLM-Enhanced Agent-Based Framework for Realistic Human Trajectory Simulation**|Chenlu Ju et.al.|[2502.18712](http://arxiv.org/abs/2502.18712)|null|
@@ -1360,6 +1368,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
+|**2025-02-27**|**Sparse Auto-Encoder Interprets Linguistic Features in Large Language Models**|Yi Jing et.al.|[2502.20344](http://arxiv.org/abs/2502.20344)|null|
+|**2025-02-27**|**Expertise Is What We Want**|Alan Ashworth et.al.|[2502.20335](http://arxiv.org/abs/2502.20335)|null|
+|**2025-02-27**|**Conformal Tail Risk Control for Large Language Model Alignment**|Catherine Yu-Chi Chen et.al.|[2502.20285](http://arxiv.org/abs/2502.20285)|null|
+|**2025-02-27**|**Similarity-Distance-Magnitude Universal Verification**|Allen Schmaltz et.al.|[2502.20167](http://arxiv.org/abs/2502.20167)|null|
+|**2025-02-27**|**ProAPO: Progressively Automatic Prompt Optimization for Visual Classification**|Xiangyan Qu et.al.|[2502.19844](http://arxiv.org/abs/2502.19844)|null|
+|**2025-02-27**|**Old Experience Helps: Leveraging Survey Methodology to Improve AI Text Annotation Reliability in Social Sciences**|Linzhuo li et.al.|[2502.19679](http://arxiv.org/abs/2502.19679)|null|
+|**2025-02-26**|**Is Your Paper Being Reviewed by an LLM? A New Benchmark Dataset and Approach for Detecting AI Text in Peer Review**|Sungduk Yu et.al.|[2502.19614](http://arxiv.org/abs/2502.19614)|null|
+|**2025-02-26**|**Trustworthy Answers, Messier Data: Bridging the Gap in Low-Resource Retrieval-Augmented Generation for Domain Expert Systems**|Nayoung Choi et.al.|[2502.19596](http://arxiv.org/abs/2502.19596)|null|
+|**2025-02-26**|**Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents**|Ashley Lewis et.al.|[2502.19545](http://arxiv.org/abs/2502.19545)|null|
 |**2025-02-26**|**Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices**|Xinru Wang et.al.|[2502.19410](http://arxiv.org/abs/2502.19410)|null|
 |**2025-02-26**|**Verde: Verification via Refereed Delegation for Machine Learning Programs**|Arasu Arun et.al.|[2502.19405](http://arxiv.org/abs/2502.19405)|null|
 |**2025-02-26**|**Efficient Federated Search for Retrieval-Augmented Generation**|Rachid Guerraoui et.al.|[2502.19280](http://arxiv.org/abs/2502.19280)|null|
@@ -1375,7 +1393,7 @@
 |**2025-02-25**|**Can LLMs Explain Themselves Counterfactually?**|Zahra Dehghanighobadi et.al.|[2502.18156](http://arxiv.org/abs/2502.18156)|null|
 |**2025-02-25**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139](http://arxiv.org/abs/2502.18139)|null|
 |**2025-02-25**|**Verdict: A Library for Scaling Judge-Time Compute**|Nimit Kalra et.al.|[2502.18018](http://arxiv.org/abs/2502.18018)|null|
-|**2025-02-25**|**LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction**|Suozhi Huang et.al.|[2502.17925](http://arxiv.org/abs/2502.17925)|null|
+|**2025-02-27**|**LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction**|Suozhi Huang et.al.|[2502.17925](http://arxiv.org/abs/2502.17925)|null|
 |**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
 |**2025-02-25**|**Uncertainty Quantification for LLM-Based Survey Simulations**|Chengpiao Huang et.al.|[2502.17773](http://arxiv.org/abs/2502.17773)|null|
 |**2025-02-24**|**Hallucination Detection in LLMs Using Spectral Features of Attention Maps**|Jakub Binkowski et.al.|[2502.17598](http://arxiv.org/abs/2502.17598)|null|
@@ -1384,7 +1402,7 @@
 |**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|**[link](https://github.com/zbox1005/cot-uq)**|
 |**2025-02-24**|**IGDA: Interactive Graph Discovery through Large Language Model Agents**|Alex Havrilla et.al.|[2502.17189](http://arxiv.org/abs/2502.17189)|null|
 |**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|**[link](https://github.com/KRLabsOrg/LettuceDetect)**|
-|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|**[link](https://github.com/neuir/llm-qe)**|
+|**2025-02-27**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|**[link](https://github.com/neuir/llm-qe)**|
 |**2025-02-24**|**Understanding the Uncertainty of LLM Explanations: A Perspective Based on Reasoning Topology**|Longchao Da et.al.|[2502.17026](http://arxiv.org/abs/2502.17026)|null|
 |**2025-02-24**|**Zero-shot Load Forecasting for Integrated Energy Systems: A Large Language Model-based Framework with Multi-task Learning**|Jiaheng Li et.al.|[2502.16896](http://arxiv.org/abs/2502.16896)|null|
 |**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
