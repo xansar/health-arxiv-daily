@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2025-02-21**|**"Kya family planning after marriage hoti hai?": Integrating Cultural Sensitivity in an LLM Chatbot for Reproductive Health**|Roshini Deva et.al.|[2502.15939](http://arxiv.org/abs/2502.15939)|null|
 |**2025-02-21**|**CVE-LLM : Ontology-Assisted Automatic Vulnerability Evaluation Using Large Language Models**|Rikhiya Ghosh et.al.|[2502.15932](http://arxiv.org/abs/2502.15932)|null|
 |**2025-02-21**|**A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare**|Manar Aljohani et.al.|[2502.15871](http://arxiv.org/abs/2502.15871)|null|
-|**2025-02-21**|**MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models**|Suraj Racha et.al.|[2502.15418](http://arxiv.org/abs/2502.15418)|null|
+|**2025-02-21**|**MHQA: A Diverse, Knowledge Intensive Mental Health Question Answering Challenge for Language Models**|Suraj Racha et.al.|[2502.15418](http://arxiv.org/abs/2502.15418)|**[link](https://github.com/joshiprashanthd/mhqa)**|
 |**2025-02-20**|**Rare Disease Differential Diagnosis with Large Language Models at Scale: From Abdominal Actinomycosis to Wilson's Disease**|Elliot Schumacher et.al.|[2502.15069](http://arxiv.org/abs/2502.15069)|null|
 |**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|**[link](https://github.com/stellalisy/alfa)**|
 |**2025-02-20**|**Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning**|Juraj Vladika et.al.|[2502.14765](http://arxiv.org/abs/2502.14765)|**[link](https://github.com/jvladika/StepByStepFV)**|
@@ -1362,7 +1362,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1391,12 +1391,12 @@
 |**2025-02-25**|**Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods**|Nicola Cecere et.al.|[2502.18389](http://arxiv.org/abs/2502.18389)|null|
 |**2025-02-25**|**BRIDO: Bringing Democratic Order to Abstractive Summarization**|Junhyun Lee et.al.|[2502.18342](http://arxiv.org/abs/2502.18342)|null|
 |**2025-02-25**|**Can LLMs Explain Themselves Counterfactually?**|Zahra Dehghanighobadi et.al.|[2502.18156](http://arxiv.org/abs/2502.18156)|null|
-|**2025-02-25**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139](http://arxiv.org/abs/2502.18139)|null|
-|**2025-02-25**|**Verdict: A Library for Scaling Judge-Time Compute**|Nimit Kalra et.al.|[2502.18018](http://arxiv.org/abs/2502.18018)|null|
+|**2025-02-25**|**LevelRAG: Enhancing Retrieval-Augmented Generation with Multi-hop Logic Planning over Rewriting Augmented Searchers**|Zhuocheng Zhang et.al.|[2502.18139](http://arxiv.org/abs/2502.18139)|**[link](https://github.com/ictnlp/LevelRAG)**|
+|**2025-02-25**|**Verdict: A Library for Scaling Judge-Time Compute**|Nimit Kalra et.al.|[2502.18018](http://arxiv.org/abs/2502.18018)|**[link](https://github.com/haizelabs/verdict)**|
 |**2025-02-27**|**LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction**|Suozhi Huang et.al.|[2502.17925](http://arxiv.org/abs/2502.17925)|null|
 |**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
 |**2025-02-25**|**Uncertainty Quantification for LLM-Based Survey Simulations**|Chengpiao Huang et.al.|[2502.17773](http://arxiv.org/abs/2502.17773)|null|
-|**2025-02-24**|**Hallucination Detection in LLMs Using Spectral Features of Attention Maps**|Jakub Binkowski et.al.|[2502.17598](http://arxiv.org/abs/2502.17598)|null|
+|**2025-02-24**|**Hallucination Detection in LLMs Using Spectral Features of Attention Maps**|Jakub Binkowski et.al.|[2502.17598](http://arxiv.org/abs/2502.17598)|**[link](https://github.com/graphml-lab-pwr/lapeig)**|
 |**2025-02-24**|**Towards Conditioning Clinical Text Generation for User Control**|Osman Alperen Koraş et.al.|[2502.17571](http://arxiv.org/abs/2502.17571)|null|
 |**2025-02-22**|**SAE-V: Interpreting Multimodal Models for Enhanced Alignment**|Hantao Lou et.al.|[2502.17514](http://arxiv.org/abs/2502.17514)|null|
 |**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|**[link](https://github.com/zbox1005/cot-uq)**|
@@ -2547,7 +2547,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
