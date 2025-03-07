@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
+|**2025-03-06**|**TIMER: Temporal Instruction Modeling and Evaluation for Longitudinal Clinical Records**|Hejie Cui et.al.|[2503.04176](http://arxiv.org/abs/2503.04176)|null|
+|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
+|**2025-03-06**|**Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting**|Jiyue Jiang et.al.|[2503.04013](http://arxiv.org/abs/2503.04013)|null|
+|**2025-03-06**|**RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models**|Wenhui Zhu et.al.|[2503.03987](http://arxiv.org/abs/2503.03987)|null|
+|**2025-03-05**|**RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction**|Fenglin Liu et.al.|[2503.03802](http://arxiv.org/abs/2503.03802)|null|
 |**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
 |**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645](http://arxiv.org/abs/2503.03645)|null|
 |**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607](http://arxiv.org/abs/2503.03607)|null|
@@ -30,7 +37,7 @@ layout: default
 |**2025-03-04**|**The Effectiveness of Large Language Models in Transforming Unstructured Text to Standardized Formats**|William Brach et.al.|[2503.02650](http://arxiv.org/abs/2503.02650)|null|
 |**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|null|
 |**2025-03-04**|**MedEthicEval: Evaluating Large Language Models Based on Chinese Medical Ethics**|Haoan Jin et.al.|[2503.02374](http://arxiv.org/abs/2503.02374)|null|
-|**2025-03-04**|**EchoQA: A Large Collection of Instruction Tuning Data for Echocardiogram Reports**|Lama Moukheiber et.al.|[2503.02365](http://arxiv.org/abs/2503.02365)|null|
+|**2025-03-06**|**EchoQA: A Large Collection of Instruction Tuning Data for Echocardiogram Reports**|Lama Moukheiber et.al.|[2503.02365](http://arxiv.org/abs/2503.02365)|null|
 |**2025-03-04**|**Add-One-In: Incremental Sample Selection for Large Language Models via a Choice-Based Greedy Paradigm**|Zhuo Li et.al.|[2503.02359](http://arxiv.org/abs/2503.02359)|null|
 |**2025-03-03**|**Biomedical Foundation Model: A Survey**|Xiangrui Liu et.al.|[2503.02104](http://arxiv.org/abs/2503.02104)|null|
 |**2025-02-28**|**PsychBench: A comprehensive and professional benchmark for evaluating the performance of LLM-assisted psychiatric clinical practice**|Ruoxi Wang et.al.|[2503.01903](http://arxiv.org/abs/2503.01903)|null|
@@ -1403,6 +1410,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**START: Self-taught Reasoner with Tools**|Chengpeng Li et.al.|[2503.04625](http://arxiv.org/abs/2503.04625)|null|
+|**2025-03-06**|**HalluCounter: Reference-free LLM Hallucination Detection in the Wild!**|Ashok Urlana et.al.|[2503.04615](http://arxiv.org/abs/2503.04615)|null|
+|**2025-03-06**|**Benchmarking Reasoning Robustness in Large Language Models**|Tong Yu et.al.|[2503.04550](http://arxiv.org/abs/2503.04550)|null|
+|**2025-03-06**|**TPC: Cross-Temporal Prediction Connection for Vision-Language Model Hallucination Reduction**|Chao Wang et.al.|[2503.04457](http://arxiv.org/abs/2503.04457)|null|
+|**2025-03-06**|**On Fact and Frequency: LLM Responses to Misinformation Expressed with Uncertainty**|Yana van de Sande et.al.|[2503.04271](http://arxiv.org/abs/2503.04271)|null|
+|**2025-03-06**|**Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2503.04162](http://arxiv.org/abs/2503.04162)|null|
+|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
+|**2025-03-05**|**Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis**|Ahmad Hafez et.al.|[2503.03911](http://arxiv.org/abs/2503.03911)|**[link](https://github.com/TUM-CPS-HN/SafeLLMRA)**|
+|**2025-03-05**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
+|**2025-03-04**|**BotUmc: An Uncertainty-Aware Twitter Bot Detection with Multi-view Causal Inference**|Tao Yang et.al.|[2503.03775](http://arxiv.org/abs/2503.03775)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
 |**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194](http://arxiv.org/abs/2503.03194)|null|
@@ -1435,7 +1452,7 @@ layout: default
 |**2025-03-03**|**What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret**|Yufeng Yuan et.al.|[2503.01491](http://arxiv.org/abs/2503.01491)|null|
 |**2025-03-03**|**Explainable Depression Detection in Clinical Interviews with Personalized Retrieval-Augmented Generation**|Linhai Zhang et.al.|[2503.01315](http://arxiv.org/abs/2503.01315)|null|
 |**2025-03-03**|**LLM-Advisor: An LLM Benchmark for Cost-efficient Path Planning across Multiple Terrains**|Ling Xiao et.al.|[2503.01236](http://arxiv.org/abs/2503.01236)|null|
-|**2025-03-03**|**CE-U: Cross Entropy Unlearning**|Bo Yang et.al.|[2503.01224](http://arxiv.org/abs/2503.01224)|null|
+|**2025-03-06**|**CE-U: Cross Entropy Unlearning**|Bo Yang et.al.|[2503.01224](http://arxiv.org/abs/2503.01224)|null|
 |**2025-03-03**|**Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG**|Wenbin Wang et.al.|[2503.01222](http://arxiv.org/abs/2503.01222)|**[link](https://github.com/dreammr/rap)**|
 |**2025-03-04**|**Can Large Language Models Help Experimental Design for Causal Discovery?**|Junyi Li et.al.|[2503.01139](http://arxiv.org/abs/2503.01139)|null|
 |**2025-03-02**|**Unmasking Digital Falsehoods: A Comparative Analysis of LLM-Based Misinformation Detection Strategies**|Tianyi Huang et.al.|[2503.00724](http://arxiv.org/abs/2503.00724)|null|
