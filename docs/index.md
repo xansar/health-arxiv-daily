@@ -301,7 +301,7 @@ layout: default
 |**2024-12-16**|**Bridging the Gap: Enhancing LLM Performance for Low-Resource African Languages with New Benchmarks, Fine-Tuning, and Cultural Adjustments**|Tuka Alhanai et.al.|[2412.12417](http://arxiv.org/abs/2412.12417)|**[link](https://github.com/InstituteforDiseaseModeling/Bridging-the-Gap-Low-Resource-African-Languages)**|
 |**2024-12-11**|**Performance of a large language model-Artificial Intelligence based chatbot for counseling patients with sexually transmitted infections and genital diseases**|Nikhil Mehta et.al.|[2412.12166](http://arxiv.org/abs/2412.12166)|null|
 |**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|**[link](https://github.com/zh-wang-med/llm-rg4)**|
-|**2024-12-16**|**Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives**|Sam Relins et.al.|[2412.11878](http://arxiv.org/abs/2412.11878)|null|
+|**2024-12-16**|**Using Instruction-Tuned Large Language Models to Identify Indicators of Vulnerability in Police Incident Narratives**|Sam Relins et.al.|[2412.11878](http://arxiv.org/abs/2412.11878)|**[link](https://github.com/samrelins/vulnerability_classifier_pipeline)**|
 |**2024-12-16**|**LLMs Can Simulate Standardized Patients via Agent Coevolution**|Zhuoyun Du et.al.|[2412.11716](http://arxiv.org/abs/2412.11716)|**[link](https://github.com/zjumai/evopatient)**|
 |**2024-12-16**|**Private Yet Social: How LLM Chatbots Support and Challenge Eating Disorder Recovery**|Ryuhaerang Choi et.al.|[2412.11656](http://arxiv.org/abs/2412.11656)|null|
 |**2024-12-16**|**ACE- $M^3$ : Automatic Capability Evaluator for Multimodal Medical Models**|Xiechi Zhang et.al.|[2412.11453](http://arxiv.org/abs/2412.11453)|null|
@@ -1518,7 +1518,7 @@ layout: default
 |**2025-02-21**|**Position: Standard Benchmarks Fail -- LLM Agents Present Overlooked Risks for Financial Applications**|Zichen Chen et.al.|[2502.15865](http://arxiv.org/abs/2502.15865)|null|
 |**2025-02-20**|**Verify when Uncertain: Beyond Self-Consistency in Black Box Hallucination Detection**|Yihao Xue et.al.|[2502.15845](http://arxiv.org/abs/2502.15845)|null|
 |**2025-02-20**|**Hallucination Detection in Large Language Models with Metamorphic Relations**|Borui Yang et.al.|[2502.15844](http://arxiv.org/abs/2502.15844)|null|
-|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|**[link](https://github.com/SCAI-JHU/AutoToM)**|
 |**2025-02-24**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652](http://arxiv.org/abs/2502.15652)|null|
 |**2025-02-21**|**A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany**|Ina Dormuth et.al.|[2502.15568](http://arxiv.org/abs/2502.15568)|null|
 |**2025-02-21**|**PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|**[link](https://github.com/openbmb/pip-kag)**|
@@ -1579,7 +1579,7 @@ layout: default
 |**2025-02-17**|**Towards Fully Exploiting LLM Internal States to Enhance Knowledge Boundary Perception**|Shiyu Ni et.al.|[2502.11677](http://arxiv.org/abs/2502.11677)|null|
 |**2025-02-17**|**Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation**|Arindam Sharma et.al.|[2502.11620](http://arxiv.org/abs/2502.11620)|null|
 |**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
-|**2025-02-17**|**"Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents**|Rongwu Xu et.al.|[2502.11355](http://arxiv.org/abs/2502.11355)|null|
+|**2025-02-17**|**"Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents**|Rongwu Xu et.al.|[2502.11355](http://arxiv.org/abs/2502.11355)|**[link](https://github.com/pillowsofwind/llm-cbrn-risks)**|
 |**2025-02-16**|**Smoothing Out Hallucinations: Mitigating LLM Hallucination with Smoothed Knowledge Distillation**|Hieu Nguyen et.al.|[2502.11306](http://arxiv.org/abs/2502.11306)|null|
 |**2025-02-16**|**Uncertainty-Aware Step-wise Verification with Generative Reward Models**|Zihuiwen Ye et.al.|[2502.11250](http://arxiv.org/abs/2502.11250)|null|
 |**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
@@ -1646,7 +1646,7 @@ layout: default
 |**2025-02-07**|**Aligning Black-box Language Models with Human Judgments**|Gerrit J. J. van den Burg et.al.|[2502.04997](http://arxiv.org/abs/2502.04997)|null|
 |**2025-02-11**|**CoCoA: A Generalized Approach to Uncertainty Quantification by Integrating Confidence and Consistency of LLM Outputs**|Roman Vashurin et.al.|[2502.04964](http://arxiv.org/abs/2502.04964)|null|
 |**2025-02-07**|**Self-Rationalization in the Wild: A Large Scale Out-of-Distribution Evaluation on NLI-related tasks**|Jing Yang et.al.|[2502.04797](http://arxiv.org/abs/2502.04797)|**[link](https://github.com/UKPLab/tacl2025-ood-eval-self-rationalization)**|
-|**2025-02-10**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643](http://arxiv.org/abs/2502.04643)|null|
+|**2025-02-10**|**Confidence Elicitation: A New Attack Vector for Large Language Models**|Brian Formento et.al.|[2502.04643](http://arxiv.org/abs/2502.04643)|**[link](https://github.com/aniloid2/confidence_elicitation_attacks)**|
 |**2025-02-06**|**TruthFlow: Truthful LLM Generation via Representation Flow Correction**|Hanyu Wang et.al.|[2502.04556](http://arxiv.org/abs/2502.04556)|null|
 |**2025-02-06**|**Confident or Seek Stronger: Exploring Uncertainty-Based On-device LLM Routing From Benchmarking to Generalization**|Yu-Neng Chuang et.al.|[2502.04428](http://arxiv.org/abs/2502.04428)|null|
 |**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|**[link](https://github.com/cmd2001/KVTuner)**|
