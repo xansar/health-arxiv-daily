@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -45,7 +45,7 @@
 |**2025-03-03**|**Distilled Prompt Learning for Incomplete Multimodal Survival Prediction**|Yingxue Xu et.al.|[2503.01653](http://arxiv.org/abs/2503.01653)|null|
 |**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
 |**2025-03-03**|**Explainable Depression Detection in Clinical Interviews with Personalized Retrieval-Augmented Generation**|Linhai Zhang et.al.|[2503.01315](http://arxiv.org/abs/2503.01315)|null|
-|**2025-03-03**|**Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs**|Rachit Saluja et.al.|[2503.01194](http://arxiv.org/abs/2503.01194)|null|
+|**2025-03-03**|**Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs**|Rachit Saluja et.al.|[2503.01194](http://arxiv.org/abs/2503.01194)|**[link](https://github.com/rachitsaluja/pathrep-bench)**|
 |**2025-03-03**|**Large Language Models for Healthcare Text Classification: A Systematic Review**|Hajar Sakai et.al.|[2503.01159](http://arxiv.org/abs/2503.01159)|null|
 |**2025-03-02**|**Language-agnostic, automated assessment of listeners' speech recall using large language models**|Björn Herrmann et.al.|[2503.01045](http://arxiv.org/abs/2503.01045)|null|
 |**2025-03-02**|**FunBench: Benchmarking Fundus Reading Skills of MLLMs**|Qijie Wei et.al.|[2503.00901](http://arxiv.org/abs/2503.00901)|null|
@@ -1405,7 +1405,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1429,16 +1429,16 @@
 |**2025-03-06**|**Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2503.04162](http://arxiv.org/abs/2503.04162)|null|
 |**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
 |**2025-03-05**|**Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis**|Ahmad Hafez et.al.|[2503.03911](http://arxiv.org/abs/2503.03911)|**[link](https://github.com/TUM-CPS-HN/SafeLLMRA)**|
-|**2025-03-05**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
+|**2025-03-07**|**LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach**|Hetarth Chopra et.al.|[2503.03874](http://arxiv.org/abs/2503.03874)|null|
 |**2025-03-04**|**BotUmc: An Uncertainty-Aware Twitter Bot Detection with Multi-view Causal Inference**|Tao Yang et.al.|[2503.03775](http://arxiv.org/abs/2503.03775)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
-|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|**[link](https://github.com/emcie-co/parlant)**|
 |**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194](http://arxiv.org/abs/2503.03194)|null|
 |**2025-03-04**|**SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs**|Samir Abdaljalil et.al.|[2503.03032](http://arxiv.org/abs/2503.03032)|null|
 |**2025-03-04**|**Effectively Steer LLM To Follow Preference via Building Confident Directions**|Bingqing Song et.al.|[2503.02989](http://arxiv.org/abs/2503.02989)|null|
 |**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
 |**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
-|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|**[link](https://github.com/open-compass/anah)**|
 |**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
 |**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
 |**2025-03-04**|**Multidimensional Consistency Improves Reasoning in Language Models**|Huiyuan Lai et.al.|[2503.02670](http://arxiv.org/abs/2503.02670)|null|
@@ -1453,7 +1453,7 @@
 |**2025-03-03**|**Can (A)I Change Your Mind?**|Miriam Havin et.al.|[2503.01844](http://arxiv.org/abs/2503.01844)|null|
 |**2025-03-04**|**Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints**|Sam Bowyer et.al.|[2503.01747](http://arxiv.org/abs/2503.01747)|null|
 |**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
-|**2025-03-03**|**When an LLM is apprehensive about its answers -- and when its uncertainty is justified**|Petr Sychev et.al.|[2503.01688](http://arxiv.org/abs/2503.01688)|null|
+|**2025-03-03**|**When an LLM is apprehensive about its answers -- and when its uncertainty is justified**|Petr Sychev et.al.|[2503.01688](http://arxiv.org/abs/2503.01688)|**[link](https://github.com/LabARSS/question-complextiy-estimation)**|
 |**2025-03-03**|**Evaluating LLMs' Assessment of Mixed-Context Hallucination Through the Lens of Summarization**|Siya Qi et.al.|[2503.01670](http://arxiv.org/abs/2503.01670)|null|
 |**2025-03-03**|**Detecting Stylistic Fingerprints of Large Language Models**|Yehonatan Bitton et.al.|[2503.01659](http://arxiv.org/abs/2503.01659)|null|
 |**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
@@ -2659,7 +2659,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
