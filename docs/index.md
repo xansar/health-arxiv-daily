@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@ layout: default
 |**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194](http://arxiv.org/abs/2503.03194)|null|
 |**2025-03-04**|**From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance**|Jiacheng Tang et.al.|[2503.02760](http://arxiv.org/abs/2503.02760)|null|
 |**2025-03-04**|**The Effectiveness of Large Language Models in Transforming Unstructured Text to Standardized Formats**|William Brach et.al.|[2503.02650](http://arxiv.org/abs/2503.02650)|null|
-|**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|null|
+|**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|**[link](https://github.com/jzy-123/biod2c)**|
 |**2025-03-04**|**MedEthicEval: Evaluating Large Language Models Based on Chinese Medical Ethics**|Haoan Jin et.al.|[2503.02374](http://arxiv.org/abs/2503.02374)|null|
 |**2025-03-06**|**EchoQA: A Large Collection of Instruction Tuning Data for Echocardiogram Reports**|Lama Moukheiber et.al.|[2503.02365](http://arxiv.org/abs/2503.02365)|null|
 |**2025-03-04**|**Add-One-In: Incremental Sample Selection for Large Language Models via a Choice-Based Greedy Paradigm**|Zhuo Li et.al.|[2503.02359](http://arxiv.org/abs/2503.02359)|null|
