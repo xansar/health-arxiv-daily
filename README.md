@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-03-12**|**Teaching LLMs How to Learn with Contextual Fine-Tuning**|Younwoo Choi et.al.|[2503.09032](http://arxiv.org/abs/2503.09032)|null|
 |**2025-03-11**|**Towards Scalable and Cross-Lingual Specialist Language Models for Oncology**|Morteza Rohanian et.al.|[2503.08323](http://arxiv.org/abs/2503.08323)|null|
 |**2025-03-10**|**Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan**|Matthias Schöffel et.al.|[2503.07827](http://arxiv.org/abs/2503.07827)|null|
-|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|**[link](https://github.com/gersteinlab/medagents-benchmark)**|
 |**2025-03-10**|**Anatomy-Aware Conditional Image-Text Retrieval**|Meng Zheng et.al.|[2503.07456](http://arxiv.org/abs/2503.07456)|null|
 |**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
 |**2025-03-10**|**Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies**|Luyi Jiang et.al.|[2503.07306](http://arxiv.org/abs/2503.07306)|null|
@@ -45,7 +45,7 @@
 |**2025-03-08**|**Towards Conversational AI for Disease Management**|Anil Palepu et.al.|[2503.06074](http://arxiv.org/abs/2503.06074)|null|
 |**2025-03-01**|**MedSimAI: Simulation and Formative Feedback Generation to Enhance Deliberate Practice in Medical Education**|Yann Hicke et.al.|[2503.05793](http://arxiv.org/abs/2503.05793)|null|
 |**2025-03-07**|**Statistical Guarantees of Correctness Coverage for Medical Multiple-Choice Question Answering**|Yusong Ke et.al.|[2503.05505](http://arxiv.org/abs/2503.05505)|null|
-|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|null|
+|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|**[link](https://github.com/zhenxuan-zhang/gema_score)**|
 |**2025-03-06**|**HILGEN: Hierarchically-Informed Data Generation for Biomedical NER Using Knowledgebases and Large Language Models**|Yao Ge et.al.|[2503.04930](http://arxiv.org/abs/2503.04930)|null|
 |**2025-03-10**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
 |**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
@@ -53,13 +53,13 @@
 |**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
 |**2025-03-06**|**Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting**|Jiyue Jiang et.al.|[2503.04013](http://arxiv.org/abs/2503.04013)|null|
 |**2025-03-06**|**RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models**|Wenhui Zhu et.al.|[2503.03987](http://arxiv.org/abs/2503.03987)|null|
-|**2025-03-05**|**RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction**|Fenglin Liu et.al.|[2503.03802](http://arxiv.org/abs/2503.03802)|null|
-|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction**|Fenglin Liu et.al.|[2503.03802](http://arxiv.org/abs/2503.03802)|**[link](https://github.com/ai-in-health/riskagent)**|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|**[link](https://github.com/zzhustc2016/lamo)**|
 |**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645](http://arxiv.org/abs/2503.03645)|null|
 |**2025-03-05**|**Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling**|Keqi Chen et.al.|[2503.03607](http://arxiv.org/abs/2503.03607)|null|
 |**2025-03-05**|**Structured Outputs Enable General-Purpose LLMs to be Medical Experts**|Guangfu Guo et.al.|[2503.03194](http://arxiv.org/abs/2503.03194)|null|
 |**2025-03-04**|**From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance**|Jiacheng Tang et.al.|[2503.02760](http://arxiv.org/abs/2503.02760)|null|
-|**2025-03-04**|**The Effectiveness of Large Language Models in Transforming Unstructured Text to Standardized Formats**|William Brach et.al.|[2503.02650](http://arxiv.org/abs/2503.02650)|null|
+|**2025-03-04**|**The Effectiveness of Large Language Models in Transforming Unstructured Text to Standardized Formats**|William Brach et.al.|[2503.02650](http://arxiv.org/abs/2503.02650)|**[link](https://github.com/williambrach/llm-text2cooklang)**|
 |**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|**[link](https://github.com/jzy-123/biod2c)**|
 |**2025-03-04**|**MedEthicEval: Evaluating Large Language Models Based on Chinese Medical Ethics**|Haoan Jin et.al.|[2503.02374](http://arxiv.org/abs/2503.02374)|null|
 |**2025-03-06**|**EchoQA: A Large Collection of Instruction Tuning Data for Echocardiogram Reports**|Lama Moukheiber et.al.|[2503.02365](http://arxiv.org/abs/2503.02365)|null|
@@ -1431,7 +1431,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1447,10 +1447,10 @@
 |**2025-03-12**|**Probabilistic Reasoning with LLMs for k-anonymity Estimation**|Jonathan Zheng et.al.|[2503.09674](http://arxiv.org/abs/2503.09674)|null|
 |**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
 |**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335](http://arxiv.org/abs/2503.09335)|null|
-|**2025-03-12**|**Token Weighting for Long-Range Language Modeling**|Falko Helm et.al.|[2503.09202](http://arxiv.org/abs/2503.09202)|null|
+|**2025-03-12**|**Token Weighting for Long-Range Language Modeling**|Falko Helm et.al.|[2503.09202](http://arxiv.org/abs/2503.09202)|**[link](https://github.com/ukplab/naacl2025-token-weighting)**|
 |**2025-03-12**|**Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection**|Chaowei Zhang et.al.|[2503.09153](http://arxiv.org/abs/2503.09153)|null|
 |**2025-03-11**|**Gradient-guided Attention Map Editing: Towards Efficient Contextual Hallucination Mitigation**|Yu Wang et.al.|[2503.08963](http://arxiv.org/abs/2503.08963)|null|
-|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|**[link](https://github.com/cxliu0314/colmdriver)**|
 |**2025-03-11**|**DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**|Minjun Zhu et.al.|[2503.08569](http://arxiv.org/abs/2503.08569)|null|
 |**2025-03-11**|**Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework**|Zhuo Zhi et.al.|[2503.08308](http://arxiv.org/abs/2503.08308)|null|
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2503.08162](http://arxiv.org/abs/2503.08162)|null|
@@ -1471,7 +1471,7 @@
 |**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430](http://arxiv.org/abs/2503.06430)|null|
 |**2025-03-09**|**Performant LLM Agentic Framework for Conversational AI**|Alex Casella et.al.|[2503.06410](http://arxiv.org/abs/2503.06410)|null|
 |**2025-03-08**|**Sample-aware Adaptive Structured Pruning for Large Language Models**|Jun Kong et.al.|[2503.06184](http://arxiv.org/abs/2503.06184)|null|
-|**2025-03-08**|**Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions**|Xudong Wang et.al.|[2503.06149](http://arxiv.org/abs/2503.06149)|null|
+|**2025-03-08**|**Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions**|Xudong Wang et.al.|[2503.06149](http://arxiv.org/abs/2503.06149)|**[link](https://github.com/wang104225/WirelessHallu)**|
 |**2025-03-08**|**A Survey on Post-training of Large Language Models**|Guiyao Tie et.al.|[2503.06072](http://arxiv.org/abs/2503.06072)|null|
 |**2025-03-07**|**SINdex: Semantic INconsistency Index for Hallucination Detection in LLMs**|Samir Abdaljalil et.al.|[2503.05980](http://arxiv.org/abs/2503.05980)|null|
 |**2025-03-07**|**TPU-Gen: LLM-Driven Custom Tensor Processing Unit Generator**|Deepak Vungarala et.al.|[2503.05951](http://arxiv.org/abs/2503.05951)|null|
@@ -1481,7 +1481,7 @@
 |**2025-03-07**|**Statistical Guarantees of Correctness Coverage for Medical Multiple-Choice Question Answering**|Yusong Ke et.al.|[2503.05505](http://arxiv.org/abs/2503.05505)|null|
 |**2025-03-07**|**Maximum Hallucination Standards for Domain-Specific Large Language Models**|Tingmingke Lu et.al.|[2503.05481](http://arxiv.org/abs/2503.05481)|null|
 |**2025-03-07**|**An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning**|Navdeep Kaur et.al.|[2503.05439](http://arxiv.org/abs/2503.05439)|null|
-|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|null|
+|**2025-03-07**|**GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation**|Zhenxuan Zhang et.al.|[2503.05347](http://arxiv.org/abs/2503.05347)|**[link](https://github.com/zhenxuan-zhang/gema_score)**|
 |**2025-03-07**|**Path Pooling: Train-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|null|
 |**2025-03-07**|**RocketEval: Efficient Automated LLM Evaluation via Grading Checklist**|Tianjun Wei et.al.|[2503.05142](http://arxiv.org/abs/2503.05142)|null|
 |**2025-03-06**|**LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression**|Souvik Kundu et.al.|[2503.04982](http://arxiv.org/abs/2503.04982)|null|
@@ -2724,7 +2724,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
