@@ -176,7 +176,7 @@
 |**2025-02-09**|**RECOVER: Designing a Large Language Model-based Remote Patient Monitoring System for Postoperative Gastrointestinal Cancer Care**|Ziqi Yang et.al.|[2502.05740](http://arxiv.org/abs/2502.05740)|null|
 |**2025-02-08**|**KMI: A Dataset of Korean Motivational Interviewing Dialogues for Psychotherapy**|Hyunjong Kim et.al.|[2502.05651](http://arxiv.org/abs/2502.05651)|null|
 |**2025-02-08**|**ELMTEX: Fine-Tuning Large Language Models for Structured Clinical Information Extraction. A Case Study on Clinical Reports**|Aynur Guluzade et.al.|[2502.05638](http://arxiv.org/abs/2502.05638)|**[link](https://gitlab.cc-asp.fraunhofer.de/health-open/elmtex)**|
-|**2025-02-08**|**OntoTune: Ontology-Driven Self-training for Aligning Large Language Models**|Zhiqiang Liu et.al.|[2502.05478](http://arxiv.org/abs/2502.05478)|null|
+|**2025-02-08**|**OntoTune: Ontology-Driven Self-training for Aligning Large Language Models**|Zhiqiang Liu et.al.|[2502.05478](http://arxiv.org/abs/2502.05478)|**[link](https://github.com/zjukg/ontotune)**|
 |**2025-02-12**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
 |**2025-02-07**|**"It Felt Like I Was Left in the Dark": Exploring Information Needs and Design Opportunities for Family Caregivers of Older Adult Patients in Critical Care Settings**|Shihan Fu et.al.|[2502.05115](http://arxiv.org/abs/2502.05115)|null|
 |**2025-02-07**|**Enhancing Health Information Retrieval with RAG by Prioritizing Topical Relevance and Factual Accuracy**|Rishabh Uapadhyay et.al.|[2502.04666](http://arxiv.org/abs/2502.04666)|null|
@@ -246,7 +246,7 @@
 |**2025-01-17**|**Demo: Interactive Visualization of Semantic Relationships in a Biomedical Project's Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09909](http://arxiv.org/abs/2501.09909)|null|
 |**2025-01-17**|**Position: Open and Closed Large Language Models in Healthcare**|Jiawei Xu et.al.|[2501.09906](http://arxiv.org/abs/2501.09906)|null|
 |**2025-01-16**|**Bridging Language Barriers in Healthcare: A Study on Arabic LLMs**|Nada Saadi et.al.|[2501.09825](http://arxiv.org/abs/2501.09825)|null|
-|**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
+|**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|**[link](https://github.com/jeslev/llm-patient-ehr)**|
 |**2025-01-16**|**FineMedLM-o1: Enhancing the Medical Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training**|Hongzhou Yu et.al.|[2501.09213](http://arxiv.org/abs/2501.09213)|**[link](https://github.com/hongzhouyu/finemed)**|
 |**2025-01-17**|**Development and Validation of the Provider Documentation Summarization Quality Instrument for Large Language Models**|Emma Croxford et.al.|[2501.08977](http://arxiv.org/abs/2501.08977)|null|
 |**2025-01-26**|**Enhanced Large Language Models for Effective Screening of Depression and Anxiety**|June M. Liu et.al.|[2501.08769](http://arxiv.org/abs/2501.08769)|null|
@@ -1502,24 +1502,24 @@
 |**2025-03-04**|**SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs**|Samir Abdaljalil et.al.|[2503.03032](http://arxiv.org/abs/2503.03032)|null|
 |**2025-03-04**|**Effectively Steer LLM To Follow Preference via Building Confident Directions**|Bingqing Song et.al.|[2503.02989](http://arxiv.org/abs/2503.02989)|null|
 |**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
-|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
+|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|**[link](https://github.com/ziconghe2002/hcl-spark)**|
 |**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|**[link](https://github.com/open-compass/anah)**|
 |**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
-|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
+|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|**[link](https://github.com/weiminxiong/mpo)**|
 |**2025-03-04**|**Multidimensional Consistency Improves Reasoning in Language Models**|Huiyuan Lai et.al.|[2503.02670](http://arxiv.org/abs/2503.02670)|null|
 |**2025-03-05**|**Rewarding Doubt: A Reinforcement Learning Approach to Confidence Calibration of Large Language Models**|Paul Stangel et.al.|[2503.02623](http://arxiv.org/abs/2503.02623)|null|
 |**2025-03-04**|**AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection**|Dimitra Karkani et.al.|[2503.02442](http://arxiv.org/abs/2503.02442)|null|
 |**2025-03-04**|**Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling**|Hang Zheng et.al.|[2503.02233](http://arxiv.org/abs/2503.02233)|null|
-|**2025-03-04**|**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**|Saeed Ranjbar Alvar et.al.|[2503.02175](http://arxiv.org/abs/2503.02175)|null|
+|**2025-03-04**|**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**|Saeed Ranjbar Alvar et.al.|[2503.02175](http://arxiv.org/abs/2503.02175)|**[link](https://github.com/vbdi/divprune)**|
 |**2025-03-03**|**OVAMOS: A Framework for Open-Vocabulary Multi-Object Search in Unknown Environments**|Qianwei Wang et.al.|[2503.02106](http://arxiv.org/abs/2503.02106)|null|
-|**2025-03-05**|**HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs**|Tin Nguyen et.al.|[2503.02003](http://arxiv.org/abs/2503.02003)|null|
+|**2025-03-05**|**HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs**|Tin Nguyen et.al.|[2503.02003](http://arxiv.org/abs/2503.02003)|**[link](https://github.com/ngthanhtin/textual_grounding)**|
 |**2025-03-02**|**NCL-UoR at SemEval-2025 Task 3: Detecting Multilingual Hallucination and Related Observable Overgeneration Text Spans with Modified RefChecker and Modified SeflCheckGPT**|Jiaying Hong et.al.|[2503.01921](http://arxiv.org/abs/2503.01921)|null|
 |**2025-03-01**|**How to Steer LLM Latents for Hallucination Detection?**|Seongheon Park et.al.|[2503.01917](http://arxiv.org/abs/2503.01917)|null|
 |**2025-03-03**|**Can (A)I Change Your Mind?**|Miriam Havin et.al.|[2503.01844](http://arxiv.org/abs/2503.01844)|null|
 |**2025-03-04**|**Position: Don't use the CLT in LLM evals with fewer than a few hundred datapoints**|Sam Bowyer et.al.|[2503.01747](http://arxiv.org/abs/2503.01747)|null|
 |**2025-03-03**|**Generate, Discriminate, Evolve: Enhancing Context Faithfulness via Fine-Grained Sentence-Level Self-Evolution**|Kun Li et.al.|[2503.01695](http://arxiv.org/abs/2503.01695)|null|
 |**2025-03-03**|**When an LLM is apprehensive about its answers -- and when its uncertainty is justified**|Petr Sychev et.al.|[2503.01688](http://arxiv.org/abs/2503.01688)|**[link](https://github.com/LabARSS/question-complextiy-estimation)**|
-|**2025-03-03**|**Evaluating LLMs' Assessment of Mixed-Context Hallucination Through the Lens of Summarization**|Siya Qi et.al.|[2503.01670](http://arxiv.org/abs/2503.01670)|null|
+|**2025-03-03**|**Evaluating LLMs' Assessment of Mixed-Context Hallucination Through the Lens of Summarization**|Siya Qi et.al.|[2503.01670](http://arxiv.org/abs/2503.01670)|**[link](https://github.com/cece00/FHSumBench)**|
 |**2025-03-03**|**Detecting Stylistic Fingerprints of Large Language Models**|Yehonatan Bitton et.al.|[2503.01659](http://arxiv.org/abs/2503.01659)|null|
 |**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
 |**2025-03-03**|**Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering**|Zhanghao Hu et.al.|[2503.01606](http://arxiv.org/abs/2503.01606)|null|
@@ -1532,7 +1532,7 @@
 |**2025-03-03**|**Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG**|Wenbin Wang et.al.|[2503.01222](http://arxiv.org/abs/2503.01222)|**[link](https://github.com/dreammr/rap)**|
 |**2025-03-04**|**Can Large Language Models Help Experimental Design for Causal Discovery?**|Junyi Li et.al.|[2503.01139](http://arxiv.org/abs/2503.01139)|null|
 |**2025-03-02**|**Unmasking Digital Falsehoods: A Comparative Analysis of LLM-Based Misinformation Detection Strategies**|Tianyi Huang et.al.|[2503.00724](http://arxiv.org/abs/2503.00724)|null|
-|**2025-03-02**|**GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development**|Leming Shen et.al.|[2503.00686](http://arxiv.org/abs/2503.00686)|null|
+|**2025-03-02**|**GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development**|Leming Shen et.al.|[2503.00686](http://arxiv.org/abs/2503.00686)|**[link](https://github.com/lemingshen/GPIoT)**|
 |**2025-03-02**|**From Prompting to Partnering: Personalization Features for Human-LLM Interactions**|Si Thu et.al.|[2503.00681](http://arxiv.org/abs/2503.00681)|null|
 |**2025-03-01**|**Embracing Diversity: A Multi-Perspective Approach with Soft Labels**|Benedetta Muscato et.al.|[2503.00489](http://arxiv.org/abs/2503.00489)|null|
 |**2025-03-01**|**U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack**|Yunfan Gao et.al.|[2503.00353](http://arxiv.org/abs/2503.00353)|**[link](https://github.com/tongji-kgllm/u-niah)**|
@@ -2468,7 +2468,7 @@
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|**[link](https://github.com/holistic-ai/THaMES)**|
 |**2024-09-25**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
 |**2024-09-17**|**Evaluating the Impact of Compression Techniques on Task-Specific Performance of Large Language Models**|Bishwash Khanal et.al.|[2409.11233](http://arxiv.org/abs/2409.11233)|null|
-|**2024-09-17**|**Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization**|Jianing Wang et.al.|[2409.11212](http://arxiv.org/abs/2409.11212)|null|
+|**2024-09-17**|**Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization**|Jianing Wang et.al.|[2409.11212](http://arxiv.org/abs/2409.11212)|**[link](https://github.com/wjn1996/Uncertainty-Preference-Optimization)**|
 |**2024-09-17**|**A Comprehensive Evaluation of Quantized Instruction-Tuned Large Language Models: An Experimental Analysis up to 405B**|Jemin Lee et.al.|[2409.11055](http://arxiv.org/abs/2409.11055)|**[link](https://gitlab.com/ones-ai/eval-quant-llms)**|
 |**2024-09-16**|**Model Tells Itself Where to Attend: Faithfulness Meets Automatic Attention Steering**|Qingru Zhang et.al.|[2409.10790](http://arxiv.org/abs/2409.10790)|null|
 |**2024-09-16**|**"The Data Says Otherwise"-Towards Automated Fact-checking and Communication of Data Claims**|Yu Fu et.al.|[2409.10713](http://arxiv.org/abs/2409.10713)|null|
