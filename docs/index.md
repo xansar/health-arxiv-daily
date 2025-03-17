@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Optimizing Large Language Models for Detecting Symptoms of Comorbid Depression or Anxiety in Chronic Diseases: Insights from Patient Messages**|Jiyeong Kim et.al.|[2503.11384](http://arxiv.org/abs/2503.11384)|null|
+|**2025-03-14**|**TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools**|Shanghua Gao et.al.|[2503.10970](http://arxiv.org/abs/2503.10970)|**[link](https://huggingface.co/mims-harvard/ToolRAG-T1-GTE-Qwen2-1.5B)**|
+|**2025-03-12**|**CALLM: Context-Aware Emotion Analysis in Cancer Survivors Using LLMs and Retrieval-Augmented Mobile Diaries**|Zhiyuan Wang et.al.|[2503.10707](http://arxiv.org/abs/2503.10707)|null|
+|**2025-03-12**|**Medical Large Language Model Benchmarks Should Prioritize Construct Validity**|Ahmed Alaa et.al.|[2503.10694](http://arxiv.org/abs/2503.10694)|null|
 |**2025-03-13**|**Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models**|Afrar Jahin et.al.|[2503.10573](http://arxiv.org/abs/2503.10573)|null|
 |**2025-03-13**|**LLMs in Disease Diagnosis: A Comparative Study of DeepSeek-R1 and O3 Mini Across Chronic Health Conditions**|Gaurav Kumar Gupta et.al.|[2503.10486](http://arxiv.org/abs/2503.10486)|null|
 |**2025-03-13**|**Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text**|Avinash Patil et.al.|[2503.10095](http://arxiv.org/abs/2503.10095)|null|
@@ -1439,6 +1443,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning**|Jia Zhang et.al.|[2503.11441](http://arxiv.org/abs/2503.11441)|null|
+|**2025-03-14**|**Modeling Subjectivity in Cognitive Appraisal with Language Models**|Yuxiang Zhou et.al.|[2503.11381](http://arxiv.org/abs/2503.11381)|null|
+|**2025-03-14**|**Annotating Scientific Uncertainty: A comprehensive model using linguistic patterns and comparison with existing approaches**|Panggih Kusuma Ningrum et.al.|[2503.11376](http://arxiv.org/abs/2503.11376)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**Rule-Guided Feedback: Enhancing Reasoning by Enforcing Rule Adherence in Large Language Models**|Aissatou Diallo et.al.|[2503.11336](http://arxiv.org/abs/2503.11336)|null|
+|**2025-03-14**|**Line of Duty: Evaluating LLM Self-Knowledge via Consistency in Feasibility Boundaries**|Sahil Kale et.al.|[2503.11256](http://arxiv.org/abs/2503.11256)|null|
+|**2025-03-14**|**Collaboration is all you need: LLM Assisted Safe Code Translation**|Rabimba Karanjai et.al.|[2503.11237](http://arxiv.org/abs/2503.11237)|null|
+|**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
+|**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
+|**2025-03-12**|**CALLM: Context-Aware Emotion Analysis in Cancer Survivors Using LLMs and Retrieval-Augmented Mobile Diaries**|Zhiyuan Wang et.al.|[2503.10707](http://arxiv.org/abs/2503.10707)|null|
+|**2025-03-12**|**Battling Misinformation: An Empirical Study on Adversarial Factuality in Open-Source Large Language Models**|Shahnewaz Karim Sakib et.al.|[2503.10690](http://arxiv.org/abs/2503.10690)|null|
 |**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/abs/2503.10602)|**[link](https://github.com/jinhaoduan/truthprint)**|
 |**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509](http://arxiv.org/abs/2503.10509)|null|
 |**2025-03-13**|**LLMs in Disease Diagnosis: A Comparative Study of DeepSeek-R1 and O3 Mini Across Chronic Health Conditions**|Gaurav Kumar Gupta et.al.|[2503.10486](http://arxiv.org/abs/2503.10486)|null|
