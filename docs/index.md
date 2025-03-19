@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,7 +65,7 @@ layout: default
 |**2025-03-10**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
 |**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
 |**2025-03-06**|**TIMER: Temporal Instruction Modeling and Evaluation for Longitudinal Clinical Records**|Hejie Cui et.al.|[2503.04176](http://arxiv.org/abs/2503.04176)|null|
-|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
+|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|**[link](https://github.com/PKUDigitalHealth/KidneyTalk-open)**|
 |**2025-03-06**|**Benchmarking Large Language Models on Multiple Tasks in Bioinformatics NLP with Prompting**|Jiyue Jiang et.al.|[2503.04013](http://arxiv.org/abs/2503.04013)|null|
 |**2025-03-06**|**RetinalGPT: A Retinal Clinical Preference Conversational Assistant Powered by Large Vision-Language Models**|Wenhui Zhu et.al.|[2503.03987](http://arxiv.org/abs/2503.03987)|null|
 |**2025-03-05**|**RiskAgent: Autonomous Medical AI Copilot for Generalist Risk Prediction**|Fenglin Liu et.al.|[2503.03802](http://arxiv.org/abs/2503.03802)|**[link](https://github.com/ai-in-health/riskagent)**|
@@ -1458,7 +1458,7 @@ layout: default
 |**2025-03-16**|**Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?**|Jacqueline L. Mitchell et.al.|[2503.12686](http://arxiv.org/abs/2503.12686)|null|
 |**2025-03-16**|**From Guessing to Asking: An Approach to Resolving the Persona Knowledge Gap in LLMs during Multi-Turn Conversations**|Sarvesh Baskar et.al.|[2503.12556](http://arxiv.org/abs/2503.12556)|null|
 |**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
-|**2025-03-16**|**SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**|Jianzhu Yao et.al.|[2503.12349](http://arxiv.org/abs/2503.12349)|null|
+|**2025-03-18**|**SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**|Jianzhu Yao et.al.|[2503.12349](http://arxiv.org/abs/2503.12349)|null|
 |**2025-03-15**|**PredicateFix: Repairing Static Analysis Alerts with Bridging Predicates**|Yuan-An Xiao et.al.|[2503.12205](http://arxiv.org/abs/2503.12205)|null|
 |**2025-03-15**|**Applications of Large Language Model Reasoning in Feature Generation**|Dharani Chandra et.al.|[2503.11989](http://arxiv.org/abs/2503.11989)|null|
 |**2025-03-14**|**LLM Agents for Education: Advances and Applications**|Zhendong Chu et.al.|[2503.11733](http://arxiv.org/abs/2503.11733)|null|
