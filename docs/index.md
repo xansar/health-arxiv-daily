@@ -22,15 +22,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222](http://arxiv.org/abs/2503.17222)|null|
+|**2025-03-20**|**Automated Harmfulness Testing for Code Large Language Models**|Honghao Tan et.al.|[2503.16740](http://arxiv.org/abs/2503.16740)|null|
+|**2025-03-18**|**From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey Knowledge Graph Construction**|Hassan S. Al Khatib et.al.|[2503.16533](http://arxiv.org/abs/2503.16533)|null|
+|**2025-03-18**|**Enhancing LLM Generation with Knowledge Hypergraph for Evidence-Based Medicine**|Chengfeng Dou et.al.|[2503.16530](http://arxiv.org/abs/2503.16530)|null|
 |**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
-|**2025-03-20**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
+|**2025-03-21**|**Bridging Technology and Humanities: Evaluating the Impact of Large Language Models on Social Sciences Research with DeepSeek-R1**|Peiran Gu et.al.|[2503.16304](http://arxiv.org/abs/2503.16304)|null|
 |**2025-03-21**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[2503.16023](http://arxiv.org/abs/2503.16023)|null|
 |**2025-03-20**|**Towards Automatic Continual Learning: A Self-Adaptive Framework for Continual Instruction Tuning**|Peiyi Lin et.al.|[2503.15924](http://arxiv.org/abs/2503.15924)|null|
 |**2025-03-20**|**DeepPsy-Agent: A Stage-Aware and Deep-Thinking Emotional Support Agent System**|Kai Chen et.al.|[2503.15876](http://arxiv.org/abs/2503.15876)|null|
 |**2025-03-19**|**Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation**|Hisashi Johno et.al.|[2503.15664](http://arxiv.org/abs/2503.15664)|null|
 |**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
-|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|null|
+|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|**[link](https://github.com/inato/ai_trial_eligibility_assessment)**|
 |**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169](http://arxiv.org/abs/2503.15169)|null|
 |**2025-03-19**|**Envisioning an AI-Enhanced Mental Health Ecosystem**|Kellie Yu Hui Sim et.al.|[2503.14883](http://arxiv.org/abs/2503.14883)|null|
 |**2025-03-18**|**Generating Medically-Informed Explanations for Depression Detection using LLMs**|Xiangyong Chen et.al.|[2503.14671](http://arxiv.org/abs/2503.14671)|null|
@@ -1465,10 +1469,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
+|**2025-03-20**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581](http://arxiv.org/abs/2503.16581)|null|
+|**2025-03-19**|**Poly-FEVER: A Multilingual Fact Verification Benchmark for Hallucination Detection in Large Language Models**|Hanzhi Zhang et.al.|[2503.16541](http://arxiv.org/abs/2503.16541)|null|
+|**2025-03-18**|**Do Multimodal Large Language Models Understand Welding?**|Grigorii Khvatskii et.al.|[2503.16537](http://arxiv.org/abs/2503.16537)|null|
+|**2025-03-18**|**Enhancing LLM Generation with Knowledge Hypergraph for Evidence-Based Medicine**|Chengfeng Dou et.al.|[2503.16530](http://arxiv.org/abs/2503.16530)|null|
+|**2025-03-18**|**HDLCoRe: A Training-Free Framework for Mitigating Hallucinations in LLM-Generated HDL**|Heng Ping et.al.|[2503.16528](http://arxiv.org/abs/2503.16528)|null|
 |**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
-|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|null|
+|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|**[link](https://github.com/razvanip13/towards_lighter_and_robust_evaluation)**|
 |**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990](http://arxiv.org/abs/2503.15990)|null|
-|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|null|
+|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|**[link](https://github.com/byronbbl/ck-plug)**|
 |**2025-03-21**|**Enhancing Zero-Shot Image Recognition in Vision-Language Models through Human-like Concept Guidance**|Hui Liu et.al.|[2503.15886](http://arxiv.org/abs/2503.15886)|null|
 |**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
 |**2025-03-20**|**Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey**|Xiaoou Liu et.al.|[2503.15850](http://arxiv.org/abs/2503.15850)|null|
@@ -1478,11 +1489,11 @@ layout: default
 |**2025-03-19**|**How Well Can AI Build SD Models?**|William Schoenberg et.al.|[2503.15580](http://arxiv.org/abs/2503.15580)|null|
 |**2025-03-19**|**Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs**|Yuqi Zhu et.al.|[2503.15341](http://arxiv.org/abs/2503.15341)|null|
 |**2025-03-19**|**Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?**|Roberto Araya et.al.|[2503.15268](http://arxiv.org/abs/2503.15268)|null|
-|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
+|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 |**2025-03-19**|**Comparing Llama3 and DeepSeekR1 on Biomedical Text Classification Tasks**|Yuting Guo et.al.|[2503.15169](http://arxiv.org/abs/2503.15169)|null|
 |**2025-03-19**|**ELTEX: A Framework for Domain-Driven Synthetic Data Generation**|Arina Razmyslovich et.al.|[2503.15055](http://arxiv.org/abs/2503.15055)|**[link](https://github.com/1712n/eltex)**|
 |**2025-03-18**|**Uncertainty Distillation: Teaching Language Models to Express Semantic Confidence**|Sophia Hager et.al.|[2503.14749](http://arxiv.org/abs/2503.14749)|null|
-|**2025-03-18**|**Assessing Large Language Models for Automated Feedback Generation in Learning Programming Problem Solving**|Priscylla Silva et.al.|[2503.14630](http://arxiv.org/abs/2503.14630)|null|
+|**2025-03-18**|**Assessing Large Language Models for Automated Feedback Generation in Learning Programming Problem Solving**|Priscylla Silva et.al.|[2503.14630](http://arxiv.org/abs/2503.14630)|**[link](https://github.com/priscylla/Assessing-LMMs-for-Feedback-Generation)**|
 |**2025-03-18**|**Calibrating Verbal Uncertainty as a Linear Feature to Reduce Hallucinations**|Ziwei Ji et.al.|[2503.14477](http://arxiv.org/abs/2503.14477)|null|
 |**2025-03-18**|**From "Hallucination" to "Suture": Insights from Language Philosophy to Enhance Large Language Models**|Qiantong Wang et.al.|[2503.14392](http://arxiv.org/abs/2503.14392)|null|
 |**2025-03-18**|**How much do LLMs learn from negative examples?**|Shadi Hamdan et.al.|[2503.14391](http://arxiv.org/abs/2503.14391)|null|
@@ -1502,7 +1513,7 @@ layout: default
 |**2025-03-17**|**HICD: Hallucination-Inducing via Attention Dispersion for Contrastive Decoding to Mitigate Hallucinations in Large Language Models**|Xinyan Jiang et.al.|[2503.12908](http://arxiv.org/abs/2503.12908)|null|
 |**2025-03-16**|**Can LLMs Formally Reason as Abstract Interpreters for Program Analysis?**|Jacqueline L. Mitchell et.al.|[2503.12686](http://arxiv.org/abs/2503.12686)|null|
 |**2025-03-16**|**From Guessing to Asking: An Approach to Resolving the Persona Knowledge Gap in LLMs during Multi-Turn Conversations**|Sarvesh Baskar et.al.|[2503.12556](http://arxiv.org/abs/2503.12556)|null|
-|**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
+|**2025-03-21**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
 |**2025-03-18**|**SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?**|Jianzhu Yao et.al.|[2503.12349](http://arxiv.org/abs/2503.12349)|null|
 |**2025-03-15**|**PredicateFix: Repairing Static Analysis Alerts with Bridging Predicates**|Yuan-An Xiao et.al.|[2503.12205](http://arxiv.org/abs/2503.12205)|null|
 |**2025-03-20**|**Applications of Large Language Model Reasoning in Feature Generation**|Dharani Chandra et.al.|[2503.11989](http://arxiv.org/abs/2503.11989)|null|
