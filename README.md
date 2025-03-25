@@ -18,6 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Enhancing Multi-Label Emotion Analysis and Corresponding Intensities for Ethiopian Languages**|Tadesse Destaw Belay et.al.|[2503.18253](http://arxiv.org/abs/2503.18253)|null|
+|**2025-03-23**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227](http://arxiv.org/abs/2503.18227)|null|
+|**2025-03-23**|**AGIR: Assessing 3D Gait Impairment with Reasoning based on LLMs**|Diwei Wang et.al.|[2503.18141](http://arxiv.org/abs/2503.18141)|null|
+|**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
+|**2025-03-23**|**Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA**|Justice Ou et.al.|[2503.17933](http://arxiv.org/abs/2503.17933)|null|
+|**2025-03-23**|**MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**|Hsin-Ling Hsu et.al.|[2503.17900](http://arxiv.org/abs/2503.17900)|null|
+|**2025-03-22**|**Satisfactory Medical Consultation based on Terminology-Enhanced Information Retrieval and Emotional In-Context Learning**|Kaiwen Zuo et.al.|[2503.17876](http://arxiv.org/abs/2503.17876)|null|
+|**2025-03-22**|**MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**|Xiaodan Zhang et.al.|[2503.17784](http://arxiv.org/abs/2503.17784)|null|
+|**2025-03-22**|**GPBench: A Comprehensive and Fine-Grained Benchmark for Evaluating Large Language Models as General Practitioners**|Zheqing Li et.al.|[2503.17599](http://arxiv.org/abs/2503.17599)|null|
+|**2025-03-21**|**Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent**|Humza Nusrat et.al.|[2503.17553](http://arxiv.org/abs/2503.17553)|null|
+|**2025-03-21**|**An LLM-Powered Clinical Calculator Chatbot Backed by Verifiable Clinical Calculators and their Metadata**|Niranjan Kumar et.al.|[2503.17550](http://arxiv.org/abs/2503.17550)|null|
+|**2025-03-21**|**Reimagining Support: Exploring Autistic Individuals' Visions for AI in Coping with Negative Self-Talk**|Buse Carik et.al.|[2503.17504](http://arxiv.org/abs/2503.17504)|null|
+|**2025-03-21**|**Beyond Negation Detection: Comprehensive Assertion Detection Models for Clinical NLP**|Veysel Kocaman et.al.|[2503.17425](http://arxiv.org/abs/2503.17425)|null|
+|**2025-03-21**|**Understanding Social Support Needs in Questions: A Hybrid Approach Integrating Semi-Supervised Learning and LLM-based Data Augmentation**|Junwei Kuang et.al.|[2503.17421](http://arxiv.org/abs/2503.17421)|null|
 |**2025-03-21**|**Automating Adjudication of Cardiovascular Events Using Large Language Models**|Sonish Sivarajkumar et.al.|[2503.17222](http://arxiv.org/abs/2503.17222)|null|
 |**2025-03-20**|**Automated Harmfulness Testing for Code Large Language Models**|Honghao Tan et.al.|[2503.16740](http://arxiv.org/abs/2503.16740)|null|
 |**2025-03-18**|**From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey Knowledge Graph Construction**|Hassan S. Al Khatib et.al.|[2503.16533](http://arxiv.org/abs/2503.16533)|null|
@@ -1467,6 +1481,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Self-Reported Confidence of Large Language Models in Gastroenterology: Analysis of Commercial, Open-Source, and Quantized Models**|Nariman Naderi et.al.|[2503.18562](http://arxiv.org/abs/2503.18562)|null|
+|**2025-03-24**|**Bridging Writing Manner Gap in Visual Instruction Tuning by Creating LLM-aligned Instructions**|Dong Jing et.al.|[2503.18320](http://arxiv.org/abs/2503.18320)|null|
+|**2025-03-23**|**ShED-HD: A Shannon Entropy Distribution Framework for Lightweight Hallucination Detection on Edge Devices**|Aneesh Vathul et.al.|[2503.18242](http://arxiv.org/abs/2503.18242)|null|
+|**2025-03-23**|**GeoBenchX: Benchmarking LLMs for Multistep Geospatial Tasks**|Varvara Krechetova et.al.|[2503.18129](http://arxiv.org/abs/2503.18129)|null|
+|**2025-03-23**|**SUNAR: Semantic Uncertainty based Neighborhood Aware Retrieval for Complex QA**|V Venktesh et.al.|[2503.17990](http://arxiv.org/abs/2503.17990)|null|
+|**2025-03-22**|**A Modular Dataset to Demonstrate LLM Abstraction Capability**|Adam Atanas et.al.|[2503.17645](http://arxiv.org/abs/2503.17645)|null|
+|**2025-03-22**|**ConSol: Sequential Probability Ratio Testing to Find Consistent LLM Reasoning Paths Efficiently**|Jaeyeon Lee et.al.|[2503.17587](http://arxiv.org/abs/2503.17587)|null|
+|**2025-03-21**|**Fairness-Driven LLM-based Causal Discovery with Active Learning and Dynamic Scoring**|Khadija Zanna et.al.|[2503.17569](http://arxiv.org/abs/2503.17569)|null|
+|**2025-03-21**|**Judge Anything: MLLM as a Judge Across Any Modality**|Shu Pu et.al.|[2503.17489](http://arxiv.org/abs/2503.17489)|null|
 |**2025-03-21**|**LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language**|Kun Chu et.al.|[2503.17309](http://arxiv.org/abs/2503.17309)|null|
 |**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
 |**2025-03-20**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581](http://arxiv.org/abs/2503.16581)|null|
@@ -1482,7 +1505,7 @@
 |**2025-03-20**|**MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations**|Kyungho Bae et.al.|[2503.15871](http://arxiv.org/abs/2503.15871)|null|
 |**2025-03-20**|**Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey**|Xiaoou Liu et.al.|[2503.15850](http://arxiv.org/abs/2503.15850)|null|
 |**2025-03-20**|**Entropy-based Exploration Conduction for Multi-step Reasoning**|Jinghan Zhang et.al.|[2503.15848](http://arxiv.org/abs/2503.15848)|null|
-|**2025-03-20**|**DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs**|Masoud Hashemi et.al.|[2503.15793](http://arxiv.org/abs/2503.15793)|null|
+|**2025-03-23**|**DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs**|Masoud Hashemi et.al.|[2503.15793](http://arxiv.org/abs/2503.15793)|null|
 |**2025-03-19**|**R $^2$ : A LLM Based Novel-to-Screenplay Generation Framework with Causal Plot Graphs**|Zefeng Lin et.al.|[2503.15655](http://arxiv.org/abs/2503.15655)|null|
 |**2025-03-19**|**How Well Can AI Build SD Models?**|William Schoenberg et.al.|[2503.15580](http://arxiv.org/abs/2503.15580)|null|
 |**2025-03-19**|**Uncertainty-Guided Chain-of-Thought for Code Generation with LLMs**|Yuqi Zhu et.al.|[2503.15341](http://arxiv.org/abs/2503.15341)|null|
