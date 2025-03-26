@@ -22,8 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
+|**2025-03-25**|**PHEONA: An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping**|Sarah Pungitore et.al.|[2503.19265](http://arxiv.org/abs/2503.19265)|null|
 |**2025-03-24**|**Enhancing Multi-Label Emotion Analysis and Corresponding Intensities for Ethiopian Languages**|Tadesse Destaw Belay et.al.|[2503.18253](http://arxiv.org/abs/2503.18253)|null|
-|**2025-03-23**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227](http://arxiv.org/abs/2503.18227)|null|
+|**2025-03-25**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227](http://arxiv.org/abs/2503.18227)|null|
 |**2025-03-23**|**AGIR: Assessing 3D Gait Impairment with Reasoning based on LLMs**|Diwei Wang et.al.|[2503.18141](http://arxiv.org/abs/2503.18141)|null|
 |**2025-03-23**|**Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook**|Xu Zheng et.al.|[2503.18016](http://arxiv.org/abs/2503.18016)|null|
 |**2025-03-23**|**Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA**|Justice Ou et.al.|[2503.17933](http://arxiv.org/abs/2503.17933)|null|
@@ -1483,6 +1485,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/abs/2503.19850)|null|
+|**2025-03-25**|**HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection**|Maryam Bala et.al.|[2503.19650](http://arxiv.org/abs/2503.19650)|null|
+|**2025-03-25**|**KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models**|Zhiwei Wang et.al.|[2503.19482](http://arxiv.org/abs/2503.19482)|null|
+|**2025-03-25**|**VecTrans: LLM Transformation Framework for Better Auto-vectorization on High-performance CPU**|Zhongchun Zheng et.al.|[2503.19449](http://arxiv.org/abs/2503.19449)|null|
+|**2025-03-25**|**QUAD: Quantization and Parameter-Efficient Tuning of LLM with Activation Decomposition**|Yuxuan Hu et.al.|[2503.19353](http://arxiv.org/abs/2503.19353)|null|
+|**2025-03-24**|**Language Model Uncertainty Quantification with Attention Chain**|Yinghao Li et.al.|[2503.19168](http://arxiv.org/abs/2503.19168)|null|
 |**2025-03-24**|**Self-Reported Confidence of Large Language Models in Gastroenterology: Analysis of Commercial, Open-Source, and Quantized Models**|Nariman Naderi et.al.|[2503.18562](http://arxiv.org/abs/2503.18562)|null|
 |**2025-03-24**|**Bridging Writing Manner Gap in Visual Instruction Tuning by Creating LLM-aligned Instructions**|Dong Jing et.al.|[2503.18320](http://arxiv.org/abs/2503.18320)|null|
 |**2025-03-23**|**ShED-HD: A Shannon Entropy Distribution Framework for Lightweight Hallucination Detection on Edge Devices**|Aneesh Vathul et.al.|[2503.18242](http://arxiv.org/abs/2503.18242)|null|
