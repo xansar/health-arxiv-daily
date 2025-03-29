@@ -1509,7 +1509,7 @@
 |**2025-03-25**|**HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection**|Maryam Bala et.al.|[2503.19650](http://arxiv.org/abs/2503.19650)|null|
 |**2025-03-25**|**KSHSeek: Data-Driven Approaches to Mitigating and Detecting Knowledge-Shortcut Hallucinations in Generative Models**|Zhiwei Wang et.al.|[2503.19482](http://arxiv.org/abs/2503.19482)|null|
 |**2025-03-25**|**VecTrans: LLM Transformation Framework for Better Auto-vectorization on High-performance CPU**|Zhongchun Zheng et.al.|[2503.19449](http://arxiv.org/abs/2503.19449)|null|
-|**2025-03-25**|**QUAD: Quantization and Parameter-Efficient Tuning of LLM with Activation Decomposition**|Yuxuan Hu et.al.|[2503.19353](http://arxiv.org/abs/2503.19353)|null|
+|**2025-03-25**|**QUAD: Quantization and Parameter-Efficient Tuning of LLM with Activation Decomposition**|Yuxuan Hu et.al.|[2503.19353](http://arxiv.org/abs/2503.19353)|**[link](https://github.com/hyx1999/quad)**|
 |**2025-03-24**|**Language Model Uncertainty Quantification with Attention Chain**|Yinghao Li et.al.|[2503.19168](http://arxiv.org/abs/2503.19168)|null|
 |**2025-03-24**|**Self-Reported Confidence of Large Language Models in Gastroenterology: Analysis of Commercial, Open-Source, and Quantized Models**|Nariman Naderi et.al.|[2503.18562](http://arxiv.org/abs/2503.18562)|null|
 |**2025-03-24**|**Bridging Writing Manner Gap in Visual Instruction Tuning by Creating LLM-aligned Instructions**|Dong Jing et.al.|[2503.18320](http://arxiv.org/abs/2503.18320)|null|
