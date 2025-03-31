@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
+|**2025-03-28**|**Beyond the Script: Testing LLMs for Authentic Patient Communication Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250](http://arxiv.org/abs/2503.22250)|null|
+|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
+|**2025-03-28**|**Leveraging LLMs for Predicting Unknown Diagnoses from Clinical Notes**|Dina Albassam et.al.|[2503.22092](http://arxiv.org/abs/2503.22092)|null|
+|**2025-03-27**|**Socially Constructed Treatment Plans: Analyzing Online Peer Interactions to Understand How Patients Navigate Complex Medical Conditions**|Madhusudan Basak et.al.|[2503.21986](http://arxiv.org/abs/2503.21986)|null|
+|**2025-03-27**|**RedditESS: A Mental Health Social Support Interaction Dataset -- Understanding Effective Social Support to Refine AI-Driven Support Tools**|Zeyad Alghamdi et.al.|[2503.21888](http://arxiv.org/abs/2503.21888)|null|
 |**2025-03-27**|**Combining Artificial Users and Psychotherapist Assessment to Evaluate Large Language Model-based Mental Health Chatbots**|Florian Onur Kuhlmeier et.al.|[2503.21540](http://arxiv.org/abs/2503.21540)|null|
 |**2025-03-27**|**Fine-Tuning LLMs on Small Medical Datasets: Text Classification and Normalization Effectiveness on Cardiology reports and Discharge records**|Noah Losch et.al.|[2503.21349](http://arxiv.org/abs/2503.21349)|null|
 |**2025-03-26**|**Evaluating Large Language Models for Automated Clinical Abstraction in Pulmonary Embolism Registries: Performance Across Model Sizes, Versions, and Parameters**|Mahmoud Alwakeel et.al.|[2503.21004](http://arxiv.org/abs/2503.21004)|null|
@@ -1493,6 +1499,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456](http://arxiv.org/abs/2503.22456)|null|
+|**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|null|
+|**2025-03-28**|**Firm or Fickle? Evaluating Large Language Models Consistency in Sequential Interactions**|Yubo Li et.al.|[2503.22353](http://arxiv.org/abs/2503.22353)|null|
+|**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
+|**2025-03-28**|**Learning to Instruct for Visual Instruction Tuning**|Zhihan Zhou et.al.|[2503.22215](http://arxiv.org/abs/2503.22215)|null|
+|**2025-03-28**|**Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models**|Zhanke Zhou et.al.|[2503.22165](http://arxiv.org/abs/2503.22165)|**[link](https://github.com/tmlr-group/landscape-of-thoughts)**|
+|**2025-03-27**|**Entropy-Aware Branching for Improved Mathematical Reasoning**|Xianzhi Li et.al.|[2503.21961](http://arxiv.org/abs/2503.21961)|null|
+|**2025-03-25**|**OAEI-LLM-T: A TBox Benchmark Dataset for Understanding LLM Hallucinations in Ontology Matching Systems**|Zhangcheng Qiang et.al.|[2503.21813](http://arxiv.org/abs/2503.21813)|null|
 |**2025-03-27**|**Cooking Task Planning using LLM and Verified by Graph Network**|Ryunosuke Takebayashi et.al.|[2503.21564](http://arxiv.org/abs/2503.21564)|null|
 |**2025-03-27**|**SWI: Speaking with Intent in Large Language Models**|Yuwei Yin et.al.|[2503.21544](http://arxiv.org/abs/2503.21544)|**[link](https://github.com/YuweiYin/SWI)**|
 |**2025-03-27**|**Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best?**|Ashish Sardana et.al.|[2503.21157](http://arxiv.org/abs/2503.21157)|null|
