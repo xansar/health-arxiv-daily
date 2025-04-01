@@ -22,9 +22,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
+|**2025-03-31**|**IntelliCircos: A Data-driven and AI-powered Authoring Tool for Circos Plots**|Mingyang Gu et.al.|[2503.24021](http://arxiv.org/abs/2503.24021)|null|
+|**2025-03-31**|**Exploring In-Context Learning Capabilities of ChatGPT for Pathological Speech Detection**|Mahdi Amiri et.al.|[2503.23873](http://arxiv.org/abs/2503.23873)|null|
+|**2025-03-30**|**When LLM Therapists Become Salespeople: Evaluating Large Language Models for Ethical Motivational Interviewing**|Haein Kong et.al.|[2503.23566](http://arxiv.org/abs/2503.23566)|null|
+|**2025-03-30**|**A Scalable Framework for Evaluating Health Language Models**|Neil Mallinar et.al.|[2503.23339](http://arxiv.org/abs/2503.23339)|null|
+|**2025-03-29**|**Prediction of 30-day hospital readmission with clinical notes and EHR information**|Tiago Almeida et.al.|[2503.23050](http://arxiv.org/abs/2503.23050)|null|
+|**2025-03-29**|**Agentic Large Language Models, a survey**|Aske Plaat et.al.|[2503.23037](http://arxiv.org/abs/2503.23037)|null|
+|**2025-03-29**|**A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support**|Yichun Feng et.al.|[2503.23029](http://arxiv.org/abs/2503.23029)|null|
+|**2025-03-29**|**Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective**|Xinyu Yao et.al.|[2503.22954](http://arxiv.org/abs/2503.22954)|null|
+|**2025-03-28**|**MediTools -- Medical Education Powered by LLMs**|Amr Alshatnawi et.al.|[2503.22769](http://arxiv.org/abs/2503.22769)|**[link](https://github.com/NM-Streamlit-Team/meditools)**|
+|**2025-03-26**|**Susceptibility of Large Language Models to User-Driven Factors in Medical Queries**|Kyung Ho Lim et.al.|[2503.22746](http://arxiv.org/abs/2503.22746)|null|
+|**2025-03-25**|**LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation**|Sarah Martinson et.al.|[2503.22719](http://arxiv.org/abs/2503.22719)|null|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**Beyond the Script: Testing LLMs for Authentic Patient Communication Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250](http://arxiv.org/abs/2503.22250)|null|
-|**2025-03-28**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
+|**2025-03-31**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
 |**2025-03-28**|**Leveraging LLMs for Predicting Unknown Diagnoses from Clinical Notes**|Dina Albassam et.al.|[2503.22092](http://arxiv.org/abs/2503.22092)|null|
 |**2025-03-27**|**Socially Constructed Treatment Plans: Analyzing Online Peer Interactions to Understand How Patients Navigate Complex Medical Conditions**|Madhusudan Basak et.al.|[2503.21986](http://arxiv.org/abs/2503.21986)|null|
 |**2025-03-27**|**RedditESS: A Mental Health Social Support Interaction Dataset -- Understanding Effective Social Support to Refine AI-Driven Support Tools**|Zeyad Alghamdi et.al.|[2503.21888](http://arxiv.org/abs/2503.21888)|null|
@@ -1501,7 +1513,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-28**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456](http://arxiv.org/abs/2503.22456)|null|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
+|**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
+|**2025-03-31**|**Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**|Yuqiao Tan et.al.|[2503.23895](http://arxiv.org/abs/2503.23895)|**[link](https://github.com/trae1oung/dyprag)**|
+|**2025-03-31**|**Adaptive Layer-skipping in Pre-trained LLMs**|Xuan Luo et.al.|[2503.23798](http://arxiv.org/abs/2503.23798)|null|
+|**2025-03-31**|**MKA: Leveraging Cross-Lingual Consensus for Model Abstention**|Sharad Duwal et.al.|[2503.23687](http://arxiv.org/abs/2503.23687)|**[link](https://github.com/sharad461/MKA-hallucination)**|
+|**2025-03-30**|**RARE: Retrieval-Augmented Reasoning Modeling**|Zhengren Wang et.al.|[2503.23513](http://arxiv.org/abs/2503.23513)|null|
+|**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
+|**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
+|**2025-03-30**|**An Analysis of Decoding Methods for LLM-based Agents for Faithful Multi-Hop Question Answering**|Alexander Murphy et.al.|[2503.23415](http://arxiv.org/abs/2503.23415)|null|
+|**2025-03-30**|**Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation**|Jiwon Jeong et.al.|[2503.23363](http://arxiv.org/abs/2503.23363)|**[link](https://github.com/jw9603/logical_fallacy)**|
+|**2025-03-30**|**Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base**|Linxin Song et.al.|[2503.23361](http://arxiv.org/abs/2503.23361)|null|
+|**2025-03-29**|**Citegeist: Automated Generation of Related Work Analysis on the arXiv Corpus**|Claas Beger et.al.|[2503.23229](http://arxiv.org/abs/2503.23229)|null|
+|**2025-03-29**|**Large Language Models are Unreliable for Cyber Threat Intelligence**|Emanuele Mezzi et.al.|[2503.23175](http://arxiv.org/abs/2503.23175)|null|
+|**2025-03-29**|**Open-Vocabulary Semantic Segmentation with Uncertainty Alignment for Robotic Scene Understanding in Indoor Building Environments**|Yifan Xu et.al.|[2503.23105](http://arxiv.org/abs/2503.23105)|null|
+|**2025-03-29**|**DAT: Dynamic Alpha Tuning for Hybrid Retrieval in Retrieval-Augmented Generation**|Hsin-Ling Hsu et.al.|[2503.23013](http://arxiv.org/abs/2503.23013)|null|
+|**2025-03-29**|**Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective**|Xinyu Yao et.al.|[2503.22954](http://arxiv.org/abs/2503.22954)|null|
+|**2025-03-29**|**Identifying Multi-modal Knowledge Neurons in Pretrained Transformers via Two-stage Filtering**|Yugen Sato et.al.|[2503.22941](http://arxiv.org/abs/2503.22941)|null|
+|**2025-03-29**|**Factored Agents: Decoupling In-Context Learning and Memorization for Robust Tool Use**|Nicholas Roth et.al.|[2503.22931](http://arxiv.org/abs/2503.22931)|null|
+|**2025-03-28**|**Identifying and Mitigating API Misuse in Large Language Models**|Terry Yue Zhuo et.al.|[2503.22821](http://arxiv.org/abs/2503.22821)|null|
+|**2025-03-26**|**InfoBid: A Simulation Framework for Studying Information Disclosure in Auctions with Large Language Model-based Agents**|Yue Yin et.al.|[2503.22726](http://arxiv.org/abs/2503.22726)|null|
+|**2025-03-25**|**Why Representation Engineering Works: A Theoretical and Empirical Study in Vision-Language Models**|Bowei Tian et.al.|[2503.22720](http://arxiv.org/abs/2503.22720)|null|
+|**2025-03-25**|**LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation**|Sarah Martinson et.al.|[2503.22719](http://arxiv.org/abs/2503.22719)|null|
+|**2025-03-31**|**Entropy-guided sequence weighting for efficient exploration in RL-based LLM fine-tuning**|Abdullah Vanlioglu et.al.|[2503.22456](http://arxiv.org/abs/2503.22456)|null|
 |**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|**[link](https://github.com/KRR-Oxford/FactProbe)**|
 |**2025-03-28**|**Firm or Fickle? Evaluating Large Language Models Consistency in Sequential Interactions**|Yubo Li et.al.|[2503.22353](http://arxiv.org/abs/2503.22353)|null|
 |**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
