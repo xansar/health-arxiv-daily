@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Leveraging Embedding Techniques in Multimodal Machine Learning for Mental Illness Assessment**|Abdelrahaman A. Hassan et.al.|[2504.01767](http://arxiv.org/abs/2504.01767)|null|
+|**2025-04-01**|**Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models**|Feng Chen et.al.|[2504.01216](http://arxiv.org/abs/2504.01216)|null|
+|**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|null|
+|**2025-04-01**|**MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs**|Juncheng Wu et.al.|[2504.00993](http://arxiv.org/abs/2504.00993)|**[link](https://github.com/UCSC-VLAA/MedReason)**|
+|**2025-04-01**|**InformGen: An AI Copilot for Accurate and Compliant Clinical Research Consent Document Generation**|Zifeng Wang et.al.|[2504.00934](http://arxiv.org/abs/2504.00934)|null|
+|**2025-04-01**|**m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models**|Xiaoke Huang et.al.|[2504.00869](http://arxiv.org/abs/2504.00869)|null|
+|**2025-04-01**|**IHC-LLMiner: Automated extraction of tumour immunohistochemical profiles from PubMed abstracts using large language models**|Yunsoo Kim et.al.|[2504.00748](http://arxiv.org/abs/2504.00748)|null|
+|**2025-03-31**|**Evaluating the Feasibility and Accuracy of Large Language Models for Medical History-Taking in Obstetrics and Gynecology**|Dou Liu et.al.|[2504.00061](http://arxiv.org/abs/2504.00061)|null|
+|**2025-03-31**|**Integrating Large Language Models with Human Expertise for Disease Detection in Electronic Health Records**|Jie Pan et.al.|[2504.00053](http://arxiv.org/abs/2504.00053)|null|
+|**2025-03-27**|**Medical Reasoning in LLMs: An In-Depth Analysis of DeepSeek R1**|Birger Moell et.al.|[2504.00016](http://arxiv.org/abs/2504.00016)|null|
 |**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
 |**2025-03-31**|**IntelliCircos: A Data-driven and AI-powered Authoring Tool for Circos Plots**|Mingyang Gu et.al.|[2503.24021](http://arxiv.org/abs/2503.24021)|null|
 |**2025-03-31**|**Exploring In-Context Learning Capabilities of ChatGPT for Pathological Speech Detection**|Mahdi Amiri et.al.|[2503.23873](http://arxiv.org/abs/2503.23873)|null|
@@ -1513,6 +1523,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-02**|**LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution**|Zhuoran Yang et.al.|[2504.01533](http://arxiv.org/abs/2504.01533)|null|
+|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
+|**2025-04-01**|**Grade Guard: A Smart System for Short Answer Automated Grading**|Niharika Dadu et.al.|[2504.01253](http://arxiv.org/abs/2504.01253)|null|
+|**2025-04-01**|**Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models**|Rafael Giebisch et.al.|[2504.01248](http://arxiv.org/abs/2504.01248)|null|
+|**2025-04-01**|**Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery**|Nicholas Clark et.al.|[2504.01205](http://arxiv.org/abs/2504.01205)|null|
+|**2025-04-01**|**$μ$ KE: Matryoshka Unstructured Knowledge Editing of Large Language Models**|Zian Su et.al.|[2504.01196](http://arxiv.org/abs/2504.01196)|null|
+|**2025-04-01**|**Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations**|Mahjabin Nahar et.al.|[2504.01153](http://arxiv.org/abs/2504.01153)|null|
+|**2025-04-01**|**MaLAware: Automating the Comprehension of Malicious Software Behaviours using Large Language Models (LLMs)**|Bikash Saha et.al.|[2504.01145](http://arxiv.org/abs/2504.01145)|null|
+|**2025-04-01**|**Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving**|Hyoungwook Jin et.al.|[2504.00843](http://arxiv.org/abs/2504.00843)|null|
+|**2025-04-01**|**Aplicação de Large Language Models na Análise e Síntese de Documentos Jurídicos: Uma Revisão de Literatura**|Matheus Belarmino et.al.|[2504.00725](http://arxiv.org/abs/2504.00725)|null|
+|**2025-04-01**|**GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments**|Enjun Du et.al.|[2504.00711](http://arxiv.org/abs/2504.00711)|null|
+|**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
+|**2025-04-01**|**Making Large Language Models Better Reasoners with Orchestrated Streaming Experiences**|Xiangyang Liu et.al.|[2504.00473](http://arxiv.org/abs/2504.00473)|null|
+|**2025-04-01**|**Exposing the Ghost in the Transformer: Abnormal Detection for Large Language Models via Hidden State Forensics**|Shide Zhou et.al.|[2504.00446](http://arxiv.org/abs/2504.00446)|null|
+|**2025-04-01**|**Semantic Mastery: Enhancing LLMs with Advanced Natural Language Understanding**|Mohanakrishnan Hariharan et.al.|[2504.00409](http://arxiv.org/abs/2504.00409)|null|
+|**2025-04-01**|**When Persuasion Overrides Truth in Multi-Agent LLM Debates: Introducing a Confidence-Weighted Persuasion Override Rate (CW-POR)**|Mahak Agarwal et.al.|[2504.00374](http://arxiv.org/abs/2504.00374)|null|
+|**2025-03-31**|**SACA: A Scenario-Aware Collision Avoidance Framework for Autonomous Vehicles Integrating LLMs-Driven Reasoning**|Shiyue Zhao et.al.|[2504.00115](http://arxiv.org/abs/2504.00115)|null|
+|**2025-03-30**|**Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial Knowledge**|Agam Shah et.al.|[2504.00042](http://arxiv.org/abs/2504.00042)|null|
+|**2025-03-27**|**Medical Reasoning in LLMs: An In-Depth Analysis of DeepSeek R1**|Birger Moell et.al.|[2504.00016](http://arxiv.org/abs/2504.00016)|null|
 |**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
 |**2025-03-31**|**Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**|Yuqiao Tan et.al.|[2503.23895](http://arxiv.org/abs/2503.23895)|**[link](https://github.com/trae1oung/dyprag)**|
