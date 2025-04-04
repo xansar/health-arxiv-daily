@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/abs/2504.02800)|null|
+|**2025-04-03**|**AnesBench: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology**|Xiang Feng et.al.|[2504.02404](http://arxiv.org/abs/2504.02404)|null|
+|**2025-04-02**|**Trapped by Expectations: Functional Fixedness in LLM-Enabled Chat Search**|Jiqun Liu et.al.|[2504.02074](http://arxiv.org/abs/2504.02074)|null|
 |**2025-04-02**|**Leveraging Embedding Techniques in Multimodal Machine Learning for Mental Illness Assessment**|Abdelrahaman A. Hassan et.al.|[2504.01767](http://arxiv.org/abs/2504.01767)|null|
 |**2025-04-01**|**Detecting PTSD in Clinical Interviews: A Comparative Analysis of NLP Methods and Large Language Models**|Feng Chen et.al.|[2504.01216](http://arxiv.org/abs/2504.01216)|null|
 |**2025-04-01**|**Medical large language models are easily distracted**|Krithik Vishwanath et.al.|[2504.01201](http://arxiv.org/abs/2504.01201)|**[link](https://github.com/nyuolab/MedDistractQA)**|
@@ -38,12 +41,12 @@ layout: default
 |**2025-03-30**|**When LLM Therapists Become Salespeople: Evaluating Large Language Models for Ethical Motivational Interviewing**|Haein Kong et.al.|[2503.23566](http://arxiv.org/abs/2503.23566)|null|
 |**2025-04-01**|**A Scalable Framework for Evaluating Health Language Models**|Neil Mallinar et.al.|[2503.23339](http://arxiv.org/abs/2503.23339)|null|
 |**2025-03-29**|**Prediction of 30-day hospital readmission with clinical notes and EHR information**|Tiago Almeida et.al.|[2503.23050](http://arxiv.org/abs/2503.23050)|null|
-|**2025-03-29**|**Agentic Large Language Models, a survey**|Aske Plaat et.al.|[2503.23037](http://arxiv.org/abs/2503.23037)|null|
+|**2025-04-03**|**Agentic Large Language Models, a survey**|Aske Plaat et.al.|[2503.23037](http://arxiv.org/abs/2503.23037)|null|
 |**2025-03-29**|**A Retrieval-Augmented Knowledge Mining Method with Deep Thinking LLMs for Biomedical Research and Clinical Support**|Yichun Feng et.al.|[2503.23029](http://arxiv.org/abs/2503.23029)|null|
 |**2025-03-29**|**Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective**|Xinyu Yao et.al.|[2503.22954](http://arxiv.org/abs/2503.22954)|null|
 |**2025-03-28**|**MediTools -- Medical Education Powered by LLMs**|Amr Alshatnawi et.al.|[2503.22769](http://arxiv.org/abs/2503.22769)|**[link](https://github.com/NM-Streamlit-Team/meditools)**|
 |**2025-03-26**|**Susceptibility of Large Language Models to User-Driven Factors in Medical Queries**|Kyung Ho Lim et.al.|[2503.22746](http://arxiv.org/abs/2503.22746)|null|
-|**2025-03-25**|**LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation**|Sarah Martinson et.al.|[2503.22719](http://arxiv.org/abs/2503.22719)|null|
+|**2025-03-25**|**LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation**|Sarah Martinson et.al.|[2503.22719](http://arxiv.org/abs/2503.22719)|**[link](https://github.com/sarahmart/llm-abs-armman-prediction)**|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**Beyond the Script: Testing LLMs for Authentic Patient Communication Styles in Healthcare**|Anna Bodonhelyi et.al.|[2503.22250](http://arxiv.org/abs/2503.22250)|null|
 |**2025-03-31**|**PharmAgents: Building a Virtual Pharma with Large Language Model Agents**|Bowen Gao et.al.|[2503.22164](http://arxiv.org/abs/2503.22164)|null|
@@ -1523,7 +1526,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509](http://arxiv.org/abs/2504.02509)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
+|**2025-04-02**|**Achieving Unanimous Consensus in Decision Making Using Multi-Agents**|Apurba Pokharel et.al.|[2504.02128](http://arxiv.org/abs/2504.02128)|null|
+|**2025-04-02**|**Aligned Better, Listen Better for Audio-Visual Large Language Models**|Yuxin Guo et.al.|[2504.02061](http://arxiv.org/abs/2504.02061)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution**|Zhuoran Yang et.al.|[2504.01533](http://arxiv.org/abs/2504.01533)|null|
 |**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-01**|**Grade Guard: A Smart System for Short Answer Automated Grading**|Niharika Dadu et.al.|[2504.01253](http://arxiv.org/abs/2504.01253)|null|
