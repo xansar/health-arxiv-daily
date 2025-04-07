@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**AD-GPT: Large Language Models in Alzheimer's Disease**|Ziyu Liu et.al.|[2504.03071](http://arxiv.org/abs/2504.03071)|null|
+|**2025-04-03**|**Task as Context Prompting for Accurate Medical Symptom Coding Using Large Language Models**|Chengyang He et.al.|[2504.03051](http://arxiv.org/abs/2504.03051)|null|
+|**2025-04-03**|**Bias in Large Language Models Across Clinical Applications: A Systematic Review**|Thanathip Suenghataiphorn et.al.|[2504.02917](http://arxiv.org/abs/2504.02917)|null|
+|**2025-04-02**|**OnRL-RAG: Real-Time Personalized Mental Health Dialogue System**|Ahsan Bilal et.al.|[2504.02894](http://arxiv.org/abs/2504.02894)|null|
+|**2025-04-01**|**TheBlueScrubs-v1, a comprehensive curated medical dataset derived from the internet**|Luis Felipe et.al.|[2504.02874](http://arxiv.org/abs/2504.02874)|null|
+|**2025-04-01**|**Synthesized Annotation Guidelines are Knowledge-Lite Boosters for Clinical Information Extraction**|Enshuo Hsu et.al.|[2504.02871](http://arxiv.org/abs/2504.02871)|null|
 |**2025-04-04**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/abs/2504.02800)|null|
 |**2025-04-03**|**AnesBench: Multi-Dimensional Evaluation of LLM Reasoning in Anesthesiology**|Xiang Feng et.al.|[2504.02404](http://arxiv.org/abs/2504.02404)|null|
 |**2025-04-02**|**Trapped by Expectations: Functional Fixedness in LLM-Enabled Chat Search**|Jiqun Liu et.al.|[2504.02074](http://arxiv.org/abs/2504.02074)|null|
@@ -1526,6 +1532,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy**|Kamil Ciosek et.al.|[2504.03579](http://arxiv.org/abs/2504.03579)|null|
+|**2025-04-04**|**Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**|Shubham Kumar Nigam et.al.|[2504.03486](http://arxiv.org/abs/2504.03486)|null|
+|**2025-04-04**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|
+|**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440](http://arxiv.org/abs/2504.03440)|null|
+|**2025-04-04**|**Noise Augmented Fine Tuning for Mitigating Hallucinations in Large Language Models**|Afshin Khadangi et.al.|[2504.03302](http://arxiv.org/abs/2504.03302)|null|
+|**2025-04-04**|**Do Large Language Models Solve the Problems of Agent-Based Modeling? A Critical Review of Generative Social Simulations**|Maik Larooij et.al.|[2504.03274](http://arxiv.org/abs/2504.03274)|null|
+|**2025-04-04**|**Efficient Dynamic Clustering-Based Document Compression for Retrieval-Augmented-Generation**|Weitao Li et.al.|[2504.03165](http://arxiv.org/abs/2504.03165)|null|
+|**2025-04-03**|**How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence**|Hongzhe Du et.al.|[2504.02904](http://arxiv.org/abs/2504.02904)|null|
+|**2025-04-03**|**Beyond Accuracy: The Role of Calibration in Self-Improving Large Language Models**|Liangjie Huang et.al.|[2504.02902](http://arxiv.org/abs/2504.02902)|null|
+|**2025-04-01**|**Multi-Agent LLM Judge: automatic personalized LLM judge design for evaluating natural language generation applications**|Hongliu Cao et.al.|[2504.02867](http://arxiv.org/abs/2504.02867)|null|
+|**2025-04-01**|**The Illusionist's Prompt: Exposing the Factual Vulnerabilities of Large Language Models with Linguistic Nuances**|Yining Wang et.al.|[2504.02865](http://arxiv.org/abs/2504.02865)|null|
 |**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509](http://arxiv.org/abs/2504.02509)|null|
 |**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
 |**2025-04-02**|**Achieving Unanimous Consensus in Decision Making Using Multi-Agents**|Apurba Pokharel et.al.|[2504.02128](http://arxiv.org/abs/2504.02128)|null|
