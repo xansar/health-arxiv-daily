@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1555,7 +1555,7 @@ layout: default
 |**2025-04-09**|**Do Reasoning Models Show Better Verbalized Calibration?**|Qingcheng Zeng et.al.|[2504.06564](http://arxiv.org/abs/2504.06564)|null|
 |**2025-04-08**|**Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning**|Yuehan Qin et.al.|[2504.06438](http://arxiv.org/abs/2504.06438)|null|
 |**2025-04-08**|**Human Trust in AI Search: A Large-Scale Experiment**|Haiwen Li et.al.|[2504.06435](http://arxiv.org/abs/2504.06435)|null|
-|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-09**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs**|Dongjun Qian et.al.|[2504.05673](http://arxiv.org/abs/2504.05673)|null|
 |**2025-04-08**|**On the Impact of Language Nuances on Sentiment Analysis with Large Language Models: Paraphrasing, Sarcasm, and Emojis**|Naman Bhargava et.al.|[2504.05603](http://arxiv.org/abs/2504.05603)|null|
 |**2025-04-07**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|null|
@@ -1569,7 +1569,7 @@ layout: default
 |**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
 |**2025-04-06**|**VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT**|Zhuo Zhi et.al.|[2504.04471](http://arxiv.org/abs/2504.04471)|null|
 |**2025-04-06**|**An overview of model uncertainty and variability in LLM-based sentiment analysis. Challenges, mitigation strategies and the role of explainability**|David Herrera-Poyatos et.al.|[2504.04462](http://arxiv.org/abs/2504.04462)|null|
-|**2025-04-06**|**How Accurately Do Large Language Models Understand Code?**|Sabaat Haroon et.al.|[2504.04372](http://arxiv.org/abs/2504.04372)|null|
+|**2025-04-09**|**How Accurately Do Large Language Models Understand Code?**|Sabaat Haroon et.al.|[2504.04372](http://arxiv.org/abs/2504.04372)|null|
 |**2025-04-06**|**Generative Large Language Models Trained for Detecting Errors in Radiology Reports**|Cong Sun et.al.|[2504.04336](http://arxiv.org/abs/2504.04336)|null|
 |**2025-04-09**|**Beyond the Hype: Embeddings vs. Prompting for Multiclass Classification Tasks**|Marios Kokkodis et.al.|[2504.04277](http://arxiv.org/abs/2504.04277)|null|
 |**2025-04-05**|**Adaptive Elicitation of Latent Information Using Natural Language**|Jimmy Wang et.al.|[2504.04204](http://arxiv.org/abs/2504.04204)|null|
