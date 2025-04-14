@@ -1616,7 +1616,7 @@ layout: default
 |**2025-04-01**|**Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models**|Rafael Giebisch et.al.|[2504.01248](http://arxiv.org/abs/2504.01248)|null|
 |**2025-04-01**|**Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery**|Nicholas Clark et.al.|[2504.01205](http://arxiv.org/abs/2504.01205)|null|
 |**2025-04-01**|**$μ$ KE: Matryoshka Unstructured Knowledge Editing of Large Language Models**|Zian Su et.al.|[2504.01196](http://arxiv.org/abs/2504.01196)|null|
-|**2025-04-01**|**Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations**|Mahjabin Nahar et.al.|[2504.01153](http://arxiv.org/abs/2504.01153)|null|
+|**2025-04-01**|**Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations**|Mahjabin Nahar et.al.|[2504.01153](http://arxiv.org/abs/2504.01153)|**[link](https://github.com/MahjabinNahar/CatchMeIfYouSearch)**|
 |**2025-04-01**|**MaLAware: Automating the Comprehension of Malicious Software Behaviours using Large Language Models (LLMs)**|Bikash Saha et.al.|[2504.01145](http://arxiv.org/abs/2504.01145)|null|
 |**2025-04-01**|**Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving**|Hyoungwook Jin et.al.|[2504.00843](http://arxiv.org/abs/2504.00843)|null|
 |**2025-04-01**|**Aplicação de Large Language Models na Análise e Síntese de Documentos Jurídicos: Uma Revisão de Literatura**|Matheus Belarmino et.al.|[2504.00725](http://arxiv.org/abs/2504.00725)|null|
@@ -1634,7 +1634,7 @@ layout: default
 |**2025-03-31**|**Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**|Yuqiao Tan et.al.|[2503.23895](http://arxiv.org/abs/2503.23895)|**[link](https://github.com/trae1oung/dyprag)**|
 |**2025-03-31**|**Adaptive Layer-skipping in Pre-trained LLMs**|Xuan Luo et.al.|[2503.23798](http://arxiv.org/abs/2503.23798)|null|
 |**2025-03-31**|**MKA: Leveraging Cross-Lingual Consensus for Model Abstention**|Sharad Duwal et.al.|[2503.23687](http://arxiv.org/abs/2503.23687)|**[link](https://github.com/sharad461/MKA-hallucination)**|
-|**2025-03-30**|**RARE: Retrieval-Augmented Reasoning Modeling**|Zhengren Wang et.al.|[2503.23513](http://arxiv.org/abs/2503.23513)|null|
+|**2025-03-30**|**RARE: Retrieval-Augmented Reasoning Modeling**|Zhengren Wang et.al.|[2503.23513](http://arxiv.org/abs/2503.23513)|**[link](https://github.com/open-dataflow/rare)**|
 |**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
 |**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
 |**2025-03-30**|**An Analysis of Decoding Methods for LLM-based Agents for Faithful Multi-Hop Question Answering**|Alexander Murphy et.al.|[2503.23415](http://arxiv.org/abs/2503.23415)|null|
@@ -1756,7 +1756,7 @@ layout: default
 |**2025-03-12**|**Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets**|Zahra Abbasiantaeb et.al.|[2503.09902](http://arxiv.org/abs/2503.09902)|**[link](https://github.com/irlabamsterdam/cone-rag)**|
 |**2025-03-12**|**Probabilistic Reasoning with LLMs for k-anonymity Estimation**|Jonathan Zheng et.al.|[2503.09674](http://arxiv.org/abs/2503.09674)|null|
 |**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|**[link](https://github.com/CASTLE-Benchmark/CASTLE-Benchmark)**|
-|**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335](http://arxiv.org/abs/2503.09335)|null|
+|**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335](http://arxiv.org/abs/2503.09335)|**[link](https://github.com/laiyuzhi/nvp-hri)**|
 |**2025-03-12**|**Token Weighting for Long-Range Language Modeling**|Falko Helm et.al.|[2503.09202](http://arxiv.org/abs/2503.09202)|**[link](https://github.com/ukplab/naacl2025-token-weighting)**|
 |**2025-03-12**|**Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection**|Chaowei Zhang et.al.|[2503.09153](http://arxiv.org/abs/2503.09153)|null|
 |**2025-03-11**|**Gradient-guided Attention Map Editing: Towards Efficient Contextual Hallucination Mitigation**|Yu Wang et.al.|[2503.08963](http://arxiv.org/abs/2503.08963)|null|
