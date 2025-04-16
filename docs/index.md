@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,13 +25,13 @@ layout: default
 |**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418](http://arxiv.org/abs/2504.10418)|null|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
 |**2025-04-14**|**Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families**|Shahriar Noroozizadeh et.al.|[2504.10340](http://arxiv.org/abs/2504.10340)|null|
-|**2025-04-14**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
+|**2025-04-15**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
 |**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|null|
-|**2025-04-13**|**ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model**|Wuyang Lan et.al.|[2504.09421](http://arxiv.org/abs/2504.09421)|null|
+|**2025-04-15**|**ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model**|Wuyang Lan et.al.|[2504.09421](http://arxiv.org/abs/2504.09421)|null|
 |**2025-04-12**|**Linguistic Comparison of AI- and Human-Written Responses to Online Mental Health Queries**|Koustuv Saha et.al.|[2504.09271](http://arxiv.org/abs/2504.09271)|null|
 |**2025-04-04**|**The Lyme Disease Controversy: An AI-Driven Discourse Analysis of a Quarter Century of Academic Debate and Divides**|Teo Susnjak et.al.|[2504.08777](http://arxiv.org/abs/2504.08777)|null|
 |**2025-04-01**|**Accelerating Causal Network Discovery of Alzheimer Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation**|Xiaofan Zhou et.al.|[2504.08768](http://arxiv.org/abs/2504.08768)|null|
-|**2025-04-11**|**MedRep: Medical Concept Representation for General Electronic Health Record Foundation Models**|Junmo Kim et.al.|[2504.08329](http://arxiv.org/abs/2504.08329)|null|
+|**2025-04-11**|**MedRep: Medical Concept Representation for General Electronic Health Record Foundation Models**|Junmo Kim et.al.|[2504.08329](http://arxiv.org/abs/2504.08329)|**[link](https://github.com/kicarussays/medrep)**|
 |**2025-04-10**|**Can Reasoning LLMs Enhance Clinical Document Classification?**|Akram Mustafa et.al.|[2504.08040](http://arxiv.org/abs/2504.08040)|null|
 |**2025-04-14**|**Psychological Health Knowledge-Enhanced LLM-based Social Network Crisis Intervention Text Transfer Recognition Method**|Shurui Wu et.al.|[2504.07983](http://arxiv.org/abs/2504.07983)|null|
 |**2025-04-11**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
@@ -55,7 +55,7 @@ layout: default
 |**2025-04-06**|**MedM-VL: What Makes a Good Medical LVLM?**|Yiming Shi et.al.|[2504.04323](http://arxiv.org/abs/2504.04323)|null|
 |**2025-04-05**|**AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs**|Xinyu Mao et.al.|[2504.04193](http://arxiv.org/abs/2504.04193)|null|
 |**2025-04-05**|**A Benchmark for End-to-End Zero-Shot Biomedical Relation Extraction with LLMs: Experiments with OpenAI Models**|Aviv Brokman et.al.|[2504.04083](http://arxiv.org/abs/2504.04083)|null|
-|**2025-04-13**|**Do "New Snow Tablets" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs**|Sifan Li et.al.|[2504.03786](http://arxiv.org/abs/2504.03786)|**[link](https://github.com/med-llm/tcm-llm-overrely-on-names)**|
+|**2025-04-15**|**Do "New Snow Tablets" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs**|Sifan Li et.al.|[2504.03786](http://arxiv.org/abs/2504.03786)|**[link](https://github.com/med-llm/tcm-llm-overrely-on-names)**|
 |**2025-04-02**|**Emerging Cyber Attack Risks of Medical AI Agents**|Jianing Qiu et.al.|[2504.03759](http://arxiv.org/abs/2504.03759)|null|
 |**2025-04-03**|**AD-GPT: Large Language Models in Alzheimer's Disease**|Ziyu Liu et.al.|[2504.03071](http://arxiv.org/abs/2504.03071)|null|
 |**2025-04-03**|**Task as Context Prompting for Accurate Medical Symptom Coding Using Large Language Models**|Chengyang He et.al.|[2504.03051](http://arxiv.org/abs/2504.03051)|null|
@@ -1575,7 +1575,7 @@ layout: default
 |**2025-04-14**|**C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation**|Xu Zhang et.al.|[2504.10167](http://arxiv.org/abs/2504.10167)|null|
 |**2025-04-14**|**The Human Visual System Can Inspire New Interaction Paradigms for LLMs**|Diana Robinson et.al.|[2504.10101](http://arxiv.org/abs/2504.10101)|null|
 |**2025-04-14**|**Hallucination Detection in LLMs via Topological Divergence on Attention Graphs**|Alexandra Bazarova et.al.|[2504.10063](http://arxiv.org/abs/2504.10063)|null|
-|**2025-04-14**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
+|**2025-04-15**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
 |**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036](http://arxiv.org/abs/2504.10036)|null|
 |**2025-04-14**|**EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control**|Hanwen Wan et.al.|[2504.10030](http://arxiv.org/abs/2504.10030)|null|
 |**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
@@ -1594,9 +1594,9 @@ layout: default
 |**2025-04-12**|**Towards More Efficient, Robust, Instance-adaptive, and Generalizable Online Learning**|Zhiyong Wang et.al.|[2504.09192](http://arxiv.org/abs/2504.09192)|null|
 |**2025-04-11**|**Should you use LLMs to simulate opinions? Quality checks for early-stage deliberation**|Terrence Neumann et.al.|[2504.08954](http://arxiv.org/abs/2504.08954)|null|
 |**2025-04-11**|**Knowledge Graph-extended Retrieval Augmented Generation for Question Answering**|Jasper Linders et.al.|[2504.08893](http://arxiv.org/abs/2504.08893)|null|
-|**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672](http://arxiv.org/abs/2504.08672)|null|
-|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
-|**2025-04-14**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|null|
+|**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672](http://arxiv.org/abs/2504.08672)|**[link](https://github.com/xufangzhi/genius)**|
+|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|**[link](https://github.com/taozhan18/mooseagent)**|
+|**2025-04-14**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|**[link](https://github.com/biubiutomato/tme-agent)**|
 |**2025-04-07**|**SEAL: Steerable Reasoning Calibration of Large Language Models for Free**|Runjin Chen et.al.|[2504.07986](http://arxiv.org/abs/2504.07986)|null|
 |**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/abs/2504.07878)|null|
 |**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863](http://arxiv.org/abs/2504.07863)|null|
@@ -1608,14 +1608,14 @@ layout: default
 |**2025-04-10**|**Supervised Optimism Correction: Be Confident When LLMs Are Sure**|Junjie Zhang et.al.|[2504.07527](http://arxiv.org/abs/2504.07527)|null|
 |**2025-04-10**|**Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction**|Kyoyun Choi et.al.|[2504.07415](http://arxiv.org/abs/2504.07415)|null|
 |**2025-04-10**|**Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability for Compression**|Hanqi Xiao et.al.|[2504.07389](http://arxiv.org/abs/2504.07389)|**[link](https://github.com/the-inscrutable-x/tacq)**|
-|**2025-04-11**|**Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization**|Shujin Wu et.al.|[2504.07316](http://arxiv.org/abs/2504.07316)|null|
+|**2025-04-11**|**Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization**|Shujin Wu et.al.|[2504.07316](http://arxiv.org/abs/2504.07316)|**[link](https://github.com/ShujinWu-0814/Alice)**|
 |**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/abs/2504.07069)|null|
 |**2025-04-11**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
 |**2025-04-09**|**Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program**|Minghe Gao et.al.|[2504.06606](http://arxiv.org/abs/2504.06606)|null|
 |**2025-04-09**|**Do Reasoning Models Show Better Verbalized Calibration?**|Qingcheng Zeng et.al.|[2504.06564](http://arxiv.org/abs/2504.06564)|null|
 |**2025-04-08**|**Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning**|Yuehan Qin et.al.|[2504.06438](http://arxiv.org/abs/2504.06438)|null|
 |**2025-04-08**|**Human Trust in AI Search: A Large-Scale Experiment**|Haiwen Li et.al.|[2504.06435](http://arxiv.org/abs/2504.06435)|null|
-|**2025-04-09**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-09**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|**[link](https://github.com/schwallergroup/gollum)**|
 |**2025-04-08**|**VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs**|Dongjun Qian et.al.|[2504.05673](http://arxiv.org/abs/2504.05673)|null|
 |**2025-04-08**|**On the Impact of Language Nuances on Sentiment Analysis with Large Language Models: Paraphrasing, Sarcasm, and Emojis**|Naman Bhargava et.al.|[2504.05603](http://arxiv.org/abs/2504.05603)|null|
 |**2025-04-07**|**GraphRAFT: Retrieval Augmented Fine-Tuning for Knowledge Graphs on Graph Databases**|Alfred Clemedtson et.al.|[2504.05478](http://arxiv.org/abs/2504.05478)|null|
