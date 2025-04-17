@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373](http://arxiv.org/abs/2504.11373)|null|
 |**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
-|**2025-04-15**|**Exploring the Role of KG-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
+|**2025-04-16**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
 |**2025-04-15**|**Large Language Model-Informed Feature Discovery Improves Prediction and Interpretation of Credibility Perceptions of Visual Content**|Yilang Peng et.al.|[2504.10878](http://arxiv.org/abs/2504.10878)|null|
 |**2025-04-13**|**Federated Learning with Layer Skipping: Efficient Training of Large Language Models for Healthcare NLP**|Lihong Zhang et.al.|[2504.10536](http://arxiv.org/abs/2504.10536)|null|
 |**2025-04-08**|**Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder in Online Communities**|Shravika Mittal et.al.|[2504.10501](http://arxiv.org/abs/2504.10501)|null|
@@ -1574,7 +1574,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs**|Guocong Li et.al.|[2504.11277](http://arxiv.org/abs/2504.11277)|null|
-|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
+|**2025-04-16**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
 |**2025-04-15**|**MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique**|Shuhang Liu et.al.|[2504.11009](http://arxiv.org/abs/2504.11009)|null|
 |**2025-04-14**|**CleanMAP: Distilling Multimodal LLMs for Confidence-Driven Crowdsourced HD Map Updates**|Ankit Kumar Shaw et.al.|[2504.10738](http://arxiv.org/abs/2504.10738)|null|
 |**2025-04-14**|**HELIOS: Adaptive Model And Early-Exit Selection for Efficient LLM Inference Serving**|Avinash Kumar et.al.|[2504.10724](http://arxiv.org/abs/2504.10724)|null|
