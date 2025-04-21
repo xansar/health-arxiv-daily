@@ -165,7 +165,7 @@
 |**2025-03-12**|**Medical Large Language Model Benchmarks Should Prioritize Construct Validity**|Ahmed Alaa et.al.|[2503.10694](http://arxiv.org/abs/2503.10694)|null|
 |**2025-03-13**|**Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models**|Afrar Jahin et.al.|[2503.10573](http://arxiv.org/abs/2503.10573)|null|
 |**2025-03-13**|**LLMs in Disease Diagnosis: A Comparative Study of DeepSeek-R1 and O3 Mini Across Chronic Health Conditions**|Gaurav Kumar Gupta et.al.|[2503.10486](http://arxiv.org/abs/2503.10486)|null|
-|**2025-03-13**|**Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text**|Avinash Patil et.al.|[2503.10095](http://arxiv.org/abs/2503.10095)|null|
+|**2025-03-13**|**Cognitive-Mental-LLM: Leveraging Reasoning in Large Language Models for Mental Health Prediction via Online Text**|Avinash Patil et.al.|[2503.10095](http://arxiv.org/abs/2503.10095)|**[link](https://github.com/av9ash/cognitive_mental_llm)**|
 |**2025-03-12**|**Review GIDE -- Restaurant Review Gastrointestinal Illness Detection and Extraction with Large Language Models**|Timothy Laurence et.al.|[2503.09743](http://arxiv.org/abs/2503.09743)|null|
 |**2025-03-12**|**LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics**|Jialiang Tang et.al.|[2503.09656](http://arxiv.org/abs/2503.09656)|null|
 |**2025-03-16**|**Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy**|Abe Bohan Hou et.al.|[2503.09639](http://arxiv.org/abs/2503.09639)|null|
@@ -1582,22 +1582,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|**[link](https://github.com/AnamikaLochab/EBRM)**|
 |**2025-04-17**|**VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models**|Haojian Huang et.al.|[2504.13122](http://arxiv.org/abs/2504.13122)|**[link](https://github.com/haroldchen19/vistadpo)**|
 |**2025-04-17**|**Accommodate Knowledge Conflicts in Retrieval-augmented LLMs: Towards Reliable Response Generation in the Wild**|Jiatai Wang et.al.|[2504.12982](http://arxiv.org/abs/2504.12982)|null|
 |**2025-04-17**|**QLLM: Do We Really Need a Mixing Network for Credit Assignment in Multi-Agent Reinforcement Learning?**|Zhouyang Jiang et.al.|[2504.12961](http://arxiv.org/abs/2504.12961)|null|
 |**2025-04-18**|**Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots**|Xi Zheng et.al.|[2504.12943](http://arxiv.org/abs/2504.12943)|null|
 |**2025-04-17**|**Explainable AI in Usable Privacy and Security: Challenges and Opportunities**|Vincent Freiberger et.al.|[2504.12931](http://arxiv.org/abs/2504.12931)|null|
 |**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773](http://arxiv.org/abs/2504.12773)|**[link](https://github.com/ycpnotfound/geogen)**|
-|**2025-04-17**|**Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations**|Yiyou Sun et.al.|[2504.12691](http://arxiv.org/abs/2504.12691)|null|
-|**2025-04-17**|**Identifying and Mitigating the Influence of the Prior Distribution in Large Language Models**|Liyi Zhang et.al.|[2504.12585](http://arxiv.org/abs/2504.12585)|null|
-|**2025-04-16**|**PlanGlow: Personalized Study Planning with an Explainable and Controllable LLM-Driven System**|Jiwon Chun et.al.|[2504.12452](http://arxiv.org/abs/2504.12452)|null|
+|**2025-04-17**|**Why and How LLMs Hallucinate: Connecting the Dots with Subsequence Associations**|Yiyou Sun et.al.|[2504.12691](http://arxiv.org/abs/2504.12691)|**[link](https://github.com/sunyiyou/SAT)**|
+|**2025-04-17**|**Identifying and Mitigating the Influence of the Prior Distribution in Large Language Models**|Liyi Zhang et.al.|[2504.12585](http://arxiv.org/abs/2504.12585)|**[link](https://github.com/zhang-liyi/llm-prior)**|
+|**2025-04-16**|**PlanGlow: Personalized Study Planning with an Explainable and Controllable LLM-Driven System**|Jiwon Chun et.al.|[2504.12452](http://arxiv.org/abs/2504.12452)|**[link](https://github.com/dreamlab-24/PlanGlow)**|
 |**2025-04-16**|**Don't Just Translate, Agitate: Using Large Language Models as Devil's Advocates for AI Explanations**|Ashley Suh et.al.|[2504.12424](http://arxiv.org/abs/2504.12424)|null|
 |**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422](http://arxiv.org/abs/2504.12422)|null|
 |**2025-04-16**|**Gauging Overprecision in LLMs: An Empirical Study**|Adil Bahaj et.al.|[2504.12098](http://arxiv.org/abs/2504.12098)|null|
 |**2025-04-16**|**Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models**|Kris Pilcher et.al.|[2504.12012](http://arxiv.org/abs/2504.12012)|null|
 |**2025-04-16**|**SemEval-2025 Task 3: Mu-SHROOM, the Multilingual Shared Task on Hallucinations and Related Observable Overgeneration Mistakes**|Raúl Vázquez et.al.|[2504.11975](http://arxiv.org/abs/2504.11975)|null|
-|**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|null|
+|**2025-04-16**|**Cost-Efficient LLM Serving in the Cloud: VM Selection with KV Cache Offloading**|Kihyun Kim et.al.|[2504.11816](http://arxiv.org/abs/2504.11816)|**[link](https://github.com/lass-lab/InferSave)**|
 |**2025-04-16**|**Probing the Unknown: Exploring Student Interactions with Probeable Problems at Scale in Introductory Programming**|Paul Denny et.al.|[2504.11723](http://arxiv.org/abs/2504.11723)|null|
 |**2025-04-15**|**From Misleading Queries to Accurate Answers: A Three-Stage Fine-Tuning Method for LLMs**|Guocong Li et.al.|[2504.11277](http://arxiv.org/abs/2504.11277)|null|
 |**2025-04-16**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Yulong Zhang et.al.|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
@@ -1637,7 +1637,7 @@
 |**2025-04-11**|**Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning**|Fangzhi Xu et.al.|[2504.08672](http://arxiv.org/abs/2504.08672)|**[link](https://github.com/xufangzhi/genius)**|
 |**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|**[link](https://github.com/taozhan18/mooseagent)**|
 |**2025-04-16**|**Task Memory Engine (TME): A Structured Memory Framework with Graph-Aware Extensions for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|**[link](https://github.com/biubiutomato/tme-agent)**|
-|**2025-04-07**|**SEAL: Steerable Reasoning Calibration of Large Language Models for Free**|Runjin Chen et.al.|[2504.07986](http://arxiv.org/abs/2504.07986)|null|
+|**2025-04-07**|**SEAL: Steerable Reasoning Calibration of Large Language Models for Free**|Runjin Chen et.al.|[2504.07986](http://arxiv.org/abs/2504.07986)|**[link](https://github.com/vita-group/seal)**|
 |**2025-04-10**|**Token Level Routing Inference System for Edge Devices**|Jianshu She et.al.|[2504.07878](http://arxiv.org/abs/2504.07878)|null|
 |**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863](http://arxiv.org/abs/2504.07863)|null|
 |**2025-04-17**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717](http://arxiv.org/abs/2504.07717)|null|
@@ -1666,7 +1666,7 @@
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
 |**2025-04-07**|**A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization**|Wenyuan Xu et.al.|[2504.04950](http://arxiv.org/abs/2504.04950)|null|
 |**2025-04-06**|**Capturing AI's Attention: Physics of Repetition, Hallucination, Bias and Beyond**|Frank Yingjie Huo et.al.|[2504.04600](http://arxiv.org/abs/2504.04600)|null|
-|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
+|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|**[link](https://github.com/mcgrche/LetsPi--Planning-Safety-Trajectories-with-Dual-Phase-Physics-Informed-LLM)**|
 |**2025-04-06**|**VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT**|Zhuo Zhi et.al.|[2504.04471](http://arxiv.org/abs/2504.04471)|null|
 |**2025-04-06**|**An overview of model uncertainty and variability in LLM-based sentiment analysis. Challenges, mitigation strategies and the role of explainability**|David Herrera-Poyatos et.al.|[2504.04462](http://arxiv.org/abs/2504.04462)|null|
 |**2025-04-09**|**How Accurately Do Large Language Models Understand Code?**|Sabaat Haroon et.al.|[2504.04372](http://arxiv.org/abs/2504.04372)|null|
@@ -1956,7 +1956,7 @@
 |**2025-02-26**|**Talking like Piping and Instrumentation Diagrams (P&IDs)**|Achmad Anggawirya Alimin et.al.|[2502.18928](http://arxiv.org/abs/2502.18928)|null|
 |**2025-02-26**|**Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models**|Shuliang Liu et.al.|[2502.18817](http://arxiv.org/abs/2502.18817)|null|
 |**2025-02-26**|**Random Forest-of-Thoughts: Uncertainty-aware Reasoning for Computational Social Science**|Xiaohua Wu et.al.|[2502.18729](http://arxiv.org/abs/2502.18729)|null|
-|**2025-02-25**|**Scalable Best-of-N Selection for Large Language Models via Self-Certainty**|Zhewei Kang et.al.|[2502.18581](http://arxiv.org/abs/2502.18581)|null|
+|**2025-02-25**|**Scalable Best-of-N Selection for Large Language Models via Self-Certainty**|Zhewei Kang et.al.|[2502.18581](http://arxiv.org/abs/2502.18581)|**[link](https://github.com/backprop07/self-certainty)**|
 |**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
 |**2025-02-25**|**Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods**|Nicola Cecere et.al.|[2502.18389](http://arxiv.org/abs/2502.18389)|null|
 |**2025-02-25**|**BRIDO: Bringing Democratic Order to Abstractive Summarization**|Junhyun Lee et.al.|[2502.18342](http://arxiv.org/abs/2502.18342)|null|
@@ -2596,7 +2596,7 @@
 |**2024-10-23**|**Beware of Calibration Data for Pruning Large Language Models**|Yixin Ji et.al.|[2410.17711](http://arxiv.org/abs/2410.17711)|null|
 |**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|**[link](https://github.com/guijinSON/MM-Eval)**|
 |**2024-10-29**|**Do Robot Snakes Dream like Electric Sheep? Investigating the Effects of Architectural Inductive Biases on Hallucination**|Jerry Huang et.al.|[2410.17477](http://arxiv.org/abs/2410.17477)|null|
-|**2024-10-22**|**ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs**|Reza Fayyazi et.al.|[2410.17406](http://arxiv.org/abs/2410.17406)|null|
+|**2024-10-22**|**ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs**|Reza Fayyazi et.al.|[2410.17406](http://arxiv.org/abs/2410.17406)|**[link](https://github.com/RezzFayyazi/ProveRAG)**|
 |**2024-10-22**|**DeLLiriuM: A large language model for delirium prediction in the ICU using structured EHR**|Miguel Contreras et.al.|[2410.17363](http://arxiv.org/abs/2410.17363)|null|
 |**2024-10-22**|**Are Large Language Models Ready for Travel Planning?**|Ruiping Ren et.al.|[2410.17333](http://arxiv.org/abs/2410.17333)|null|
 |**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234](http://arxiv.org/abs/2410.17234)|null|
@@ -2844,7 +2844,7 @@
 |**2024-09-20**|**Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology**|Aidan Gilson et.al.|[2409.13902](http://arxiv.org/abs/2409.13902)|null|
 |**2024-09-20**|**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**|Bowen Yan et.al.|[2409.13612](http://arxiv.org/abs/2409.13612)|null|
 |**2024-09-20**|**ChainBuddy: An AI Agent System for Generating LLM Pipelines**|Jingyue Zhang et.al.|[2409.13588](http://arxiv.org/abs/2409.13588)|null|
-|**2024-09-23**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447](http://arxiv.org/abs/2409.13447)|null|
+|**2024-09-23**|**AQA: Adaptive Question Answering in a Society of LLMs via Contextual Multi-Armed Bandit**|Mohanna Hoveyda et.al.|[2409.13447](http://arxiv.org/abs/2409.13447)|**[link](https://github.com/informagi/AQA)**|
 |**2024-09-20**|**Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey**|Sourav Verma et.al.|[2409.13385](http://arxiv.org/abs/2409.13385)|**[link](https://github.com/srgrace/contextual-compression)**|
 |**2024-09-20**|**Leveraging Knowledge Graphs and LLMs to Support and Monitor Legislative Systems**|Andrea Colombo et.al.|[2409.13252](http://arxiv.org/abs/2409.13252)|null|
 |**2024-09-19**|**Edu-Values: Towards Evaluating the Chinese Education Values of Large Language Models**|Peiyi Zhang et.al.|[2409.12739](http://arxiv.org/abs/2409.12739)|null|
