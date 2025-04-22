@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
+|**2025-04-20**|**A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs**|Yihan Lin et.al.|[2504.14657](http://arxiv.org/abs/2504.14657)|null|
+|**2025-04-20**|**HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models**|Fan Gao et.al.|[2504.14594](http://arxiv.org/abs/2504.14594)|null|
+|**2025-04-19**|**Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations**|Katie Matton et.al.|[2504.14150](http://arxiv.org/abs/2504.14150)|null|
+|**2025-04-18**|**A Baseline for Self-state Identification and Classification in Mental Health Data: CLPsych 2025 Task**|Laerdon Kim et.al.|[2504.14066](http://arxiv.org/abs/2504.14066)|null|
 |**2025-04-17**|**Deep literature reviews: an application of fine-tuned language models to migration research**|Stefano M. Iacus et.al.|[2504.13685](http://arxiv.org/abs/2504.13685)|null|
 |**2025-04-18**|**LLM Sensitivity Evaluation Framework for Clinical Diagnosis**|Chenwei Yan et.al.|[2504.13475](http://arxiv.org/abs/2504.13475)|null|
 |**2025-04-17**|**ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images**|Sangwook Kim et.al.|[2504.13023](http://arxiv.org/abs/2504.13023)|null|
@@ -39,9 +44,9 @@
 |**2025-04-08**|**Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder in Online Communities**|Shravika Mittal et.al.|[2504.10501](http://arxiv.org/abs/2504.10501)|null|
 |**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418](http://arxiv.org/abs/2504.10418)|null|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
-|**2025-04-14**|**Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families**|Shahriar Noroozizadeh et.al.|[2504.10340](http://arxiv.org/abs/2504.10340)|null|
-|**2025-04-15**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
-|**2025-04-13**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
+|**2025-04-20**|**Forecasting from Clinical Textual Time Series: Adaptations of the Encoder and Decoder Language Model Families**|Shahriar Noroozizadeh et.al.|[2504.10340](http://arxiv.org/abs/2504.10340)|null|
+|**2025-04-20**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
+|**2025-04-19**|**EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**|Jiahao Qiu et.al.|[2504.09689](http://arxiv.org/abs/2504.09689)|**[link](https://github.com/1akaman/emoagent)**|
 |**2025-04-15**|**ClinicalGPT-R1: Pushing reasoning capability of generalist disease diagnosis with large language model**|Wuyang Lan et.al.|[2504.09421](http://arxiv.org/abs/2504.09421)|**[link](https://github.com/medfound/medfound)**|
 |**2025-04-12**|**Linguistic Comparison of AI- and Human-Written Responses to Online Mental Health Queries**|Koustuv Saha et.al.|[2504.09271](http://arxiv.org/abs/2504.09271)|null|
 |**2025-04-04**|**The Lyme Disease Controversy: An AI-Driven Discourse Analysis of a Quarter Century of Academic Debate and Divides**|Teo Susnjak et.al.|[2504.08777](http://arxiv.org/abs/2504.08777)|null|
@@ -1584,6 +1589,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
+|**2025-04-21**|**The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models**|Ronak Pradeep et.al.|[2504.15068](http://arxiv.org/abs/2504.15068)|null|
+|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+|**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
+|**2025-04-21**|**CRAVE: A Conflicting Reasoning Approach for Explainable Claim Verification Using LLMs**|Yingming Zheng et.al.|[2504.14905](http://arxiv.org/abs/2504.14905)|**[link](https://github.com/8zym/crave)**|
+|**2025-04-20**|**HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis**|Kangwei Xu et.al.|[2504.14641](http://arxiv.org/abs/2504.14641)|null|
+|**2025-04-20**|**A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models**|Hongming Tan et.al.|[2504.14620](http://arxiv.org/abs/2504.14620)|null|
+|**2025-04-20**|**a1: Steep Test-time Scaling Law via Environment Augmented Generation**|Lingrui Mei et.al.|[2504.14597](http://arxiv.org/abs/2504.14597)|null|
+|**2025-04-20**|**Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey**|Ahsan Bilal et.al.|[2504.14520](http://arxiv.org/abs/2504.14520)|null|
+|**2025-04-20**|**VizTA: Enhancing Comprehension of Distributional Visualization with Visual-Lexical Fused Conversational Interface**|Liangwei Wang et.al.|[2504.14507](http://arxiv.org/abs/2504.14507)|null|
+|**2025-04-20**|**CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge**|Armin Toroghi et.al.|[2504.14462](http://arxiv.org/abs/2504.14462)|null|
+|**2025-04-20**|**Information Diffusion and Preferential Attachment in a Network of Large Language Models**|Adit Jain et.al.|[2504.14438](http://arxiv.org/abs/2504.14438)|null|
+|**2025-04-20**|**ResNetVLLM-2: Addressing ResNetVLLM's Multi-Modal Hallucinations**|Ahmad Khalil et.al.|[2504.14429](http://arxiv.org/abs/2504.14429)|null|
+|**2025-04-19**|**Bottom-Up Synthesis of Knowledge-Grounded Task-Oriented Dialogues with Iteratively Self-Refined Prompts**|Kun Qian et.al.|[2504.14375](http://arxiv.org/abs/2504.14375)|null|
+|**2025-04-19**|**Density Measures for Language Generation**|Jon Kleinberg et.al.|[2504.14370](http://arxiv.org/abs/2504.14370)|null|
+|**2025-04-19**|**Integrating LLM-Generated Views into Mean-Variance Optimization Using the Black-Litterman Model**|Youngbin Lee et.al.|[2504.14345](http://arxiv.org/abs/2504.14345)|null|
+|**2025-04-19**|**A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**|Chengming Wang et.al.|[2504.14241](http://arxiv.org/abs/2504.14241)|null|
+|**2025-04-18**|**Metacognition and Uncertainty Communication in Humans and Large Language Models**|Mark Steyvers et.al.|[2504.14045](http://arxiv.org/abs/2504.14045)|null|
+|**2025-04-18**|**Multi-Stage Retrieval for Operational Technology Cybersecurity Compliance Using Large Language Models: A Railway Casestudy**|Regan Bolton et.al.|[2504.14044](http://arxiv.org/abs/2504.14044)|null|
+|**2025-04-18**|**Going Whole Hog: A Philosophical Defense of AI Cognition**|Herman Cappelen et.al.|[2504.13988](http://arxiv.org/abs/2504.13988)|null|
 |**2025-04-18**|**Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations**|Chenghao Xiao et.al.|[2504.13816](http://arxiv.org/abs/2504.13816)|null|
 |**2025-04-18**|**Revisiting Uncertainty Quantification Evaluation in Language Models: Spurious Interactions with Response Length Bias Results**|Andrea Santilli et.al.|[2504.13677](http://arxiv.org/abs/2504.13677)|null|
 |**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656](http://arxiv.org/abs/2504.13656)|null|
