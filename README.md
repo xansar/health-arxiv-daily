@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries: A Pilot Study**|Andy Li et.al.|[2504.16601](http://arxiv.org/abs/2504.16601)|null|
+|**2025-04-23**|**Intelligent Depression Prevention via LLM-Based Dialogue Analysis: Overcoming the Limitations of Scale-Dependent Diagnosis through Precise Emotional Pattern Recognition**|Zhenguang Zhong et.al.|[2504.16504](http://arxiv.org/abs/2504.16504)|null|
+|**2025-04-23**|**ConTextual: Improving Clinical Text Summarization in LLMs with Context-preserving Token Filtering and Knowledge Graphs**|Fahmida Liza Piya et.al.|[2504.16394](http://arxiv.org/abs/2504.16394)|null|
+|**2025-04-22**|**Investigating LLMs in Clinical Triage: Promising Capabilities, Persistent Intersectional Biases**|Joseph Lee et.al.|[2504.16273](http://arxiv.org/abs/2504.16273)|null|
 |**2025-04-21**|**Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports**|Jiseon Kim et.al.|[2504.15333](http://arxiv.org/abs/2504.15333)|null|
 |**2025-04-21**|**Med-CoDE: Medical Critique based Disagreement Evaluation Framework**|Mohit Gupta et.al.|[2504.15330](http://arxiv.org/abs/2504.15330)|null|
 |**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
@@ -40,7 +44,7 @@
 |**2025-04-16**|**Bridging the Semantic Gaps: Improving Medical VQA Consistency with LLM-Augmented Question Sets**|Yongpei Ma et.al.|[2504.11777](http://arxiv.org/abs/2504.11777)|null|
 |**2025-04-15**|**Cancer-Myth: Evaluating AI Chatbot on Patient Questions with False Presuppositions**|Wang Bill Zhu et.al.|[2504.11373](http://arxiv.org/abs/2504.11373)|**[link](https://github.com/bill1235813/cancer-myth)**|
 |**2025-04-15**|**Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**|Yangyang Zhuang et.al.|[2504.11301](http://arxiv.org/abs/2504.11301)|null|
-|**2025-04-17**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
+|**2025-04-23**|**Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs**|Yingjian Chen et.al.|[2504.10982](http://arxiv.org/abs/2504.10982)|null|
 |**2025-04-15**|**Large Language Model-Informed Feature Discovery Improves Prediction and Interpretation of Credibility Perceptions of Visual Content**|Yilang Peng et.al.|[2504.10878](http://arxiv.org/abs/2504.10878)|null|
 |**2025-04-13**|**Federated Learning with Layer Skipping: Efficient Training of Large Language Models for Healthcare NLP**|Lihong Zhang et.al.|[2504.10536](http://arxiv.org/abs/2504.10536)|null|
 |**2025-04-08**|**Exposure to Content Written by Large Language Models Can Reduce Stigma Around Opioid Use Disorder in Online Communities**|Shravika Mittal et.al.|[2504.10501](http://arxiv.org/abs/2504.10501)|null|
@@ -1591,6 +1595,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
+|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
+|**2025-04-23**|**Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories**|Mareike Lisker et.al.|[2504.16604](http://arxiv.org/abs/2504.16604)|null|
+|**2025-04-23**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem Solving**|Jie JW Wu et.al.|[2504.16331](http://arxiv.org/abs/2504.16331)|null|
 |**2025-04-22**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903](http://arxiv.org/abs/2504.15903)|null|
 |**2025-04-22**|**Dynamic Early Exit in Reasoning Models**|Chenxu Yang et.al.|[2504.15895](http://arxiv.org/abs/2504.15895)|null|
 |**2025-04-22**|**Insights from Verification: Training a Verilog Generation LLM with Reinforcement Learning with Testbench Feedback**|Ning Wang et.al.|[2504.15804](http://arxiv.org/abs/2504.15804)|null|
@@ -1599,7 +1607,7 @@
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
 |**2025-04-21**|**The Great Nugget Recall: Automating Fact Extraction and RAG Evaluation with Large Language Models**|Ronak Pradeep et.al.|[2504.15068](http://arxiv.org/abs/2504.15068)|null|
-|**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
+|**2025-04-23**|**aiXamine: Simplified LLM Safety and Security**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
 |**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
 |**2025-04-21**|**CRAVE: A Conflicting Reasoning Approach for Explainable Claim Verification Using LLMs**|Yingming Zheng et.al.|[2504.14905](http://arxiv.org/abs/2504.14905)|**[link](https://github.com/8zym/crave)**|
 |**2025-04-20**|**HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis**|Kangwei Xu et.al.|[2504.14641](http://arxiv.org/abs/2504.14641)|null|
