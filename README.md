@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/abs/2504.17669)|null|
+|**2025-04-24**|**PatientDx: Merging Large Language Models for Protecting Data-Privacy in Healthcare**|Jose G. Moreno et.al.|[2504.17360](http://arxiv.org/abs/2504.17360)|null|
+|**2025-04-24**|**Crisp: Cognitive Restructuring of Negative Thoughts through Multi-turn Supportive Dialogues**|Jinfeng Zhou et.al.|[2504.17238](http://arxiv.org/abs/2504.17238)|null|
+|**2025-04-23**|**The Rise of Small Language Models in Healthcare: A Comprehensive Survey**|Muskan Garg et.al.|[2504.17119](http://arxiv.org/abs/2504.17119)|null|
 |**2025-04-23**|**Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries: A Pilot Study**|Andy Li et.al.|[2504.16601](http://arxiv.org/abs/2504.16601)|null|
 |**2025-04-23**|**Intelligent Depression Prevention via LLM-Based Dialogue Analysis: Overcoming the Limitations of Scale-Dependent Diagnosis through Precise Emotional Pattern Recognition**|Zhenguang Zhong et.al.|[2504.16504](http://arxiv.org/abs/2504.16504)|null|
 |**2025-04-23**|**ConTextual: Improving Clinical Text Summarization in LLMs with Context-preserving Token Filtering and Knowledge Graphs**|Fahmida Liza Piya et.al.|[2504.16394](http://arxiv.org/abs/2504.16394)|null|
@@ -1595,6 +1600,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**HalluLens: LLM Hallucination Benchmark**|Yejin Bang et.al.|[2504.17550](http://arxiv.org/abs/2504.17550)|null|
+|**2025-04-24**|**Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing**|Hieu Huynh et.al.|[2504.17287](http://arxiv.org/abs/2504.17287)|null|
+|**2025-04-23**|**How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction: A Preliminary Study**|Rendi Chevi et.al.|[2504.17083](http://arxiv.org/abs/2504.17083)|null|
+|**2025-04-23**|**Do Words Reflect Beliefs? Evaluating Belief Depth in Large Language Models**|Shariar Kabir et.al.|[2504.17052](http://arxiv.org/abs/2504.17052)|null|
+|**2025-04-23**|**(Im)possibility of Automated Hallucination Detection in Large Language Models**|Amin Karbasi et.al.|[2504.17004](http://arxiv.org/abs/2504.17004)|null|
+|**2025-04-18**|**SCRAG: Social Computing-Based Retrieval Augmented Generation for Community Response Forecasting in Social Media Environments**|Dachun Sun et.al.|[2504.16947](http://arxiv.org/abs/2504.16947)|null|
 |**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
 |**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
 |**2025-04-23**|**Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories**|Mareike Lisker et.al.|[2504.16604](http://arxiv.org/abs/2504.16604)|null|
