@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1601,7 +1601,7 @@ layout: default
 |**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
 |**2025-04-23**|**Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories**|Mareike Lisker et.al.|[2504.16604](http://arxiv.org/abs/2504.16604)|null|
 |**2025-04-23**|**ClarifyCoder: Clarification-Aware Fine-Tuning for Programmatic Problem Solving**|Jie JW Wu et.al.|[2504.16331](http://arxiv.org/abs/2504.16331)|null|
-|**2025-04-22**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903](http://arxiv.org/abs/2504.15903)|null|
+|**2025-04-23**|**Impact of Noise on LLM-Models Performance in Abstraction and Reasoning Corpus (ARC) Tasks with Model Temperature Considerations**|Nikhil Khandalkar et.al.|[2504.15903](http://arxiv.org/abs/2504.15903)|null|
 |**2025-04-22**|**Dynamic Early Exit in Reasoning Models**|Chenxu Yang et.al.|[2504.15895](http://arxiv.org/abs/2504.15895)|null|
 |**2025-04-22**|**Insights from Verification: Training a Verilog Generation LLM with Reinforcement Learning with Testbench Feedback**|Ning Wang et.al.|[2504.15804](http://arxiv.org/abs/2504.15804)|null|
 |**2025-04-22**|**Grounded in Context: Retrieval-Based Method for Hallucination Detection**|Assaf Gerner et.al.|[2504.15771](http://arxiv.org/abs/2504.15771)|null|
