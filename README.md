@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-04-21**|**Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports**|Jiseon Kim et.al.|[2504.15333](http://arxiv.org/abs/2504.15333)|null|
 |**2025-04-21**|**Med-CoDE: Medical Critique based Disagreement Evaluation Framework**|Mohit Gupta et.al.|[2504.15330](http://arxiv.org/abs/2504.15330)|null|
 |**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
-|**2025-04-20**|**A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs**|Yihan Lin et.al.|[2504.14657](http://arxiv.org/abs/2504.14657)|null|
+|**2025-04-25**|**A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs**|Yihan Lin et.al.|[2504.14657](http://arxiv.org/abs/2504.14657)|null|
 |**2025-04-20**|**HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models**|Fan Gao et.al.|[2504.14594](http://arxiv.org/abs/2504.14594)|null|
 |**2025-04-19**|**Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations**|Katie Matton et.al.|[2504.14150](http://arxiv.org/abs/2504.14150)|null|
 |**2025-04-18**|**A Baseline for Self-state Identification and Classification in Mental Health Data: CLPsych 2025 Task**|Laerdon Kim et.al.|[2504.14066](http://arxiv.org/abs/2504.14066)|null|
@@ -63,7 +63,7 @@
 |**2025-04-04**|**The Lyme Disease Controversy: An AI-Driven Discourse Analysis of a Quarter Century of Academic Debate and Divides**|Teo Susnjak et.al.|[2504.08777](http://arxiv.org/abs/2504.08777)|null|
 |**2025-04-01**|**Accelerating Causal Network Discovery of Alzheimer Disease Biomarkers via Scientific Literature-based Retrieval Augmented Generation**|Xiaofan Zhou et.al.|[2504.08768](http://arxiv.org/abs/2504.08768)|null|
 |**2025-04-11**|**MedRep: Medical Concept Representation for General Electronic Health Record Foundation Models**|Junmo Kim et.al.|[2504.08329](http://arxiv.org/abs/2504.08329)|**[link](https://github.com/kicarussays/medrep)**|
-|**2025-04-10**|**Can Reasoning LLMs Enhance Clinical Document Classification?**|Akram Mustafa et.al.|[2504.08040](http://arxiv.org/abs/2504.08040)|null|
+|**2025-04-24**|**Can Reasoning LLMs Enhance Clinical Document Classification?**|Akram Mustafa et.al.|[2504.08040](http://arxiv.org/abs/2504.08040)|null|
 |**2025-04-14**|**Psychological Health Knowledge-Enhanced LLM-based Social Network Crisis Intervention Text Transfer Recognition Method**|Shurui Wu et.al.|[2504.07983](http://arxiv.org/abs/2504.07983)|null|
 |**2025-04-11**|**An LLM-Driven Multi-Agent Debate System for Mendelian Diseases**|Xinyang Zhou et.al.|[2504.07881](http://arxiv.org/abs/2504.07881)|null|
 |**2025-04-10**|**MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation**|Yixiang Chen et.al.|[2504.07724](http://arxiv.org/abs/2504.07724)|**[link](https://github.com/yixiangch/mrd-rag)**|
@@ -1594,7 +1594,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -3178,7 +3178,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
