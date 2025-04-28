@@ -87,8 +87,8 @@ layout: default
 |**2025-04-07**|**Leveraging Large Language Models for Cost-Effective, Multilingual Depression Detection and Severity Assessment**|Longdi Xian et.al.|[2504.04891](http://arxiv.org/abs/2504.04891)|null|
 |**2025-04-07**|**Simulating Persuasive Dialogues on Meat Reduction with Generative Agents**|Georg Ahnert et.al.|[2504.04872](http://arxiv.org/abs/2504.04872)|**[link](https://github.com/dess-mannheim/meatlessagents)**|
 |**2025-04-08**|**Crowdsourcing-Based Knowledge Graph Construction for Drug Side Effects Using Large Language Models with an Application on Semaglutide**|Zhijie Duan et.al.|[2504.04346](http://arxiv.org/abs/2504.04346)|null|
-|**2025-04-06**|**MedM-VL: What Makes a Good Medical LVLM?**|Yiming Shi et.al.|[2504.04323](http://arxiv.org/abs/2504.04323)|null|
-|**2025-04-05**|**AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs**|Xinyu Mao et.al.|[2504.04193](http://arxiv.org/abs/2504.04193)|null|
+|**2025-04-06**|**MedM-VL: What Makes a Good Medical LVLM?**|Yiming Shi et.al.|[2504.04323](http://arxiv.org/abs/2504.04323)|**[link](https://github.com/msiip/medm-vl)**|
+|**2025-04-05**|**AiReview: An Open Platform for Accelerating Systematic Reviews with LLMs**|Xinyu Mao et.al.|[2504.04193](http://arxiv.org/abs/2504.04193)|**[link](https://github.com/ielab/ai-review)**|
 |**2025-04-05**|**A Benchmark for End-to-End Zero-Shot Biomedical Relation Extraction with LLMs: Experiments with OpenAI Models**|Aviv Brokman et.al.|[2504.04083](http://arxiv.org/abs/2504.04083)|null|
 |**2025-04-15**|**Do "New Snow Tablets" Contain Snow? Large Language Models Over-Rely on Names to Identify Ingredients of Chinese Drugs**|Sifan Li et.al.|[2504.03786](http://arxiv.org/abs/2504.03786)|**[link](https://github.com/med-llm/tcm-llm-overrely-on-names)**|
 |**2025-04-02**|**Emerging Cyber Attack Risks of Medical AI Agents**|Jianing Qiu et.al.|[2504.03759](http://arxiv.org/abs/2504.03759)|null|
@@ -649,7 +649,7 @@ layout: default
 |**2024-10-26**|**Limitations of the LLM-as-a-Judge Approach for Evaluating LLM Outputs in Expert Knowledge Tasks**|Annalisa Szymanski et.al.|[2410.20266](http://arxiv.org/abs/2410.20266)|null|
 |**2024-10-26**|**Infectious Disease Forecasting in India using LLM's and Deep Learning**|Chaitya Shah et.al.|[2410.20168](http://arxiv.org/abs/2410.20168)|null|
 |**2024-10-26**|**AutoMIR: Effective Zero-Shot Medical Information Retrieval without Relevance Labels**|Lei Li et.al.|[2410.20050](http://arxiv.org/abs/2410.20050)|**[link](https://github.com/cmirb-benchmark/cmirb)**|
-|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
+|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|**[link](https://github.com/humphreyhuu/dualk)**|
 |**2024-10-18**|**Novel Development of LLM Driven mCODE Data Model for Improved Clinical Trial Matching to Enable Standardization and Interoperability in Oncology Research**|Aarsh Shekhar et.al.|[2410.19826](http://arxiv.org/abs/2410.19826)|null|
 |**2024-10-24**|**Inference time LLM alignment in single and multidomain preference spectrum**|Sadat Shahriar et.al.|[2410.19206](http://arxiv.org/abs/2410.19206)|null|
 |**2024-10-24**|**Lived Experience Not Found: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions from Psychiatric Medication Use**|Mohit Chandra et.al.|[2410.19155](http://arxiv.org/abs/2410.19155)|**[link](https://github.com/mohit3011/Lived-Experience-Not-Found)**|
@@ -1684,7 +1684,7 @@ layout: default
 |**2025-04-14**|**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference**|Yuxuan Tian et.al.|[2504.09936](http://arxiv.org/abs/2504.09936)|null|
 |**2025-04-14**|**Learning from Reference Answers: Versatile Language Model Alignment without Binary Human Preference Data**|Shuai Zhao et.al.|[2504.09895](http://arxiv.org/abs/2504.09895)|null|
 |**2025-04-14**|**Reasoning Models Can Be Effective Without Thinking**|Wenjie Ma et.al.|[2504.09858](http://arxiv.org/abs/2504.09858)|null|
-|**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|null|
+|**2025-04-14**|**RAKG:Document-level Retrieval Augmented Knowledge Graph Construction**|Hairong Zhang et.al.|[2504.09823](http://arxiv.org/abs/2504.09823)|**[link](https://github.com/lmmapplication/rakg)**|
 |**2025-04-14**|**Reasoning Court: Combining Reasoning, Action, and Judgment for Multi-Hop Reasoning**|Jingtian Wu et.al.|[2504.09781](http://arxiv.org/abs/2504.09781)|null|
 |**2025-04-13**|**DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training**|Zhenting Wang et.al.|[2504.09710](http://arxiv.org/abs/2504.09710)|**[link](https://github.com/zhentingwang/dump)**|
 |**2025-04-17**|**Understanding LLM Behaviors via Compression: Data Generation, Knowledge Acquisition and Scaling Laws**|Zhixuan Pan et.al.|[2504.09597](http://arxiv.org/abs/2504.09597)|null|
