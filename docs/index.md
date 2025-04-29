@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
+|**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
+|**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
+|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467](http://arxiv.org/abs/2504.19467)|null|
+|**2025-04-27**|**HoloDx: Knowledge- and Data-Driven Multimodal Diagnosis of Alzheimer's Disease**|Qiuhui Chen et.al.|[2504.19075](http://arxiv.org/abs/2504.19075)|null|
+|**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061](http://arxiv.org/abs/2504.19061)|null|
+|**2025-04-26**|**AI Chatbots for Mental Health: Values and Harms from Lived Experiences of Depression**|Dong Whi Yoo et.al.|[2504.18932](http://arxiv.org/abs/2504.18932)|null|
+|**2025-04-26**|**Clinical knowledge in LLMs does not translate to human interactions**|Andrew M. Bean et.al.|[2504.18919](http://arxiv.org/abs/2504.18919)|null|
+|**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Ross Gore et.al.|[2504.18671](http://arxiv.org/abs/2504.18671)|null|
+|**2025-04-22**|**Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes**|Guanchen Wu et.al.|[2504.18569](http://arxiv.org/abs/2504.18569)|null|
 |**2025-04-25**|**Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers**|Jared Moore et.al.|[2504.18412](http://arxiv.org/abs/2504.18412)|**[link](https://github.com/jlcmoore/llms-as-therapists)**|
 |**2025-04-25**|**MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**|Guanqun Bi et.al.|[2504.18260](http://arxiv.org/abs/2504.18260)|null|
 |**2025-04-25**|**Stabilizing Reasoning in Medical LLMs with Continued Pretraining and Reasoning Preference Optimization**|Wataru Kawakami et.al.|[2504.18080](http://arxiv.org/abs/2504.18080)|null|
@@ -1607,6 +1617,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages**|Pritika Rohera et.al.|[2504.20022](http://arxiv.org/abs/2504.20022)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
+|**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
+|**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
+|**2025-04-28**|**Towards Long Context Hallucination Detection**|Siyi Liu et.al.|[2504.19457](http://arxiv.org/abs/2504.19457)|null|
+|**2025-04-27**|**Bi-directional Model Cascading with Proxy Confidence**|David Warren et.al.|[2504.19391](http://arxiv.org/abs/2504.19391)|null|
+|**2025-04-27**|**The Convergent Ethics of AI? Analyzing Moral Foundation Priorities in Large Language Models with a Multi-Framework Approach**|Chad Coleman et.al.|[2504.19255](http://arxiv.org/abs/2504.19255)|null|
+|**2025-04-27**|**Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers**|Dylan Bouchard et.al.|[2504.19254](http://arxiv.org/abs/2504.19254)|null|
+|**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061](http://arxiv.org/abs/2504.19061)|null|
+|**2025-04-26**|**Calibrating Translation Decoding with Quality Estimation on LLMs**|Di Wu et.al.|[2504.19044](http://arxiv.org/abs/2504.19044)|null|
+|**2025-04-26**|**AI Chatbots for Mental Health: Values and Harms from Lived Experiences of Depression**|Dong Whi Yoo et.al.|[2504.18932](http://arxiv.org/abs/2504.18932)|null|
+|**2025-04-26**|**Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning**|Abdellah Ghassel et.al.|[2504.18839](http://arxiv.org/abs/2504.18839)|null|
+|**2025-04-25**|**Span-Level Hallucination Detection for LLM-Generated Answers**|Passant Elchafei et.al.|[2504.18639](http://arxiv.org/abs/2504.18639)|null|
+|**2025-04-24**|**Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach**|Iizalaarab Elhaimeur et.al.|[2504.18603](http://arxiv.org/abs/2504.18603)|null|
 |**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|
 |**2025-04-25**|**Comparing Uncertainty Measurement and Mitigation Methods for Large Language Models: A Systematic Review**|Toghrul Abbasli et.al.|[2504.18346](http://arxiv.org/abs/2504.18346)|null|
 |**2025-04-25**|**Evaluating Evaluation Metrics -- The Mirage of Hallucination Detection**|Atharva Kulkarni et.al.|[2504.18114](http://arxiv.org/abs/2504.18114)|null|
