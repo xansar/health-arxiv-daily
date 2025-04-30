@@ -22,10 +22,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
+|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
+|**2025-04-29**|**Revisiting the MIMIC-IV Benchmark: Experiments Using Language Models for Electronic Health Records**|Jesus Lovon et.al.|[2504.20547](http://arxiv.org/abs/2504.20547)|null|
+|**2025-04-29**|**Conversations with AI Chatbots Increase Short-Term Vaccine Intentions But Do Not Outperform Standard Public Health Messaging**|Neil K. R. Sehgal et.al.|[2504.20519](http://arxiv.org/abs/2504.20519)|null|
+|**2025-04-29**|**"I've talked to ChatGPT about my issues last night.": Examining Mental Health Conversations with Large Language Models through Reddit Analysis**|Kyuha Jung et.al.|[2504.20320](http://arxiv.org/abs/2504.20320)|null|
+|**2025-04-28**|**OpenTCM: A GraphRAG-Empowered LLM-based System for Traditional Chinese Medicine Knowledge Retrieval and Diagnosis**|Jinglin He et.al.|[2504.20118](http://arxiv.org/abs/2504.20118)|null|
+|**2025-04-28**|**Transforming Evidence Synthesis: A Systematic Review of the Evolution of Automated Meta-Analysis in the Age of AI**|Lingbo Li et.al.|[2504.20113](http://arxiv.org/abs/2504.20113)|null|
+|**2025-04-15**|**Recommending Clinical Trials for Online Patient Cases using Artificial Intelligence**|Joey Chan et.al.|[2504.20059](http://arxiv.org/abs/2504.20059)|null|
 |**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
 |**2025-04-28**|**A Tripartite Perspective on GraphRAG**|Michael Banf et.al.|[2504.19667](http://arxiv.org/abs/2504.19667)|null|
 |**2025-04-28**|**m-KAILIN: Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training**|Meng Xiao et.al.|[2504.19565](http://arxiv.org/abs/2504.19565)|null|
-|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467](http://arxiv.org/abs/2504.19467)|null|
+|**2025-04-28**|**BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text**|Jiageng Wu et.al.|[2504.19467](http://arxiv.org/abs/2504.19467)|**[link](https://github.com/YLab-Open/BRIDGE)**|
 |**2025-04-27**|**HoloDx: Knowledge- and Data-Driven Multimodal Diagnosis of Alzheimer's Disease**|Qiuhui Chen et.al.|[2504.19075](http://arxiv.org/abs/2504.19075)|null|
 |**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061](http://arxiv.org/abs/2504.19061)|null|
 |**2025-04-26**|**AI Chatbots for Mental Health: Values and Harms from Lived Experiences of Depression**|Dong Whi Yoo et.al.|[2504.18932](http://arxiv.org/abs/2504.18932)|null|
@@ -1617,6 +1625,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
+|**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
+|**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951](http://arxiv.org/abs/2504.20951)|null|
+|**2025-04-29**|**DYNAMAX: Dynamic computing for Transformers and Mamba based architectures**|Miguel Nogales et.al.|[2504.20922](http://arxiv.org/abs/2504.20922)|null|
+|**2025-04-29**|**Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges**|Yunseo Lee et.al.|[2504.20799](http://arxiv.org/abs/2504.20799)|null|
+|**2025-04-29**|**Beyond the Last Answer: Your Reasoning Trace Uncovers More than You Think**|Hasan Abed Al Kader Hammoud et.al.|[2504.20708](http://arxiv.org/abs/2504.20708)|null|
+|**2025-04-29**|**Can LLMs Detect Intrinsic Hallucinations in Paraphrasing and Machine Translation?**|Evangelia Gogoulou et.al.|[2504.20699](http://arxiv.org/abs/2504.20699)|null|
+|**2025-04-29**|**Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models**|Hassan Sartaj et.al.|[2504.20684](http://arxiv.org/abs/2504.20684)|null|
+|**2025-04-29**|**TAMO:Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent with Multi-Modality Observation Data**|Qi Wang et.al.|[2504.20462](http://arxiv.org/abs/2504.20462)|null|
+|**2025-04-28**|**Towards Large Language Models for Lunar Mission Planning and In Situ Resource Utilization**|Michael Pekala et.al.|[2504.20125](http://arxiv.org/abs/2504.20125)|null|
+|**2025-04-24**|**RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**|Zihan Wang et.al.|[2504.20073](http://arxiv.org/abs/2504.20073)|null|
 |**2025-04-28**|**Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages**|Pritika Rohera et.al.|[2504.20022](http://arxiv.org/abs/2504.20022)|null|
 |**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
