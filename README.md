@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
+|**2025-04-29**|**A Cost-Effective LLM-based Approach to Identify Wildlife Trafficking in Online Marketplaces**|Juliana Barbosa et.al.|[2504.21211](http://arxiv.org/abs/2504.21211)|null|
+|**2025-04-29**|**Multimodal Large Language Models for Medicine: A Comprehensive Survey**|Jiarui Ye et.al.|[2504.21051](http://arxiv.org/abs/2504.21051)|null|
+|**2025-04-23**|**Durghotona GPT: A Web Scraping and Large Language Model Based Framework to Generate Road Accident Dataset Automatically in Bangladesh**|MD Thamed Bin Zaman Chowdhury et.al.|[2504.21025](http://arxiv.org/abs/2504.21025)|null|
 |**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-29**|**Revisiting the MIMIC-IV Benchmark: Experiments Using Language Models for Electronic Health Records**|Jesus Lovon et.al.|[2504.20547](http://arxiv.org/abs/2504.20547)|null|
@@ -1623,6 +1631,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
+|**2025-04-29**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
+|**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132](http://arxiv.org/abs/2504.21132)|null|
+|**2025-04-22**|**ConformalNL2LTL: Translating Natural Language Instructions into Temporal Logic Formulas with Conformal Correctness Guarantees**|Jun Wang et.al.|[2504.21022](http://arxiv.org/abs/2504.21022)|null|
+|**2025-04-22**|**Context-Enhanced Contrastive Search for Improved LLM Text Generation**|Jaydip Sen et.al.|[2504.21020](http://arxiv.org/abs/2504.21020)|null|
 |**2025-04-29**|**Jekyll-and-Hyde Tipping Point in an AI's Behavior**|Neil F. Johnson et.al.|[2504.20980](http://arxiv.org/abs/2504.20980)|null|
 |**2025-04-29**|**SetKE: Knowledge Editing for Knowledge Elements Overlap**|Yifan Wei et.al.|[2504.20972](http://arxiv.org/abs/2504.20972)|null|
 |**2025-04-29**|**Information Gravity: A Field-Theoretic Model for Token Selection in Large Language Models**|Maryna Vyshnyvetska et.al.|[2504.20951](http://arxiv.org/abs/2504.20951)|null|
@@ -1642,7 +1656,7 @@
 |**2025-04-28**|**Towards Long Context Hallucination Detection**|Siyi Liu et.al.|[2504.19457](http://arxiv.org/abs/2504.19457)|null|
 |**2025-04-27**|**Bi-directional Model Cascading with Proxy Confidence**|David Warren et.al.|[2504.19391](http://arxiv.org/abs/2504.19391)|null|
 |**2025-04-27**|**The Convergent Ethics of AI? Analyzing Moral Foundation Priorities in Large Language Models with a Multi-Framework Approach**|Chad Coleman et.al.|[2504.19255](http://arxiv.org/abs/2504.19255)|null|
-|**2025-04-27**|**Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers**|Dylan Bouchard et.al.|[2504.19254](http://arxiv.org/abs/2504.19254)|null|
+|**2025-04-30**|**Uncertainty Quantification for Language Models: A Suite of Black-Box, White-Box, LLM Judge, and Ensemble Scorers**|Dylan Bouchard et.al.|[2504.19254](http://arxiv.org/abs/2504.19254)|null|
 |**2025-04-27**|**Hallucinations and Key Information Extraction in Medical Texts: A Comprehensive Assessment of Open-Source Large Language Models**|Anindya Bijoy Das et.al.|[2504.19061](http://arxiv.org/abs/2504.19061)|null|
 |**2025-04-26**|**Calibrating Translation Decoding with Quality Estimation on LLMs**|Di Wu et.al.|[2504.19044](http://arxiv.org/abs/2504.19044)|null|
 |**2025-04-26**|**AI Chatbots for Mental Health: Values and Harms from Lived Experiences of Depression**|Dong Whi Yoo et.al.|[2504.18932](http://arxiv.org/abs/2504.18932)|null|
