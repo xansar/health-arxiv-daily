@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467](http://arxiv.org/abs/2505.00467)|null|
+|**2025-05-01**|**KoACD: The First Korean Adolescent Dataset for Cognitive Distortion Analysis**|JunSeo Kim et.al.|[2505.00367](http://arxiv.org/abs/2505.00367)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-04-28**|**MDD-LLM: Towards Accuracy Large Language Models for Major Depressive Disorder Diagnosis**|Yuyang Sha et.al.|[2505.00032](http://arxiv.org/abs/2505.00032)|null|
+|**2025-04-21**|**Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models**|Tri Nguyen et.al.|[2505.00010](http://arxiv.org/abs/2505.00010)|null|
 |**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
 |**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
 |**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
@@ -1631,9 +1636,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557](http://arxiv.org/abs/2505.00557)|null|
+|**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506](http://arxiv.org/abs/2505.00506)|null|
+|**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443](http://arxiv.org/abs/2505.00443)|null|
+|**2025-04-30**|**Between Underthinking and Overthinking: An Empirical Study of Reasoning Length and correctness in LLMs**|Jinyan Su et.al.|[2505.00127](http://arxiv.org/abs/2505.00127)|null|
+|**2025-04-30**|**Fact-Consistency Evaluation of Text-to-SQL Generation for Business Intelligence Using Exaone 3.5**|Jeho Choi et.al.|[2505.00060](http://arxiv.org/abs/2505.00060)|null|
+|**2025-04-24**|**An Empirical Study on Prompt Compression for Large Language Models**|Zheng Zhang et.al.|[2505.00019](http://arxiv.org/abs/2505.00019)|null|
 |**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
 |**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
-|**2025-04-29**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
+|**2025-05-01**|**AI-in-the-Loop Planning for Transportation Electrification: Case Studies from Austin, Texas**|Seung Jun Choi et.al.|[2504.21185](http://arxiv.org/abs/2504.21185)|null|
 |**2025-04-29**|**LLM Enhancer: Merged Approach using Vector Embedding for Reducing Large Language Model Hallucinations with External Knowledge**|Naheed Rayhan et.al.|[2504.21132](http://arxiv.org/abs/2504.21132)|null|
 |**2025-04-22**|**ConformalNL2LTL: Translating Natural Language Instructions into Temporal Logic Formulas with Conformal Correctness Guarantees**|Jun Wang et.al.|[2504.21022](http://arxiv.org/abs/2504.21022)|null|
 |**2025-04-22**|**Context-Enhanced Contrastive Search for Improved LLM Text Generation**|Jaydip Sen et.al.|[2504.21020](http://arxiv.org/abs/2504.21020)|null|
