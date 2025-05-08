@@ -22,6 +22,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**The Aloe Family Recipe for Open and Specialized Healthcare LLMs**|Dario Garcia-Gasulla et.al.|[2505.04388](http://arxiv.org/abs/2505.04388)|null|
+|**2025-05-07**|**Can Language Models Understand Social Behavior in Clinical Conversations?**|Manas Satish Bedmutha et.al.|[2505.04152](http://arxiv.org/abs/2505.04152)|null|
+|**2025-05-07**|**Natural Language Generation in Healthcare: A Review of Methods and Applications**|Mengxian Lyu et.al.|[2505.04073](http://arxiv.org/abs/2505.04073)|null|
+|**2025-04-30**|**Calibrating Uncertainty Quantification of Multi-Modal LLMs using Grounding**|Trilok Padhi et.al.|[2505.03788](http://arxiv.org/abs/2505.03788)|null|
+|**2025-04-30**|**mAIstro: an open-source multi-agentic system for automated end-to-end development of radiomics and deep learning models for medical imaging**|Eleftherios Tzanis et.al.|[2505.03785](http://arxiv.org/abs/2505.03785)|null|
+|**2025-04-30**|**ALFRED: Ask a Large-language model For Reliable ECG Diagnosis**|Jin Yu et.al.|[2505.03781](http://arxiv.org/abs/2505.03781)|null|
 |**2025-05-06**|**Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis**|Shuang Zhou et.al.|[2505.03467](http://arxiv.org/abs/2505.03467)|null|
 |**2025-05-06**|**MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks**|Mouath Abu Daoud et.al.|[2505.03427](http://arxiv.org/abs/2505.03427)|**[link](https://github.com/nyuad-cai/medarabiq)**|
 |**2025-05-06**|**Lightweight Clinical Decision Support System using QLoRA-Fine-Tuned LLMs and Retrieval-Augmented Generation**|Mohammad Shoaib Ansari et.al.|[2505.03406](http://arxiv.org/abs/2505.03406)|null|
@@ -1656,6 +1662,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
+|**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364](http://arxiv.org/abs/2505.04364)|**[link](https://github.com/x66ccff/swarmbench)**|
+|**2025-05-07**|**LLM-Independent Adaptive RAG: Let the Question Speak for Itself**|Maria Marina et.al.|[2505.04253](http://arxiv.org/abs/2505.04253)|null|
+|**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068](http://arxiv.org/abs/2505.04068)|null|
+|**2025-05-02**|**Cer-Eval: Certifiable and Cost-Efficient Evaluation Framework for LLMs**|Ganghua Wang et.al.|[2505.03814](http://arxiv.org/abs/2505.03814)|null|
+|**2025-05-02**|**MoEQuant: Enhancing Quantization for Mixture-of-Experts Large Language Models via Expert-Balanced Sampling and Affinity Guidance**|Xing Hu et.al.|[2505.03804](http://arxiv.org/abs/2505.03804)|null|
+|**2025-05-02**|**Efficient Fine-Tuning of Quantized Models via Adaptive Rank and Bitwidth**|Changhai Zhou et.al.|[2505.03802](http://arxiv.org/abs/2505.03802)|null|
+|**2025-04-30**|**Calibrating Uncertainty Quantification of Multi-Modal LLMs using Grounding**|Trilok Padhi et.al.|[2505.03788](http://arxiv.org/abs/2505.03788)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-06**|**Uncertainty-Aware Large Language Models for Explainable Disease Diagnosis**|Shuang Zhou et.al.|[2505.03467](http://arxiv.org/abs/2505.03467)|null|
 |**2025-05-06**|**Automatic Calibration for Membership Inference Attack on Large Language Models**|Saleh Zare Zade et.al.|[2505.03392](http://arxiv.org/abs/2505.03392)|**[link](https://github.com/salehzz/acmia)**|
