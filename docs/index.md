@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Benchmarking Ethical and Safety Risks of Healthcare LLMs in China-Toward Systemic Governance under Healthy China 2030**|Mouxiao Bian et.al.|[2505.07205](http://arxiv.org/abs/2505.07205)|null|
+|**2025-05-12**|**KDH-MLTC: Knowledge Distillation for Healthcare Multi-Label Text Classification**|Hajar Sakai et.al.|[2505.07162](http://arxiv.org/abs/2505.07162)|null|
+|**2025-05-11**|**Building a Human-Verified Clinical Reasoning Dataset via a Human LLM Hybrid Pipeline for Trustworthy Medical AI**|Chao Ding et.al.|[2505.06912](http://arxiv.org/abs/2505.06912)|null|
+|**2025-05-10**|**Utilizing LLMs to Investigate the Disputed Role of Evidence in Electronic Cigarette Health Policy Formation in Australia and the UK**|Damian Curran et.al.|[2505.06782](http://arxiv.org/abs/2505.06782)|null|
+|**2025-05-10**|**NeuroPal: A Clinically-Informed Multimodal LLM Assistant for Mental Health Combining Sleep Chronotherapy, Cognitive Behavioral Reframing, and Adaptive Phytochemical Intervention**|Xiaoran Han et.al.|[2505.06640](http://arxiv.org/abs/2505.06640)|null|
+|**2025-05-10**|**Batch Augmentation with Unimodal Fine-tuning for Multimodal Learning**|H M Dipu Kabir et.al.|[2505.06592](http://arxiv.org/abs/2505.06592)|**[link](https://github.com/dipuk0506/multimodal)**|
+|**2025-05-07**|**Q-Heart: ECG Question Answering via Knowledge-Informed Multimodal LLMs**|Hung Manh Pham et.al.|[2505.06296](http://arxiv.org/abs/2505.06296)|null|
 |**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-09**|**A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work**|Xiangzhe Yuan et.al.|[2505.05786](http://arxiv.org/abs/2505.05786)|null|
 |**2025-05-09**|**Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications**|Da Wu et.al.|[2505.05736](http://arxiv.org/abs/2505.05736)|null|
@@ -53,7 +60,7 @@ layout: default
 |**2025-05-03**|**Knowledge-Augmented Language Models Interpreting Structured Chest X-Ray Findings**|Alexander Davis et.al.|[2505.01711](http://arxiv.org/abs/2505.01711)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
 |**2025-05-02**|**Emotions in the Loop: A Survey of Affective Computing for Emotional Support**|Karishma Hegde et.al.|[2505.01542](http://arxiv.org/abs/2505.01542)|null|
-|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-12**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
 |**2025-05-10**|**SSRLBot: Designing and Developing a Large Language Model-based Agent using Socially Shared Regulated Learning**|Xiaoshan Huang et.al.|[2505.00945](http://arxiv.org/abs/2505.00945)|null|
 |**2025-05-05**|**Localizing Before Answering: A Hallucination Evaluation Benchmark for Grounded Medical Multimodal LLMs**|Dung Nguyen et.al.|[2505.00744](http://arxiv.org/abs/2505.00744)|null|
 |**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467](http://arxiv.org/abs/2505.00467)|null|
@@ -1672,6 +1679,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**|Yifeng Di et.al.|[2505.07768](http://arxiv.org/abs/2505.07768)|null|
+|**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
+|**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|
+|**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
+|**2025-05-12**|**Why Uncertainty Estimation Methods Fall Short in RAG: An Axiomatic Analysis**|Heydar Soudani et.al.|[2505.07459](http://arxiv.org/abs/2505.07459)|null|
+|**2025-05-12**|**LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning**|Xiaotian Lin et.al.|[2505.07437](http://arxiv.org/abs/2505.07437)|null|
+|**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
+|**2025-05-12**|**Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection**|Pei-Fu Guo et.al.|[2505.07309](http://arxiv.org/abs/2505.07309)|null|
+|**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|**[link](https://github.com/weiyifan1023/senator)**|
+|**2025-05-11**|**Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability**|Mathyas Giudici et.al.|[2505.07142](http://arxiv.org/abs/2505.07142)|null|
+|**2025-05-11**|**RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models**|Hanzheng Dai et.al.|[2505.07089](http://arxiv.org/abs/2505.07089)|null|
+|**2025-05-10**|**POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models**|Yangguang Shao et.al.|[2505.06579](http://arxiv.org/abs/2505.06579)|null|
+|**2025-05-10**|**LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus**|Peihan Li et.al.|[2505.06513](http://arxiv.org/abs/2505.06513)|null|
 |**2025-05-09**|**Evolutionary thoughts: integration of large language models and evolutionary algorithms**|Antonio Jimeno Yepes et.al.|[2505.05756](http://arxiv.org/abs/2505.05756)|null|
 |**2025-05-08**|**Adaptive Stress Testing Black-Box LLM Planners**|Neeloy Chakraborty et.al.|[2505.05665](http://arxiv.org/abs/2505.05665)|null|
 |**2025-05-08**|**HiBayES: A Hierarchical Bayesian Modeling Framework for AI Evaluation Statistics**|Lennart Luettgau et.al.|[2505.05602](http://arxiv.org/abs/2505.05602)|null|
@@ -1710,7 +1730,7 @@ layout: default
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|**[link](https://github.com/ucscirkm/sim-rag)**|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-04**|**SEval-Ex: A Statement-Level Framework for Explainable Summarization Evaluation**|Tanguy Herserant et.al.|[2505.02235](http://arxiv.org/abs/2505.02235)|null|
-|**2025-05-04**|**LLM-Guided Probabilistic Program Induction for POMDP Model Estimation**|Aidan Curtis et.al.|[2505.02216](http://arxiv.org/abs/2505.02216)|null|
+|**2025-05-12**|**LLM-Guided Probabilistic Program Induction for POMDP Model Estimation**|Aidan Curtis et.al.|[2505.02216](http://arxiv.org/abs/2505.02216)|null|
 |**2025-05-04**|**Large Language Models are overconfident and amplify human bias**|Fengfei Sun et.al.|[2505.02151](http://arxiv.org/abs/2505.02151)|null|
 |**2025-05-04**|**VECSR: Virtually Embodied Common Sense Reasoning System**|Alexis R. Tudor et.al.|[2505.02144](http://arxiv.org/abs/2505.02144)|null|
 |**2025-05-06**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|**[link](https://github.com/chenxiliu-hnu/timekd)**|
