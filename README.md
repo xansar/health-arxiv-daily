@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
+|**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
+|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
+|**2025-05-13**|**Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions**|Lata Pangtey et.al.|[2505.08464](http://arxiv.org/abs/2505.08464)|null|
+|**2025-05-13**|**Decoding Neighborhood Environments with Large Language Models**|Andrew Cart et.al.|[2505.08163](http://arxiv.org/abs/2505.08163)|null|
+|**2025-05-13**|**Communication Styles and Reader Preferences of LLM and Human Experts in Explaining Health Information**|Jiawei Zhou et.al.|[2505.08143](http://arxiv.org/abs/2505.08143)|null|
+|**2025-05-12**|**Assessing and Mitigating Medical Knowledge Drift and Conflicts in Large Language Models**|Weiyi Wu et.al.|[2505.07968](http://arxiv.org/abs/2505.07968)|null|
+|**2025-05-11**|**TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking**|Ching Nam Hang et.al.|[2505.07891](http://arxiv.org/abs/2505.07891)|null|
+|**2025-05-07**|**A Tale of Two Identities: An Ethical Audit of Human and AI-Crafted Personas**|Pranav Narayanan Venkit et.al.|[2505.07850](http://arxiv.org/abs/2505.07850)|null|
 |**2025-05-12**|**Benchmarking Ethical and Safety Risks of Healthcare LLMs in China-Toward Systemic Governance under Healthy China 2030**|Mouxiao Bian et.al.|[2505.07205](http://arxiv.org/abs/2505.07205)|null|
 |**2025-05-12**|**KDH-MLTC: Knowledge Distillation for Healthcare Multi-Label Text Classification**|Hajar Sakai et.al.|[2505.07162](http://arxiv.org/abs/2505.07162)|null|
 |**2025-05-11**|**Building a Human-Verified Clinical Reasoning Dataset via a Human LLM Hybrid Pipeline for Trustworthy Medical AI**|Chao Ding et.al.|[2505.06912](http://arxiv.org/abs/2505.06912)|null|
@@ -1677,6 +1686,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation**|Sheng Liang et.al.|[2505.08690](http://arxiv.org/abs/2505.08690)|null|
+|**2025-05-13**|**RepCali: High Efficient Fine-tuning Via Representation Calibration in Latent Space for Pre-trained Language Models**|Fujun Zhang et.al.|[2505.08463](http://arxiv.org/abs/2505.08463)|null|
+|**2025-05-13**|**A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs**|Artem Shelmanov et.al.|[2505.08200](http://arxiv.org/abs/2505.08200)|null|
+|**2025-05-12**|**LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example**|Jiayi Wang et.al.|[2505.08083](http://arxiv.org/abs/2505.08083)|null|
+|**2025-05-11**|**TrumorGPT: Graph-Based Retrieval-Augmented Large Language Model for Fact-Checking**|Ching Nam Hang et.al.|[2505.07891](http://arxiv.org/abs/2505.07891)|null|
+|**2025-05-10**|**Recovering Event Probabilities from Large Language Model Embeddings via Axiomatic Constraints**|Jian-Qiao Zhu et.al.|[2505.07883](http://arxiv.org/abs/2505.07883)|null|
+|**2025-05-09**|**Evaluating Financial Sentiment Analysis with Annotators Instruction Assisted Prompting: Enhancing Contextual Interpretation and Stock Prediction Accuracy**|A M Muntasir Rahman et.al.|[2505.07871](http://arxiv.org/abs/2505.07871)|null|
 |**2025-05-12**|**Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**|Yifeng Di et.al.|[2505.07768](http://arxiv.org/abs/2505.07768)|null|
 |**2025-05-12**|**KAQG: A Knowledge-Graph-Enhanced RAG for Difficulty-Controlled Question Generation**|Ching Han Chen et.al.|[2505.07618](http://arxiv.org/abs/2505.07618)|null|
 |**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|
@@ -1686,7 +1702,7 @@
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
 |**2025-05-12**|**Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection**|Pei-Fu Guo et.al.|[2505.07309](http://arxiv.org/abs/2505.07309)|null|
 |**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|null|
-|**2025-05-11**|**Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability**|Mathyas Giudici et.al.|[2505.07142](http://arxiv.org/abs/2505.07142)|null|
+|**2025-05-13**|**Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability**|Mathyas Giudici et.al.|[2505.07142](http://arxiv.org/abs/2505.07142)|null|
 |**2025-05-11**|**RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models**|Hanzheng Dai et.al.|[2505.07089](http://arxiv.org/abs/2505.07089)|null|
 |**2025-05-10**|**POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models**|Yangguang Shao et.al.|[2505.06579](http://arxiv.org/abs/2505.06579)|null|
 |**2025-05-10**|**LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus**|Peihan Li et.al.|[2505.06513](http://arxiv.org/abs/2505.06513)|null|
