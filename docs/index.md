@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1705,7 +1705,7 @@ layout: default
 |**2025-05-12**|**Uncertainty Profiles for LLMs: Uncertainty Source Decomposition and Adaptive Model-Metric Selection**|Pei-Fu Guo et.al.|[2505.07309](http://arxiv.org/abs/2505.07309)|null|
 |**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|null|
 |**2025-05-13**|**Exploring Anthropomorphism in Conversational Agents for Environmental Sustainability**|Mathyas Giudici et.al.|[2505.07142](http://arxiv.org/abs/2505.07142)|null|
-|**2025-05-11**|**RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models**|Hanzheng Dai et.al.|[2505.07089](http://arxiv.org/abs/2505.07089)|null|
+|**2025-05-14**|**RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models**|Hanzheng Dai et.al.|[2505.07089](http://arxiv.org/abs/2505.07089)|null|
 |**2025-05-10**|**POISONCRAFT: Practical Poisoning of Retrieval-Augmented Generation for Large Language Models**|Yangguang Shao et.al.|[2505.06579](http://arxiv.org/abs/2505.06579)|null|
 |**2025-05-10**|**LLM-Flock: Decentralized Multi-Robot Flocking via Large Language Models and Influence-Based Consensus**|Peihan Li et.al.|[2505.06513](http://arxiv.org/abs/2505.06513)|null|
 |**2025-05-09**|**Evolutionary thoughts: integration of large language models and evolutionary algorithms**|Antonio Jimeno Yepes et.al.|[2505.05756](http://arxiv.org/abs/2505.05756)|null|
