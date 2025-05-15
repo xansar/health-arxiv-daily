@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Performance Gains of LLMs With Humans in a World of LLMs Versus Humans**|Lucas McCullum et.al.|[2505.08902](http://arxiv.org/abs/2505.08902)|null|
 |**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
 |**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
@@ -1688,6 +1689,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
+|**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319](http://arxiv.org/abs/2505.09319)|null|
+|**2025-05-14**|**Atomic Consistency Preference Optimization for Long-Form Question Answering**|Jingfeng Chen et.al.|[2505.09039](http://arxiv.org/abs/2505.09039)|**[link](https://github.com/jingfengsteven/acpo)**|
+|**2025-05-13**|**Improving the Reliability of LLMs: Combining CoT, RAG, Self-Consistency, and Self-Verification**|Adarsh Kumar et.al.|[2505.09031](http://arxiv.org/abs/2505.09031)|null|
+|**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Yangyi Chen et.al.|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
+|**2025-05-13**|**CellTypeAgent: Trustworthy cell type annotation with Large Language Models**|Jiawen Chen et.al.|[2505.08844](http://arxiv.org/abs/2505.08844)|**[link](https://github.com/jianghao-zhang/celltypeagent)**|
 |**2025-05-13**|**Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation**|Sheng Liang et.al.|[2505.08690](http://arxiv.org/abs/2505.08690)|null|
 |**2025-05-13**|**RepCali: High Efficient Fine-tuning Via Representation Calibration in Latent Space for Pre-trained Language Models**|Fujun Zhang et.al.|[2505.08463](http://arxiv.org/abs/2505.08463)|null|
 |**2025-05-13**|**A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs**|Artem Shelmanov et.al.|[2505.08200](http://arxiv.org/abs/2505.08200)|null|
