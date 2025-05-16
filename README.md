@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI**|Agnik Saha et.al.|[2505.10472](http://arxiv.org/abs/2505.10472)|null|
+|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-15**|**Are LLM-generated plain language summaries truly understandable? A large-scale crowdsourced evaluation**|Yue Guo et.al.|[2505.10409](http://arxiv.org/abs/2505.10409)|null|
+|**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|
+|**2025-05-15**|**The Evolving Landscape of Generative Large Language Models and Traditional Natural Language Processing in Medicine**|Rui Yang et.al.|[2505.10261](http://arxiv.org/abs/2505.10261)|null|
+|**2025-05-15**|**What Does Neuro Mean to Cardio? Investigating the Role of Clinical Specialty Data in Medical LLMs**|Xinlan Yan et.al.|[2505.10113](http://arxiv.org/abs/2505.10113)|null|
+|**2025-05-14**|**Contextual Phenotyping of Pediatric Sepsis Cohort Using Large Language Models**|Aditya Nagori et.al.|[2505.09805](http://arxiv.org/abs/2505.09805)|null|
+|**2025-05-14**|**A Multimodal Multi-Agent Framework for Radiology Report Generation**|Ziruo Yi et.al.|[2505.09787](http://arxiv.org/abs/2505.09787)|null|
+|**2025-05-14**|**Tales of the 2025 Los Angeles Fire: Hotwash for Public Health Concerns in Reddit via LLM-Enhanced Topic Modeling**|Sulong Zhou et.al.|[2505.09665](http://arxiv.org/abs/2505.09665)|null|
 |**2025-05-13**|**Performance Gains of LLMs With Humans in a World of LLMs Versus Humans**|Lucas McCullum et.al.|[2505.08902](http://arxiv.org/abs/2505.08902)|null|
 |**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704](http://arxiv.org/abs/2505.08704)|null|
@@ -35,7 +44,7 @@
 |**2025-05-10**|**NeuroPal: A Clinically-Informed Multimodal LLM Assistant for Mental Health Combining Sleep Chronotherapy, Cognitive Behavioral Reframing, and Adaptive Phytochemical Intervention**|Xiaoran Han et.al.|[2505.06640](http://arxiv.org/abs/2505.06640)|null|
 |**2025-05-10**|**Batch Augmentation with Unimodal Fine-tuning for Multimodal Learning**|H M Dipu Kabir et.al.|[2505.06592](http://arxiv.org/abs/2505.06592)|**[link](https://github.com/dipuk0506/multimodal)**|
 |**2025-05-07**|**Q-Heart: ECG Question Answering via Knowledge-Informed Multimodal LLMs**|Hung Manh Pham et.al.|[2505.06296](http://arxiv.org/abs/2505.06296)|null|
-|**2025-05-09**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
+|**2025-05-15**|**Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information**|Joshua Harris et.al.|[2505.06046](http://arxiv.org/abs/2505.06046)|null|
 |**2025-05-09**|**A Day in Their Shoes: Using LLM-Based Perspective-Taking Interactive Fiction to Reduce Stigma Toward Dirty Work**|Xiangzhe Yuan et.al.|[2505.05786](http://arxiv.org/abs/2505.05786)|null|
 |**2025-05-09**|**Multimodal Integrated Knowledge Transfer to Large Language Models through Preference Optimization with Biomedical Applications**|Da Wu et.al.|[2505.05736](http://arxiv.org/abs/2505.05736)|**[link](https://github.com/wglab/mint-llm)**|
 |**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
@@ -1687,6 +1696,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
+|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|null|
+|**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|null|
+|**2025-05-15**|**Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Tasks**|Ziyuan Zhang et.al.|[2505.09901](http://arxiv.org/abs/2505.09901)|null|
+|**2025-05-14**|**A Multimodal Multi-Agent Framework for Radiology Report Generation**|Ziruo Yi et.al.|[2505.09787](http://arxiv.org/abs/2505.09787)|null|
+|**2025-05-14**|**Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents**|Botao Amber Hu et.al.|[2505.09757](http://arxiv.org/abs/2505.09757)|null|
 |**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[2505.09427](http://arxiv.org/abs/2505.09427)|null|
 |**2025-05-14**|**Statistical Modeling and Uncertainty Estimation of LLM Inference Systems**|Kaustabha Ray et.al.|[2505.09319](http://arxiv.org/abs/2505.09319)|null|
 |**2025-05-14**|**Atomic Consistency Preference Optimization for Long-Form Question Answering**|Jingfeng Chen et.al.|[2505.09039](http://arxiv.org/abs/2505.09039)|**[link](https://github.com/jingfengsteven/acpo)**|
