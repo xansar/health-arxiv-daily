@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-15**|**Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI**|Agnik Saha et.al.|[2505.10472](http://arxiv.org/abs/2505.10472)|null|
 |**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**Are LLM-generated plain language summaries truly understandable? A large-scale crowdsourced evaluation**|Yue Guo et.al.|[2505.10409](http://arxiv.org/abs/2505.10409)|null|
@@ -1698,9 +1700,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
+|**2025-05-16**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
+|**2025-05-16**|**The Way We Prompt: Conceptual Blending, Neural Dynamics, and Prompt-Induced Transitions in LLMs**|Makoto Sato et.al.|[2505.10948](http://arxiv.org/abs/2505.10948)|null|
+|**2025-05-16**|**Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation**|Zhan Peng Lee et.al.|[2505.10792](http://arxiv.org/abs/2505.10792)|**[link](https://github.com/Pints-AI/Finetune-Bench-RAG)**|
+|**2025-05-15**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
+|**2025-05-14**|**The Impact of Large Language Models on Task Automation in Manufacturing Services**|Jochen Wulf et.al.|[2505.10581](http://arxiv.org/abs/2505.10581)|null|
 |**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
-|**2025-05-15**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
+|**2025-05-16**|**Leveraging Graph Retrieval-Augmented Generation to Support Learners' Understanding of Knowledge Concepts in MOOCs**|Mohamed Abdelmagied et.al.|[2505.10074](http://arxiv.org/abs/2505.10074)|null|
 |**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|**[link](https://github.com/tang-bd/fuse-dit)**|
 |**2025-05-15**|**Personalizing Large Language Models using Retrieval Augmented Generation and Knowledge Graph**|Deeksha Prahlad et.al.|[2505.09945](http://arxiv.org/abs/2505.09945)|**[link](https://github.com/asu-kim/personal-llm-kg)**|
 |**2025-05-15**|**Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Tasks**|Ziyuan Zhang et.al.|[2505.09901](http://arxiv.org/abs/2505.09901)|**[link](https://github.com/sjgershm/exploration)**|
