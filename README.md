@@ -18,6 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Dementia Through Different Eyes: Explainable Modeling of Human and LLM Perceptions for Early Awareness**|Lotem Peled-Cohen et.al.|[2505.13418](http://arxiv.org/abs/2505.13418)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
+|**2025-05-19**|**Walking the Tightrope: Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning**|Xiaoyu Yang et.al.|[2505.13081](http://arxiv.org/abs/2505.13081)|null|
+|**2025-05-19**|**GAP: Graph-Assisted Prompts for Dialogue-based Medication Recommendation**|Jialun Zhong et.al.|[2505.12888](http://arxiv.org/abs/2505.12888)|null|
+|**2025-05-19**|**EpiLLM: Unlocking the Potential of Large Language Models in Epidemic Forecasting**|Chenghua Gong et.al.|[2505.12738](http://arxiv.org/abs/2505.12738)|null|
+|**2025-05-18**|**ESC-Judge: A Framework for Comparing Emotional Support Conversational Agents**|Navid Madani et.al.|[2505.12531](http://arxiv.org/abs/2505.12531)|null|
+|**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|null|
+|**2025-05-18**|**PANORAMA: A synthetic PII-laced dataset for studying sensitive data memorization in LLMs**|Sriram Selvam et.al.|[2505.12238](http://arxiv.org/abs/2505.12238)|null|
+|**2025-05-17**|**AutoMedEval: Harnessing Language Models for Automatic Medical Capability Evaluation**|Xiechi Zhang et.al.|[2505.11887](http://arxiv.org/abs/2505.11887)|null|
+|**2025-05-17**|**LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**|Ryan Chen et.al.|[2505.11772](http://arxiv.org/abs/2505.11772)|null|
+|**2025-05-16**|**MedCaseReasoning: Evaluating and learning diagnostic reasoning from clinical case reports**|Kevin Wu et.al.|[2505.11733](http://arxiv.org/abs/2505.11733)|**[link](https://github.com/kevinwu23/stanford-medcasereasoning)**|
+|**2025-05-16**|**MedGUIDE: Benchmarking Clinical Decision-Making in Large Language Models**|Xiaomin Li et.al.|[2505.11613](http://arxiv.org/abs/2505.11613)|null|
+|**2025-05-16**|**Heart2Mind: Human-Centered Contestable Psychiatric Disorder Diagnosis System using Wearable ECG Monitors**|Hung Nguyen et.al.|[2505.11612](http://arxiv.org/abs/2505.11612)|null|
 |**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-15**|**Large Language Models for Cancer Communication: Evaluating Linguistic Quality, Safety, and Accessibility in Generative AI**|Agnik Saha et.al.|[2505.10472](http://arxiv.org/abs/2505.10472)|null|
@@ -1698,11 +1712,39 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312](http://arxiv.org/abs/2505.13312)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
+|**2025-05-19**|**Benchmarking and Confidence Evaluation of LALMs For Temporal Reasoning**|Debarpan Bhattacharya et.al.|[2505.13115](http://arxiv.org/abs/2505.13115)|null|
+|**2025-05-19**|**Automatic mixed precision for optimizing gained time with constrained loss mean-squared-error based on model partition to sequential sub-graphs**|Shmulik Markovich-Golan et.al.|[2505.13060](http://arxiv.org/abs/2505.13060)|null|
+|**2025-05-19**|**Mitigating Hallucination in VideoLLMs via Temporal-Aware Activation Engineering**|Jianfeng Cai et.al.|[2505.12826](http://arxiv.org/abs/2505.12826)|null|
+|**2025-05-19**|**LLM-based Query Expansion Fails for Unfamiliar and Ambiguous Queries**|Kenya Abe et.al.|[2505.12694](http://arxiv.org/abs/2505.12694)|null|
+|**2025-05-19**|**Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering**|Xukai Liu et.al.|[2505.12662](http://arxiv.org/abs/2505.12662)|null|
+|**2025-05-18**|**UFO-RL: Uncertainty-Focused Optimization for Efficient Reinforcement Learning Data Selection**|Yang Zhao et.al.|[2505.12457](http://arxiv.org/abs/2505.12457)|null|
+|**2025-05-18**|**VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning**|Qi Wang et.al.|[2505.12434](http://arxiv.org/abs/2505.12434)|**[link](https://github.com/qiwang98/videorft)**|
+|**2025-05-18**|**PSC: Extending Context Window of Large Language Models via Phase Shift Calibration**|Wenqiao Zhu et.al.|[2505.12423](http://arxiv.org/abs/2505.12423)|**[link](https://github.com/wnqzhu/psc)**|
+|**2025-05-18**|**SEED-GRPO: Semantic Entropy Enhanced GRPO for Uncertainty-Aware Policy Optimization**|Minghan Chen et.al.|[2505.12346](http://arxiv.org/abs/2505.12346)|null|
+|**2025-05-18**|**Beyond Single-Point Judgment: Distribution Alignment for LLM-as-a-Judge**|Luyu Chen et.al.|[2505.12301](http://arxiv.org/abs/2505.12301)|null|
+|**2025-05-18**|**The Tower of Babel Revisited: Multilingual Jailbreak Prompts on Closed-Source Large Language Models**|Linghan Huang et.al.|[2505.12287](http://arxiv.org/abs/2505.12287)|null|
+|**2025-05-18**|**Learning Auxiliary Tasks Improves Reference-Free Hallucination Detection in Open-Domain Long-Form Generation**|Chengwei Qin et.al.|[2505.12265](http://arxiv.org/abs/2505.12265)|null|
+|**2025-05-17**|**The Impact of Emerging Phishing Threats: Assessing Quishing and LLM-generated Phishing Emails against Organizations**|Marie Weinz et.al.|[2505.12104](http://arxiv.org/abs/2505.12104)|null|
+|**2025-05-17**|**MoL for LLMs: Dual-Loss Optimization to Enhance Domain Expertise While Preserving General Capabilities**|Jingxue Chen et.al.|[2505.12043](http://arxiv.org/abs/2505.12043)|null|
+|**2025-05-17**|**SOCIA: An End-to-End Agentic Framework for Automated Cyber-Physical-Social Simulator Generation**|Yuncheng Hua et.al.|[2505.12006](http://arxiv.org/abs/2505.12006)|null|
+|**2025-05-17**|**TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text**|Ahmed Lekssays et.al.|[2505.11988](http://arxiv.org/abs/2505.11988)|null|
+|**2025-05-17**|**CCNU at SemEval-2025 Task 3: Leveraging Internal and External Knowledge of Large Language Models for Multilingual Hallucination Annotation**|Xu Liu et.al.|[2505.11965](http://arxiv.org/abs/2505.11965)|null|
+|**2025-05-17**|**Fine-Grained ECG-Text Contrastive Learning via Waveform Understanding Enhancement**|Haitao Li et.al.|[2505.11939](http://arxiv.org/abs/2505.11939)|null|
+|**2025-05-17**|**Are Multimodal Large Language Models Ready for Omnidirectional Spatial Reasoning?**|Zihao Dongfang et.al.|[2505.11907](http://arxiv.org/abs/2505.11907)|null|
+|**2025-05-17**|**When AI Co-Scientists Fail: SPOT-a Benchmark for Automated Verification of Scientific Research**|Guijin Son et.al.|[2505.11855](http://arxiv.org/abs/2505.11855)|null|
+|**2025-05-17**|**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**|Xuannan Liu et.al.|[2505.11842](http://arxiv.org/abs/2505.11842)|**[link](https://github.com/flageval-baai/video-safetybench)**|
+|**2025-05-17**|**Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling**|Yitian Chen et.al.|[2505.11792](http://arxiv.org/abs/2505.11792)|null|
+|**2025-05-17**|**Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission**|Seungeun Oh et.al.|[2505.11788](http://arxiv.org/abs/2505.11788)|null|
+|**2025-05-16**|**Token-Level Uncertainty Estimation for Large Language Model Reasoning**|Tunyu Zhang et.al.|[2505.11737](http://arxiv.org/abs/2505.11737)|null|
+|**2025-05-16**|**Efficient Uncertainty Estimation via Distillation of Bayesian Large Language Models**|Harshil Vejendla et.al.|[2505.11731](http://arxiv.org/abs/2505.11731)|null|
+|**2025-05-16**|**Terminators: Terms of Service Parsing and Auditing Agents**|Maruf Ahmed Mridul et.al.|[2505.11672](http://arxiv.org/abs/2505.11672)|null|
 |**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
-|**2025-05-16**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
+|**2025-05-19**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
 |**2025-05-16**|**The Way We Prompt: Conceptual Blending, Neural Dynamics, and Prompt-Induced Transitions in LLMs**|Makoto Sato et.al.|[2505.10948](http://arxiv.org/abs/2505.10948)|null|
-|**2025-05-16**|**Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation**|Zhan Peng Lee et.al.|[2505.10792](http://arxiv.org/abs/2505.10792)|**[link](https://github.com/Pints-AI/Finetune-Bench-RAG)**|
-|**2025-05-15**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
+|**2025-05-19**|**Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation**|Zhan Peng Lee et.al.|[2505.10792](http://arxiv.org/abs/2505.10792)|**[link](https://github.com/Pints-AI/Finetune-Bench-RAG)**|
+|**2025-05-19**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Jianfei Zhao et.al.|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
 |**2025-05-14**|**The Impact of Large Language Models on Task Automation in Manufacturing Services**|Jochen Wulf et.al.|[2505.10581](http://arxiv.org/abs/2505.10581)|null|
 |**2025-05-16**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs**|Longchao Da et.al.|[2505.10143](http://arxiv.org/abs/2505.10143)|null|
