@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964](http://arxiv.org/abs/2505.16964)|null|
+|**2025-05-22**|**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**|Issey Sukeda et.al.|[2505.16661](http://arxiv.org/abs/2505.16661)|null|
+|**2025-05-22**|**Collaboration among Multiple Large Language Models for Medical Question Answering**|Kexin Shang et.al.|[2505.16648](http://arxiv.org/abs/2505.16648)|null|
+|**2025-05-22**|**No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery**|Xiaoxue Han et.al.|[2505.16288](http://arxiv.org/abs/2505.16288)|null|
+|**2025-05-22**|**Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools**|Panagiotis Lymperopoulos et.al.|[2505.16113](http://arxiv.org/abs/2505.16113)|null|
+|**2025-05-22**|**Continually Self-Improving Language Models for Bariatric Surgery Question--Answering**|Yash Kumar Atri et.al.|[2505.16102](http://arxiv.org/abs/2505.16102)|null|
+|**2025-05-22**|**TrialPanorama: Database and Benchmark for Systematic Review and Design of Clinical Trials**|Zifeng Wang et.al.|[2505.16097](http://arxiv.org/abs/2505.16097)|null|
 |**2025-05-22**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
 |**2025-05-21**|**Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling**|He Hu et.al.|[2505.15715](http://arxiv.org/abs/2505.15715)|null|
 |**2025-05-21**|**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**|Lang Gao et.al.|[2505.15524](http://arxiv.org/abs/2505.15524)|null|
@@ -1727,6 +1734,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
+|**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922](http://arxiv.org/abs/2505.16922)|null|
+|**2025-05-22**|**Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**|Zeyu Wei et.al.|[2505.16894](http://arxiv.org/abs/2505.16894)|null|
+|**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
+|**2025-05-22**|**Two-way Evidence self-Alignment based Dual-Gated Reasoning Enhancement**|Kexin Zhang et.al.|[2505.16806](http://arxiv.org/abs/2505.16806)|null|
+|**2025-05-22**|**Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs**|Zeping Yu et.al.|[2505.16703](http://arxiv.org/abs/2505.16703)|null|
+|**2025-05-22**|**Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator**|Beier Luo et.al.|[2505.16690](http://arxiv.org/abs/2505.16690)|null|
+|**2025-05-22**|**Collaboration among Multiple Large Language Models for Medical Question Answering**|Kexin Shang et.al.|[2505.16648](http://arxiv.org/abs/2505.16648)|null|
+|**2025-05-22**|**Evaluating Large Language Model with Knowledge Oriented Language Specific Simple Question Answering**|Bowen Jiang et.al.|[2505.16591](http://arxiv.org/abs/2505.16591)|null|
+|**2025-05-22**|**Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**|Giovanni Servedio et.al.|[2505.16520](http://arxiv.org/abs/2505.16520)|null|
+|**2025-05-22**|**Recursive Offloading for LLM Serving in Multi-tier Networks**|Zhiyuan Wu et.al.|[2505.16502](http://arxiv.org/abs/2505.16502)|null|
+|**2025-05-22**|**Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery**|Yanbo Zhang et.al.|[2505.16477](http://arxiv.org/abs/2505.16477)|null|
+|**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
+|**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367](http://arxiv.org/abs/2505.16367)|null|
+|**2025-05-22**|**HiMATE: A Hierarchical Multi-Agent Framework for Machine Translation Evaluation**|Shijie Zhang et.al.|[2505.16281](http://arxiv.org/abs/2505.16281)|null|
+|**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|null|
+|**2025-05-22**|**Position of Uncertainty: A Cross-Linguistic Study of Positional Bias in Large Language Models**|Menschikov Mikhail et.al.|[2505.16134](http://arxiv.org/abs/2505.16134)|null|
+|**2025-05-22**|**Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**|Junhong Lin et.al.|[2505.16122](http://arxiv.org/abs/2505.16122)|null|
+|**2025-05-22**|**LLM-Powered AI Agent Systems and Their Applications in Industry**|Guannan Liang et.al.|[2505.16120](http://arxiv.org/abs/2505.16120)|null|
+|**2025-05-22**|**Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools**|Panagiotis Lymperopoulos et.al.|[2505.16113](http://arxiv.org/abs/2505.16113)|null|
+|**2025-05-22**|**Continually Self-Improving Language Models for Bariatric Surgery Question--Answering**|Yash Kumar Atri et.al.|[2505.16102](http://arxiv.org/abs/2505.16102)|null|
+|**2025-05-21**|**Aug2Search: Enhancing Facebook Marketplace Search with LLM-Generated Synthetic Data Augmentation**|Ruijie Xi et.al.|[2505.16065](http://arxiv.org/abs/2505.16065)|null|
+|**2025-05-21**|**SLMEval: Entropy-Based Calibration for Human-Aligned Evaluation of Large Language Models**|Roland Daynauth et.al.|[2505.16003](http://arxiv.org/abs/2505.16003)|null|
 |**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
 |**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
 |**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
@@ -1742,7 +1772,7 @@
 |**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|**[link](https://github.com/reml-group/deliberation-on-priors)**|
 |**2025-05-21**|**ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection**|Jeonghye Kim et.al.|[2505.15182](http://arxiv.org/abs/2505.15182)|null|
 |**2025-05-21**|**Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning**|Jinghui Lu et.al.|[2505.15154](http://arxiv.org/abs/2505.15154)|null|
-|**2025-05-21**|**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**|Shivam Agarwal et.al.|[2505.15134](http://arxiv.org/abs/2505.15134)|null|
+|**2025-05-21**|**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**|Shivam Agarwal et.al.|[2505.15134](http://arxiv.org/abs/2505.15134)|**[link](https://github.com/shivamag125/EM_PT)**|
 |**2025-05-21**|**RoT: Enhancing Table Reasoning with Iterative Row-Wise Traversals**|Xuanliang Zhang et.al.|[2505.15110](http://arxiv.org/abs/2505.15110)|null|
 |**2025-05-21**|**Cost-aware LLM-based Online Dataset Annotation**|Eray Can Elumar et.al.|[2505.15101](http://arxiv.org/abs/2505.15101)|null|
 |**2025-05-21**|**PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration**|Yingming Pu et.al.|[2505.15047](http://arxiv.org/abs/2505.15047)|**[link](https://github.com/amair-lab/piflow)**|
