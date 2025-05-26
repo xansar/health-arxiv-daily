@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964](http://arxiv.org/abs/2505.16964)|null|
-|**2025-05-22**|**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**|Issey Sukeda et.al.|[2505.16661](http://arxiv.org/abs/2505.16661)|null|
+|**2025-05-22**|**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**|Issey Sukeda et.al.|[2505.16661](http://arxiv.org/abs/2505.16661)|**[link](https://github.com/eques-inc/pharma-llm-eval)**|
 |**2025-05-22**|**Collaboration among Multiple Large Language Models for Medical Question Answering**|Kexin Shang et.al.|[2505.16648](http://arxiv.org/abs/2505.16648)|null|
 |**2025-05-22**|**No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery**|Xiaoxue Han et.al.|[2505.16288](http://arxiv.org/abs/2505.16288)|null|
 |**2025-05-22**|**Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools**|Panagiotis Lymperopoulos et.al.|[2505.16113](http://arxiv.org/abs/2505.16113)|null|
@@ -35,7 +35,7 @@ layout: default
 |**2025-05-22**|**MentalMAC: Enhancing Large Language Models for Detecting Mental Manipulation via Multi-Task Anti-Curriculum Distillation**|Yuansheng Gao et.al.|[2505.15255](http://arxiv.org/abs/2505.15255)|null|
 |**2025-05-21**|**AI Solutionism and Digital Self-Tracking with Wearables**|Hannah R. Nolasco et.al.|[2505.15162](http://arxiv.org/abs/2505.15162)|null|
 |**2025-05-21**|**A Risk Taxonomy for Evaluating AI-Powered Psychotherapy Agents**|Ian Steenstra et.al.|[2505.15108](http://arxiv.org/abs/2505.15108)|null|
-|**2025-05-21**|**Diagnosing our datasets: How does my language model learn clinical information?**|Furong Jia et.al.|[2505.15024](http://arxiv.org/abs/2505.15024)|null|
+|**2025-05-23**|**Diagnosing our datasets: How does my language model learn clinical information?**|Furong Jia et.al.|[2505.15024](http://arxiv.org/abs/2505.15024)|null|
 |**2025-05-20**|**MedBrowseComp: Benchmarking Medical Deep Research and Computer Use**|Shan Chen et.al.|[2505.14963](http://arxiv.org/abs/2505.14963)|null|
 |**2025-05-20**|**RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**|Wenjun Hou et.al.|[2505.14318](http://arxiv.org/abs/2505.14318)|**[link](https://github.com/wjhou/Radar)**|
 |**2025-05-20**|**s3: You Don't Need That Much Data to Train a Search Agent via RL**|Pengcheng Jiang et.al.|[2505.14146](http://arxiv.org/abs/2505.14146)|**[link](https://github.com/pat-jj/s3)**|
@@ -51,7 +51,7 @@ layout: default
 |**2025-05-19**|**GAP: Graph-Assisted Prompts for Dialogue-based Medication Recommendation**|Jialun Zhong et.al.|[2505.12888](http://arxiv.org/abs/2505.12888)|null|
 |**2025-05-19**|**EpiLLM: Unlocking the Potential of Large Language Models in Epidemic Forecasting**|Chenghua Gong et.al.|[2505.12738](http://arxiv.org/abs/2505.12738)|null|
 |**2025-05-18**|**ESC-Judge: A Framework for Comparing Emotional Support Conversational Agents**|Navid Madani et.al.|[2505.12531](http://arxiv.org/abs/2505.12531)|null|
-|**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|null|
+|**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|**[link](https://github.com/yhzhu99/medagentboard)**|
 |**2025-05-18**|**PANORAMA: A synthetic PII-laced dataset for studying sensitive data memorization in LLMs**|Sriram Selvam et.al.|[2505.12238](http://arxiv.org/abs/2505.12238)|**[link](https://github.com/selvamsriram/panorama-datagen)**|
 |**2025-05-17**|**AutoMedEval: Harnessing Language Models for Automatic Medical Capability Evaluation**|Xiechi Zhang et.al.|[2505.11887](http://arxiv.org/abs/2505.11887)|null|
 |**2025-05-21**|**LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**|Ryan Chen et.al.|[2505.11772](http://arxiv.org/abs/2505.11772)|null|
@@ -1736,7 +1736,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
 |**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922](http://arxiv.org/abs/2505.16922)|null|
 |**2025-05-22**|**Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**|Zeyu Wei et.al.|[2505.16894](http://arxiv.org/abs/2505.16894)|null|
 |**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
@@ -1746,7 +1746,7 @@ layout: default
 |**2025-05-22**|**Collaboration among Multiple Large Language Models for Medical Question Answering**|Kexin Shang et.al.|[2505.16648](http://arxiv.org/abs/2505.16648)|null|
 |**2025-05-22**|**Evaluating Large Language Model with Knowledge Oriented Language Specific Simple Question Answering**|Bowen Jiang et.al.|[2505.16591](http://arxiv.org/abs/2505.16591)|null|
 |**2025-05-22**|**Are the Hidden States Hiding Something? Testing the Limits of Factuality-Encoding Capabilities in LLMs**|Giovanni Servedio et.al.|[2505.16520](http://arxiv.org/abs/2505.16520)|null|
-|**2025-05-22**|**Recursive Offloading for LLM Serving in Multi-tier Networks**|Zhiyuan Wu et.al.|[2505.16502](http://arxiv.org/abs/2505.16502)|null|
+|**2025-05-22**|**Recursive Offloading for LLM Serving in Multi-tier Networks**|Zhiyuan Wu et.al.|[2505.16502](http://arxiv.org/abs/2505.16502)|**[link](https://github.com/wuzhiyuan2000/recserve)**|
 |**2025-05-22**|**Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery**|Yanbo Zhang et.al.|[2505.16477](http://arxiv.org/abs/2505.16477)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
 |**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367](http://arxiv.org/abs/2505.16367)|null|
