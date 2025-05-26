@@ -18,6 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL**|Che Liu et.al.|[2505.17952](http://arxiv.org/abs/2505.17952)|null|
+|**2025-05-23**|**PatientSim: A Persona-Driven Simulator for Realistic Doctor-Patient Interactions**|Daeun Kyung et.al.|[2505.17818](http://arxiv.org/abs/2505.17818)|null|
+|**2025-05-23**|**EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications**|Ancheng Xu et.al.|[2505.17654](http://arxiv.org/abs/2505.17654)|null|
+|**2025-05-23**|**WiNGPT-3.0 Technical Report**|Boqin Zhuang et.al.|[2505.17387](http://arxiv.org/abs/2505.17387)|null|
+|**2025-05-23**|**AI-Augmented LLMs Achieve Therapist-Level Responses in Motivational Interviewing**|Yinghui Huang et.al.|[2505.17380](http://arxiv.org/abs/2505.17380)|null|
+|**2025-05-22**|**CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports**|Xiao Yu Cindy Zhang et.al.|[2505.17265](http://arxiv.org/abs/2505.17265)|null|
+|**2025-05-22**|**CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation**|Ibrahim Ethem Hamamci et.al.|[2505.17167](http://arxiv.org/abs/2505.17167)|null|
+|**2025-05-22**|**Cog-TiPRO: Iterative Prompt Refinement with LLMs to Detect Cognitive Decline via Longitudinal Voice Assistant Commands**|Kristin Qi et.al.|[2505.17137](http://arxiv.org/abs/2505.17137)|null|
+|**2025-05-21**|**Systematic Evaluation of Machine-Generated Reasoning and PHQ-9 Labeling for Depression Detection Using Large Language Models**|Zongru Shao et.al.|[2505.17119](http://arxiv.org/abs/2505.17119)|null|
+|**2025-05-21**|**Are LLMs reliable? An exploration of the reliability of large language models in clinical note generation**|Kristine Ann M. Carandang et.al.|[2505.17095](http://arxiv.org/abs/2505.17095)|null|
+|**2025-05-18**|**Decoding Rarity: Large Language Models in the Diagnosis of Rare Diseases**|Valentina Carbonari et.al.|[2505.17065](http://arxiv.org/abs/2505.17065)|null|
+|**2025-05-15**|**Assessing the Quality of AI-Generated Clinical Notes: A Validated Evaluation of a Large Language Model Scribe**|Erin Palm et.al.|[2505.17047](http://arxiv.org/abs/2505.17047)|null|
 |**2025-05-22**|**MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**|Suhao Yu et.al.|[2505.16964](http://arxiv.org/abs/2505.16964)|null|
 |**2025-05-22**|**A Japanese Language Model and Three New Evaluation Benchmarks for Pharmaceutical NLP**|Issey Sukeda et.al.|[2505.16661](http://arxiv.org/abs/2505.16661)|**[link](https://github.com/eques-inc/pharma-llm-eval)**|
 |**2025-05-22**|**Collaboration among Multiple Large Language Models for Medical Question Answering**|Kexin Shang et.al.|[2505.16648](http://arxiv.org/abs/2505.16648)|null|
@@ -1734,6 +1746,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989](http://arxiv.org/abs/2505.17989)|null|
+|**2025-05-23**|**LLM Meeting Decision Trees on Tabular Data**|Hangting Ye et.al.|[2505.17918](http://arxiv.org/abs/2505.17918)|null|
+|**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[2505.17801](http://arxiv.org/abs/2505.17801)|null|
+|**2025-05-23**|**C-LoRA: Contextual Low-Rank Adaptation for Uncertainty Estimation in Large Language Models**|Amir Hossein Rahmati et.al.|[2505.17773](http://arxiv.org/abs/2505.17773)|null|
+|**2025-05-23**|**But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors**|Leon Eshuijs et.al.|[2505.17760](http://arxiv.org/abs/2505.17760)|null|
+|**2025-05-23**|**Get Experience from Practice: LLM Agents with Record & Replay**|Erhu Feng et.al.|[2505.17716](http://arxiv.org/abs/2505.17716)|null|
+|**2025-05-23**|**Distilling LLM Agent into Small Models with Retrieval and Code Tools**|Minki Kang et.al.|[2505.17612](http://arxiv.org/abs/2505.17612)|null|
+|**2025-05-23**|**Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs**|Yusheng Zhao et.al.|[2505.17599](http://arxiv.org/abs/2505.17599)|null|
+|**2025-05-23**|**Teaching with Lies: Curriculum DPO on Synthetic Negatives for Hallucination Detection**|Shrey Pandit et.al.|[2505.17558](http://arxiv.org/abs/2505.17558)|null|
+|**2025-05-23**|**How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception**|Shiyu Ni et.al.|[2505.17537](http://arxiv.org/abs/2505.17537)|null|
+|**2025-05-23**|**CReSt: A Comprehensive Benchmark for Retrieval-Augmented Generation with Complex Reasoning over Structured Documents**|Minsoo Khang et.al.|[2505.17503](http://arxiv.org/abs/2505.17503)|null|
+|**2025-05-23**|**keepitsimple at SemEval-2025 Task 3: LLM-Uncertainty based Approach for Multilingual Hallucination Span Detection**|Saketh Reddy Vemula et.al.|[2505.17485](http://arxiv.org/abs/2505.17485)|null|
+|**2025-05-23**|**Self-Training Large Language Models with Confident Reasoning**|Hyosoon Jang et.al.|[2505.17454](http://arxiv.org/abs/2505.17454)|null|
+|**2025-05-23**|**A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit**|Zafarullah Mahmood et.al.|[2505.17362](http://arxiv.org/abs/2505.17362)|null|
+|**2025-05-22**|**GPT Editors, Not Authors: The Stylistic Footprint of LLMs in Academic Preprints**|Soren DeHaan et.al.|[2505.17327](http://arxiv.org/abs/2505.17327)|null|
+|**2025-05-22**|**Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty**|Peilin Wu et.al.|[2505.17281](http://arxiv.org/abs/2505.17281)|null|
+|**2025-05-22**|**Personalizing Student-Agent Interactions Using Log-Contextualized Retrieval Augmented Generation (RAG)**|Clayton Cohn et.al.|[2505.17238](http://arxiv.org/abs/2505.17238)|null|
+|**2025-05-22**|**LLM-Powered Agents for Navigating Venice's Historical Cadastre**|Tristan Karch et.al.|[2505.17148](http://arxiv.org/abs/2505.17148)|null|
+|**2025-05-22**|**When can isotropy help adapt LLMs' next word prediction to numerical domains?**|Rashed Shelim et.al.|[2505.17135](http://arxiv.org/abs/2505.17135)|null|
+|**2025-05-21**|**NEXT-EVAL: Next Evaluation of Traditional and LLM Web Data Record Extraction**|Soyeon Kim et.al.|[2505.17125](http://arxiv.org/abs/2505.17125)|null|
 |**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
 |**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922](http://arxiv.org/abs/2505.16922)|null|
 |**2025-05-22**|**Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**|Zeyu Wei et.al.|[2505.16894](http://arxiv.org/abs/2505.16894)|null|
