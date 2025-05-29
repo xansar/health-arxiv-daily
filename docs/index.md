@@ -22,6 +22,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
+|**2025-05-28**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|null|
+|**2025-05-28**|**Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case Study on Medical Instruction-tuning**|Qihuang Zhong et.al.|[2505.21958](http://arxiv.org/abs/2505.21958)|null|
+|**2025-05-28**|**Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding**|Hanyin Wang et.al.|[2505.21908](http://arxiv.org/abs/2505.21908)|null|
+|**2025-05-27**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
+|**2025-05-27**|**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**|Yubin Kim et.al.|[2505.21757](http://arxiv.org/abs/2505.21757)|null|
+|**2025-05-27**|**Counterfactual Simulatability of LLM Explanations for Generation Tasks**|Marvin Limpijankit et.al.|[2505.21740](http://arxiv.org/abs/2505.21740)|null|
+|**2025-05-24**|**Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee Disease Diagnosis and Farmer Assistance**|Semanto Mondal et.al.|[2505.21544](http://arxiv.org/abs/2505.21544)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-27**|**Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts**|Yuxin Zhu et.al.|[2505.21324](http://arxiv.org/abs/2505.21324)|null|
@@ -34,7 +42,7 @@ layout: default
 |**2025-05-23**|**PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus**|Shahriar Noroozizadeh et.al.|[2505.20323](http://arxiv.org/abs/2505.20323)|null|
 |**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
-|**2025-05-26**|**Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations**|Mohit Chandra et.al.|[2505.20201](http://arxiv.org/abs/2505.20201)|null|
+|**2025-05-28**|**Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations**|Mohit Chandra et.al.|[2505.20201](http://arxiv.org/abs/2505.20201)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
 |**2025-05-26**|**Does Rationale Quality Matter? Enhancing Mental Disorder Detection via Selective Reasoning Distillation**|Hoyun Song et.al.|[2505.20014](http://arxiv.org/abs/2505.20014)|null|
 |**2025-05-26**|**An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning**|Andrew Zamai et.al.|[2505.19954](http://arxiv.org/abs/2505.19954)|null|
@@ -1783,13 +1791,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
+|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
+|**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435](http://arxiv.org/abs/2505.22435)|null|
+|**2025-05-28**|**AI Trust Reshaping Administrative Burdens: Understanding Trust-Burden Dynamics in LLM-Assisted Benefits Systems**|Jeongwon Jo et.al.|[2505.22418](http://arxiv.org/abs/2505.22418)|null|
+|**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
+|**2025-05-28**|**iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs**|Runkai Li et.al.|[2505.22086](http://arxiv.org/abs/2505.22086)|null|
+|**2025-05-28**|**Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?**|Yujin Choi et.al.|[2505.22061](http://arxiv.org/abs/2505.22061)|null|
+|**2025-05-28**|**Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal Assistance**|Jatin Gupta et.al.|[2505.22003](http://arxiv.org/abs/2505.22003)|null|
+|**2025-05-28**|**ACE: Exploring Activation Cosine Similarity and Variance for Accurate and Calibration-Efficient LLM Pruning**|Zhendong Mi et.al.|[2505.21987](http://arxiv.org/abs/2505.21987)|null|
+|**2025-05-28**|**Judging LLMs on a Simplex**|Patrick Vossler et.al.|[2505.21972](http://arxiv.org/abs/2505.21972)|null|
+|**2025-05-28**|**Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case Study on Medical Instruction-tuning**|Qihuang Zhong et.al.|[2505.21958](http://arxiv.org/abs/2505.21958)|null|
+|**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
+|**2025-05-27**|**Calibrating LLM Confidence by Probing Perturbed Representation Stability**|Reza Khanmohammadi et.al.|[2505.21772](http://arxiv.org/abs/2505.21772)|null|
+|**2025-05-27**|**Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing**|Raoyuan Zhao et.al.|[2505.21701](http://arxiv.org/abs/2505.21701)|null|
+|**2025-05-27**|**The Feasibility of Topic-Based Watermarking on Academic Peer Reviews**|Alexander Nemecek et.al.|[2505.21636](http://arxiv.org/abs/2505.21636)|null|
+|**2025-05-27**|**Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent Systems**|Young-Min Cho et.al.|[2505.21588](http://arxiv.org/abs/2505.21588)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**Can Large Reasoning Models Self-Train?**|Sheikh Shafayat et.al.|[2505.21444](http://arxiv.org/abs/2505.21444)|null|
 |**2025-05-27**|**Pretrained LLMs Learn Multiple Types of Uncertainty**|Roi Cohen et.al.|[2505.21218](http://arxiv.org/abs/2505.21218)|null|
 |**2025-05-27**|**Will It Still Be True Tomorrow? Multilingual Evergreen Question Classification to Improve Trustworthy QA**|Sergey Pletenev et.al.|[2505.21115](http://arxiv.org/abs/2505.21115)|null|
 |**2025-05-27**|**A Lightweight Multi-Expert Generative Language Model System for Engineering Information and Knowledge Extraction**|Bogdan Bogachov et.al.|[2505.21109](http://arxiv.org/abs/2505.21109)|null|
 |**2025-05-27**|**Thinker: Learning to Think Fast and Slow**|Stephen Chung et.al.|[2505.21097](http://arxiv.org/abs/2505.21097)|null|
-|**2025-05-27**|**Faithfulness-Aware Uncertainty Quantification for Fact-Checking the Output of Retrieval Augmented Generation**|Ekaterina Fadeeva et.al.|[2505.21072](http://arxiv.org/abs/2505.21072)|null|
+|**2025-05-28**|**Faithfulness-Aware Uncertainty Quantification for Fact-Checking the Output of Retrieval Augmented Generation**|Ekaterina Fadeeva et.al.|[2505.21072](http://arxiv.org/abs/2505.21072)|null|
 |**2025-05-27**|**Large Language Model-enhanced Reinforcement Learning for Low-Altitude Economy Networking**|Lingyi Cai et.al.|[2505.21045](http://arxiv.org/abs/2505.21045)|null|
 |**2025-05-27**|**Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA**|Xiangqing Shen et.al.|[2505.20971](http://arxiv.org/abs/2505.20971)|null|
 |**2025-05-27**|**IRCopilot: Automated Incident Response with Large Language Models**|Xihuan Lin et.al.|[2505.20945](http://arxiv.org/abs/2505.20945)|null|
