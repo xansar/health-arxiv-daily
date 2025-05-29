@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,14 +33,14 @@ layout: default
 |**2025-05-24**|**Do LLMs have a Gender (Entropy) Bias?**|Sonal Prabhune et.al.|[2505.20343](http://arxiv.org/abs/2505.20343)|null|
 |**2025-05-23**|**PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus**|Shahriar Noroozizadeh et.al.|[2505.20323](http://arxiv.org/abs/2505.20323)|null|
 |**2025-05-23**|**Less Context, Same Performance: A RAG Framework for Resource-Efficient LLM-Based Clinical NLP**|Satya Narayana Cheetirala et.al.|[2505.20320](http://arxiv.org/abs/2505.20320)|null|
-|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-05-26**|**Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations**|Mohit Chandra et.al.|[2505.20201](http://arxiv.org/abs/2505.20201)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
 |**2025-05-26**|**Does Rationale Quality Matter? Enhancing Mental Disorder Detection via Selective Reasoning Distillation**|Hoyun Song et.al.|[2505.20014](http://arxiv.org/abs/2505.20014)|null|
 |**2025-05-26**|**An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning**|Andrew Zamai et.al.|[2505.19954](http://arxiv.org/abs/2505.19954)|null|
 |**2025-05-26**|**FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks**|Atsunori Moteki et.al.|[2505.19662](http://arxiv.org/abs/2505.19662)|null|
-|**2025-05-26**|**DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**|Yichun Feng et.al.|[2505.19630](http://arxiv.org/abs/2505.19630)|null|
-|**2025-05-26**|**AMQA: An Adversarial Dataset for Benchmarking Bias of LLMs in Medicine and Healthcare**|Ying Xiao et.al.|[2505.19562](http://arxiv.org/abs/2505.19562)|null|
+|**2025-05-26**|**DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**|Yichun Feng et.al.|[2505.19630](http://arxiv.org/abs/2505.19630)|**[link](https://github.com/jarvisustc/doctoragent-rl)**|
+|**2025-05-26**|**AMQA: An Adversarial Dataset for Benchmarking Bias of LLMs in Medicine and Healthcare**|Ying Xiao et.al.|[2505.19562](http://arxiv.org/abs/2505.19562)|**[link](https://github.com/xy-showing/amqa)**|
 |**2025-05-25**|**Improving Medical Reasoning with Curriculum-Aware Reinforcement Learning**|Shaohao Rui et.al.|[2505.19213](http://arxiv.org/abs/2505.19213)|null|
 |**2025-05-25**|**CardioCoT: Hierarchical Reasoning for Multimodal Survival Analysis**|Shaohao Rui et.al.|[2505.19195](http://arxiv.org/abs/2505.19195)|null|
 |**2025-05-25**|**The Eye of Sherlock Holmes: Uncovering User Private Attribute Profiling via Vision-Language Model Agentic Framework**|Feiran Liu et.al.|[2505.19139](http://arxiv.org/abs/2505.19139)|null|
@@ -49,8 +49,8 @@ layout: default
 |**2025-05-24**|**DDO: Dual-Decision Optimization via Multi-Agent Collaboration for LLM-Based Medical Consultation**|Zhihao Jia et.al.|[2505.18630](http://arxiv.org/abs/2505.18630)|null|
 |**2025-05-24**|**CLaDMoP: Learning Transferrable Models from Successful Clinical Trials via LLMs**|Yiqing Zhang et.al.|[2505.18527](http://arxiv.org/abs/2505.18527)|null|
 |**2025-05-24**|**From Reddit to Generative AI: Evaluating Large Language Models for Anxiety Support Fine-tuned on Social Media Data**|Ugur Kursuncu et.al.|[2505.18464](http://arxiv.org/abs/2505.18464)|null|
-|**2025-05-24**|**MedScore: Factuality Evaluation of Free-Form Medical Answers**|Heyuan Huang et.al.|[2505.18452](http://arxiv.org/abs/2505.18452)|null|
-|**2025-05-23**|**Rehabilitation Exercise Quality Assessment and Feedback Generation Using Large Language Models with Prompt Engineering**|Jessica Tang et.al.|[2505.18412](http://arxiv.org/abs/2505.18412)|null|
+|**2025-05-24**|**MedScore: Factuality Evaluation of Free-Form Medical Answers**|Heyuan Huang et.al.|[2505.18452](http://arxiv.org/abs/2505.18452)|**[link](https://github.com/heyuan9/medscore)**|
+|**2025-05-23**|**Rehabilitation Exercise Quality Assessment and Feedback Generation Using Large Language Models with Prompt Engineering**|Jessica Tang et.al.|[2505.18412](http://arxiv.org/abs/2505.18412)|**[link](https://github.com/jessicaxtang/exercisellm)**|
 |**2025-05-23**|**RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification**|Praphul Singh et.al.|[2505.18380](http://arxiv.org/abs/2505.18380)|null|
 |**2025-05-23**|**Task Specific Pruning with LLM-Sieve: How Many Parameters Does Your Task Really Need?**|Waleed Reda et.al.|[2505.18350](http://arxiv.org/abs/2505.18350)|null|
 |**2025-05-23**|**PerMedCQA: Benchmarking Large Language Models on Medical Consumer Question Answering in Persian Language**|Naghmeh Jamali et.al.|[2505.18331](http://arxiv.org/abs/2505.18331)|null|
@@ -1798,7 +1798,7 @@ layout: default
 |**2025-05-27**|**Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG**|Xin Sun et.al.|[2505.20871](http://arxiv.org/abs/2505.20871)|null|
 |**2025-05-27**|**AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding**|Chaeyoung Jung et.al.|[2505.20862](http://arxiv.org/abs/2505.20862)|null|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
-|**2025-05-27**|**CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models**|Xiaqiang Tang et.al.|[2505.20767](http://arxiv.org/abs/2505.20767)|null|
+|**2025-05-28**|**CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models**|Xiaqiang Tang et.al.|[2505.20767](http://arxiv.org/abs/2505.20767)|null|
 |**2025-05-27**|**RRO: LLM Agent Optimization Through Rising Reward Trajectories**|Zilong Wang et.al.|[2505.20737](http://arxiv.org/abs/2505.20737)|null|
 |**2025-05-26**|**Project Riley: Multimodal Multi-Agent LLM Collaboration with Emotional Reasoning and Voting**|Ana Rita Ortigoso et.al.|[2505.20521](http://arxiv.org/abs/2505.20521)|null|
 |**2025-05-26**|**InFact: Informativeness Alignment for Improved LLM Factuality**|Roi Cohen et.al.|[2505.20487](http://arxiv.org/abs/2505.20487)|null|
@@ -1810,27 +1810,27 @@ layout: default
 |**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
 |**2025-05-27**|**Monocle: Hybrid Local-Global In-Context Evaluation for Long-Text Generation with Uncertainty-Based Active Learning**|Xiaorong Wang et.al.|[2505.20195](http://arxiv.org/abs/2505.20195)|null|
 |**2025-05-26**|**From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data**|Chun-Yi Kuan et.al.|[2505.20166](http://arxiv.org/abs/2505.20166)|null|
-|**2025-05-26**|**Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities**|Chuangtao Ma et.al.|[2505.20099](http://arxiv.org/abs/2505.20099)|null|
+|**2025-05-26**|**Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities**|Chuangtao Ma et.al.|[2505.20099](http://arxiv.org/abs/2505.20099)|**[link](https://github.com/machuangtao/llm-kg4qa)**|
 |**2025-05-26**|**Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks**|Debargha Ganguly et.al.|[2505.20047](http://arxiv.org/abs/2505.20047)|null|
 |**2025-05-26**|**Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs**|Artem Vazhentsev et.al.|[2505.20045](http://arxiv.org/abs/2505.20045)|null|
 |**2025-05-26**|**DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response**|Bilel Cherif et.al.|[2505.19973](http://arxiv.org/abs/2505.19973)|null|
 |**2025-05-26**|**CP-Router: An Uncertainty-Aware Router Between LLM and LRM**|Jiayuan Su et.al.|[2505.19970](http://arxiv.org/abs/2505.19970)|null|
-|**2025-05-26**|**Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision**|Tej Deep Pala et.al.|[2505.19706](http://arxiv.org/abs/2505.19706)|null|
-|**2025-05-26**|**Calibrating Pre-trained Language Classifiers on LLM-generated Noisy Labels via Iterative Refinement**|Liqin Ye et.al.|[2505.19675](http://arxiv.org/abs/2505.19675)|null|
-|**2025-05-26**|**DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**|Yichun Feng et.al.|[2505.19630](http://arxiv.org/abs/2505.19630)|null|
-|**2025-05-26**|**Learning to Reason without External Rewards**|Xuandong Zhao et.al.|[2505.19590](http://arxiv.org/abs/2505.19590)|null|
+|**2025-05-26**|**Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision**|Tej Deep Pala et.al.|[2505.19706](http://arxiv.org/abs/2505.19706)|**[link](https://github.com/declare-lab/pathfinder-prm)**|
+|**2025-05-26**|**Calibrating Pre-trained Language Classifiers on LLM-generated Noisy Labels via Iterative Refinement**|Liqin Ye et.al.|[2505.19675](http://arxiv.org/abs/2505.19675)|**[link](https://github.com/liqinye/sidyp)**|
+|**2025-05-26**|**DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**|Yichun Feng et.al.|[2505.19630](http://arxiv.org/abs/2505.19630)|**[link](https://github.com/jarvisustc/doctoragent-rl)**|
+|**2025-05-26**|**Learning to Reason without External Rewards**|Xuandong Zhao et.al.|[2505.19590](http://arxiv.org/abs/2505.19590)|**[link](https://github.com/sunblaze-ucb/intuitor)**|
 |**2025-05-26**|**Automated CAD Modeling Sequence Generation from Text Descriptions via Transformer-Based Large Language Models**|Jianxing Liao et.al.|[2505.19490](http://arxiv.org/abs/2505.19490)|null|
 |**2025-05-26**|**Continuous Self-Improvement of Large Language Models by Test-time Training with Verifier-Driven Sample Selection**|Mohammad Mahdi Moradi et.al.|[2505.19475](http://arxiv.org/abs/2505.19475)|null|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|null|
 |**2025-05-26**|**Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering**|Jiajun Zhu et.al.|[2505.19410](http://arxiv.org/abs/2505.19410)|null|
-|**2025-05-26**|**VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation**|Ethan TS. Liu et.al.|[2505.19395](http://arxiv.org/abs/2505.19395)|null|
+|**2025-05-26**|**VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation**|Ethan TS. Liu et.al.|[2505.19395](http://arxiv.org/abs/2505.19395)|**[link](https://github.com/afterquery/vader)**|
 |**2025-05-25**|**Likert or Not: LLM Absolute Relevance Judgments on Fine-Grained Ordinal Scales**|Charles Godfrey et.al.|[2505.19334](http://arxiv.org/abs/2505.19334)|null|
 |**2025-05-25**|**LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models**|Aida Kostikova et.al.|[2505.19240](http://arxiv.org/abs/2505.19240)|null|
 |**2025-05-25**|**GUARDIAN: Safeguarding LLM Multi-Agent Collaborations with Temporal Graph Modeling**|Jialong Zhou et.al.|[2505.19234](http://arxiv.org/abs/2505.19234)|null|
-|**2025-05-25**|**LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**|Yang Xiao et.al.|[2505.19187](http://arxiv.org/abs/2505.19187)|null|
+|**2025-05-25**|**LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling**|Yang Xiao et.al.|[2505.19187](http://arxiv.org/abs/2505.19187)|**[link](https://github.com/gair-nlp/limopro)**|
 |**2025-05-27**|**When Two LLMs Debate, Both Think They'll Win**|Pradyumna Shyama Prasad et.al.|[2505.19184](http://arxiv.org/abs/2505.19184)|null|
 |**2025-05-25**|**Do Large Language Models (Really) Need Statistical Foundations?**|Weijie Su et.al.|[2505.19145](http://arxiv.org/abs/2505.19145)|null|
-|**2025-05-25**|**CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models**|Yongheng Zhang et.al.|[2505.19108](http://arxiv.org/abs/2505.19108)|null|
+|**2025-05-25**|**CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models**|Yongheng Zhang et.al.|[2505.19108](http://arxiv.org/abs/2505.19108)|**[link](https://github.com/brz911/cchall)**|
 |**2025-05-25**|**Towards Harmonized Uncertainty Estimation for Large Language Models**|Rui Li et.al.|[2505.19073](http://arxiv.org/abs/2505.19073)|null|
 |**2025-05-25**|**UNCERTAINTY-LINE: Length-Invariant Estimation of Uncertainty for Large Language Models**|Roman Vashurin et.al.|[2505.19060](http://arxiv.org/abs/2505.19060)|null|
 |**2025-05-25**|**Online Knowledge Distillation with Reward Guidance**|Chen Jia et.al.|[2505.18952](http://arxiv.org/abs/2505.18952)|null|
