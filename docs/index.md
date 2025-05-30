@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,10 +26,10 @@ layout: default
 |**2025-05-28**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|null|
 |**2025-05-28**|**Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case Study on Medical Instruction-tuning**|Qihuang Zhong et.al.|[2505.21958](http://arxiv.org/abs/2505.21958)|null|
 |**2025-05-28**|**Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding**|Hanyin Wang et.al.|[2505.21908](http://arxiv.org/abs/2505.21908)|null|
-|**2025-05-27**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
+|**2025-05-29**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
 |**2025-05-27**|**BehaviorSFT: Behavioral Token Conditioning for Clinical Agents Across the Proactivity Spectrum**|Yubin Kim et.al.|[2505.21757](http://arxiv.org/abs/2505.21757)|null|
 |**2025-05-27**|**Counterfactual Simulatability of LLM Explanations for Generation Tasks**|Marvin Limpijankit et.al.|[2505.21740](http://arxiv.org/abs/2505.21740)|null|
-|**2025-05-24**|**Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee Disease Diagnosis and Farmer Assistance**|Semanto Mondal et.al.|[2505.21544](http://arxiv.org/abs/2505.21544)|null|
+|**2025-05-24**|**Vision Meets Language: A RAG-Augmented YOLOv8 Framework for Coffee Disease Diagnosis and Farmer Assistance**|Semanto Mondal et.al.|[2505.21544](http://arxiv.org/abs/2505.21544)|**[link](https://github.com/semanto-mondal/A-RAG-Augmented-YOLOv8-Framework)**|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery**|Lina Zhao et.al.|[2505.21418](http://arxiv.org/abs/2505.21418)|null|
 |**2025-05-27**|**Leveraging large language models and traditional machine learning ensembles for ADHD detection from narrative transcripts**|Yuxin Zhu et.al.|[2505.21324](http://arxiv.org/abs/2505.21324)|null|
