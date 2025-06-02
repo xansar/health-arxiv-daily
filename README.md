@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**A survey of using EHR as real-world evidence for discovering and validating new drug indications**|Nabasmita Talukdar et.al.|[2505.24767](http://arxiv.org/abs/2505.24767)|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757](http://arxiv.org/abs/2505.24757)|null|
+|**2025-05-30**|**Automated Structured Radiology Report Generation**|Jean-Benoit Delbrouck et.al.|[2505.24223](http://arxiv.org/abs/2505.24223)|null|
+|**2025-05-30**|**Semi-structured LLM Reasoners Can Be Rigorously Audited**|Jixuan Leng et.al.|[2505.24217](http://arxiv.org/abs/2505.24217)|null|
+|**2025-05-30**|**Training LLMs for EHR-Based Reasoning Tasks via Reinforcement Learning**|Jiacheng Lin et.al.|[2505.24105](http://arxiv.org/abs/2505.24105)|null|
+|**2025-05-29**|**MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering**|Yuexing Hao et.al.|[2505.24040](http://arxiv.org/abs/2505.24040)|null|
+|**2025-05-28**|**Speech as a Multimodal Digital Phenotype for Multi-Task LLM-based Mental Health Prediction**|Mai Ali et.al.|[2505.23822](http://arxiv.org/abs/2505.23822)|null|
+|**2025-05-27**|**MedOrchestra: A Hybrid Cloud-Local LLM Approach for Clinical Data Interpretation**|Sihyeon Lee et.al.|[2505.23806](http://arxiv.org/abs/2505.23806)|null|
+|**2025-05-26**|**MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks**|Suhana Bedi et.al.|[2505.23802](http://arxiv.org/abs/2505.23802)|null|
 |**2025-05-29**|**Can Large Language Models Challenge CNNS in Medical Image Analysis?**|Shibbir Ahmed et.al.|[2505.23503](http://arxiv.org/abs/2505.23503)|null|
 |**2025-05-29**|**Evaluating the performance and fragility of large language models on the self-assessment for neurological surgeons**|Krithik Vishwanath et.al.|[2505.23477](http://arxiv.org/abs/2505.23477)|null|
 |**2025-05-29**|**Second Opinion Matters: Towards Adaptive Clinical AI via the Consensus of Expert Model Ensemble**|Amit Kumthekar et.al.|[2505.23075](http://arxiv.org/abs/2505.23075)|null|
@@ -1798,10 +1808,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858](http://arxiv.org/abs/2505.24858)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-05-30**|**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**|Jiayu Liu et.al.|[2505.24778](http://arxiv.org/abs/2505.24778)|null|
+|**2025-05-30**|**Can LLMs and humans be friends? Uncovering factors affecting human-AI intimacy formation**|Yeseon Hong et.al.|[2505.24658](http://arxiv.org/abs/2505.24658)|null|
+|**2025-05-30**|**The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for Large Reasoning Models**|Junyi Li et.al.|[2505.24630](http://arxiv.org/abs/2505.24630)|null|
+|**2025-05-30**|**LLM Inference Enhanced by External Knowledge: A Survey**|Yu-Hsuan Lin et.al.|[2505.24377](http://arxiv.org/abs/2505.24377)|null|
+|**2025-05-30**|**ReCalKV: Low-Rank KV Cache Compression via Head Reordering and Offline Calibration**|Xianglong Yan et.al.|[2505.24357](http://arxiv.org/abs/2505.24357)|null|
+|**2025-05-30**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
+|**2025-05-30**|**LLM-powered Query Expansion for Enhancing Boundary Prediction in Language-driven Action Localization**|Zirui Shang et.al.|[2505.24282](http://arxiv.org/abs/2505.24282)|null|
+|**2025-05-30**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
+|**2025-05-30**|**ProofNet++: A Neuro-Symbolic System for Formal Proof Verification with Self-Correction**|Murari Ambati et.al.|[2505.24230](http://arxiv.org/abs/2505.24230)|null|
+|**2025-05-30**|**Intuitionistic Fuzzy Sets for Large Language Model Data Annotation: A Novel Approach to Side-by-Side Preference Labeling**|Yimin Du et.al.|[2505.24199](http://arxiv.org/abs/2505.24199)|null|
+|**2025-05-29**|**Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model**|Nokimul Hasan Arif et.al.|[2505.24007](http://arxiv.org/abs/2505.24007)|null|
+|**2025-05-29**|**Fitting the Message to the Moment: Designing Calendar-Aware Stress Messaging with Large Language Models**|Pranav Rao et.al.|[2505.23997](http://arxiv.org/abs/2505.23997)|null|
+|**2025-05-29**|**Is Your Model Fairly Certain? Uncertainty-Aware Fairness Evaluation for LLMs**|Yinong Oliver Wang et.al.|[2505.23996](http://arxiv.org/abs/2505.23996)|null|
+|**2025-05-29**|**FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression**|Jiayi Tian et.al.|[2505.23966](http://arxiv.org/abs/2505.23966)|null|
+|**2025-05-29**|**Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation**|Caiqi Zhang et.al.|[2505.23912](http://arxiv.org/abs/2505.23912)|null|
+|**2025-05-29**|**Transforming Podcast Preview Generation: From Expert Models to LLM-Based Systems**|Winstead Zhu et.al.|[2505.23908](http://arxiv.org/abs/2505.23908)|null|
+|**2025-05-29**|**Revisiting Uncertainty Estimation and Calibration of Large Language Models**|Linwei Tao et.al.|[2505.23854](http://arxiv.org/abs/2505.23854)|null|
+|**2025-05-28**|**Read Your Own Mind: Reasoning Helps Surface Self-Confidence Signals in LLMs**|Jakub Podolak et.al.|[2505.23845](http://arxiv.org/abs/2505.23845)|null|
+|**2025-05-28**|**SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context**|Hairu Wang et.al.|[2505.23841](http://arxiv.org/abs/2505.23841)|null|
 |**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713](http://arxiv.org/abs/2505.23713)|**[link](https://github.com/xzx34/socialmaze)**|
 |**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/abs/2505.23657)|null|
 |**2025-05-29**|**Cognitive Guardrails for Open-World Decision Making in Autonomous Drone Swarms**|Jane Cleland-Huang et.al.|[2505.23576](http://arxiv.org/abs/2505.23576)|null|
-|**2025-05-29**|**EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions**|Xiaorui Wu et.al.|[2505.23473](http://arxiv.org/abs/2505.23473)|null|
+|**2025-05-30**|**EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions**|Xiaorui Wu et.al.|[2505.23473](http://arxiv.org/abs/2505.23473)|null|
 |**2025-05-29**|**A Unified Framework for Human AI Collaboration in Security Operations Centers with Trusted Autonomy**|Ahmad Mohsin et.al.|[2505.23397](http://arxiv.org/abs/2505.23397)|null|
 |**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
 |**2025-05-29**|**Daunce: Data Attribution through Uncertainty Estimation**|Xingyuan Pan et.al.|[2505.23223](http://arxiv.org/abs/2505.23223)|null|
@@ -1822,7 +1854,7 @@
 |**2025-05-28**|**Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case Study on Medical Instruction-tuning**|Qihuang Zhong et.al.|[2505.21958](http://arxiv.org/abs/2505.21958)|null|
 |**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
 |**2025-05-27**|**Calibrating LLM Confidence by Probing Perturbed Representation Stability**|Reza Khanmohammadi et.al.|[2505.21772](http://arxiv.org/abs/2505.21772)|null|
-|**2025-05-27**|**Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing**|Raoyuan Zhao et.al.|[2505.21701](http://arxiv.org/abs/2505.21701)|null|
+|**2025-05-30**|**Do We Know What LLMs Don't Know? A Study of Consistency in Knowledge Probing**|Raoyuan Zhao et.al.|[2505.21701](http://arxiv.org/abs/2505.21701)|null|
 |**2025-05-27**|**The Feasibility of Topic-Based Watermarking on Academic Peer Reviews**|Alexander Nemecek et.al.|[2505.21636](http://arxiv.org/abs/2505.21636)|null|
 |**2025-05-27**|**Herd Behavior: Investigating Peer Influence in LLM-based Multi-Agent Systems**|Young-Min Cho et.al.|[2505.21588](http://arxiv.org/abs/2505.21588)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
