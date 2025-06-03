@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034](http://arxiv.org/abs/2505.23034)|null|
 |**2025-05-29**|**Exploring Scaling Laws for EHR Foundation Models**|Sheng Zhang et.al.|[2505.22964](http://arxiv.org/abs/2505.22964)|null|
 |**2025-05-29**|**LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements**|Jianwei Wang et.al.|[2505.22959](http://arxiv.org/abs/2505.22959)|**[link](https://github.com/mengqiwang1/hse-bench)**|
-|**2025-05-28**|**ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room**|Nikita Mehandru et.al.|[2505.22919](http://arxiv.org/abs/2505.22919)|null|
+|**2025-05-30**|**ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room**|Nikita Mehandru et.al.|[2505.22919](http://arxiv.org/abs/2505.22919)|null|
 |**2025-05-28**|**Can Large Language Models Match the Conclusions of Systematic Reviews?**|Christopher Polzak et.al.|[2505.22787](http://arxiv.org/abs/2505.22787)|null|
 |**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
 |**2025-05-28**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|**[link](https://github.com/berkeley-speech-group/llm-dys)**|
@@ -1802,7 +1802,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1846,7 +1846,7 @@
 |**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435](http://arxiv.org/abs/2505.22435)|null|
 |**2025-05-28**|**AI Trust Reshaping Administrative Burdens: Understanding Trust-Burden Dynamics in LLM-Assisted Benefits Systems**|Jeongwon Jo et.al.|[2505.22418](http://arxiv.org/abs/2505.22418)|null|
 |**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
-|**2025-05-28**|**iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs**|Runkai Li et.al.|[2505.22086](http://arxiv.org/abs/2505.22086)|null|
+|**2025-05-31**|**iDSE: Navigating Design Space Exploration in High-Level Synthesis Using LLMs**|Runkai Li et.al.|[2505.22086](http://arxiv.org/abs/2505.22086)|null|
 |**2025-05-28**|**Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?**|Yujin Choi et.al.|[2505.22061](http://arxiv.org/abs/2505.22061)|null|
 |**2025-05-28**|**Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal Assistance**|Jatin Gupta et.al.|[2505.22003](http://arxiv.org/abs/2505.22003)|null|
 |**2025-05-28**|**ACE: Exploring Activation Cosine Similarity and Variance for Accurate and Calibration-Efficient LLM Pruning**|Zhendong Mi et.al.|[2505.21987](http://arxiv.org/abs/2505.21987)|null|
@@ -3748,7 +3748,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
