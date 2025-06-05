@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@ layout: default
 |**2025-06-03**|**PersianMedQA: Language-Centric Evaluation of LLMs in the Persian Medical Domain**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2506.00250](http://arxiv.org/abs/2506.00250)|null|
 |**2025-05-30**|**Structuring Radiology Reports: Challenging LLMs with Lightweight Models**|Johannes Moll et.al.|[2506.00200](http://arxiv.org/abs/2506.00200)|null|
 |**2025-05-30**|**Spurious Correlations and Beyond: Understanding and Mitigating Shortcut Learning in SDOH Extraction with Large Language Models**|Fardin Ahsan Sakib et.al.|[2506.00134](http://arxiv.org/abs/2506.00134)|null|
-|**2025-06-03**|**ClinBench-HPB: A Clinical Benchmark for Evaluating LLMs in Hepato-Pancreato-Biliary Diseases**|Yuchong Li et.al.|[2506.00095](http://arxiv.org/abs/2506.00095)|null|
+|**2025-06-04**|**ClinBench-HPB: A Clinical Benchmark for Evaluating LLMs in Hepato-Pancreato-Biliary Diseases**|Yuchong Li et.al.|[2506.00095](http://arxiv.org/abs/2506.00095)|null|
 |**2025-05-30**|**Artificial Empathy: AI based Mental Health**|Aditya Naik et.al.|[2506.00081](http://arxiv.org/abs/2506.00081)|null|
 |**2025-05-29**|**Evaluating Prompt Engineering Techniques for Accuracy and Confidence Elicitation in Medical LLMs**|Nariman Naderi et.al.|[2506.00072](http://arxiv.org/abs/2506.00072)|null|
 |**2025-05-29**|**Comparative analysis of privacy-preserving open-source LLMs regarding extraction of diagnostic information from clinical CMR imaging reports**|Sina Amirrajab et.al.|[2506.00060](http://arxiv.org/abs/2506.00060)|null|
@@ -1841,7 +1841,7 @@ layout: default
 |**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
 |**2025-06-03**|**Tru-POMDP: Task Planning Under Uncertainty via Tree of Hypotheses and Open-Ended POMDPs**|Wenjing Tang et.al.|[2506.02860](http://arxiv.org/abs/2506.02860)|null|
 |**2025-06-03**|**Shaking to Reveal: Perturbation-Based Detection of LLM Hallucinations**|Jinyuan Luo et.al.|[2506.02696](http://arxiv.org/abs/2506.02696)|null|
-|**2025-06-03**|**Computational Thinking Reasoning in Large Language Models**|Kechi Zhang et.al.|[2506.02658](http://arxiv.org/abs/2506.02658)|null|
+|**2025-06-04**|**Computational Thinking Reasoning in Large Language Models**|Kechi Zhang et.al.|[2506.02658](http://arxiv.org/abs/2506.02658)|null|
 |**2025-06-03**|**In-context Clustering-based Entity Resolution with Large Language Models: A Design Space Exploration**|Jiajie Fu et.al.|[2506.02509](http://arxiv.org/abs/2506.02509)|null|
 |**2025-06-03**|**Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning**|Haowen Xu et.al.|[2506.02485](http://arxiv.org/abs/2506.02485)|null|
 |**2025-06-02**|**Hybrid AI for Responsive Multi-Turn Online Conversations with Novel Dynamic Routing and Feedback Adaptation**|Priyaranjan Pattnayak et.al.|[2506.02097](http://arxiv.org/abs/2506.02097)|null|
