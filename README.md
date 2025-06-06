@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073](http://arxiv.org/abs/2506.05073)|null|
+|**2025-06-05**|**From EHRs to Patient Pathways: Scalable Modeling of Longitudinal Health Trajectories with LLMs**|Chantal Pellegrini et.al.|[2506.04831](http://arxiv.org/abs/2506.04831)|null|
+|**2025-06-05**|**A MISMATCHED Benchmark for Scientific Natural Language Inference**|Firoz Shaik et.al.|[2506.04603](http://arxiv.org/abs/2506.04603)|null|
+|**2025-06-04**|**Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification**|Payel Bhattacharjee et.al.|[2506.04450](http://arxiv.org/abs/2506.04450)|null|
+|**2025-06-04**|**MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale**|Ran Xu et.al.|[2506.04405](http://arxiv.org/abs/2506.04405)|null|
+|**2025-06-04**|**AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents**|Fengze Liu et.al.|[2506.04293](http://arxiv.org/abs/2506.04293)|null|
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
 |**2025-06-04**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/abs/2506.04078)|null|
 |**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
@@ -1841,8 +1847,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**CLATTER: Comprehensive Entailment Reasoning for Hallucination Detection**|Ron Eliav et.al.|[2506.05243](http://arxiv.org/abs/2506.05243)|null|
+|**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182](http://arxiv.org/abs/2506.05182)|null|
+|**2025-06-05**|**When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models**|Kai Wang et.al.|[2506.04909](http://arxiv.org/abs/2506.04909)|null|
+|**2025-06-05**|**Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights**|Giorgio Biancini et.al.|[2506.04851](http://arxiv.org/abs/2506.04851)|null|
+|**2025-06-05**|**Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models**|Changyue Wang et.al.|[2506.04832](http://arxiv.org/abs/2506.04832)|null|
+|**2025-06-05**|**A Reasoning-Based Approach to Cryptic Crossword Clue Solving**|Martin Andrews et.al.|[2506.04824](http://arxiv.org/abs/2506.04824)|null|
+|**2025-06-05**|**GOLFer: Smaller LM-Generated Documents Hallucination Filter & Combiner for Query Expansion in Information Retrieval**|Lingyuan Liu et.al.|[2506.04762](http://arxiv.org/abs/2506.04762)|**[link](https://github.com/liuliuyuan6/GOLFer)**|
+|**2025-06-05**|**Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning**|Zhiyuan Ma et.al.|[2506.04625](http://arxiv.org/abs/2506.04625)|null|
+|**2025-06-05**|**Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification**|Chengwu Liu et.al.|[2506.04592](http://arxiv.org/abs/2506.04592)|null|
+|**2025-06-04**|**AuthGuard: Generalizable Deepfake Detection via Language Guidance**|Guangyu Shen et.al.|[2506.04501](http://arxiv.org/abs/2506.04501)|null|
+|**2025-06-04**|**"Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation**|Aladin Djuhera et.al.|[2506.04500](http://arxiv.org/abs/2506.04500)|null|
+|**2025-06-04**|**Learning to Diagnose Privately: DP-Powered LLMs for Radiology Report Classification**|Payel Bhattacharjee et.al.|[2506.04450](http://arxiv.org/abs/2506.04450)|null|
 |**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
-|**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166](http://arxiv.org/abs/2506.04166)|null|
+|**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166](http://arxiv.org/abs/2506.04166)|**[link](https://github.com/aashish-khub/NearestNeighbors)**|
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
 |**2025-06-04**|**High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning**|Tim Franzmeyer et.al.|[2506.04051](http://arxiv.org/abs/2506.04051)|null|
 |**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
