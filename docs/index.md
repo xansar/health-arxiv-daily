@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@ layout: default
 |**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
 |**2025-06-04**|**Trustworthy Medical Question Answering: An Evaluation-Centric Survey**|Yinuo Wang et.al.|[2506.03659](http://arxiv.org/abs/2506.03659)|null|
 |**2025-06-04**|**VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety**|Han Zhang et.al.|[2506.03520](http://arxiv.org/abs/2506.03520)|null|
-|**2025-06-04**|**Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing**|Shigeng Chen et.al.|[2506.03490](http://arxiv.org/abs/2506.03490)|null|
+|**2025-06-05**|**Beyond Memorization: A Rigorous Evaluation Framework for Medical Knowledge Editing**|Shigeng Chen et.al.|[2506.03490](http://arxiv.org/abs/2506.03490)|null|
 |**2025-06-04**|**Delta-KNN: Improving Demonstration Selection in In-Context Learning for Alzheimer's Disease Detection**|Chuyuan Li et.al.|[2506.03476](http://arxiv.org/abs/2506.03476)|null|
 |**2025-06-03**|**Evaluating Large Language Models for Zero-Shot Disease Labeling in CT Radiology Reports Across Organ Systems**|Michael E. Garcia-Alcoser et.al.|[2506.03259](http://arxiv.org/abs/2506.03259)|null|
 |**2025-06-03**|**Performance of leading large language models in May 2025 in Membership of the Royal College of General Practitioners-style examination questions: a cross-sectional analysis**|Richard Armitage et.al.|[2506.02987](http://arxiv.org/abs/2506.02987)|null|
@@ -1848,7 +1848,7 @@ layout: default
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
 |**2025-06-04**|**High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning**|Tim Franzmeyer et.al.|[2506.04051](http://arxiv.org/abs/2506.04051)|null|
 |**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
-|**2025-06-04**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
+|**2025-06-05**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
 |**2025-06-04**|**Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation**|Mingxuan Xia et.al.|[2506.03857](http://arxiv.org/abs/2506.03857)|null|
 |**2025-06-04**|**From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation**|Peter Pfeiffer et.al.|[2506.03801](http://arxiv.org/abs/2506.03801)|null|
 |**2025-06-04**|**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**|Chaeyun Jang et.al.|[2506.03723](http://arxiv.org/abs/2506.03723)|null|
