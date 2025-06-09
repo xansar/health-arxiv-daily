@@ -22,6 +22,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
+|**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
+|**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766](http://arxiv.org/abs/2506.05766)|null|
+|**2025-06-06**|**Low-Resource Domain Adaptation for Speech LLMs via Text-Only Fine-Tuning**|Yangui Fang et.al.|[2506.05671](http://arxiv.org/abs/2506.05671)|null|
+|**2025-06-06**|**Can LLMs Express Personality Across Cultures? Introducing CulturalPersonas for Evaluating Trait Alignment**|Priyanka Dey et.al.|[2506.05670](http://arxiv.org/abs/2506.05670)|null|
+|**2025-06-05**|**Diffusion with a Linguistic Compass: Steering the Generation of Clinically Plausible Future sMRI Representations for Early MCI Conversion Prediction**|Zhihao Tang et.al.|[2506.05428](http://arxiv.org/abs/2506.05428)|null|
+|**2025-06-03**|**Beyond RAG: Reinforced Reasoning Augmented Generation for Clinical Notes**|Lo Pang-Yun Ting et.al.|[2506.05386](http://arxiv.org/abs/2506.05386)|null|
 |**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073](http://arxiv.org/abs/2506.05073)|null|
 |**2025-06-05**|**From EHRs to Patient Pathways: Scalable Modeling of Longitudinal Health Trajectories with LLMs**|Chantal Pellegrini et.al.|[2506.04831](http://arxiv.org/abs/2506.04831)|null|
 |**2025-06-05**|**A MISMATCHED Benchmark for Scientific Natural Language Inference**|Firoz Shaik et.al.|[2506.04603](http://arxiv.org/abs/2506.04603)|null|
@@ -1849,6 +1856,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
+|**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
+|**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017](http://arxiv.org/abs/2506.06017)|null|
+|**2025-06-06**|**Generating Grounded Responses to Counter Misinformation via Learning Efficient Fine-Grained Critiques**|Xiaofei Xu et.al.|[2506.05924](http://arxiv.org/abs/2506.05924)|null|
+|**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
+|**2025-06-06**|**Zero-Shot Event Causality Identification via Multi-source Evidence Fuzzy Aggregation with Large Language Models**|Zefan Zeng et.al.|[2506.05675](http://arxiv.org/abs/2506.05675)|null|
+|**2025-06-05**|**When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding**|Yan Shu et.al.|[2506.05551](http://arxiv.org/abs/2506.05551)|null|
+|**2025-06-05**|**Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models**|Sima Noorani et.al.|[2506.05497](http://arxiv.org/abs/2506.05497)|null|
 |**2025-06-05**|**CLATTER: Comprehensive Entailment Reasoning for Hallucination Detection**|Ron Eliav et.al.|[2506.05243](http://arxiv.org/abs/2506.05243)|null|
 |**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182](http://arxiv.org/abs/2506.05182)|null|
 |**2025-06-05**|**When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models**|Kai Wang et.al.|[2506.04909](http://arxiv.org/abs/2506.04909)|null|
