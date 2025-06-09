@@ -79,7 +79,7 @@ layout: default
 |**2025-05-29**|**Exploring Scaling Laws for EHR Foundation Models**|Sheng Zhang et.al.|[2505.22964](http://arxiv.org/abs/2505.22964)|null|
 |**2025-05-29**|**LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements**|Jianwei Wang et.al.|[2505.22959](http://arxiv.org/abs/2505.22959)|**[link](https://github.com/mengqiwang1/hse-bench)**|
 |**2025-05-30**|**ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room**|Nikita Mehandru et.al.|[2505.22919](http://arxiv.org/abs/2505.22919)|null|
-|**2025-05-28**|**Can Large Language Models Match the Conclusions of Systematic Reviews?**|Christopher Polzak et.al.|[2505.22787](http://arxiv.org/abs/2505.22787)|null|
+|**2025-05-28**|**Can Large Language Models Match the Conclusions of Systematic Reviews?**|Christopher Polzak et.al.|[2505.22787](http://arxiv.org/abs/2505.22787)|**[link](https://github.com/zy-f/med-evidence)**|
 |**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
 |**2025-05-28**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|**[link](https://github.com/berkeley-speech-group/llm-dys)**|
 |**2025-05-28**|**Resolving Knowledge Conflicts in Domain-specific Data Selection: A Case Study on Medical Instruction-tuning**|Qihuang Zhong et.al.|[2505.21958](http://arxiv.org/abs/2505.21958)|null|
@@ -120,13 +120,13 @@ layout: default
 |**2025-05-23**|**RedactOR: An LLM-Powered Framework for Automatic Clinical Data De-Identification**|Praphul Singh et.al.|[2505.18380](http://arxiv.org/abs/2505.18380)|null|
 |**2025-05-23**|**Task Specific Pruning with LLM-Sieve: How Many Parameters Does Your Task Really Need?**|Waleed Reda et.al.|[2505.18350](http://arxiv.org/abs/2505.18350)|null|
 |**2025-05-23**|**PerMedCQA: Benchmarking Large Language Models on Medical Consumer Question Answering in Persian Language**|Naghmeh Jamali et.al.|[2505.18331](http://arxiv.org/abs/2505.18331)|null|
-|**2025-05-23**|**TAGS: A Test-Time Generalist-Specialist Framework with Retrieval-Augmented Reasoning and Verification**|Jianghao Wu et.al.|[2505.18283](http://arxiv.org/abs/2505.18283)|null|
+|**2025-05-23**|**TAGS: A Test-Time Generalist-Specialist Framework with Retrieval-Augmented Reasoning and Verification**|Jianghao Wu et.al.|[2505.18283](http://arxiv.org/abs/2505.18283)|**[link](https://github.com/jianghaowu/tags)**|
 |**2025-05-23**|**Will Large Language Models Transform Clinical Prediction?**|Yusuf Yildiz et.al.|[2505.18246](http://arxiv.org/abs/2505.18246)|null|
 |**2025-05-22**|**Towards medical AI misalignment: a preliminary study**|Barbara Puccio et.al.|[2505.18212](http://arxiv.org/abs/2505.18212)|null|
 |**2025-05-23**|**Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL**|Che Liu et.al.|[2505.17952](http://arxiv.org/abs/2505.17952)|null|
 |**2025-05-23**|**PatientSim: A Persona-Driven Simulator for Realistic Doctor-Patient Interactions**|Daeun Kyung et.al.|[2505.17818](http://arxiv.org/abs/2505.17818)|null|
 |**2025-05-23**|**EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications**|Ancheng Xu et.al.|[2505.17654](http://arxiv.org/abs/2505.17654)|null|
-|**2025-05-23**|**WiNGPT-3.0 Technical Report**|Boqin Zhuang et.al.|[2505.17387](http://arxiv.org/abs/2505.17387)|null|
+|**2025-05-23**|**WiNGPT-3.0 Technical Report**|Boqin Zhuang et.al.|[2505.17387](http://arxiv.org/abs/2505.17387)|**[link](https://github.com/winninghealth/WiNGPT3)**|
 |**2025-05-23**|**AI-Augmented LLMs Achieve Therapist-Level Responses in Motivational Interviewing**|Yinghui Huang et.al.|[2505.17380](http://arxiv.org/abs/2505.17380)|null|
 |**2025-05-22**|**CaseReportBench: An LLM Benchmark Dataset for Dense Information Extraction in Clinical Case Reports**|Xiao Yu Cindy Zhang et.al.|[2505.17265](http://arxiv.org/abs/2505.17265)|null|
 |**2025-05-22**|**CRG Score: A Distribution-Aware Clinical Metric for Radiology Report Generation**|Ibrahim Ethem Hamamci et.al.|[2505.17167](http://arxiv.org/abs/2505.17167)|null|
@@ -555,7 +555,7 @@ layout: default
 |**2025-02-18**|**USPilot: An Embodied Robotic Assistant Ultrasound System with Large Language Model Enhanced Graph Planner**|Mingcong Chen et.al.|[2502.12498](http://arxiv.org/abs/2502.12498)|null|
 |**2025-02-14**|**Leveraging large language models for structured information extraction from pathology reports**|Jeya Balaji Balasubramanian et.al.|[2502.12183](http://arxiv.org/abs/2502.12183)|**[link](https://github.com/jeyabbalas/medical-report-information-extractor)**|
 |**2025-02-17**|**Exploring Large Language Models in Healthcare: Insights into Corpora Sources, Customization Strategies, and Evaluation Metrics**|Shuqi Yang et.al.|[2502.11861](http://arxiv.org/abs/2502.11861)|null|
-|**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|null|
+|**2025-02-17**|**LLM Agents Making Agent Tools**|Georg Wölflein et.al.|[2502.11705](http://arxiv.org/abs/2502.11705)|**[link](https://github.com/katherlab/toolmaker)**|
 |**2025-02-17**|**CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation**|Guangya Yu et.al.|[2502.11703](http://arxiv.org/abs/2502.11703)|null|
 |**2025-02-17**|**A Survey of Personalized Large Language Models: Progress and Future Directions**|Jiahong Liu et.al.|[2502.11528](http://arxiv.org/abs/2502.11528)|**[link](https://github.com/jiahongliu21/awesome-personalized-large-language-models)**|
 |**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
@@ -2922,7 +2922,7 @@ layout: default
 |**2025-01-30**|**Survey and Improvement Strategies for Gene Prioritization with Large Language Models**|Matthew Neeley et.al.|[2501.18794](http://arxiv.org/abs/2501.18794)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
 |**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
-|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|**[link](https://github.com/purcl/repoaudit)**|
 |**2025-01-29**|**Large Language Models Think Too Fast To Explore Effectively**|Lan Pan et.al.|[2501.18009](http://arxiv.org/abs/2501.18009)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-01-29**|**Semantic Consistency Regularization with Large Language Models for Semi-supervised Sentiment Analysis**|Kunrong Li et.al.|[2501.17598](http://arxiv.org/abs/2501.17598)|null|
