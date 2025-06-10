@@ -22,8 +22,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
+|**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
+|**2025-06-08**|**Impact of Label Noise from Large Language Models Generated Annotations on Evaluation of Diagnostic Model Performance**|Mohammadreza Chavoshi et.al.|[2506.07273](http://arxiv.org/abs/2506.07273)|null|
+|**2025-06-07**|**AI PsyRoom: Artificial Intelligence Platform for Segmented Yearning and Reactive Outcome Optimization Method**|Yigui Feng et.al.|[2506.06740](http://arxiv.org/abs/2506.06740)|null|
+|**2025-06-07**|**C-PATH: Conversational Patient Assistance and Triage in Healthcare System**|Qi Shi et.al.|[2506.06737](http://arxiv.org/abs/2506.06737)|null|
+|**2025-06-07**|**DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains**|Zhihui Chen et.al.|[2506.06705](http://arxiv.org/abs/2506.06705)|null|
+|**2025-06-07**|**Interpretable Depression Detection from Social Media Text Using LLM-Derived Embeddings**|Samuel Kim et.al.|[2506.06616](http://arxiv.org/abs/2506.06616)|null|
+|**2025-06-07**|**MedCite: Can Language Models Generate Verifiable Text for Medicine?**|Xiao Wang et.al.|[2506.06605](http://arxiv.org/abs/2506.06605)|null|
+|**2025-06-07**|**RARL: Improving Medical VLM Reasoning and Generalization with Reinforcement Learning and LoRA under Data and Hardware Constraints**|Tan-Hanh Pham et.al.|[2506.06600](http://arxiv.org/abs/2506.06600)|null|
+|**2025-06-02**|**Large Language Models for EEG: A Comprehensive Survey and Taxonomy**|Naseem Babu et.al.|[2506.06353](http://arxiv.org/abs/2506.06353)|null|
+|**2025-06-01**|**Structured Semantics from Unstructured Notes: Language Model Approaches to EHR-Based Decision Support**|Wu Hao Ran et.al.|[2506.06340](http://arxiv.org/abs/2506.06340)|null|
 |**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
-|**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
+|**2025-06-09**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
 |**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766](http://arxiv.org/abs/2506.05766)|null|
 |**2025-06-06**|**Low-Resource Domain Adaptation for Speech LLMs via Text-Only Fine-Tuning**|Yangui Fang et.al.|[2506.05671](http://arxiv.org/abs/2506.05671)|null|
 |**2025-06-06**|**Can LLMs Express Personality Across Cultures? Introducing CulturalPersonas for Evaluating Trait Alignment**|Priyanka Dey et.al.|[2506.05670](http://arxiv.org/abs/2506.05670)|null|
@@ -1856,14 +1867,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang CHen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
+|**2025-06-09**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675](http://arxiv.org/abs/2506.07675)|null|
+|**2025-06-09**|**Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models**|Ruiyang Zhang et.al.|[2506.07575](http://arxiv.org/abs/2506.07575)|null|
+|**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
+|**2025-06-09**|**CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models**|Guang Liu et.al.|[2506.07463](http://arxiv.org/abs/2506.07463)|null|
+|**2025-06-09**|**From Calibration to Collaboration: LLM Uncertainty Quantification Should Be More Human-Centered**|Siddartha Devic et.al.|[2506.07461](http://arxiv.org/abs/2506.07461)|null|
+|**2025-06-09**|**Extending Epistemic Uncertainty Beyond Parameters Would Assist in Designing Reliable LLMs**|T. Duy Nguyen-Hien et.al.|[2506.07448](http://arxiv.org/abs/2506.07448)|null|
+|**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
+|**2025-06-09**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
+|**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|null|
+|**2025-06-08**|**Impact of Label Noise from Large Language Models Generated Annotations on Evaluation of Diagnostic Model Performance**|Mohammadreza Chavoshi et.al.|[2506.07273](http://arxiv.org/abs/2506.07273)|null|
+|**2025-06-08**|**Semantic-preserved Augmentation with Confidence-weighted Fine-tuning for Aspect Category Sentiment Analysis**|Yaping Chai et.al.|[2506.07148](http://arxiv.org/abs/2506.07148)|null|
+|**2025-06-08**|**Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models**|Samir Abdaljalil et.al.|[2506.07106](http://arxiv.org/abs/2506.07106)|null|
+|**2025-06-08**|**Com $^2$ : A Causal-Guided Benchmark for Exploring Complex Commonsense Reasoning in Large Language Models**|Kai Xiong et.al.|[2506.07064](http://arxiv.org/abs/2506.07064)|null|
+|**2025-06-08**|**AlphaSteer: Learning Refusal Steering with Principled Null-Space Constraint**|Leheng Sheng et.al.|[2506.07022](http://arxiv.org/abs/2506.07022)|null|
+|**2025-06-07**|**Quantile Regression with Large Language Models for Price Prediction**|Nikhita Vedula et.al.|[2506.06657](http://arxiv.org/abs/2506.06657)|null|
+|**2025-06-07**|**\textit{QuantMCP}: Grounding Large Language Models in Verifiable Financial Reality**|Yifan Zeng et.al.|[2506.06622](http://arxiv.org/abs/2506.06622)|null|
+|**2025-06-06**|**Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques**|Adarsh Prasad Behera et.al.|[2506.06579](http://arxiv.org/abs/2506.06579)|null|
+|**2025-06-06**|**Beyond Facts: Evaluating Intent Hallucination in Large Language Models**|Yijie Hao et.al.|[2506.06539](http://arxiv.org/abs/2506.06539)|null|
+|**2025-06-05**|**Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models**|Pengyi Li et.al.|[2506.06395](http://arxiv.org/abs/2506.06395)|null|
+|**2025-06-04**|**On the Fundamental Impossibility of Hallucination Control in Large Language Models**|Michał P. Karpowicz et.al.|[2506.06382](http://arxiv.org/abs/2506.06382)|null|
 |**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
 |**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
-|**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
+|**2025-06-09**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
 |**2025-06-06**|**AgentSwift: Efficient LLM Agent Design via Value-guided Hierarchical Search**|Yu Li et.al.|[2506.06017](http://arxiv.org/abs/2506.06017)|null|
 |**2025-06-06**|**Generating Grounded Responses to Counter Misinformation via Learning Efficient Fine-Grained Critiques**|Xiaofei Xu et.al.|[2506.05924](http://arxiv.org/abs/2506.05924)|null|
 |**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
-|**2025-06-06**|**Zero-Shot Event Causality Identification via Multi-source Evidence Fuzzy Aggregation with Large Language Models**|Zefan Zeng et.al.|[2506.05675](http://arxiv.org/abs/2506.05675)|null|
+|**2025-06-09**|**Zero-Shot Event Causality Identification via Multi-source Evidence Fuzzy Aggregation with Large Language Models**|Zefan Zeng et.al.|[2506.05675](http://arxiv.org/abs/2506.05675)|null|
 |**2025-06-05**|**When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding**|Yan Shu et.al.|[2506.05551](http://arxiv.org/abs/2506.05551)|null|
 |**2025-06-05**|**Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models**|Sima Noorani et.al.|[2506.05497](http://arxiv.org/abs/2506.05497)|null|
 |**2025-06-05**|**CLATTER: Comprehensive Entailment Reasoning for Hallucination Detection**|Ron Eliav et.al.|[2506.05243](http://arxiv.org/abs/2506.05243)|null|
