@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmark of Large Language Models in Mental Health Counseling**|Yahan Li et.al.|[2506.08584](http://arxiv.org/abs/2506.08584)|null|
+|**2025-06-10**|**RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being**|Rahatara Ferdousi et.al.|[2506.08486](http://arxiv.org/abs/2506.08486)|null|
+|**2025-06-10**|**Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving**|Yuxuan Zhou et.al.|[2506.08349](http://arxiv.org/abs/2506.08349)|null|
+|**2025-06-09**|**Ensuring Reliability of Curated EHR-Derived Data: The Validation of Accuracy for LLM/ML-Extracted Information and Data (VALID) Framework**|Melissa Estevez et.al.|[2506.08231](http://arxiv.org/abs/2506.08231)|null|
 |**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
 |**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
 |**2025-06-08**|**Impact of Label Noise from Large Language Models Generated Annotations on Evaluation of Diagnostic Model Performance**|Mohammadreza Chavoshi et.al.|[2506.07273](http://arxiv.org/abs/2506.07273)|null|
@@ -1865,6 +1869,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
+|**2025-06-10**|**AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation**|Kaifeng He et.al.|[2506.08980](http://arxiv.org/abs/2506.08980)|null|
+|**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827](http://arxiv.org/abs/2506.08827)|null|
+|**2025-06-10**|**ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Large Language Model Preference Optimization**|Hee Suk Yoon et.al.|[2506.08712](http://arxiv.org/abs/2506.08712)|null|
+|**2025-06-10**|**RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being**|Rahatara Ferdousi et.al.|[2506.08486](http://arxiv.org/abs/2506.08486)|null|
+|**2025-06-10**|**Olica: Efficient Structured Pruning of Large Language Models without Retraining**|Jiujun He et.al.|[2506.08436](http://arxiv.org/abs/2506.08436)|null|
+|**2025-06-10**|**Transforming Expert Knowledge into Scalable Ontology via Large Language Models**|Ikkei Itoku et.al.|[2506.08422](http://arxiv.org/abs/2506.08422)|null|
+|**2025-06-09**|**Temporalizing Confidence: Evaluation of Chain-of-Thought Reasoning with Signal Temporal Logic**|Zhenjiang Mao et.al.|[2506.08243](http://arxiv.org/abs/2506.08243)|null|
+|**2025-06-09**|**Conservative Bias in Large Language Models: Measuring Relation Predictions**|Toyin Aguda et.al.|[2506.08120](http://arxiv.org/abs/2506.08120)|null|
 |**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
 |**2025-06-09**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675](http://arxiv.org/abs/2506.07675)|null|
@@ -1874,7 +1887,7 @@
 |**2025-06-09**|**From Calibration to Collaboration: LLM Uncertainty Quantification Should Be More Human-Centered**|Siddartha Devic et.al.|[2506.07461](http://arxiv.org/abs/2506.07461)|null|
 |**2025-06-09**|**Extending Epistemic Uncertainty Beyond Parameters Would Assist in Designing Reliable LLMs**|T. Duy Nguyen-Hien et.al.|[2506.07448](http://arxiv.org/abs/2506.07448)|null|
 |**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
-|**2025-06-09**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
+|**2025-06-10**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
 |**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|null|
 |**2025-06-08**|**Impact of Label Noise from Large Language Models Generated Annotations on Evaluation of Diagnostic Model Performance**|Mohammadreza Chavoshi et.al.|[2506.07273](http://arxiv.org/abs/2506.07273)|null|
 |**2025-06-08**|**Semantic-preserved Augmentation with Confidence-weighted Fine-tuning for Aspect Category Sentiment Analysis**|Yaping Chai et.al.|[2506.07148](http://arxiv.org/abs/2506.07148)|null|
@@ -1885,7 +1898,7 @@
 |**2025-06-07**|**\textit{QuantMCP}: Grounding Large Language Models in Verifiable Financial Reality**|Yifan Zeng et.al.|[2506.06622](http://arxiv.org/abs/2506.06622)|null|
 |**2025-06-06**|**Towards Efficient Multi-LLM Inference: Characterization and Analysis of LLM Routing and Hierarchical Techniques**|Adarsh Prasad Behera et.al.|[2506.06579](http://arxiv.org/abs/2506.06579)|null|
 |**2025-06-06**|**Beyond Facts: Evaluating Intent Hallucination in Large Language Models**|Yijie Hao et.al.|[2506.06539](http://arxiv.org/abs/2506.06539)|null|
-|**2025-06-05**|**Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models**|Pengyi Li et.al.|[2506.06395](http://arxiv.org/abs/2506.06395)|null|
+|**2025-06-10**|**Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models**|Pengyi Li et.al.|[2506.06395](http://arxiv.org/abs/2506.06395)|null|
 |**2025-06-04**|**On the Fundamental Impossibility of Hallucination Control in Large Language Models**|Michał P. Karpowicz et.al.|[2506.06382](http://arxiv.org/abs/2506.06382)|null|
 |**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
 |**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
