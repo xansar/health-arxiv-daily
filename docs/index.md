@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
+|**2025-06-11**|**ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning**|Yu Sun et.al.|[2506.09513](http://arxiv.org/abs/2506.09513)|null|
+|**2025-06-11**|**Bridging Online Behavior and Clinical Insight: A Longitudinal LLM-based Study of Suicidality on YouTube Reveals Novel Digital Markers**|Ilanit Sobol et.al.|[2506.09495](http://arxiv.org/abs/2506.09495)|null|
+|**2025-06-11**|**"Is This Really a Human Peer Supporter?": Misalignments Between Peer Supporters and Experts in LLM-Supported Interactions**|Kellie Yu Hui Sim et.al.|[2506.09354](http://arxiv.org/abs/2506.09354)|null|
+|**2025-06-10**|**The Curious Language Model: Strategic Test-Time Information Acquisition**|Michael Cooper et.al.|[2506.09173](http://arxiv.org/abs/2506.09173)|null|
 |**2025-06-10**|**CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmark of Large Language Models in Mental Health Counseling**|Yahan Li et.al.|[2506.08584](http://arxiv.org/abs/2506.08584)|null|
 |**2025-06-10**|**RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being**|Rahatara Ferdousi et.al.|[2506.08486](http://arxiv.org/abs/2506.08486)|null|
 |**2025-06-10**|**Evaluating LLMs Across Multi-Cognitive Levels: From Medical Knowledge Mastery to Scenario-Based Problem Solving**|Yuxuan Zhou et.al.|[2506.08349](http://arxiv.org/abs/2506.08349)|null|
@@ -1871,10 +1876,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs**|Hiroshi Matsuda et.al.|[2506.09983](http://arxiv.org/abs/2506.09983)|null|
+|**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/abs/2506.09886)|null|
+|**2025-06-11**|**Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?**|Andreas Säuberli et.al.|[2506.09796](http://arxiv.org/abs/2506.09796)|null|
+|**2025-06-11**|**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**|Haoyi Song et.al.|[2506.09684](http://arxiv.org/abs/2506.09684)|null|
+|**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
+|**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
+|**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
+|**2025-06-11**|**DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts**|Yuchen Feng et.al.|[2506.09351](http://arxiv.org/abs/2506.09351)|null|
+|**2025-06-11**|**Know What You Don't Know: Uncertainty Calibration of Process Reward Models**|Young-Jin Park et.al.|[2506.09338](http://arxiv.org/abs/2506.09338)|null|
+|**2025-06-10**|**G-Sim: Generative Simulations with Large Language Models and Gradient-Free Calibration**|Samuel Holt et.al.|[2506.09272](http://arxiv.org/abs/2506.09272)|null|
+|**2025-06-10**|**Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation**|Karl Löwenmark et.al.|[2506.09247](http://arxiv.org/abs/2506.09247)|null|
+|**2025-06-10**|**The Curious Language Model: Strategic Test-Time Information Acquisition**|Michael Cooper et.al.|[2506.09173](http://arxiv.org/abs/2506.09173)|null|
+|**2025-06-10**|**Enhanced Whole Page Optimization via Mixed-Grained Reward Mechanism-Adapted Language Models**|Xinyuan Wang et.al.|[2506.09084](http://arxiv.org/abs/2506.09084)|null|
+|**2025-06-10**|**FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for Financial Decision-Making**|Jiaxiang Chen et.al.|[2506.09080](http://arxiv.org/abs/2506.09080)|null|
 |**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
 |**2025-06-11**|**Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance**|Kaifeng He et.al.|[2506.08980](http://arxiv.org/abs/2506.08980)|null|
 |**2025-06-10**|**The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation**|Francisco Vargas et.al.|[2506.08827](http://arxiv.org/abs/2506.08827)|null|
-|**2025-06-10**|**ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Large Language Model Preference Optimization**|Hee Suk Yoon et.al.|[2506.08712](http://arxiv.org/abs/2506.08712)|null|
+|**2025-06-12**|**ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Preference Optimization**|Hee Suk Yoon et.al.|[2506.08712](http://arxiv.org/abs/2506.08712)|null|
 |**2025-06-10**|**RHealthTwin: Towards Responsible and Multimodal Digital Twins for Personalized Well-being**|Rahatara Ferdousi et.al.|[2506.08486](http://arxiv.org/abs/2506.08486)|null|
 |**2025-06-10**|**Olica: Efficient Structured Pruning of Large Language Models without Retraining**|Jiujun He et.al.|[2506.08436](http://arxiv.org/abs/2506.08436)|null|
 |**2025-06-11**|**Transforming Expert Knowledge into Scalable Ontology via Large Language Models**|Ikkei Itoku et.al.|[2506.08422](http://arxiv.org/abs/2506.08422)|null|
