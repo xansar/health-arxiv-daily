@@ -59,7 +59,7 @@ layout: default
 |**2025-06-04**|**MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale**|Ran Xu et.al.|[2506.04405](http://arxiv.org/abs/2506.04405)|null|
 |**2025-06-04**|**AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents**|Fengze Liu et.al.|[2506.04293](http://arxiv.org/abs/2506.04293)|null|
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
-|**2025-06-04**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/abs/2506.04078)|null|
+|**2025-06-04**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/abs/2506.04078)|**[link](https://github.com/llmeval/llmeval-med)**|
 |**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
 |**2025-06-04**|**Trustworthy Medical Question Answering: An Evaluation-Centric Survey**|Yinuo Wang et.al.|[2506.03659](http://arxiv.org/abs/2506.03659)|null|
 |**2025-06-04**|**VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety**|Han Zhang et.al.|[2506.03520](http://arxiv.org/abs/2506.03520)|null|
@@ -1893,10 +1893,10 @@ layout: default
 |**2025-06-11**|**Expert-in-the-Loop Systems with Cross-Domain and In-Domain Few-Shot Learning for Software Vulnerability Detection**|David Farr et.al.|[2506.10104](http://arxiv.org/abs/2506.10104)|null|
 |**2025-06-11**|**Textual Bayes: Quantifying Uncertainty in LLM-Based Systems**|Brendan Leigh Ross et.al.|[2506.10060](http://arxiv.org/abs/2506.10060)|null|
 |**2025-06-10**|**Evaluation empirique de la sécurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vulnérabilités par expérimentations de jailbreaks**|Rafaël Nouailles et.al.|[2506.10029](http://arxiv.org/abs/2506.10029)|null|
-|**2025-06-11**|**Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs**|Hiroshi Matsuda et.al.|[2506.09983](http://arxiv.org/abs/2506.09983)|null|
+|**2025-06-11**|**Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs**|Hiroshi Matsuda et.al.|[2506.09983](http://arxiv.org/abs/2506.09983)|**[link](https://github.com/megagonlabs/llmpp)**|
 |**2025-06-11**|**Attention Head Embeddings with Trainable Deep Kernels for Hallucination Detection in LLMs**|Rodion Oblovatny et.al.|[2506.09886](http://arxiv.org/abs/2506.09886)|null|
 |**2025-06-11**|**Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?**|Andreas Säuberli et.al.|[2506.09796](http://arxiv.org/abs/2506.09796)|null|
-|**2025-06-11**|**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**|Haoyi Song et.al.|[2506.09684](http://arxiv.org/abs/2506.09684)|null|
+|**2025-06-11**|**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**|Haoyi Song et.al.|[2506.09684](http://arxiv.org/abs/2506.09684)|**[link](https://github.com/umdatasciencelab/uncertainty-quantification-for-llms)**|
 |**2025-06-11**|**Learning Efficient and Generalizable Graph Retriever for Knowledge-Graph Question Answering**|Tianjun Yao et.al.|[2506.09645](http://arxiv.org/abs/2506.09645)|null|
 |**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
 |**2025-06-11**|**From Symbolic to Neural and Back: Exploring Knowledge Graph-Large Language Model Synergies**|Blaž Škrlj et.al.|[2506.09566](http://arxiv.org/abs/2506.09566)|null|
