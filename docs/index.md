@@ -22,6 +22,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making**|Claudio Fanconi et.al.|[2506.11887](http://arxiv.org/abs/2506.11887)|null|
+|**2025-06-13**|**Converting Annotated Clinical Cases into Structured Case Report Forms**|Pietro Ferrazzi et.al.|[2506.11666](http://arxiv.org/abs/2506.11666)|null|
+|**2025-06-13**|**RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning**|Yu Wang et.al.|[2506.11555](http://arxiv.org/abs/2506.11555)|null|
+|**2025-06-13**|**Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs**|Wei Li et.al.|[2506.11512](http://arxiv.org/abs/2506.11512)|null|
+|**2025-06-13**|**Predicting Early-Onset Colorectal Cancer with Large Language Models**|Wilson Lau et.al.|[2506.11410](http://arxiv.org/abs/2506.11410)|null|
+|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
+|**2025-06-12**|**LLM-as-a-Fuzzy-Judge: Fine-Tuning Large Language Models as a Clinical Evaluation Judge with Fuzzy Logic**|Weibing Zheng et.al.|[2506.11221](http://arxiv.org/abs/2506.11221)|null|
+|**2025-06-11**|**Test-Time-Scaling for Zero-Shot Diagnosis with Visual-Language Reasoning**|Ji Young Byun et.al.|[2506.11166](http://arxiv.org/abs/2506.11166)|null|
+|**2025-06-11**|**ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator**|Wenlong Hou et.al.|[2506.11150](http://arxiv.org/abs/2506.11150)|null|
+|**2025-06-11**|**Autonomous Computer Vision Development with Agentic AI**|Jin Kim et.al.|[2506.11140](http://arxiv.org/abs/2506.11140)|**[link](https://github.com/jink-ucla/OpenManus-SimpleMind)**|
+|**2025-06-10**|**Scalable Medication Extraction and Discontinuation Identification from Electronic Health Records Using Large Language Models**|Chong Shao et.al.|[2506.11137](http://arxiv.org/abs/2506.11137)|null|
+|**2025-06-10**|**Trustworthy AI for Medicine: Continuous Hallucination Detection and Elimination with CHECK**|Carlos Garcia-Fernandez et.al.|[2506.11129](http://arxiv.org/abs/2506.11129)|null|
+|**2025-06-09**|**KokushiMD-10: Benchmark for Evaluating Large Language Models on Ten Japanese National Healthcare Licensing Examinations**|Junyu Liu et.al.|[2506.11114](http://arxiv.org/abs/2506.11114)|null|
+|**2025-06-07**|**Enabling On-Device Medical AI Assistants via Input-Driven Saliency Adaptation**|Uttej Kallakurik et.al.|[2506.11105](http://arxiv.org/abs/2506.11105)|null|
 |**2025-06-12**|**The Role of Generative AI in Facilitating Social Interactions: A Scoping Review**|T. T. J. E. Arets et.al.|[2506.10927](http://arxiv.org/abs/2506.10927)|null|
 |**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769](http://arxiv.org/abs/2506.10769)|null|
 |**2025-06-12**|**Large Language Models for Detection of Life-Threatening Texts**|Thanh Thi Nguyen et.al.|[2506.10687](http://arxiv.org/abs/2506.10687)|null|
@@ -1879,6 +1893,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?**|Zihan Zheng et.al.|[2506.11928](http://arxiv.org/abs/2506.11928)|null|
+|**2025-06-13**|**TreeRL: LLM Reinforcement Learning with On-Policy Tree Search**|Zhenyu Hou et.al.|[2506.11902](http://arxiv.org/abs/2506.11902)|null|
+|**2025-06-13**|**Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making**|Claudio Fanconi et.al.|[2506.11887](http://arxiv.org/abs/2506.11887)|null|
+|**2025-06-13**|**Are LLMs Good Text Diacritizers? An Arabic and Yorùbá Case Study**|Hawau Olamide Toyin et.al.|[2506.11602](http://arxiv.org/abs/2506.11602)|null|
+|**2025-06-13**|**Augmenting the Generality and Performance of Large Language Models for Software Engineering**|Fabian C. Peña et.al.|[2506.11548](http://arxiv.org/abs/2506.11548)|null|
+|**2025-06-11**|**Digitization of Document and Information Extraction using OCR**|Rasha Sinha et.al.|[2506.11156](http://arxiv.org/abs/2506.11156)|null|
+|**2025-06-11**|**From over-reliance to smart integration: using Large-Language Models as translators between specialized modeling and simulation tools**|Philippe J. Giabbanelli et.al.|[2506.11141](http://arxiv.org/abs/2506.11141)|null|
+|**2025-06-10**|**Trustworthy AI for Medicine: Continuous Hallucination Detection and Elimination with CHECK**|Carlos Garcia-Fernandez et.al.|[2506.11129](http://arxiv.org/abs/2506.11129)|null|
 |**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
 |**2025-06-12**|**Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers**|Yixiao Huang et.al.|[2506.10887](http://arxiv.org/abs/2506.10887)|null|
 |**2025-06-13**|**Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848](http://arxiv.org/abs/2506.10848)|null|
