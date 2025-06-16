@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -59,7 +59,7 @@ layout: default
 |**2025-06-04**|**MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale**|Ran Xu et.al.|[2506.04405](http://arxiv.org/abs/2506.04405)|null|
 |**2025-06-04**|**AUTOCT: Automating Interpretable Clinical Trial Prediction with LLM Agents**|Fengze Liu et.al.|[2506.04293](http://arxiv.org/abs/2506.04293)|null|
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
-|**2025-06-04**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/abs/2506.04078)|**[link](https://github.com/llmeval/llmeval-med)**|
+|**2025-06-13**|**LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation**|Ming Zhang et.al.|[2506.04078](http://arxiv.org/abs/2506.04078)|**[link](https://github.com/llmeval/llmeval-med)**|
 |**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
 |**2025-06-04**|**Trustworthy Medical Question Answering: An Evaluation-Centric Survey**|Yinuo Wang et.al.|[2506.03659](http://arxiv.org/abs/2506.03659)|null|
 |**2025-06-04**|**VChatter: Exploring Generative Conversational Agents for Simulating Exposure Therapy to Reduce Social Anxiety**|Han Zhang et.al.|[2506.03520](http://arxiv.org/abs/2506.03520)|null|
@@ -1881,7 +1881,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
 |**2025-06-12**|**Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers**|Yixiao Huang et.al.|[2506.10887](http://arxiv.org/abs/2506.10887)|null|
-|**2025-06-12**|**Accelerating Diffusion Large Language Models with SlowFast: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848](http://arxiv.org/abs/2506.10848)|null|
+|**2025-06-13**|**Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848](http://arxiv.org/abs/2506.10848)|null|
 |**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769](http://arxiv.org/abs/2506.10769)|null|
 |**2025-06-12**|**Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs**|Yilin Xiao et.al.|[2506.10508](http://arxiv.org/abs/2506.10508)|null|
 |**2025-06-12**|**PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier**|Yuhua Jiang et.al.|[2506.10406](http://arxiv.org/abs/2506.10406)|null|
