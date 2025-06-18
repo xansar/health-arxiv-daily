@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1898,7 +1898,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -1906,13 +1906,13 @@
 |---|---|---|---|---|
 |**2025-06-16**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
-|**2025-06-16**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
+|**2025-06-17**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-16**|**Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs**|Houcheng Jiang et.al.|[2506.13285](http://arxiv.org/abs/2506.13285)|null|
 |**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|null|
 |**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
 |**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026](http://arxiv.org/abs/2506.13026)|null|
-|**2025-06-15**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
+|**2025-06-17**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
 |**2025-06-15**|**Building Trustworthy AI by Addressing its 16+2 Desiderata with Goal-Directed Commonsense Reasoning**|Alexis R. Tudor et.al.|[2506.12667](http://arxiv.org/abs/2506.12667)|null|
 |**2025-06-14**|**Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics**|Jiarui Liu et.al.|[2506.12657](http://arxiv.org/abs/2506.12657)|null|
 |**2025-06-14**|**GenControl: Generative AI-Driven Autonomous Design of Control Algorithms**|Chenggang Cui et.al.|[2506.12554](http://arxiv.org/abs/2506.12554)|null|
@@ -4016,7 +4016,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
