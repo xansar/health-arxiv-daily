@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
+|**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
+|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
+|**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/abs/2506.19665)|null|
+|**2025-06-24**|**Automatic Posology Structuration : What role for LLMs?**|Natalia Bobkova et.al.|[2506.19525](http://arxiv.org/abs/2506.19525)|null|
+|**2025-06-24**|**EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition**|Zhiyang Qi et.al.|[2506.19279](http://arxiv.org/abs/2506.19279)|null|
+|**2025-06-23**|**Spiritual-LLM : Gita Inspired Mental Health Therapy In the Era of LLMs**|Janak Kapuriya et.al.|[2506.19185](http://arxiv.org/abs/2506.19185)|null|
+|**2025-06-23**|**GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model**|Amir Faiyaz et.al.|[2506.19164](http://arxiv.org/abs/2506.19164)|null|
+|**2025-06-23**|**Enhancing Biosecurity in Tamper-Resistant Large Language Models With Quantum Gradient Descent**|Fahmida Hai et.al.|[2506.19086](http://arxiv.org/abs/2506.19086)|null|
+|**2025-06-23**|**FairCauseSyn: Towards Causally Fair LLM-Augmented Synthetic Data Generation**|Nitish Nagesh et.al.|[2506.19082](http://arxiv.org/abs/2506.19082)|null|
 |**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
 |**2025-06-23**|**MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis**|Yuting Zhang et.al.|[2506.18512](http://arxiv.org/abs/2506.18512)|null|
 |**2025-06-23**|**Evaluating Causal Explanation in Medical Reports with LLM-Based and Human-Aligned Metrics**|Yousang Cho et.al.|[2506.18387](http://arxiv.org/abs/2506.18387)|null|
@@ -1938,13 +1948,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/abs/2506.19807)|null|
+|**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
+|**2025-06-24**|**Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge**|Juraj Vladika et.al.|[2506.19607](http://arxiv.org/abs/2506.19607)|null|
+|**2025-06-24**|**Automatic Posology Structuration : What role for LLMs?**|Natalia Bobkova et.al.|[2506.19525](http://arxiv.org/abs/2506.19525)|null|
+|**2025-06-24**|**Inference-Time Reward Hacking in Large Language Models**|Hadi Khalaf et.al.|[2506.19248](http://arxiv.org/abs/2506.19248)|null|
+|**2025-06-23**|**AgenticControl: An Automated Control Design Framework Using Large Language Models**|Mohammad Narimani et.al.|[2506.19160](http://arxiv.org/abs/2506.19160)|null|
+|**2025-06-23**|**Human-Aligned Faithfulness in Toxicity Explanations of LLMs**|Ramaravind K. Mothilal et.al.|[2506.19113](http://arxiv.org/abs/2506.19113)|null|
+|**2025-06-23**|**Mirage of Mastery: Memorization Tricks LLMs into Artificially Inflated Self-Knowledge**|Sahil Kale et.al.|[2506.18998](http://arxiv.org/abs/2506.18998)|null|
 |**2025-06-23**|**AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs**|Piotr Matys et.al.|[2506.18628](http://arxiv.org/abs/2506.18628)|null|
 |**2025-06-23**|**ReFrame: Rectification Framework for Image Explaining Architectures**|Debjyoti Das Adhikary et.al.|[2506.18272](http://arxiv.org/abs/2506.18272)|null|
 |**2025-06-24**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-22**|**QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs**|Taolin Zhang et.al.|[2506.17864](http://arxiv.org/abs/2506.17864)|null|
 |**2025-06-21**|**Is Your Automated Software Engineer Trustworthy?**|Noble Saji Mathews et.al.|[2506.17812](http://arxiv.org/abs/2506.17812)|null|
-|**2025-06-21**|**KAG-Thinker: Teaching Large Language Models to Think with Human-like Reasoning Process**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
+|**2025-06-24**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
 |**2025-06-21**|**Resource-Friendly Dynamic Enhancement Chain for Multi-Hop Question Answering**|Binquan Ji et.al.|[2506.17692](http://arxiv.org/abs/2506.17692)|null|
 |**2025-06-21**|**Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models**|Yukun Huang et.al.|[2506.17585](http://arxiv.org/abs/2506.17585)|null|
 |**2025-06-20**|**OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections**|Manasa Bharadwaj et.al.|[2506.17449](http://arxiv.org/abs/2506.17449)|null|
