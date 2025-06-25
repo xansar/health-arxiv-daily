@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@ layout: default
 |**2025-06-23**|**MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis**|Yuting Zhang et.al.|[2506.18512](http://arxiv.org/abs/2506.18512)|null|
 |**2025-06-23**|**Evaluating Causal Explanation in Medical Reports with LLM-Based and Human-Aligned Metrics**|Yousang Cho et.al.|[2506.18387](http://arxiv.org/abs/2506.18387)|null|
 |**2025-06-23**|**Dynamic Knowledge Exchange and Dual-diversity Review: Concisely Unleashing the Potential of a Multi-Agent Research Team**|Weilun Yu et.al.|[2506.18348](http://arxiv.org/abs/2506.18348)|null|
-|**2025-06-23**|**Co-persona: Leveraging LLMs and Expert Collaboration to Understand User Personas through Social Media Data Analysis**|Min Yin et.al.|[2506.18269](http://arxiv.org/abs/2506.18269)|null|
+|**2025-06-24**|**Co-persona: Leveraging LLMs and Expert Collaboration to Understand User Personas through Social Media Data Analysis**|Min Yin et.al.|[2506.18269](http://arxiv.org/abs/2506.18269)|null|
 |**2025-06-22**|**Programming Quantum Computers with Large Language Models**|Elena R. Henderson et.al.|[2506.18125](http://arxiv.org/abs/2506.18125)|null|
 |**2025-06-22**|**Mental Health Equity in LLMs: Leveraging Multi-Hop Question Answering to Detect Amplified and Silenced Perspectives**|Batool Haider et.al.|[2506.18116](http://arxiv.org/abs/2506.18116)|null|
 |**2025-06-22**|**Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster**|Fenghe Tang et.al.|[2506.18034](http://arxiv.org/abs/2506.18034)|null|
@@ -46,12 +46,12 @@ layout: default
 |**2025-06-23**|**From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents**|Mohammad Amaan Sayeed et.al.|[2506.15911](http://arxiv.org/abs/2506.15911)|null|
 |**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
 |**2025-06-18**|**DeVisE: Behavioral Testing of Medical Large Language Models**|Camila Zurdo Tagliabue et.al.|[2506.15339](http://arxiv.org/abs/2506.15339)|null|
-|**2025-06-18**|**Universal Laboratory Model: prognosis of abnormal clinical outcomes based on routine tests**|Pavel Karpov et.al.|[2506.15330](http://arxiv.org/abs/2506.15330)|null|
+|**2025-06-18**|**Universal Laboratory Model: prognosis of abnormal clinical outcomes based on routine tests**|Pavel Karpov et.al.|[2506.15330](http://arxiv.org/abs/2506.15330)|**[link](https://github.com/petilia2002/universal-laboratory-model)**|
 |**2025-06-18**|**Cohort Discovery: A Survey on LLM-Assisted Clinical Trial Recruitment**|Shrestha Ghosh et.al.|[2506.15301](http://arxiv.org/abs/2506.15301)|null|
 |**2025-06-18**|**Mapping Caregiver Needs to AI Chatbot Design: Strengths and Gaps in Mental Health Support for Alzheimer's and Dementia Caregivers**|Jiayue Melissa Shi et.al.|[2506.15047](http://arxiv.org/abs/2506.15047)|null|
-|**2025-06-17**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?**|Shadman Sakib et.al.|[2506.14949](http://arxiv.org/abs/2506.14949)|null|
+|**2025-06-17**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?**|Shadman Sakib et.al.|[2506.14949](http://arxiv.org/abs/2506.14949)|**[link](https://github.com/shadmansakib44/diabetes_prediction)**|
 |**2025-06-17**|**A Vision for Geo-Temporal Deep Research Systems: Towards Comprehensive, Transparent, and Reproducible Geo-Temporal Information Synthesis**|Bruno Martins et.al.|[2506.14345](http://arxiv.org/abs/2506.14345)|null|
-|**2025-06-17**|**Abstract Meaning Representation for Hospital Discharge Summarization**|Paul Landes et.al.|[2506.14101](http://arxiv.org/abs/2506.14101)|null|
+|**2025-06-17**|**Abstract Meaning Representation for Hospital Discharge Summarization**|Paul Landes et.al.|[2506.14101](http://arxiv.org/abs/2506.14101)|**[link](https://github.com/uic-nlp-lab/calsum)**|
 |**2025-06-17**|**InsertRank: LLMs can reason over BM25 scores to Improve Listwise Reranking**|Rahul Seetharaman et.al.|[2506.14086](http://arxiv.org/abs/2506.14086)|null|
 |**2025-06-13**|**Dr. GPT Will See You Now, but Should It? Exploring the Benefits and Harms of Large Language Models in Medical Diagnosis using Crowdsourced Clinical Cases**|Bonam Mingole et.al.|[2506.13805](http://arxiv.org/abs/2506.13805)|null|
 |**2025-06-13**|**Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework**|Abul Ehtesham et.al.|[2506.13800](http://arxiv.org/abs/2506.13800)|null|
@@ -62,7 +62,7 @@ layout: default
 |**2025-06-16**|**Rethinking Test-Time Scaling for Medical AI: Model and Task-Aware Strategies for LLMs and VLMs**|Gyutaek Oh et.al.|[2506.13102](http://arxiv.org/abs/2506.13102)|null|
 |**2025-06-15**|**CliniDial: A Naturally Occurring Multimodal Dialogue Dataset for Team Reflection in Action During Clinical Operation**|Naihao Deng et.al.|[2506.12936](http://arxiv.org/abs/2506.12936)|null|
 |**2025-06-15**|**Towards Visualizing Electronic Medical Records via Natural Language Queries**|Haodi Zhang et.al.|[2506.12837](http://arxiv.org/abs/2506.12837)|null|
-|**2025-06-14**|**Enabling Precise Topic Alignment in Large Language Models Via Sparse Autoencoders**|Ananya Joshi et.al.|[2506.12576](http://arxiv.org/abs/2506.12576)|null|
+|**2025-06-14**|**Enabling Precise Topic Alignment in Large Language Models Via Sparse Autoencoders**|Ananya Joshi et.al.|[2506.12576](http://arxiv.org/abs/2506.12576)|**[link](https://github.com/ibm/sae-steering)**|
 |**2025-06-14**|**Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare**|Yubin Kim et.al.|[2506.12482](http://arxiv.org/abs/2506.12482)|null|
 |**2025-06-14**|**Understanding the Effect of Knowledge Graph Extraction Error on Downstream Graph Analyses: A Case Study on Affiliation Graphs**|Erica Cai et.al.|[2506.12367](http://arxiv.org/abs/2506.12367)|null|
 |**2025-06-20**|**Med-U1: Incentivizing Unified Medical Reasoning in LLMs via Large-scale Reinforcement Learning**|Xiaotian Zhang et.al.|[2506.12307](http://arxiv.org/abs/2506.12307)|null|
@@ -71,7 +71,7 @@ layout: default
 |**2025-06-10**|**Risks & Benefits of LLMs & GenAI for Platform Integrity, Healthcare Diagnostics, Cybersecurity, Privacy & AI Safety: A Comprehensive Survey, Roadmap & Implementation Blueprint**|Kiarash Ahi et.al.|[2506.12088](http://arxiv.org/abs/2506.12088)|null|
 |**2025-06-16**|**Towards a Cascaded LLM Framework for Cost-effective Human-AI Decision-Making**|Claudio Fanconi et.al.|[2506.11887](http://arxiv.org/abs/2506.11887)|null|
 |**2025-06-13**|**Converting Annotated Clinical Cases into Structured Case Report Forms**|Pietro Ferrazzi et.al.|[2506.11666](http://arxiv.org/abs/2506.11666)|null|
-|**2025-06-13**|**RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning**|Yu Wang et.al.|[2506.11555](http://arxiv.org/abs/2506.11555)|null|
+|**2025-06-24**|**RAG+: Enhancing Retrieval-Augmented Generation with Application-Aware Reasoning**|Yu Wang et.al.|[2506.11555](http://arxiv.org/abs/2506.11555)|null|
 |**2025-06-13**|**Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs**|Wei Li et.al.|[2506.11512](http://arxiv.org/abs/2506.11512)|**[link](https://github.com/leeway-95/aligning-tsd-with-llm)**|
 |**2025-06-13**|**Predicting Early-Onset Colorectal Cancer with Large Language Models**|Wilson Lau et.al.|[2506.11410](http://arxiv.org/abs/2506.11410)|null|
 |**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376](http://arxiv.org/abs/2506.11376)|null|
@@ -1942,7 +1942,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-23**|**AggTruth: Contextual Hallucination Detection using Aggregated Attention Scores in LLMs**|Piotr Matys et.al.|[2506.18628](http://arxiv.org/abs/2506.18628)|null|
 |**2025-06-23**|**ReFrame: Rectification Framework for Image Explaining Architectures**|Debjyoti Das Adhikary et.al.|[2506.18272](http://arxiv.org/abs/2506.18272)|null|
-|**2025-06-22**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
+|**2025-06-24**|**Understanding Reasoning in Thinking Language Models via Steering Vectors**|Constantin Venhoff et.al.|[2506.18167](http://arxiv.org/abs/2506.18167)|null|
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-22**|**QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs**|Taolin Zhang et.al.|[2506.17864](http://arxiv.org/abs/2506.17864)|null|
 |**2025-06-21**|**Is Your Automated Software Engineer Trustworthy?**|Noble Saji Mathews et.al.|[2506.17812](http://arxiv.org/abs/2506.17812)|null|
@@ -1963,7 +1963,7 @@ layout: default
 |**2025-06-19**|**Grounding Language Models with Semantic Digital Twins for Robotic Planning**|Mehreen Naeem et.al.|[2506.16493](http://arxiv.org/abs/2506.16493)|null|
 |**2025-06-19**|**Can GPT-4o Evaluate Usability Like Human Experts? A Comparative Study on Issue Identification in Heuristic Evaluation**|Guilherme Guerino et.al.|[2506.16345](http://arxiv.org/abs/2506.16345)|null|
 |**2025-06-19**|**SGIC: A Self-Guided Iterative Calibration Framework for RAG**|Guanhua Chen et.al.|[2506.16172](http://arxiv.org/abs/2506.16172)|null|
-|**2025-06-19**|**Large Language Models are Near-Optimal Decision-Makers with a Non-Human Learning Behavior**|Hao Li et.al.|[2506.16163](http://arxiv.org/abs/2506.16163)|null|
+|**2025-06-19**|**Large Language Models are Near-Optimal Decision-Makers with a Non-Human Learning Behavior**|Hao Li et.al.|[2506.16163](http://arxiv.org/abs/2506.16163)|**[link](https://github.com/ynulihao/llm_vs_human_decision_making)**|
 |**2025-06-19**|**Self-Critique-Guided Curiosity Refinement: Enhancing Honesty and Helpfulness in Large Language Models via In-Context Learning**|Duc Hieu Ho et.al.|[2506.16064](http://arxiv.org/abs/2506.16064)|null|
 |**2025-06-19**|**DynScaling: Efficient Verifier-free Inference Scaling via Dynamic and Integrated Sampling**|Fei Wang et.al.|[2506.16043](http://arxiv.org/abs/2506.16043)|null|
 |**2025-06-18**|**Understanding Online Polarization Through Human-Agent Interaction in a Synthetic LLM-Based Social Network**|Tim Donkers et.al.|[2506.15866](http://arxiv.org/abs/2506.15866)|null|
@@ -1973,20 +1973,20 @@ layout: default
 |**2025-06-18**|**Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation**|Hanbit Oh et.al.|[2506.15157](http://arxiv.org/abs/2506.15157)|null|
 |**2025-06-18**|**HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models**|Trishna Chakraborty et.al.|[2506.15065](http://arxiv.org/abs/2506.15065)|null|
 |**2025-06-17**|**Winter Soldier: Backdooring Language Models at Pre-Training with Indirect Data Poisoning**|Wassim Bouaziz et.al.|[2506.14913](http://arxiv.org/abs/2506.14913)|null|
-|**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|null|
+|**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|**[link](https://github.com/iscomment/iscomment)**|
 |**2025-06-17**|**Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees**|Ahmed Heakl et.al.|[2506.14606](http://arxiv.org/abs/2506.14606)|null|
 |**2025-06-17**|**RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition**|Tim Cofala et.al.|[2506.14412](http://arxiv.org/abs/2506.14412)|null|
 |**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
 |**2025-06-17**|**AviationLLM: An LLM-based Knowledge System for Aviation Training**|Jia'ang Wan et.al.|[2506.14336](http://arxiv.org/abs/2506.14336)|null|
 |**2025-06-17**|**Improving LoRA with Variational Learning**|Bai Cong et.al.|[2506.14280](http://arxiv.org/abs/2506.14280)|null|
-|**2025-06-17**|**DCRM: A Heuristic to Measure Response Pair Quality in Preference Optimization**|Chengyu Huang et.al.|[2506.14157](http://arxiv.org/abs/2506.14157)|null|
-|**2025-06-17**|**Abstract Meaning Representation for Hospital Discharge Summarization**|Paul Landes et.al.|[2506.14101](http://arxiv.org/abs/2506.14101)|null|
-|**2025-06-20**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|null|
+|**2025-06-17**|**DCRM: A Heuristic to Measure Response Pair Quality in Preference Optimization**|Chengyu Huang et.al.|[2506.14157](http://arxiv.org/abs/2506.14157)|**[link](https://github.com/hcy123902/dcrm)**|
+|**2025-06-17**|**Abstract Meaning Representation for Hospital Discharge Summarization**|Paul Landes et.al.|[2506.14101](http://arxiv.org/abs/2506.14101)|**[link](https://github.com/uic-nlp-lab/calsum)**|
+|**2025-06-20**|**Calibrated Predictive Lower Bounds on Time-to-Unsafe-Sampling in LLMs**|Hen Davidov et.al.|[2506.13593](http://arxiv.org/abs/2506.13593)|**[link](https://github.com/giladfrid009/llm-survival)**|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
 |**2025-06-17**|**ROSAQ: Rotation-based Saliency-Aware Weight Quantization for Efficiently Compressing Large Language Models**|Junho Yoon et.al.|[2506.13472](http://arxiv.org/abs/2506.13472)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-16**|**Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs**|Houcheng Jiang et.al.|[2506.13285](http://arxiv.org/abs/2506.13285)|null|
-|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|null|
+|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|**[link](https://github.com/zjlin2oo1/igd)**|
 |**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
 |**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026](http://arxiv.org/abs/2506.13026)|null|
 |**2025-06-17**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
