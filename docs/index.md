@@ -22,6 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430](http://arxiv.org/abs/2506.20430)|null|
+|**2025-06-25**|**ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset**|Yilin Wang et.al.|[2506.20093](http://arxiv.org/abs/2506.20093)|null|
+|**2025-06-24**|**DiaLLMs: EHR Enhanced Clinical Conversational System for Clinical Test Recommendation and Diagnosis Prediction**|Weijieying Ren et.al.|[2506.20059](http://arxiv.org/abs/2506.20059)|null|
+|**2025-06-24**|**Accurate and Energy Efficient: Local Retrieval-Augmented Generation Models Outperform Commercial Large Language Models in Medical Tasks**|Konstantinos Vrettos et.al.|[2506.20009](http://arxiv.org/abs/2506.20009)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
 |**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
 |**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
@@ -1950,6 +1954,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
+|**2025-06-25**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
+|**2025-06-25**|**Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models**|Kejia Chen et.al.|[2506.20251](http://arxiv.org/abs/2506.20251)|null|
+|**2025-06-25**|**DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs**|Ruokai Yin et.al.|[2506.20194](http://arxiv.org/abs/2506.20194)|null|
 |**2025-06-24**|**KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality**|Baochang Ren et.al.|[2506.19807](http://arxiv.org/abs/2506.19807)|null|
 |**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
 |**2025-06-24**|**Correcting Hallucinations in News Summaries: Exploration of Self-Correcting LLM Methods with External Knowledge**|Juraj Vladika et.al.|[2506.19607](http://arxiv.org/abs/2506.19607)|null|
