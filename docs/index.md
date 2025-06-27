@@ -22,13 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Shadman Sobhan et.al.|[2506.21199](http://arxiv.org/abs/2506.21199)|null|
+|**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
 |**2025-06-25**|**An Agentic System for Rare Disease Diagnosis with Traceable Reasoning**|Weike Zhao et.al.|[2506.20430](http://arxiv.org/abs/2506.20430)|null|
 |**2025-06-25**|**ITFormer: Bridging Time Series and Natural Language for Multi-Modal QA with Large-Scale Multitask Dataset**|Yilin Wang et.al.|[2506.20093](http://arxiv.org/abs/2506.20093)|null|
 |**2025-06-24**|**DiaLLMs: EHR Enhanced Clinical Conversational System for Clinical Test Recommendation and Diagnosis Prediction**|Weijieying Ren et.al.|[2506.20059](http://arxiv.org/abs/2506.20059)|null|
 |**2025-06-24**|**Accurate and Energy Efficient: Local Retrieval-Augmented Generation Models Outperform Commercial Large Language Models in Medical Tasks**|Konstantinos Vrettos et.al.|[2506.20009](http://arxiv.org/abs/2506.20009)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
 |**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
-|**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
+|**2025-06-26**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
 |**2025-06-24**|**Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation**|Yuanhe Tian et.al.|[2506.19665](http://arxiv.org/abs/2506.19665)|null|
 |**2025-06-24**|**Automatic Posology Structuration : What role for LLMs?**|Natalia Bobkova et.al.|[2506.19525](http://arxiv.org/abs/2506.19525)|null|
 |**2025-06-24**|**EmoStage: A Framework for Accurate Empathetic Response Generation via Perspective-Taking and Phase Recognition**|Zhiyang Qi et.al.|[2506.19279](http://arxiv.org/abs/2506.19279)|null|
@@ -1954,6 +1957,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
+|**2025-06-26**|**BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services**|Zhaojiacheng Zhou et.al.|[2506.21033](http://arxiv.org/abs/2506.21033)|null|
+|**2025-06-26**|**Our Coding Adventure: Using LLMs to Personalise the Narrative of a Tangible Programming Robot for Preschoolers**|Martin Ruskov et.al.|[2506.20982](http://arxiv.org/abs/2506.20982)|null|
+|**2025-06-25**|**Towards Probabilistic Question Answering Over Tabular Data**|Chen Shen et.al.|[2506.20747](http://arxiv.org/abs/2506.20747)|null|
 |**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
 |**2025-06-26**|**TAPS: Tool-Augmented Personalisation via Structured Tagging**|Ekaterina Taktasheva et.al.|[2506.20409](http://arxiv.org/abs/2506.20409)|null|
 |**2025-06-25**|**Q-resafe: Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models**|Kejia Chen et.al.|[2506.20251](http://arxiv.org/abs/2506.20251)|null|
