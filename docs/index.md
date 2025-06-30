@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**Refine Medical Diagnosis Using Generation Augmented Retrieval and Clinical Practice Guidelines**|Wenhao Li et.al.|[2506.21615](http://arxiv.org/abs/2506.21615)|null|
+|**2025-06-18**|**Overview of the ClinIQLink 2025 Shared Task on Medical Question-Answering**|Brandon Colelough et.al.|[2506.21597](http://arxiv.org/abs/2506.21597)|null|
 |**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
 |**2025-06-26**|**MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification**|Shadman Sobhan et.al.|[2506.21199](http://arxiv.org/abs/2506.21199)|null|
 |**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
@@ -1957,6 +1959,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
+|**2025-06-27**|**Using Large Language Models to Suggest Informative Prior Distributions in Bayesian Statistics**|Michael A. Riegler et.al.|[2506.21964](http://arxiv.org/abs/2506.21964)|null|
+|**2025-06-27**|**The Consistency Hypothesis in Uncertainty Quantification for Large Language Models**|Quan Xiao et.al.|[2506.21849](http://arxiv.org/abs/2506.21849)|null|
+|**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|null|
+|**2025-06-26**|**Evaluating List Construction and Temporal Understanding capabilities of Large Language Models**|Alexandru Dumitru et.al.|[2506.21783](http://arxiv.org/abs/2506.21783)|null|
+|**2025-06-26**|**THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?**|Xin Wang et.al.|[2506.21763](http://arxiv.org/abs/2506.21763)|null|
+|**2025-06-22**|**Refine Medical Diagnosis Using Generation Augmented Retrieval and Clinical Practice Guidelines**|Wenhao Li et.al.|[2506.21615](http://arxiv.org/abs/2506.21615)|null|
+|**2025-06-20**|**CORE-KG: An LLM-Driven Knowledge Graph Construction Framework for Human Smuggling Networks**|Dipak Meher et.al.|[2506.21607](http://arxiv.org/abs/2506.21607)|null|
 |**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
 |**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
 |**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
