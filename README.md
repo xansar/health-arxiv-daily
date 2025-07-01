@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
+|**2025-06-28**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
+|**2025-06-28**|**Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**|Qixuan Liu et.al.|[2506.22926](http://arxiv.org/abs/2506.22926)|null|
+|**2025-06-28**|**MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs**|Jianhui Wei et.al.|[2506.22808](http://arxiv.org/abs/2506.22808)|null|
 |**2025-06-22**|**Refine Medical Diagnosis Using Generation Augmented Retrieval and Clinical Practice Guidelines**|Wenhao Li et.al.|[2506.21615](http://arxiv.org/abs/2506.21615)|null|
 |**2025-06-18**|**Overview of the ClinIQLink 2025 Shared Task on Medical Question-Answering**|Brandon Colelough et.al.|[2506.21597](http://arxiv.org/abs/2506.21597)|null|
 |**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
@@ -1957,6 +1961,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/abs/2506.23924)|null|
+|**2025-06-30**|**Large Language Models for Statistical Inference: Context Augmentation with Applications to the Two-Sample Problem and Regression**|Marc Ratkovic et.al.|[2506.23862](http://arxiv.org/abs/2506.23862)|null|
+|**2025-06-30**|**Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate Incidents Management**|Ewelina Gajewska et.al.|[2506.23774](http://arxiv.org/abs/2506.23774)|null|
+|**2025-06-30**|**The Confidence Paradox: Can LLM Know When It's Wrong**|Sahil Tripathi et.al.|[2506.23464](http://arxiv.org/abs/2506.23464)|null|
+|**2025-06-29**|**Do LLMs Dream of Discrete Algorithms?**|Claudionor Coelho Jr et.al.|[2506.23408](http://arxiv.org/abs/2506.23408)|null|
+|**2025-06-29**|**Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions**|Dingzriui Wang et.al.|[2506.23146](http://arxiv.org/abs/2506.23146)|null|
+|**2025-06-29**|**LLM-Assisted Question-Answering on Technical Documents Using Structured Data-Aware Retrieval Augmented Generation**|Shadman Sobhan et.al.|[2506.23136](http://arxiv.org/abs/2506.23136)|null|
+|**2025-06-28**|**Prompting without Panic: Attribute-aware, Zero-shot, Test-Time Calibration**|Ramya Hebbalaguppe et.al.|[2506.22819](http://arxiv.org/abs/2506.22819)|null|
+|**2025-06-28**|**Enhancing Android Malware Detection with Retrieval-Augmented Generation**|Saraga S. et.al.|[2506.22750](http://arxiv.org/abs/2506.22750)|null|
+|**2025-06-28**|**RAILS: Retrieval-Augmented Intelligence for Learning Software Development**|Wali Mohammad Abdullah et.al.|[2506.22742](http://arxiv.org/abs/2506.22742)|null|
+|**2025-06-27**|**ReCo: Reminder Composition Mitigates Hallucinations in Vision-Language Models**|Sotirios Panagiotis Chytas et.al.|[2506.22636](http://arxiv.org/abs/2506.22636)|null|
+|**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
+|**2025-06-25**|**Mitigating Gambling-Like Risk-Taking Behaviors in Large Language Models: A Behavioral Economics Approach to AI Safety**|Y. Du et.al.|[2506.22496](http://arxiv.org/abs/2506.22496)|null|
+|**2025-06-24**|**Hallucination Detection with Small Language Models**|Ming Cheung et.al.|[2506.22486](http://arxiv.org/abs/2506.22486)|null|
 |**2025-06-27**|**Probabilistic Optimality for Inference-time Scaling**|Youkang Wang et.al.|[2506.22376](http://arxiv.org/abs/2506.22376)|null|
 |**2025-06-27**|**Using Large Language Models to Suggest Informative Prior Distributions in Bayesian Statistics**|Michael A. Riegler et.al.|[2506.21964](http://arxiv.org/abs/2506.21964)|null|
 |**2025-06-27**|**The Consistency Hypothesis in Uncertainty Quantification for Large Language Models**|Quan Xiao et.al.|[2506.21849](http://arxiv.org/abs/2506.21849)|null|
@@ -1989,7 +2007,7 @@
 |**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
 |**2025-06-22**|**QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs**|Taolin Zhang et.al.|[2506.17864](http://arxiv.org/abs/2506.17864)|null|
 |**2025-06-21**|**Is Your Automated Software Engineer Trustworthy?**|Noble Saji Mathews et.al.|[2506.17812](http://arxiv.org/abs/2506.17812)|null|
-|**2025-06-24**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
+|**2025-06-30**|**KAG-Thinker: Interactive Thinking and Deep Reasoning in LLMs via Knowledge-Augmented Generation**|Dalong Zhang et.al.|[2506.17728](http://arxiv.org/abs/2506.17728)|null|
 |**2025-06-21**|**Resource-Friendly Dynamic Enhancement Chain for Multi-Hop Question Answering**|Binquan Ji et.al.|[2506.17692](http://arxiv.org/abs/2506.17692)|null|
 |**2025-06-21**|**Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models**|Yukun Huang et.al.|[2506.17585](http://arxiv.org/abs/2506.17585)|null|
 |**2025-06-20**|**OmniReflect: Discovering Transferable Constitutions for LLM agents via Neuro-Symbolic Reflections**|Manasa Bharadwaj et.al.|[2506.17449](http://arxiv.org/abs/2506.17449)|null|
