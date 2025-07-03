@@ -22,6 +22,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-02**|**Towards culturally-appropriate conversational AI for health in the majority world: An exploratory study with citizens and professionals in Latin America**|Dorian Peters et.al.|[2507.01719](http://arxiv.org/abs/2507.01719)|null|
+|**2025-07-02**|**Beyond Black-Box AI: Interpretable Hybrid Systems for Dementia Care**|Matthew JY Kang et.al.|[2507.01282](http://arxiv.org/abs/2507.01282)|null|
+|**2025-07-02**|**Evaluating Large Language Models for Multimodal Simulated Ophthalmic Decision-Making in Diabetic Retinopathy and Glaucoma Screening**|Cindy Lie Tabuse et.al.|[2507.01278](http://arxiv.org/abs/2507.01278)|null|
+|**2025-07-01**|**Development and Comparative Evaluation of Three Artificial Intelligence Models (NLP, LLM, JEPA) for Predicting Triage in Emergency Departments: A 7-Month Retrospective Proof-of-Concept**|Edouard Lansiaux et.al.|[2507.01080](http://arxiv.org/abs/2507.01080)|null|
+|**2025-06-27**|**Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis**|Rafi Al Attrach et.al.|[2507.01053](http://arxiv.org/abs/2507.01053)|null|
+|**2025-07-01**|**Leveraging Large Language Models for Spontaneous Speech-Based Suicide Risk Detection**|Yifan Gao et.al.|[2507.00693](http://arxiv.org/abs/2507.00693)|null|
+|**2025-07-02**|**$μ^2$ Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation**|Siyou Li et.al.|[2507.00316](http://arxiv.org/abs/2507.00316)|null|
+|**2025-06-25**|**VSF-Med:A Vulnerability Scoring Framework for Medical Vision-Language Models**|Binesh Sadanandan et.al.|[2507.00052](http://arxiv.org/abs/2507.00052)|null|
 |**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
 |**2025-07-02**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
 |**2025-06-28**|**Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**|Qixuan Liu et.al.|[2506.22926](http://arxiv.org/abs/2506.22926)|null|
@@ -1963,6 +1972,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-02**|**Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks**|Hanlin Cai et.al.|[2507.01694](http://arxiv.org/abs/2507.01694)|null|
+|**2025-07-02**|**Efficient Out-of-Scope Detection in Dialogue Systems via Uncertainty-Driven LLM Routing**|Álvaro Zaera et.al.|[2507.01541](http://arxiv.org/abs/2507.01541)|null|
+|**2025-07-02**|**Using multi-agent architecture to mitigate the risk of LLM hallucinations**|Abd Elrahman Amer et.al.|[2507.01446](http://arxiv.org/abs/2507.01446)|null|
+|**2025-07-02**|**Pensieve Grader: An AI-Powered, Ready-to-Use Platform for Effortless Handwritten STEM Grading**|Yoonseok Yang et.al.|[2507.01431](http://arxiv.org/abs/2507.01431)|null|
+|**2025-07-02**|**Penalizing Transparency? How AI Disclosure and Author Demographics Shape Human and AI Judgments About Writing**|Inyoung Cheong et.al.|[2507.01418](http://arxiv.org/abs/2507.01418)|null|
+|**2025-07-02**|**ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks**|Zhiyao Ren et.al.|[2507.01321](http://arxiv.org/abs/2507.01321)|null|
+|**2025-07-02**|**Beyond Black-Box AI: Interpretable Hybrid Systems for Dementia Care**|Matthew JY Kang et.al.|[2507.01282](http://arxiv.org/abs/2507.01282)|null|
+|**2025-07-01**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al.|[2507.01077](http://arxiv.org/abs/2507.01077)|null|
+|**2025-07-01**|**On the Surprising Efficacy of LLMs for Penetration-Testing**|Andreas Happe et.al.|[2507.00829](http://arxiv.org/abs/2507.00829)|null|
+|**2025-07-01**|**Quantize-Sample-and-Verify: LLM Acceleration via Adaptive Edge-Cloud Speculative Decoding**|Guangyi Zhang et.al.|[2507.00605](http://arxiv.org/abs/2507.00605)|null|
+|**2025-07-01**|**TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification**|Miriam Anschütz et.al.|[2507.00579](http://arxiv.org/abs/2507.00579)|null|
+|**2025-07-01**|**Reliable Annotations with Less Effort: Evaluating LLM-Human Collaboration in Search Clarifications**|Leila Tavakoli et.al.|[2507.00543](http://arxiv.org/abs/2507.00543)|null|
+|**2025-06-30**|**Federated Learning-Enabled Hybrid Language Models for Communication-Efficient Token Transmission**|Faranaksadat Solat et.al.|[2507.00082](http://arxiv.org/abs/2507.00082)|null|
+|**2025-06-26**|**Estimating Correctness Without Oracles in LLM-Based Code Generation**|Thomas Valentin et.al.|[2507.00057](http://arxiv.org/abs/2507.00057)|null|
+|**2025-06-25**|**VSF-Med:A Vulnerability Scoring Framework for Medical Vision-Language Models**|Binesh Sadanandan et.al.|[2507.00052](http://arxiv.org/abs/2507.00052)|null|
 |**2025-06-30**|**Performance of LLMs on Stochastic Modeling Operations Research Problems: From Theory to Practice**|Akshit Kumar et.al.|[2506.23924](http://arxiv.org/abs/2506.23924)|null|
 |**2025-06-30**|**Large Language Models for Statistical Inference: Context Augmentation with Applications to the Two-Sample Problem and Regression**|Marc Ratkovic et.al.|[2506.23862](http://arxiv.org/abs/2506.23862)|null|
 |**2025-06-30**|**Leveraging a Multi-Agent LLM-Based System to Educate Teachers in Hate Incidents Management**|Ewelina Gajewska et.al.|[2506.23774](http://arxiv.org/abs/2506.23774)|null|
