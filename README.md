@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
-|**2025-06-28**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
+|**2025-07-02**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
 |**2025-06-28**|**Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**|Qixuan Liu et.al.|[2506.22926](http://arxiv.org/abs/2506.22926)|null|
 |**2025-06-28**|**MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs**|Jianhui Wei et.al.|[2506.22808](http://arxiv.org/abs/2506.22808)|null|
 |**2025-06-22**|**Refine Medical Diagnosis Using Generation Augmented Retrieval and Clinical Practice Guidelines**|Wenhao Li et.al.|[2506.21615](http://arxiv.org/abs/2506.21615)|null|
@@ -1955,7 +1955,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -4154,7 +4154,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning**|Seungjun Yi et.al.|[2506.23998](http://arxiv.org/abs/2506.23998)|null|
-|**2025-06-28**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
+|**2025-07-02**|**Positioning AI Tools to Support Online Harm Reduction Practice: Applications and Design Directions**|Kaixuan Wang et.al.|[2506.22941](http://arxiv.org/abs/2506.22941)|null|
 |**2025-06-28**|**Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions**|Qixuan Liu et.al.|[2506.22926](http://arxiv.org/abs/2506.22926)|null|
 |**2025-06-28**|**MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs**|Jianhui Wei et.al.|[2506.22808](http://arxiv.org/abs/2506.22808)|null|
 |**2025-06-22**|**Refine Medical Diagnosis Using Generation Augmented Retrieval and Clinical Practice Guidelines**|Wenhao Li et.al.|[2506.21615](http://arxiv.org/abs/2506.21615)|null|
