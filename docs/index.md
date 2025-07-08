@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1982,7 +1982,7 @@ layout: default
 |**2025-07-03**|**Strategic Intelligence in Large Language Models: Evidence from evolutionary Game Theory**|Kenneth Payne et.al.|[2507.02618](http://arxiv.org/abs/2507.02618)|null|
 |**2025-07-03**|**MPF: Aligning and Debiasing Language Models post Deployment via Multi Perspective Fusion**|Xin Guan et.al.|[2507.02595](http://arxiv.org/abs/2507.02595)|null|
 |**2025-07-03**|**WebSailor: Navigating Super-human Reasoning for Web Agent**|Kuan Li et.al.|[2507.02592](http://arxiv.org/abs/2507.02592)|null|
-|**2025-07-03**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
+|**2025-07-04**|**Introducing a New Brexit-Related Uncertainty Index: Its Evolution and Economic Consequences**|Ismet Gocer et.al.|[2507.02439](http://arxiv.org/abs/2507.02439)|null|
 |**2025-07-03**|**Uncertainty-aware Reward Design Process**|Yang Yang et.al.|[2507.02256](http://arxiv.org/abs/2507.02256)|null|
 |**2025-07-03**|**DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs**|Mohammad Akyash et.al.|[2507.02226](http://arxiv.org/abs/2507.02226)|null|
 |**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
