@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@ layout: default
 |**2025-07-01**|**MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization**|Huihui Xu et.al.|[2507.02994](http://arxiv.org/abs/2507.02994)|null|
 |**2025-07-01**|**`For Argument's Sake, Show Me How to Harm Myself!': Jailbreaking LLMs in Suicide and Self-Harm Contexts**|Annika M Schoene et.al.|[2507.02990](http://arxiv.org/abs/2507.02990)|null|
 |**2025-07-01**|**Truth, Trust, and Trouble: Medical AI on the Edge**|Mohammad Anas Azeez et.al.|[2507.02983](http://arxiv.org/abs/2507.02983)|null|
-|**2025-06-28**|**Evaluating AI Counseling in Japanese: Counselor, Client, and Evaluator Roles Assessed by Motivational Interviewing Criteria**|Keita Kiuchi et.al.|[2507.02950](http://arxiv.org/abs/2507.02950)|null|
+|**2025-07-08**|**Evaluating AI Counseling in Japanese: Counselor, Client, and Evaluator Roles Assessed by Motivational Interviewing Criteria**|Keita Kiuchi et.al.|[2507.02950](http://arxiv.org/abs/2507.02950)|null|
 |**2025-06-25**|**Visual-Conversational Interface for Evidence-Based Explanation of Diabetes Risk Prediction**|Reza Samimi et.al.|[2507.02920](http://arxiv.org/abs/2507.02920)|null|
 |**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
 |**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
