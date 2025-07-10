@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**|Qilong Xing et.al.|[2507.06992](http://arxiv.org/abs/2507.06992)|null|
+|**2025-07-09**|**CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs**|Garapati Keerthana et.al.|[2507.06715](http://arxiv.org/abs/2507.06715)|null|
+|**2025-07-08**|**A Semantic Parsing Framework for End-to-End Time Normalization**|Xin Su et.al.|[2507.06450](http://arxiv.org/abs/2507.06450)|null|
 |**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
 |**2025-07-08**|**Development and Evaluation of HopeBot: an LLM-based chatbot for structured and interactive PHQ-9 depression screening**|Zhijun Guo et.al.|[2507.05984](http://arxiv.org/abs/2507.05984)|null|
 |**2025-07-08**|**Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity**|Shuai Zhao et.al.|[2507.05816](http://arxiv.org/abs/2507.05816)|null|
@@ -2009,6 +2012,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**DeepRetro: Retrosynthetic Pathway Discovery using Iterative LLM Reasoning**|Shreyas Vinaya Sathyanarayana et.al.|[2507.07060](http://arxiv.org/abs/2507.07060)|null|
+|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
+|**2025-07-09**|**On the Effect of Uncertainty on Layer-wise Inference Dynamics**|Sunwoo Kim et.al.|[2507.06722](http://arxiv.org/abs/2507.06722)|null|
+|**2025-07-09**|**The Flaws of Others: An LLM-driven Framework for Scientific Knowledge Production**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
+|**2025-07-09**|**On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks**|Stephen Obadinma et.al.|[2507.06489](http://arxiv.org/abs/2507.06489)|null|
+|**2025-07-08**|**Humans overrely on overconfident language models, across languages**|Neil Rathi et.al.|[2507.06306](http://arxiv.org/abs/2507.06306)|null|
 |**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
 |**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
 |**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
@@ -2033,7 +2044,7 @@ layout: default
 |**2025-07-05**|**Toward Better Generalisation in Uncertainty Estimators: Leveraging Data-Agnostic Features**|Thuy An Ha et.al.|[2507.03998](http://arxiv.org/abs/2507.03998)|null|
 |**2025-07-05**|**CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate**|Yiliu Sun et.al.|[2507.03928](http://arxiv.org/abs/2507.03928)|null|
 |**2025-07-05**|**KEA Explain: Explanations of Hallucinations using Graph Kernel Analysis**|Reilly Haskins et.al.|[2507.03847](http://arxiv.org/abs/2507.03847)|null|
-|**2025-07-04**|**Skewed Score: A statistical framework to assess autograders**|Magda Dubois et.al.|[2507.03772](http://arxiv.org/abs/2507.03772)|null|
+|**2025-07-09**|**Skewed Score: A statistical framework to assess autograders**|Magda Dubois et.al.|[2507.03772](http://arxiv.org/abs/2507.03772)|null|
 |**2025-07-04**|**Roadmap for using large language models (LLMs) to accelerate cross-disciplinary research with an example from computational biology**|Ruian Ke et.al.|[2507.03722](http://arxiv.org/abs/2507.03722)|null|
 |**2025-07-04**|**Is It Time To Treat Prompts As Code? A Multi-Use Case Study For Prompt Optimization Using DSPy**|Francisca Lemos et.al.|[2507.03620](http://arxiv.org/abs/2507.03620)|null|
 |**2025-07-04**|**REAL: Benchmarking Abilities of Large Language Models for Housing Transactions and Services**|Kexin Zhu et.al.|[2507.03477](http://arxiv.org/abs/2507.03477)|null|
