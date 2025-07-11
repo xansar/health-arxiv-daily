@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-07-08**|**Affective-ROPTester: Capability and Bias Analysis of LLMs in Predicting Retinopathy of Prematurity**|Shuai Zhao et.al.|[2507.05816](http://arxiv.org/abs/2507.05816)|null|
 |**2025-07-08**|**MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models**|Wei Zhang et.al.|[2507.05591](http://arxiv.org/abs/2507.05591)|null|
 |**2025-07-07**|**SenseCF: LLM-Prompted Counterfactuals for Intervention and Sensor Data Augmentation**|Shovito Barua Soumma et.al.|[2507.05541](http://arxiv.org/abs/2507.05541)|null|
-|**2025-07-07**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517](http://arxiv.org/abs/2507.05517)|null|
+|**2025-07-09**|**Empowering Healthcare Practitioners with Language Models: Structuring Speech Transcripts in Two Real-World Clinical Applications**|Jean-Philippe Corbeil et.al.|[2507.05517](http://arxiv.org/abs/2507.05517)|null|
 |**2025-07-07**|**GLOSS: Group of LLMs for Open-Ended Sensemaking of Passive Sensing Data for Health and Wellbeing**|Akshat Choube et.al.|[2507.05461](http://arxiv.org/abs/2507.05461)|null|
 |**2025-07-07**|**LCDS: A Logic-Controlled Discharge Summary Generation System Supporting Source Attribution and Expert Review**|Cheng Yuan et.al.|[2507.05319](http://arxiv.org/abs/2507.05319)|null|
 |**2025-07-07**|**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**|Zewen Sun et.al.|[2507.04877](http://arxiv.org/abs/2507.04877)|null|
@@ -58,7 +58,7 @@
 |**2025-07-03**|**Medical Data Pecking: A Context-Aware Approach for Automated Quality Evaluation of Structured Medical Data**|Irena Girshovitz et.al.|[2507.02628](http://arxiv.org/abs/2507.02628)|null|
 |**2025-07-03**|**DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making**|Tianqi Shang et.al.|[2507.02616](http://arxiv.org/abs/2507.02616)|null|
 |**2025-07-02**|**BACTA-GPT: An AI-Based Bayesian Adaptive Clinical Trial Architect**|Krishna Padmanabhan et.al.|[2507.02130](http://arxiv.org/abs/2507.02130)|null|
-|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-10**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
 |**2025-07-02**|**Towards culturally-appropriate conversational AI for health in the majority world: An exploratory study with citizens and professionals in Latin America**|Dorian Peters et.al.|[2507.01719](http://arxiv.org/abs/2507.01719)|null|
 |**2025-07-02**|**Beyond Black-Box AI: Interpretable Hybrid Systems for Dementia Care**|Matthew JY Kang et.al.|[2507.01282](http://arxiv.org/abs/2507.01282)|null|
 |**2025-07-02**|**Evaluating Large Language Models for Multimodal Simulated Ophthalmic Decision-Making in Diabetic Retinopathy and Glaucoma Screening**|Cindy Lie Tabuse et.al.|[2507.01278](http://arxiv.org/abs/2507.01278)|null|
@@ -2004,7 +2004,7 @@
 |**2023-10-13**|**Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation**|Eun Cheol Choi et.al.|[2310.09223](http://arxiv.org/abs/2310.09223)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|**[link](https://github.com/williamliujl/Qilin-Med)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## UncertaintyLLM
 
@@ -4274,7 +4274,7 @@
 |**2024-07-22**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
 |**2024-07-11**|**On the attribution of confidence to large language models**|Geoff Keeling et.al.|[2407.08388](http://arxiv.org/abs/2407.08388)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/xansar/health-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/xansar/health-arxiv-daily/graphs/contributors
