@@ -22,6 +22,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**Measuring AI Alignment with Human Flourishing**|Elizabeth Hilliard et.al.|[2507.07787](http://arxiv.org/abs/2507.07787)|null|
+|**2025-07-10**|**Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation**|Qin Zhou et.al.|[2507.07568](http://arxiv.org/abs/2507.07568)|null|
+|**2025-07-10**|**SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data**|Zonghai Yao et.al.|[2507.07421](http://arxiv.org/abs/2507.07421)|null|
+|**2025-07-10**|**MedReadCtrl: Personalizing medical text generation with readability-controlled instruction learning**|Hieu Tran et.al.|[2507.07419](http://arxiv.org/abs/2507.07419)|null|
+|**2025-07-09**|**Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation**|Anirban Saha Anik et.al.|[2507.07307](http://arxiv.org/abs/2507.07307)|null|
+|**2025-07-09**|**Thermodynamic Prediction Enabled by Automatic Dataset Building and Machine Learning**|Juejing Liu et.al.|[2507.07293](http://arxiv.org/abs/2507.07293)|null|
+|**2025-07-09**|**Medical Red Teaming Protocol of Language Models: On the Importance of User Perspectives in Healthcare Settings**|Minseon Kim et.al.|[2507.07248](http://arxiv.org/abs/2507.07248)|null|
 |**2025-07-09**|**MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation**|Qilong Xing et.al.|[2507.06992](http://arxiv.org/abs/2507.06992)|null|
 |**2025-07-09**|**CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs**|Garapati Keerthana et.al.|[2507.06715](http://arxiv.org/abs/2507.06715)|null|
 |**2025-07-08**|**A Semantic Parsing Framework for End-to-End Time Normalization**|Xin Su et.al.|[2507.06450](http://arxiv.org/abs/2507.06450)|null|
@@ -2012,6 +2022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
+|**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748](http://arxiv.org/abs/2507.07748)|null|
+|**2025-07-10**|**Prompt Engineering for Requirements Engineering: A Literature Review and Roadmap**|Kaicheng Huang et.al.|[2507.07682](http://arxiv.org/abs/2507.07682)|null|
+|**2025-07-10**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
+|**2025-07-10**|**Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models**|Kaiqu Liang et.al.|[2507.07484](http://arxiv.org/abs/2507.07484)|null|
+|**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
+|**2025-07-09**|**An Information-Theoretic Perspective on Multi-LLM Uncertainty Estimation**|Maya Kruse et.al.|[2507.07236](http://arxiv.org/abs/2507.07236)|null|
+|**2025-07-09**|**Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics**|Xueqing Xu et.al.|[2507.07155](http://arxiv.org/abs/2507.07155)|null|
 |**2025-07-07**|**DeepRetro: Retrosynthetic Pathway Discovery using Iterative LLM Reasoning**|Shreyas Vinaya Sathyanarayana et.al.|[2507.07060](http://arxiv.org/abs/2507.07060)|null|
 |**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
 |**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
@@ -2038,6 +2058,7 @@ layout: default
 |**2025-07-06**|**Data Discovery using LLMs -- A Study of Data User Behaviour**|Christin Katharina Kreutz et.al.|[2507.04444](http://arxiv.org/abs/2507.04444)|null|
 |**2025-07-06**|**Reconstructing Biological Pathways by Applying Selective Incremental Learning to (Very) Small Language Models**|Pranta Saha et.al.|[2507.04432](http://arxiv.org/abs/2507.04432)|null|
 |**2025-07-06**|**AutoLayout: Closed-Loop Layout Synthesis via Slow-Fast Collaborative Reasoning**|Weixing Chen et.al.|[2507.04293](http://arxiv.org/abs/2507.04293)|null|
+|**2025-07-10**|**DMER-Ranker: Learning to Rank Emotion Descriptions in the Absence of Ground Truth**|Zheng Lian et.al.|[2507.04278](http://arxiv.org/abs/2507.04278)|null|
 |**2025-07-05**|**SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding**|Runcong Zhao et.al.|[2507.04189](http://arxiv.org/abs/2507.04189)|null|
 |**2025-07-05**|**Token Level Hallucination Detection via Variance in Language Models**|Keshav Kumar et.al.|[2507.04137](http://arxiv.org/abs/2507.04137)|null|
 |**2025-07-05**|**Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing**|Jinwei Hu et.al.|[2507.04105](http://arxiv.org/abs/2507.04105)|null|
