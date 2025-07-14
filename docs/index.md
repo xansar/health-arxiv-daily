@@ -22,6 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Effect of Static vs. Conversational AI-Generated Messages on Colorectal Cancer Screening Intent: a Randomized Controlled Trial**|Neil K. R. Sehgal et.al.|[2507.08211](http://arxiv.org/abs/2507.08211)|null|
+|**2025-07-09**|**Beyond Scale: Small Language Models are Comparable to GPT-4 in Mental Health Understanding**|Hong Jia et.al.|[2507.08031](http://arxiv.org/abs/2507.08031)|null|
+|**2025-07-08**|**A Systematic Analysis of Declining Medical Safety Messaging in Generative AI Models**|Sonali Sharma et.al.|[2507.08030](http://arxiv.org/abs/2507.08030)|null|
 |**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
 |**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
 |**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
@@ -2022,6 +2025,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468](http://arxiv.org/abs/2507.08468)|null|
+|**2025-07-10**|**TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**|Duygu Nur Yaldiz et.al.|[2507.08203](http://arxiv.org/abs/2507.08203)|null|
+|**2025-07-10**|**CTRLS: Chain-of-Thought Reasoning via Latent State-Transition**|Junda Wu et.al.|[2507.08182](http://arxiv.org/abs/2507.08182)|null|
+|**2025-07-10**|**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores**|Vivek Chari et.al.|[2507.08143](http://arxiv.org/abs/2507.08143)|null|
+|**2025-07-10**|**TableReasoner: Advancing Table Reasoning Framework with Large Language Models**|Sishi Xiong et.al.|[2507.08046](http://arxiv.org/abs/2507.08046)|null|
+|**2025-07-09**|**Integrating External Tools with Large Language Models to Improve Accuracy**|Nripesh Niketan et.al.|[2507.08034](http://arxiv.org/abs/2507.08034)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
 |**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
