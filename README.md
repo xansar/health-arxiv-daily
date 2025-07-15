@@ -18,8 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
+|**2025-07-12**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
+|**2025-07-12**|**AInsight: Augmenting Expert Decision-Making with On-the-Fly Insights Grounded in Historical Data**|Mohammad Abolnejadian et.al.|[2507.09100](http://arxiv.org/abs/2507.09100)|null|
+|**2025-07-11**|**ALIGN: Prompt-based Attribute Alignment for Reliable, Responsible, and Personalized LLM-based Decision-Making**|Bharadwaj Ravichandran et.al.|[2507.09037](http://arxiv.org/abs/2507.09037)|null|
+|**2025-07-11**|**Evaluating LLMs in Medicine: A Call for Rigor, Transparency**|Mahmoud Alwakeel et.al.|[2507.08916](http://arxiv.org/abs/2507.08916)|null|
 |**2025-07-10**|**Effect of Static vs. Conversational AI-Generated Messages on Colorectal Cancer Screening Intent: a Randomized Controlled Trial**|Neil K. R. Sehgal et.al.|[2507.08211](http://arxiv.org/abs/2507.08211)|null|
-|**2025-07-09**|**Beyond Scale: Small Language Models are Comparable to GPT-4 in Mental Health Understanding**|Hong Jia et.al.|[2507.08031](http://arxiv.org/abs/2507.08031)|null|
+|**2025-07-14**|**Beyond Scale: Small Language Models are Comparable to GPT-4 in Mental Health Understanding**|Hong Jia et.al.|[2507.08031](http://arxiv.org/abs/2507.08031)|null|
 |**2025-07-08**|**A Systematic Analysis of Declining Medical Safety Messaging in Generative AI Models**|Sonali Sharma et.al.|[2507.08030](http://arxiv.org/abs/2507.08030)|null|
 |**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988](http://arxiv.org/abs/2507.07988)|null|
 |**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
@@ -2023,6 +2028,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Referential ambiguity and clarification requests: comparing human and LLM behaviour**|Chris Madge et.al.|[2507.10445](http://arxiv.org/abs/2507.10445)|null|
+|**2025-07-14**|**DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs**|Jiahe Zhao et.al.|[2507.10302](http://arxiv.org/abs/2507.10302)|null|
+|**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
+|**2025-07-14**|**Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning**|Zijun Chen et.al.|[2507.10007](http://arxiv.org/abs/2507.10007)|null|
+|**2025-07-13**|**Prompting for Performance: Exploring LLMs for Configuring Software**|Helge Spieker et.al.|[2507.09790](http://arxiv.org/abs/2507.09790)|null|
+|**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-12**|**LLM-Stackelberg Games: Conjectural Reasoning Equilibria and Their Applications to Spearphishing**|Quanyan Zhu et.al.|[2507.09407](http://arxiv.org/abs/2507.09407)|null|
+|**2025-07-12**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
+|**2025-07-12**|**StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets**|Charidimos Papadakis et.al.|[2507.09255](http://arxiv.org/abs/2507.09255)|null|
+|**2025-07-12**|**Detecting and Pruning Prominent but Detrimental Neurons in Large Language Models**|Ameen Ali et.al.|[2507.09185](http://arxiv.org/abs/2507.09185)|null|
+|**2025-07-12**|**Position Paper: Programming Language Techniques for Bridging LLM Code Generation Semantic Gaps**|Yalong Du et.al.|[2507.09135](http://arxiv.org/abs/2507.09135)|null|
+|**2025-07-11**|**SetupBench: Assessing Software Engineering Agents' Ability to Bootstrap Development Environments**|Avi Arora et.al.|[2507.09063](http://arxiv.org/abs/2507.09063)|null|
+|**2025-07-11**|**GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval**|Savini Kashmira et.al.|[2507.08945](http://arxiv.org/abs/2507.08945)|null|
+|**2025-07-09**|**RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation**|Tianzhe Zhao et.al.|[2507.08862](http://arxiv.org/abs/2507.08862)|null|
 |**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468](http://arxiv.org/abs/2507.08468)|null|
 |**2025-07-10**|**TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**|Duygu Nur Yaldiz et.al.|[2507.08203](http://arxiv.org/abs/2507.08203)|null|
 |**2025-07-10**|**CTRLS: Chain-of-Thought Reasoning via Latent State-Transition**|Junda Wu et.al.|[2507.08182](http://arxiv.org/abs/2507.08182)|null|
