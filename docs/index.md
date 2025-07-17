@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
 |**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
@@ -2038,6 +2039,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443](http://arxiv.org/abs/2507.12443)|null|
+|**2025-07-16**|**From Static to Intelligent: Evolving SaaS Pricing with LLMs**|Francisco Javier Cavero et.al.|[2507.12104](http://arxiv.org/abs/2507.12104)|null|
+|**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
+|**2025-07-16**|**PoTPTQ: A Two-step Power-of-Two Post-training for LLMs**|Xinyu Wang et.al.|[2507.11959](http://arxiv.org/abs/2507.11959)|null|
+|**2025-07-15**|**CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation of Python notebooks**|Meng Li et.al.|[2507.11742](http://arxiv.org/abs/2507.11742)|null|
 |**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
 |**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
 |**2025-07-15**|**Taming Uncertainty via Automation: Observing, Analyzing, and Optimizing Agentic AI Systems**|Dany Moshkovich et.al.|[2507.11277](http://arxiv.org/abs/2507.11277)|null|
@@ -2049,7 +2055,7 @@ layout: default
 |**2025-07-15**|**Aligned Query Expansion: Efficient Query Expansion for Information Retrieval through LLM Alignment**|Adam Yang et.al.|[2507.11042](http://arxiv.org/abs/2507.11042)|null|
 |**2025-07-15**|**First-Order Error Matters: Accurate Compensation for Quantized Large Language Models**|Xingyu Zheng et.al.|[2507.11017](http://arxiv.org/abs/2507.11017)|null|
 |**2025-07-14**|**Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs**|Ye Yang et.al.|[2507.10630](http://arxiv.org/abs/2507.10630)|null|
-|**2025-07-14**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
+|**2025-07-16**|**GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning**|Ziru Liu et.al.|[2507.10628](http://arxiv.org/abs/2507.10628)|null|
 |**2025-07-11**|**Anthropomimetic Uncertainty: What Verbalized Uncertainty in Language Models is Missing**|Dennis Ulmer et.al.|[2507.10587](http://arxiv.org/abs/2507.10587)|null|
 |**2025-07-11**|**AutoRAG-LoRA: Hallucination-Triggered Knowledge Retuning via Lightweight Adapters**|Kaushik Dwivedi et.al.|[2507.10586](http://arxiv.org/abs/2507.10586)|null|
 |**2025-07-14**|**Referential ambiguity and clarification requests: comparing human and LLM behaviour**|Chris Madge et.al.|[2507.10445](http://arxiv.org/abs/2507.10445)|null|
@@ -2057,7 +2063,7 @@ layout: default
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-14**|**Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning**|Zijun Chen et.al.|[2507.10007](http://arxiv.org/abs/2507.10007)|null|
 |**2025-07-13**|**Prompting for Performance: Exploring LLMs for Configuring Software**|Helge Spieker et.al.|[2507.09790](http://arxiv.org/abs/2507.09790)|null|
-|**2025-07-13**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
+|**2025-07-16**|**Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**|Yangning Li et.al.|[2507.09477](http://arxiv.org/abs/2507.09477)|null|
 |**2025-07-12**|**LLM-Stackelberg Games: Conjectural Reasoning Equilibria and Their Applications to Spearphishing**|Quanyan Zhu et.al.|[2507.09407](http://arxiv.org/abs/2507.09407)|null|
 |**2025-07-15**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
 |**2025-07-12**|**StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent LLMs in Financial Markets**|Charidimos Papadakis et.al.|[2507.09255](http://arxiv.org/abs/2507.09255)|null|
