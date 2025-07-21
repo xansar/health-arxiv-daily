@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
+|**2025-07-18**|**RAG-based Architectures for Drug Side Effect Retrieval in LLMs**|Shad Nygren et.al.|[2507.13822](http://arxiv.org/abs/2507.13822)|null|
+|**2025-07-18**|**DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs**|Ye Tian et.al.|[2507.13737](http://arxiv.org/abs/2507.13737)|null|
 |**2025-07-17**|**Bridging the Gap: Leveraging Retrieval-Augmented Generation to Better Understand Public Concerns about Vaccines**|Muhammad Javed et.al.|[2507.12840](http://arxiv.org/abs/2507.12840)|null|
 |**2025-07-17**|**Emotional Support with LLM-based Empathetic Dialogue Generation**|Shiquan Wang et.al.|[2507.12820](http://arxiv.org/abs/2507.12820)|null|
 |**2025-07-17**|**A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models**|Weijieying Ren et.al.|[2507.12774](http://arxiv.org/abs/2507.12774)|null|
@@ -2040,6 +2044,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**Preprint: Did I Just Browse A Website Written by LLMs?**|Sichang "Steven" He et.al.|[2507.13933](http://arxiv.org/abs/2507.13933)|null|
+|**2025-07-18**|**RAG-based Architectures for Drug Side Effect Retrieval in LLMs**|Shad Nygren et.al.|[2507.13822](http://arxiv.org/abs/2507.13822)|null|
+|**2025-07-17**|**GOFAI meets Generative AI: Development of Expert Systems by means of Large Language Models**|Eduardo C. Garrido-Merchán et.al.|[2507.13550](http://arxiv.org/abs/2507.13550)|null|
+|**2025-07-17**|**Aligning Knowledge Graphs and Language Models for Factual Accuracy**|Nur A Zarin Nishat et.al.|[2507.13411](http://arxiv.org/abs/2507.13411)|null|
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
 |**2025-07-17**|**Bridging the Gap: Leveraging Retrieval-Augmented Generation to Better Understand Public Concerns about Vaccines**|Muhammad Javed et.al.|[2507.12840](http://arxiv.org/abs/2507.12840)|null|
 |**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443](http://arxiv.org/abs/2507.12443)|null|
