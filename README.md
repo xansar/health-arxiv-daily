@@ -18,6 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**BEnchmarking LLMs for Ophthalmology (BELO) for Ophthalmological Knowledge and Reasoning**|Sahana Srinivasan et.al.|[2507.15717](http://arxiv.org/abs/2507.15717)|null|
+|**2025-07-21**|**ChiMed 2.0: Advancing Chinese Medical Dataset in Facilitating Large Language Modeling**|Yuanhe Tian et.al.|[2507.15275](http://arxiv.org/abs/2507.15275)|null|
+|**2025-07-20**|**What Level of Automation is "Good Enough"? A Benchmark of Large Language Models for Meta-Analysis Data Extraction**|Lingbo Li et.al.|[2507.15152](http://arxiv.org/abs/2507.15152)|null|
+|**2025-07-20**|**Redefining Elderly Care with Agentic AI: Challenges and Opportunities**|Ruhul Amin Khalil et.al.|[2507.14912](http://arxiv.org/abs/2507.14912)|null|
+|**2025-07-20**|**Time-Aware Attention for Enhanced Electronic Health Records Modeling**|Junhan Yu et.al.|[2507.14847](http://arxiv.org/abs/2507.14847)|null|
+|**2025-07-19**|**Investigating the Role of LLMs Hyperparameter Tuning and Prompt Engineering to Support Domain Modeling**|Vladyslav Bulhakov et.al.|[2507.14735](http://arxiv.org/abs/2507.14735)|null|
+|**2025-07-19**|**Rethinking Suicidal Ideation Detection: A Trustworthy Annotation Framework and Cross-Lingual Model Evaluation**|Amina Dzafic et.al.|[2507.14693](http://arxiv.org/abs/2507.14693)|null|
+|**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|null|
+|**2025-07-19**|**Retrieval-Augmented Clinical Benchmarking for Contextual Model Testing in Kenyan Primary Care: A Methodology Paper**|Fred Mutisya et.al.|[2507.14615](http://arxiv.org/abs/2507.14615)|null|
+|**2025-07-18**|**Leveraging LLMs for Formal Software Requirements -- Challenges and Prospects**|Arshad Beg et.al.|[2507.14330](http://arxiv.org/abs/2507.14330)|null|
+|**2025-07-17**|**Language Models Change Facts Based on the Way You Talk**|Matthew Kearney et.al.|[2507.14238](http://arxiv.org/abs/2507.14238)|null|
 |**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
 |**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
 |**2025-07-18**|**RAG-based Architectures for Drug Side Effect Retrieval in LLMs**|Shad Nygren et.al.|[2507.13822](http://arxiv.org/abs/2507.13822)|null|
@@ -27,7 +38,7 @@
 |**2025-07-17**|**A Comprehensive Survey of Electronic Health Record Modeling: From Deep Learning Approaches to Large Language Models**|Weijieying Ren et.al.|[2507.12774](http://arxiv.org/abs/2507.12774)|null|
 |**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
-|**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
+|**2025-07-20**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
 |**2025-07-15**|**LLM-Augmented Symptom Analysis for Cardiovascular Disease Risk Prediction: A Clinical NLP**|Haowei Yang et.al.|[2507.11052](http://arxiv.org/abs/2507.11052)|null|
 |**2025-07-15**|**Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation**|Yicong Wu et.al.|[2507.10911](http://arxiv.org/abs/2507.10911)|null|
 |**2025-07-14**|**Automated Thematic Analyses Using LLMs: Xylazine Wound Management Social Media Chatter Use Case**|JaMor Hairston et.al.|[2507.10803](http://arxiv.org/abs/2507.10803)|null|
@@ -2044,6 +2055,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks**|Hope Schroeder et.al.|[2507.15821](http://arxiv.org/abs/2507.15821)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs**|Ruochu Yang et.al.|[2507.15782](http://arxiv.org/abs/2507.15782)|null|
+|**2025-07-21**|**On the Inevitability of Left-Leaning Political Bias in Aligned Language Models**|Thilo Hagendorff et.al.|[2507.15328](http://arxiv.org/abs/2507.15328)|null|
+|**2025-07-21**|**Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems**|Qian Xiong et.al.|[2507.15296](http://arxiv.org/abs/2507.15296)|null|
+|**2025-07-20**|**MUR: Momentum Uncertainty guided Reasoning for Large Language Models**|Hang Yan et.al.|[2507.14958](http://arxiv.org/abs/2507.14958)|null|
+|**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
+|**2025-07-20**|**InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis**|Jiale Liu et.al.|[2507.14899](http://arxiv.org/abs/2507.14899)|null|
+|**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|null|
+|**2025-07-19**|**Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs**|Minsuh Joo et.al.|[2507.14649](http://arxiv.org/abs/2507.14649)|null|
+|**2025-07-18**|**Fail Fast, or Ask: Mitigating the Deficiencies of Reasoning LLMs with Human-in-the-Loop Systems Engineering**|Michael J. Zellinger et.al.|[2507.14406](http://arxiv.org/abs/2507.14406)|null|
+|**2025-07-18**|**DREAMS: Density Functional Theory Based Research Engine for Agentic Materials Simulation**|Ziqi Wang et.al.|[2507.14267](http://arxiv.org/abs/2507.14267)|null|
+|**2025-07-14**|**DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base**|Song Mao et.al.|[2507.14189](http://arxiv.org/abs/2507.14189)|null|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
 |**2025-07-18**|**Preprint: Did I Just Browse A Website Written by LLMs?**|Sichang "Steven" He et.al.|[2507.13933](http://arxiv.org/abs/2507.13933)|null|
 |**2025-07-18**|**RAG-based Architectures for Drug Side Effect Retrieval in LLMs**|Shad Nygren et.al.|[2507.13822](http://arxiv.org/abs/2507.13822)|null|
