@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2062,10 +2062,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754](http://arxiv.org/abs/2507.16754)|null|
-|**2025-07-22**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
+|**2025-07-23**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
 |**2025-07-22**|**ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs**|Zhenliang Zhang et.al.|[2507.16488](http://arxiv.org/abs/2507.16488)|null|
 |**2025-07-22**|**Identifying Pre-training Data in LLMs: A Neuron Activation-Based Detection Framework**|Hongyi Tang et.al.|[2507.16414](http://arxiv.org/abs/2507.16414)|null|
-|**2025-07-22**|**WakenLLM: A Fine-Grained Benchmark for Evaluating LLM Reasoning Potential and Reasoning Process Stability**|Zipeng Ling et.al.|[2507.16199](http://arxiv.org/abs/2507.16199)|null|
+|**2025-07-23**|**WAKENLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking**|Zipeng Ling et.al.|[2507.16199](http://arxiv.org/abs/2507.16199)|null|
 |**2025-07-21**|**Efficient Compositional Multi-tasking for On-device Large Language Models**|Ondrej Bohdal et.al.|[2507.16083](http://arxiv.org/abs/2507.16083)|null|
 |**2025-07-21**|**Towards Mitigation of Hallucination for LLM-empowered Agents: Progressive Generalization Bound Exploration and Watchdog Monitor**|Siyuan Liu et.al.|[2507.15903](http://arxiv.org/abs/2507.15903)|null|
 |**2025-07-21**|**Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks**|Hope Schroeder et.al.|[2507.15821](http://arxiv.org/abs/2507.15821)|null|
