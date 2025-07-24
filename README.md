@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**From Feedback to Checklists: Grounded Evaluation of AI-Generated Clinical Notes**|Karen Zhou et.al.|[2507.17717](http://arxiv.org/abs/2507.17717)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-22**|**Multi-Label Classification with Generative AI Models in Healthcare: A Case Study of Suicidality and Risk Factors**|Ming Huang et.al.|[2507.17009](http://arxiv.org/abs/2507.17009)|null|
+|**2025-07-22**|**AI-based Clinical Decision Support for Primary Care: A Real-World Study**|Robert Korom et.al.|[2507.16947](http://arxiv.org/abs/2507.16947)|null|
+|**2025-07-22**|**AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation**|Nima Fathi et.al.|[2507.16940](http://arxiv.org/abs/2507.16940)|null|
 |**2025-07-22**|**Depth Gives a False Sense of Privacy: LLM Internal States Inversion**|Tian Dong et.al.|[2507.16372](http://arxiv.org/abs/2507.16372)|null|
 |**2025-07-22**|**Mind the Gap: Evaluating the Representativeness of Quantitative Medical Language Reasoning LLM Benchmarks for African Disease Burdens**|Fred Mutisya et.al.|[2507.16322](http://arxiv.org/abs/2507.16322)|null|
 |**2025-07-22**|**Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery**|Bo Wen et.al.|[2507.16229](http://arxiv.org/abs/2507.16229)|null|
@@ -2059,6 +2064,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**An Uncertainty-Driven Adaptive Self-Alignment Framework for Large Language Models**|Haoran Sun et.al.|[2507.17477](http://arxiv.org/abs/2507.17477)|null|
+|**2025-07-23**|**Each to Their Own: Exploring the Optimal Embedding in RAG**|Shiting Chen et.al.|[2507.17442](http://arxiv.org/abs/2507.17442)|null|
+|**2025-07-23**|**R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**|Zhuokun Chen et.al.|[2507.17307](http://arxiv.org/abs/2507.17307)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-23**|**SKA-Bench: A Fine-Grained Benchmark for Evaluating Structured Knowledge Understanding of LLMs**|Zhiqiang Liu et.al.|[2507.17178](http://arxiv.org/abs/2507.17178)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-23**|**Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance**|Yufei He et.al.|[2507.17131](http://arxiv.org/abs/2507.17131)|null|
+|**2025-07-22**|**Parallelism Meets Adaptiveness: Scalable Documents Understanding in Multi-Agent LLM Systems**|Chengxuan Xia et.al.|[2507.17061](http://arxiv.org/abs/2507.17061)|null|
+|**2025-07-22**|**Harnessing RLHF for Robust Unanswerability Recognition and Trustworthy Response Generation in LLMs**|Shuyuan Lin et.al.|[2507.16951](http://arxiv.org/abs/2507.16951)|null|
+|**2025-07-22**|**CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage**|Na Li et.al.|[2507.16872](http://arxiv.org/abs/2507.16872)|null|
 |**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754](http://arxiv.org/abs/2507.16754)|null|
 |**2025-07-23**|**Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with constraints**|Zhenyun Yin et.al.|[2507.16727](http://arxiv.org/abs/2507.16727)|null|
 |**2025-07-22**|**ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs**|Zhenliang Zhang et.al.|[2507.16488](http://arxiv.org/abs/2507.16488)|null|
